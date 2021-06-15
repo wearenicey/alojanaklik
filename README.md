@@ -121,3 +121,18 @@ in a `src/components` directory.
 ### Data files
 
 Data files like `.json` or `.yaml` that you want to import into your components, can be stored in a `src/data` directory.
+
+### CSS/SCSS
+u src folder nalazi se assets folder u njemu je folder scss u commponents folder se ubacuje iz codyhouse-a style, posle toga se @import odradi u main koji gridsome vuce i kasnije kompresuje.
+
+### Slike
+u src folder nalazi se assets folder naziva img u koji se slike ubacuju takodje i slike gridsome kompresuje i dodaje lazy load
+
+### Js scrit iz codyhouse
+se ubacuju u static folder prekopira se skripta i ubaci u main-header skriptu..skripta mora tako da se ubaci. 
+
+### Proizvodi
+se trenutno povlace iz googlesheets (obicna excel tabela). Za slike u tabeli se samo navede naziv slike. U gridsomu je podeseno kako da povlaci te slike koje su kompresovane i smanjenje
+
+### Nova stranica
+u src folderu folder pages tu se napravi IME_STRANICE.vue
