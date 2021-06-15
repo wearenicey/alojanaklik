@@ -67,11 +67,17 @@
 </template>
 
 <static-query>
-query {
-  metadata {
-    siteName
+  query {
+    metadata {
+      siteName
+      siteDescription
+      siteUrl
+       twitter {
+        site
+        creator
+      }
+    }
   }
-}
 </static-query>
 
 <style>
@@ -79,12 +85,26 @@ query {
 
 <script>
 export default {
+  metaInfo() {
+    return {
+      meta: [
+        {
+          key: "twitter:site",
+          name: "twitter:site",
+          content: this.$static.metadata.twitter.site,
+        },
+        {
+          key: "twitter:creator",
+          name: "twitter:creator",
+          content: this.$static.metadata.twitter.creator,
+        },
+      ],
+    };
+  },
   mounted() {
     let frontEnd = document.createElement("script");
-    frontEnd.setAttribute("src", "./main-header.js"); 
+    frontEnd.setAttribute("src", "./main-header.js");
     frontEnd.setAttribute("id", "main-header-js");
-
-  
 
     document.body.appendChild(frontEnd);
   },

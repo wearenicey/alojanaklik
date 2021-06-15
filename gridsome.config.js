@@ -5,7 +5,16 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'Awesome Blog',
+  siteDescription: 'Blog about awesome lists, collections of resources around a specific technology.',
+  siteUrl: 'https://serene-feynman-2c0e7e.netlify.app/',
+  metadata: {
+    twitter: {
+      site: '@simon_mannes',
+      creator: '@simon_mannes',
+    }
+  },
+
   plugins: [
     {
       use: 'gridsome-source-google-sheets',
@@ -22,6 +31,13 @@ module.exports = {
         id: 'GTM-TF72TVR',
         enabled: true,
         debug: true
+      }
+    },
+
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        exclude: ['/privacy', '/legal']
       }
     }
 

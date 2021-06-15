@@ -537,13 +537,18 @@ query Post ($path: String!) {
     imgOne
     link
     textOne
+    id
     
   }
 }
 </page-query>
 
 <script>
+import SEO from "../mixins/SEO";
+
 export default {
+  mixins: [SEO],
+
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");
