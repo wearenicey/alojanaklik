@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Aloa vera gel",
+    "subtitle": "Forever Aloea Vera Gel",
+    "textOne": "99,7% cista aloja veza za Vas imuni sistem",
+    "link": "http://flpshop.rs/napici/11837/forever-aloe-vera-gel.html",
+    "imgOne": "../img/aloja_1.jpg",
+    "path": "aloja-single"
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "subtitle": "Forever Aloea Vera Gel",
+    "textOne": "99,7% cista aloja veza za Vas imuni sistem",
+    "link": "http://flpshop.rs/napici/11837/forever-aloe-vera-gel.html",
+    "imgOne": "../img/aloja_1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Title 3",
+    "subtitle": "Forever Aloea Vera Gel",
+    "textOne": "99,7% cista aloja veza za Vas imuni sistem",
+    "link": "http://flpshop.rs/napici/11837/forever-aloe-vera-gel.html",
+    "imgOne": "../img/aloja_1.jpg"
+  }
+]
