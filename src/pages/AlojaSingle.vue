@@ -530,14 +530,21 @@ export default {
   },
 
   mounted() {
+    let frontEnd = document.createElement("script");
+    frontEnd.setAttribute("src", "../main-header.js");
+    frontEnd.setAttribute("id", "main-header-js");
+
+    document.body.appendChild(frontEnd);
     // 👈 load the JS code once the component is mounted
 
     let front = document.createElement("script");
-    front.setAttribute("src", "./overscroll-section.js"); // 👈 make sure to use the correct path
+    front.setAttribute("src", "../overscroll-section.js"); // 👈 make sure to use the correct path
     front.setAttribute("id", "overscroll-section-js");
     document.body.appendChild(front);
   },
   destroyed() {
+    document.getElementById("main-header-js").remove();
+
     // remove the JS code once the component has been destroyed
     document.getElementById("overscroll-section-js").remove();
   },

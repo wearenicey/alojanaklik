@@ -19,7 +19,7 @@
                 <h3>{{ napici.title }}</h3>
                 <p>{{ napici.textOne }}</p>
                 <p>
-                  <a :href="napici.path" class="btn btn--primary btn--sm"
+                  <a href="/aloja-single" class="btn btn--primary btn--sm"
                     >Procitaj vise</a
                   >
                 </p>

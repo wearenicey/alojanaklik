@@ -30,17 +30,17 @@
                 <div class="col-5@md position-relative z-index-1">
                   <div class="text-component">
                     <h1 class="text-xxxl feature-v4__text-offset@md">
-                      {{ $page.googleSheet.subtitle }}
+                      {{ $page.event.subtitle }}
                     </h1>
-                    <h2>{{ $page.googleSheet.textOne }}</h2>
+                    <h2>{{ $page.event.textOne }}</h2>
                   </div>
 
                   <div class="margin-top-sm">
                     <div class="flex flex-wrap gap-sm items-center">
-                      <a :href="$page.googleSheet.link" class="btn btn--primary"
+                      <a :href="$page.event.link" class="btn btn--primary"
                         >Naruči proizvod</a
                       >
-                      <a :href="$page.googleSheet.link" class="color-inherit"
+                      <a :href="$page.event.link" class="color-inherit"
                         >Saznaj više</a
                       >
                     </div>
@@ -51,9 +51,7 @@
                   <figure>
                     <g-image
                       class="block width-100%"
-                      :src="
-                        require(`!!assets-loader!@img/${$page.googleSheet.imgOne}`)
-                      "
+                      :src="$page.event.imgOne[0].url"
                       alt="Image description"
                     />
                   </figure>
@@ -79,49 +77,16 @@
                 <div class="col-6@md">
                   <div class="feature-v7__item flex gap-sm">
                     <figure>
-                      <img src="img/vitamin-c.svg" alt="Image description" />
-                    </figure>
-
-                    <div class="text-component">
-                      <h4>Vitamin C</h4>
-                      <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Praesentium assumenda doloribus eos provident modi.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-6@md">
-                  <div class="feature-v7__item flex gap-sm">
-                    <figure>
-                      <img src="img/stomachache.svg" alt="Image description" />
-                    </figure>
-
-                    <div class="text-component">
-                      <h4>Zdrava probava</h4>
-                      <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. Quibusdam distinctio inventore architecto.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-6@md">
-                  <div class="feature-v7__item flex gap-sm">
-                    <figure>
-                      <img
-                        src="img/immune-system.svg"
+                      <g-image
+                        :src="$page.event.karakteristika1Slika[0].url"
                         alt="Image description"
                       />
                     </figure>
 
                     <div class="text-component">
-                      <h4>Imuni sistem</h4>
+                      <h4>{{ $page.event.karakteristika1Naslov }}</h4>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Praesentium assumenda doloribus eos provident modi.
+                        {{ $page.event.karakteristika1 }}
                       </p>
                     </div>
                   </div>
@@ -130,14 +95,52 @@
                 <div class="col-6@md">
                   <div class="feature-v7__item flex gap-sm">
                     <figure>
-                      <img src="img/protection.svg" alt="Image description" />
+                      <g-image
+                        :src="$page.event.karakteristika2Slika[0].url"
+                        alt="Image description"
+                      />
                     </figure>
 
                     <div class="text-component">
-                      <h4>Čišćenje organizma</h4>
+                      <h4>{{ $page.event.karakteristika2Naslov }}</h4>
                       <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. Quibusdam distinctio inventore architecto.
+                        {{ $page.event.karakteristika2 }}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-6@md">
+                  <div class="feature-v7__item flex gap-sm">
+                    <figure>
+                      <g-image
+                        :src="$page.event.karakteristika3Slika[0].url"
+                        alt="Image description"
+                      />
+                    </figure>
+
+                    <div class="text-component">
+                      <h4>{{ $page.event.karakteristika3Naslov }}</h4>
+                      <p>
+                        {{ $page.event.karakteristika3 }}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-6@md">
+                  <div class="feature-v7__item flex gap-sm">
+                    <figure>
+                      <g-image
+                        :src="$page.event.karakteristika4Slika[0].url"
+                        alt="Image description"
+                      />
+                    </figure>
+
+                    <div class="text-component">
+                      <h4>{{ $page.event.karakteristika4Naslov }}</h4>
+                      <p>
+                        {{ $page.event.karakteristika4 }}
                       </p>
                     </div>
                   </div>
@@ -156,13 +159,10 @@
             <div class="video-feature__box-wrapper grid justify-end@sm">
               <div class="video-feature__box radius-md col-6@sm col-4@lg">
                 <div class="text-component padding-md">
-                  <h1 class="text-xl">Kako piti aloja veru</h1>
+                  <h1 class="text-xl">{{ $page.event.videoNaslov }}</h1>
                   <ul class="opacity-60%">
-                    <li>Promućkati pre upotrebe</li>
-                    <li>2 puta po 60 ml ili 3 puta po 40 ml dnevno</li>
-                    <li>
-                      Nakon otvaranja čuvati u frižideru na temperaturi nižoj od
-                      7 &#8451; ne duže od 30 dana
+                    <li v-for="text of $page.event.videoTekst">
+                      {{ text }}
                     </li>
                   </ul>
                 </div>
@@ -170,13 +170,13 @@
             </div>
 
             <figure class="video-feature__video-wrapper" aria-hidden="true">
-              <img src="img/video-feature-img-1.jpg" alt="Video Preview" />
+              <!-- <img src="img/video-feature-img-1.jpg" alt="Video Preview" /> -->
               <video
                 autoplay
                 loop
                 muted
                 playsInline
-                src="img/video-aloe-1.mp4"
+                :src="$page.event.video[0].url"
               ></video>
             </figure>
           </div>
@@ -234,7 +234,7 @@
                       class="flex-shrink-0 margin-bottom-xxxs"
                       aria-hidden="true"
                     >
-                      <img
+                      <g-image
                         class="
                           block
                           width-lg
@@ -242,8 +242,8 @@
                           radius-50%
                           border border-2 border-bg
                         "
-                        src="img/slicica-1.png"
-                        alt="Emily Ewing"
+                        src="~/assets/img/slicica-3.png"
+                        alt="Olivia Gribben"
                       />
                     </figure>
 
@@ -298,7 +298,7 @@
                       class="flex-shrink-0 margin-bottom-xxxs"
                       aria-hidden="true"
                     >
-                      <img
+                      <g-image
                         class="
                           block
                           width-lg
@@ -306,8 +306,8 @@
                           radius-50%
                           border border-2 border-bg
                         "
-                        src="img/slicica-2.png"
-                        alt="James Powell"
+                        src="~/assets/img/slicica-3.png"
+                        alt="Olivia Gribben"
                       />
                     </figure>
 
@@ -404,11 +404,9 @@
                       margin-top-xxxl
                     "
                   >
-                    <h1>Build &amp; Deploy</h1>
+                    <h1>{{ $page.event.opis1Naslov }}</h1>
                     <p class="color-contrast-medium">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Ipsa, rem neque doloribus impedit explicabo minus laborum
-                      cupiditate atque esse consectetur.
+                      {{ $page.event.opis1Tekst }}
                     </p>
                     <p><a class="btn btn--primary" href="#0">Learn more</a></p>
                   </div>
@@ -424,9 +422,9 @@
                     col-10@md
                   "
                 >
-                  <img
+                  <g-image
                     class="block width-100% height-100% object-cover"
-                    src="https://photos.smugmug.com/photos/i-fjkczJV/0/X3/i-fjkczJV-X3.jpg"
+                    :src="$page.event.opis1Slika[0].url"
                     alt="Image description"
                   />
                 </figure>
@@ -448,11 +446,9 @@
                       margin-top-xxxl
                     "
                   >
-                    <h1>Build &amp; Deploy</h1>
+                    <h1>{{ $page.event.opis2Naslov }}</h1>
                     <p class="color-contrast-medium">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Ipsa, rem neque doloribus impedit explicabo minus laborum
-                      cupiditate atque esse consectetur.
+                      {{ $page.event.opis2Tekst }}
                     </p>
                     <p><a class="btn btn--primary" href="#0">Learn more</a></p>
                   </div>
@@ -468,9 +464,9 @@
                     col-10@md
                   "
                 >
-                  <img
+                  <g-image
                     class="block width-100% height-100% object-cover"
-                    src="https://photos.smugmug.com/photos/i-WjnsmsG/0/X3/i-WjnsmsG-X3.jpg"
+                    :src="$page.event.opis2Slika[0].url"
                     alt="Image description"
                   />
                 </figure>
@@ -481,9 +477,9 @@
             <div class="grid">
               <div
                 class="feature-v9__block col-6@md"
-                style="
-                  background-image: url('https://photos.smugmug.com/photos/i-sZSfjXr/0/X2/i-sZSfjXr-X2.jpg');
-                "
+                :style="{
+                  backgroundImage: `url(${$page.event.slika1[0].url})`,
+                }"
               >
                 <div
                   class="
@@ -503,9 +499,9 @@
 
               <div
                 class="feature-v9__block col-6@md"
-                style="
-                  background-image: url('https://cdn.foreverliving.com/content/cards/images/your_opp_become_a_product_of_the_products_ad_560x568_1614968984056.jpg');
-                "
+                :style="{
+                  backgroundImage: `url(${$page.event.slika2[0].url})`,
+                }"
               >
                 <div
                   class="
@@ -530,25 +526,70 @@
 </template>
 
 <page-query>
-query Post ($path: String!) {
-  googleSheet (path: $path) {
-    title
-    subtitle
-    imgOne
-    link
-    textOne
-    id
-    
+
+query Event ($id: ID!) {
+  event: event(id: $id) {
+
+      id
+        title
+        subtitle
+        link
+        textOne
+        path
+        imgOne{
+            url
+          }
+      
+      karakteristika1Naslov
+      karakteristika1
+      karakteristika1Slika {
+        url
+      }
+      karakteristika2Naslov
+      karakteristika2
+      karakteristika2Slika {
+        url
+      }
+      
+      karakteristika3Naslov
+      karakteristika3
+      karakteristika3Slika{
+        url
+      }
+      karakteristika4Naslov
+      karakteristika4
+      karakteristika4Slika{
+        url
+      }
+      
+      videoNaslov
+      videoTekst
+      video {
+        url
+      }
+     opis1Naslov
+      opis1Tekst
+      opis1Slika {
+        url
+      }
+      opis2Naslov
+      opis2Tekst
+      opis2Slika {
+        url
+      }
+      slika1 {
+        url
+      }
+      slika2 {
+        url
+      }  
+      }
+
   }
-}
-</page-query>
+  </page-query>
 
 <script>
-import SEO from "../mixins/SEO";
-
 export default {
-  mixins: [SEO],
-
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../../main-header.js");
