@@ -1,6 +1,17 @@
 <template>
   <Layout>
+    <!-- <div
+      class="typeform-widget"
+      data-url="https://form.typeform.com/to/usFgO7I6?typeform-medium=embed-snippet"
+      style="width: 100%; height: 500px"
+    ></div> -->
+
     <div class="container max-width-adaptive-lg margin-top-xl">
+      <div
+        class="typeform-widget"
+        data-url="https://form.typeform.com/to/usFgO7I6?typeform-medium=embed-snippet"
+        style="width: 100%; height: 500px"
+      ></div>
       <div class="grid gap-md">
         <div
           class="col-4@md"
