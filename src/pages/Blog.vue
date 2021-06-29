@@ -2,18 +2,21 @@
   <Layout>
     <div class="articles padding-top-xl margin-bottom-xxl">
       <div class="container max-width-adaptive-lg">
-        <div class="projects">
-          <CardItem
-            v-for="edge in loadedPosts"
-            :key="edge.node.id"
-            :record="edge.node"
-          />
+        <div>
+          <transition-group class="projects" name="fade">
+            <CardItem
+              v-for="{ node } in loadedPosts"
+              :key="node.id"
+              :record="node"
+            />
+          </transition-group>
         </div>
+
         <div class="margin-y-lg text-center">
           <button
             class="btn btn--subtle"
             v-if="showMoreEnabled"
-            @click="infiniteHandler"
+            @click="loadMore"
           >
             Prikazi vise
           </button>
@@ -24,24 +27,33 @@
 </template>
 
 <page-query>
-query ($page: Int) {
-  entries: allBlog(perPage: 3, page: $page) @paginate {
+query Posts ($page: Int) {
+  entries: allPost (perPage: 5, page: $page) @paginate {
      pageInfo {
       totalPages
       currentPage
+      isLast
     }
     edges {
     node {
       id
       title
       excerpt
+      path
       image
+      imageTwo {
+        
+      path     
+      alt
+    
+      }
       timeToRead
           featured
           humanTime: created(format: "DD MMM YYYY")
           datetime: created
         tags {
           title
+          path
         }
         author {
           id
@@ -92,14 +104,18 @@ export default {
   },
 
   methods: {
-    async infiniteHandler() {
-      const { data } = await this.$fetch(`/blog/${this.currentPage + 1}`);
-      if (data.entries.edges.length) {
-        this.currentPage = data.entries.pageInfo.currentPage;
-        this.loadedPosts.push(...data.entries.edges);
-        this.showMoreEnabled = this.currentPage;
-      } else {
+    async loadMore() {
+      if (this.currentPage + 1 > this.$page.entries.pageInfo.totalPages) {
         this.showMoreEnabled = false;
+      } else {
+        const { data } = await this.$fetch(`/blog/${this.currentPage + 1}`);
+        if (data.entries.edges.length) {
+          this.currentPage = data.entries.pageInfo.currentPage;
+
+          this.loadedPosts.push(...data.entries.edges);
+        } else {
+          this.showMoreEnabled = false;
+        }
       }
     },
   },

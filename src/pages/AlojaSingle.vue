@@ -6,6 +6,7 @@
         position-relative
         z-index-1
         js-overscroll-section
+        bg-secondary
       "
     >
       <section
@@ -32,13 +33,14 @@
                     <h1 class="text-xxxl feature-v4__text-offset@md">
                       Forever Aloe Vera Gel
                     </h1>
-                    <h2>99,7% čista aloja vera za Vaš imuni sistem</h2>
+                    <p class="text-md">
+                      99,7% čista aloja vera za Vaš imuni sistem
+                    </p>
                   </div>
 
                   <div class="margin-top-sm">
                     <div class="flex flex-wrap gap-sm items-center">
                       <a href="#0" class="btn btn--primary">Naruči proizvod</a>
-                      <a href="#0" class="color-inherit">Saznaj više</a>
                     </div>
                   </div>
                 </div>
@@ -51,11 +53,86 @@
                       alt="Image description"
                     />
                   </figure>
+                  <div class="text-componet text-center margin-top-xxs">
+                    <p>👇 Skroluj niže za više informacija</p>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
+        <section class="feature-v5 padding-bottom-lg">
+          <div class="feature-v5__content">
+            <div class="container max-width-adaptive-sm">
+              <div class="grid">
+                <div class="margin-bottom-md">
+                  <h2 class="text-xl">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  </h2>
+                </div>
+
+                <div class="text-component col-8@md margin-left-auto@md">
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Placeat voluptatem voluptates ut ratione, dignissimos natus
+                    velit consectetur, quibusdam mollitia laudantium eveniet
+                    laborum illum non explicabo sunt. Consequatur itaque quod
+                    necessitatibus?
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <figure class="feature-v5__media container max-width-lg">
+            <g-image
+              class="block width-100% shadow-lg"
+              src="~/assets/img/aloja_1.jpg"
+              alt="Image description"
+            />
+          </figure>
+        </section>
+
+        <section class="feature-v2 padding-y-xl sekcija">
+          <div class="container max-width-adaptive-lg">
+            <div class="grid gap-md">
+              <div class="col-4@md">
+                <div class="text-sm color-contrast-medium margin-bottom-xxs">
+                  This is a Label
+                </div>
+                <h2>
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                </h2>
+              </div>
+
+              <div class="col-8@md">
+                <div class="text-component padding-left-md@md">
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Sint tempore repellat earum. Natus accusantium dolores quas
+                    porro delectus corporis explicabo, adipisci eaque, tempore
+                    beatae blanditiis totam iste alias ipsum. Asperiores,
+                    temporibus quo.
+                  </p>
+
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Quis tempore officiis voluptatem et, sequi qui explicabo
+                    esse excepturi minus quisquam cupiditate cum recusandae ad
+                    dicta doloribus doloremque omnis inventore ipsa a veritatis
+                    laboriosam. Nostrum numquam nesciunt animi dolore. Sit earum
+                    vel illum obcaecati dolorem recusandae voluptates molestias
+                    iure repellendus blanditiis porro aspernatur tempora nam
+                    commodi ipsam ipsum minus nobis omnis pariatur sed dolor
+                    fugiat, nulla facilis! Ducimus quasi dolorum laudantium
+                    distinctio cum voluptatibus inventore nostrum, a qui
+                    deleniti odit dicta!
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
       </section>
 
       <section
@@ -63,12 +140,16 @@
           overscroll-section__scroll-content
           bg
           js-overscroll-section__scroll-content
+          bg-secondary
         "
       >
         <!-- your content here -->
         <div class="container max-width-lg padding-y-xl">
           <section class="feature-v7 margin-bottom-xl">
             <div class="container max-width-adaptive-lg">
+              <div class="text-component text-center margin-bottom-xl">
+                <h2>Lorem ipsum dolor ssaasad</h2>
+              </div>
               <div class="grid gap-md">
                 <div class="col-6@md">
                   <div class="feature-v7__item flex gap-sm">
@@ -140,45 +221,255 @@
             </div>
           </section>
 
-          <div
-            class="
-              video-feature
-              radius-lg
-              padding-top-xxxxl padding-x-sm padding-bottom-sm
-            "
+          <ul
+            class="accordion-v2 flex flex-column gap-xxxs js-accordion"
+            data-animation="on"
+            data-multi-items="on"
+            data-version="v2"
           >
-            <div class="video-feature__box-wrapper grid justify-end@sm">
-              <div class="video-feature__box radius-md col-6@sm col-4@lg">
-                <div class="text-component padding-md">
-                  <h1 class="text-xl">Kako piti aloja veru</h1>
-                  <ul class="opacity-60%">
-                    <li>Promućkati pre upotrebe</li>
-                    <li>2 puta po 60 ml ili 3 puta po 40 ml dnevno</li>
-                    <li>
-                      Nakon otvaranja čuvati u frižideru na temperaturi nižoj od
-                      7 &#8451; ne duže od 30 dana
-                    </li>
-                  </ul>
+            <li
+              class="
+                accordion-v2__item
+                bg
+                shadow-sm
+                radius-md
+                js-accordion__item
+              "
+            >
+              <button
+                class="
+                  reset
+                  accordion-v2__header
+                  padding-y-sm padding-x-md
+                  js-tab-focus
+                "
+                type="button"
+              >
+                <span class="text-md">Namena</span>
+
+                <svg
+                  class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                  viewBox="0 0 16 16"
+                  aria-hidden="true"
+                >
+                  <g
+                    class="icon__group"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="square"
+                    stroke-miterlimit="10"
+                  >
+                    <path d="M2 2l12 12" />
+                    <path d="M14 2L2 14" />
+                  </g>
+                </svg>
+              </button>
+
+              <div class="accordion-v2__panel js-accordion__panel">
+                <div
+                  class="
+                    text-component
+                    padding-top-xxxs padding-x-md padding-bottom-md
+                  "
+                >
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Nostrum a ab quae quas optio ut officia quia? Modi at
+                    impedit dolorem est voluptatem facilis, beatae atque
+                    tenetur, soluta dolorum inventore sapiente laborum. Alias
+                    esse soluta porro distinctio aperiam, qui suscipit.
+                  </p>
                 </div>
               </div>
-            </div>
+            </li>
 
-            <figure class="video-feature__video-wrapper" aria-hidden="true">
-              <img src="img/video-feature-img-1.jpg" alt="Video Preview" />
-              <video
-                autoplay
-                loop
-                muted
-                playsInline
-                src="img/video-aloe-1.mp4"
-              ></video>
-            </figure>
-          </div>
+            <li
+              class="
+                accordion-v2__item
+                bg
+                shadow-sm
+                radius-md
+                js-accordion__item
+              "
+            >
+              <button
+                class="
+                  reset
+                  accordion-v2__header
+                  padding-y-sm padding-x-md
+                  js-tab-focus
+                "
+                type="button"
+              >
+                <span class="text-md">Kako se upotrebljava </span>
+
+                <svg
+                  class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                  viewBox="0 0 16 16"
+                  aria-hidden="true"
+                >
+                  <g
+                    class="icon__group"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="square"
+                    stroke-miterlimit="10"
+                  >
+                    <path d="M2 2l12 12" />
+                    <path d="M14 2L2 14" />
+                  </g>
+                </svg>
+              </button>
+
+              <div class="accordion-v2__panel js-accordion__panel">
+                <div
+                  class="
+                    text-component
+                    padding-top-xxxs padding-x-md padding-bottom-md
+                  "
+                >
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Nostrum a ab quae quas optio ut officia quia? Modi at
+                    impedit dolorem est voluptatem facilis, beatae atque
+                    tenetur, soluta dolorum inventore sapiente laborum. Alias
+                    esse soluta porro distinctio aperiam, qui suscipit.
+                  </p>
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Nostrum a ab quae quas optio ut officia quia? Modi at
+                    impedit dolorem est voluptatem facilis, beatae atque
+                    tenetur, soluta dolorum inventore sapiente laborum. Alias
+                    esse soluta porro distinctio aperiam, qui suscipit.
+                  </p>
+                </div>
+              </div>
+            </li>
+
+            <li
+              class="
+                accordion-v2__item
+                bg
+                shadow-sm
+                radius-md
+                js-accordion__item
+              "
+            >
+              <button
+                class="
+                  reset
+                  accordion-v2__header
+                  padding-y-sm padding-x-md
+                  js-tab-focus
+                "
+                type="button"
+              >
+                <span class="text-md">Sastojci</span>
+
+                <svg
+                  class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                  viewBox="0 0 16 16"
+                  aria-hidden="true"
+                >
+                  <g
+                    class="icon__group"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="square"
+                    stroke-miterlimit="10"
+                  >
+                    <path d="M2 2l12 12" />
+                    <path d="M14 2L2 14" />
+                  </g>
+                </svg>
+              </button>
+
+              <div class="accordion-v2__panel js-accordion__panel">
+                <div
+                  class="
+                    text-component
+                    padding-top-xxxs padding-x-md padding-bottom-md
+                  "
+                >
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Nostrum a ab quae quas optio ut officia quia? Modi at
+                    impedit dolorem est voluptatem facilis, beatae atque
+                    tenetur, soluta dolorum inventore sapiente laborum. Alias
+                    esse soluta porro distinctio aperiam, qui suscipit.
+                  </p>
+                </div>
+              </div>
+            </li>
+
+            <li
+              class="
+                accordion-v2__item
+                bg
+                shadow-sm
+                radius-md
+                js-accordion__item
+              "
+            >
+              <button
+                class="
+                  reset
+                  accordion-v2__header
+                  padding-y-sm padding-x-md
+                  js-tab-focus
+                "
+                type="button"
+              >
+                <span class="text-md">Napomena</span>
+
+                <svg
+                  class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                  viewBox="0 0 16 16"
+                  aria-hidden="true"
+                >
+                  <g
+                    class="icon__group"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="square"
+                    stroke-miterlimit="10"
+                  >
+                    <path d="M2 2l12 12" />
+                    <path d="M14 2L2 14" />
+                  </g>
+                </svg>
+              </button>
+
+              <div class="accordion-v2__panel js-accordion__panel">
+                <div
+                  class="
+                    text-component
+                    padding-top-xxxs padding-x-md padding-bottom-md
+                  "
+                >
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Nostrum a ab quae quas optio ut officia quia? Modi at
+                    impedit dolorem est voluptatem facilis, beatae atque
+                    tenetur, soluta dolorum inventore sapiente laborum. Alias
+                    esse soluta porro distinctio aperiam, qui suscipit.
+                  </p>
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Nostrum a ab quae quas optio ut officia quia? Modi at
+                    impedit dolorem est voluptatem facilis, beatae atque
+                    tenetur, soluta dolorum inventore sapiente laborum. Alias
+                    esse soluta porro distinctio aperiam, qui suscipit.
+                  </p>
+                </div>
+              </div>
+            </li>
+          </ul>
 
           <section>
             <div class="container max-width-adaptive-lg margin-y-xl">
               <div class="margin-bottom-md">
-                <h1 class="text-center">Iskustva naših korisnika</h1>
+                <h2 class="text-center">Iskustva naših korisnika</h2>
               </div>
 
               <div class="grid gap-sm">
@@ -383,94 +674,128 @@
               </div>
             </div>
           </section>
+          <div class="display@md">
+            <section class="position-relative z-index-1 padding-y-xl">
+              <div class="container max-width-adaptive-lg position-relative">
+                <div class="grid padding-x-md padding-x-0@md">
+                  <div class="position-relative z-index-2 col-6@md col-5@lg">
+                    <div
+                      class="
+                        text-component
+                        bg
+                        padding-md padding-lg@md
+                        shadow-sm
+                        line-height-md
+                        margin-top-xxxl
+                      "
+                    >
+                      <h2>Build &amp; Deploy</h2>
+                      <p class="color-contrast-medium">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Ipsa, rem neque doloribus impedit explicabo minus
+                        laborum cupiditate atque esse consectetur.
+                      </p>
+                    </div>
+                  </div>
 
-          <section class="position-relative z-index-1 padding-y-xl">
-            <div class="container max-width-adaptive-lg position-relative">
-              <div class="grid padding-x-md padding-x-0@md">
-                <div class="position-relative z-index-2 col-6@md col-5@lg">
-                  <div
+                  <figure
                     class="
-                      text-component
-                      bg
-                      padding-md padding-lg@md
-                      shadow-sm
-                      line-height-md
-                      margin-top-xxxl
+                      position-absolute
+                      z-index-1
+                      top-0
+                      right-0
+                      height-90%
+                      col-10@md
                     "
                   >
-                    <h1>Build &amp; Deploy</h1>
-                    <p class="color-contrast-medium">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Ipsa, rem neque doloribus impedit explicabo minus laborum
-                      cupiditate atque esse consectetur.
-                    </p>
-                    <p><a class="btn btn--primary" href="#0">Learn more</a></p>
-                  </div>
+                    <img
+                      class="block width-100% height-100% object-cover"
+                      src="https://photos.smugmug.com/photos/i-fjkczJV/0/X3/i-fjkczJV-X3.jpg"
+                      alt="Image description"
+                    />
+                  </figure>
                 </div>
-
-                <figure
-                  class="
-                    position-absolute
-                    z-index-1
-                    top-0
-                    right-0
-                    height-90%
-                    col-10@md
-                  "
-                >
-                  <img
-                    class="block width-100% height-100% object-cover"
-                    src="https://photos.smugmug.com/photos/i-fjkczJV/0/X3/i-fjkczJV-X3.jpg"
-                    alt="Image description"
-                  />
-                </figure>
               </div>
-            </div>
-          </section>
+            </section>
 
-          <section class="position-relative z-index-1 padding-y-xl">
-            <div class="container max-width-adaptive-lg position-relative">
-              <div class="grid justify-end padding-x-md padding-x-0@md">
-                <div class="position-relative z-index-2 col-6@md col-5@lg">
-                  <div
+            <section class="position-relative z-index-1 padding-y-xl">
+              <div class="container max-width-adaptive-lg position-relative">
+                <div class="grid justify-end padding-x-md padding-x-0@md">
+                  <div class="position-relative z-index-2 col-6@md col-5@lg">
+                    <div
+                      class="
+                        text-component
+                        bg
+                        padding-md padding-lg@md
+                        shadow-sm
+                        line-height-md
+                        margin-top-xxxl
+                      "
+                    >
+                      <h2>Build &amp; Deploy</h2>
+                      <p class="color-contrast-medium">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Ipsa, rem neque doloribus impedit explicabo minus
+                        laborum cupiditate atque esse consectetur.
+                      </p>
+                    </div>
+                  </div>
+
+                  <figure
                     class="
-                      text-component
-                      bg
-                      padding-md padding-lg@md
-                      shadow-sm
-                      line-height-md
-                      margin-top-xxxl
+                      position-absolute
+                      z-index-1
+                      top-0
+                      left-0
+                      height-90%
+                      col-10@md
                     "
                   >
-                    <h1>Build &amp; Deploy</h1>
-                    <p class="color-contrast-medium">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Ipsa, rem neque doloribus impedit explicabo minus laborum
-                      cupiditate atque esse consectetur.
-                    </p>
-                    <p><a class="btn btn--primary" href="#0">Learn more</a></p>
-                  </div>
+                    <img
+                      class="block width-100% height-100% object-cover"
+                      src="https://photos.smugmug.com/photos/i-WjnsmsG/0/X3/i-WjnsmsG-X3.jpg"
+                      alt="Image description"
+                    />
+                  </figure>
                 </div>
-
-                <figure
-                  class="
-                    position-absolute
-                    z-index-1
-                    top-0
-                    left-0
-                    height-90%
-                    col-10@md
-                  "
-                >
-                  <img
-                    class="block width-100% height-100% object-cover"
-                    src="https://photos.smugmug.com/photos/i-WjnsmsG/0/X3/i-WjnsmsG-X3.jpg"
-                    alt="Image description"
-                  />
-                </figure>
+              </div>
+            </section>
+          </div>
+          <!-- Mobile -->
+          <div class="container hide@md max-adaptive-xl margin-bottom-lg">
+            <div class="grid">
+              <div class="col-12 margin-bottom-md">
+                <g-image
+                  src="https://photos.smugmug.com/photos/i-WjnsmsG/0/X3/i-WjnsmsG-X3.jpg"
+                  alt="Image description"
+                ></g-image>
+                <div class="text-component margin-top-xs">
+                  <h2>Build &amp; Deploy</h2>
+                  <p class="color-contrast-medium">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Ipsa, rem neque doloribus impedit explicabo minus laborum
+                    cupiditate atque esse consectetur.
+                  </p>
+                </div>
+              </div>
+              <div class="col-12">
+                <g-image
+                  src="https://photos.smugmug.com/photos/i-fjkczJV/0/X3/i-fjkczJV-X3.jpg"
+                  alt="Image description"
+                ></g-image>
+                <div class="text-component margin-top-xs">
+                  <h2>Build &amp; Deploy</h2>
+                  <p class="color-contrast-medium">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Ipsa, rem neque doloribus impedit explicabo minus laborum
+                    cupiditate atque esse consectetur.
+                  </p>
+                </div>
               </div>
             </div>
-          </section>
+          </div>
+          <!-- end mobile -->
+
           <section class="feature-v9">
             <div class="grid">
               <div
@@ -537,10 +862,10 @@ export default {
     document.body.appendChild(frontEnd);
     // 👈 load the JS code once the component is mounted
 
-    let front = document.createElement("script");
-    front.setAttribute("src", "../overscroll-section.js"); // 👈 make sure to use the correct path
-    front.setAttribute("id", "overscroll-section-js");
-    document.body.appendChild(front);
+    let accordion = document.createElement("script");
+    accordion.setAttribute("src", "../accordion.js");
+    accordion.setAttribute("id", "accordion-js");
+    document.body.appendChild(accordion);
   },
   destroyed() {
     document.getElementById("main-header-js").remove();

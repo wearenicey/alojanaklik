@@ -3,7 +3,7 @@
     <header class="header position-relative js-header">
       <div class="header__container container max-width-lg">
         <div class="header__logo">
-          <a href="/">
+          <a @click="x">
             <svg width="104" height="30" viewBox="0 0 104 30">
               <title>Go to homepage</title>
               <path
@@ -41,7 +41,7 @@
                 <a href="/aloja" class="header__link">Aloja</a>
               </li>
               <li class="header__item">
-                <a href="#0" class="header__link">Resources</a>
+                <a href="/blog" class="header__link">Blog</a>
               </li>
               <li class="header__item">
                 <a href="#0" class="header__link">Pricing</a>
@@ -54,7 +54,7 @@
                 aria-hidden="true"
               ></li>
               <li class="header__item">
-                <a href="#0" class="btn btn--primary">Download</a>
+                <a href="#0" class="btn btn--primary ">Download</a>
               </li>
             </ul>
           </div>
@@ -100,6 +100,14 @@ export default {
         },
       ],
     };
+  },
+  methods: {
+    x() {
+      // this will only run when navigating to the page
+      if (process.isClient)
+        // this will run when linking directly or after a refresh
+        window.location.href = "https://serene-feynman-2c0e7e.netlify.app/";
+    },
   },
   mounted() {
     let frontEnd = document.createElement("script");

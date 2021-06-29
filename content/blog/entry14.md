@@ -1,10 +1,10 @@
 ---
-title: Kako bratoo
+title: Kako bratoo sedam
 tags: tag2
 category: Digital
 excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
-created: 2019-01-10
-image: slika-1.jpg
+created: 2021-01-10
+image: slika-3.jpg
 imageTwo:
   path: ./images/slika-3.jpg
   alt: "A colorful building against a blue sky background"

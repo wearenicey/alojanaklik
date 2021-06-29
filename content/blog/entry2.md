@@ -3,8 +3,11 @@ title: Lorem Lorem
 tags: tag2
 category: Digital
 excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
-created: 2019-01-10
+created: 2019-01-13
 image: slika-2.jpg
+imageTwo:
+  path: ./images/slika-1.jpg
+  alt: "A colorful building against a blue sky background"
 image_caption: Photo by Josh Spires on Unsplash
 author: author1
 featured: true

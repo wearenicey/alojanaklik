@@ -67,6 +67,7 @@ module.exports = {
 
       },
     },
+
     {
       use: '@gridsome/source-filesystem',
       options: {
@@ -77,8 +78,10 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        typeName: 'Blog',
+        typeName: 'Post',
         path: './content/blog/**/*.md',
+
+
         refs: {
           author: 'Author',
           tags: {
@@ -97,6 +100,9 @@ module.exports = {
 
 
   templates: {
+    Post: '/blog/:path',
+    Tag: '/tag/:id',
+
     googleSheet: [
       {
         path: '/napici/:id',
@@ -104,6 +110,15 @@ module.exports = {
       }
     ],
     Event: "/events/:id",
+  },
+
+  transformers: {
+    remark: {
+      autolinkClassName: 'icon icon-link heading-anchor',
+      externalLinksTarget: '_blank',
+      externalLinksRel: ['noopener',],
+      anchorClassName: 'icon icon-link',
+    }
   },
 
   chainWebpack: config => {
