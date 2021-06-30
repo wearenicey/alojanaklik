@@ -63,7 +63,9 @@ h1, h2, h3, h4 {
 // --------------------------------
 
 // link style
-a, .link {}
+a, .link {
+  color: var(--color-accent);
+}
 
 mark {
   background-color: alpha(var(--color-accent), 0.2);

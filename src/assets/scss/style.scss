@@ -18,6 +18,7 @@
 @import 'components/1_feature-v9';
 @import 'components/1_accordion';
 @import 'components/2_accordion-v2';
+@import 'components/link.scss';
 
 
 // .articles {
@@ -242,7 +243,25 @@
   margin-top: calc(-1 * var(--feature-media-offset));
 }
 
-#background {
+body {
   background-color:#C3FCF2;
 }
 
+.sekcija {
+  margin-bottom: 500px;
+}
+
+// animacija
+
+
+  .vert-move { -webkit-animation: action 1s infinite  alternate;
+  animation: action 1s infinite  alternate;
+}
+@-webkit-keyframes action {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
+@keyframes action {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}

@@ -35,26 +35,26 @@
             <div class="header__label">Main menu</div>
             <ul class="header__list">
               <li class="header__item">
-                <a href="/about" class="header__link">About</a>
+                <g-link to="/about/" class="header__link">About</g-link>
               </li>
               <li class="header__item">
-                <a href="/aloja" class="header__link">Aloja</a>
+                <g-link to="/aloja/" class="header__link">Aloja</g-link>
               </li>
               <li class="header__item">
-                <a href="/blog" class="header__link">Blog</a>
+                <g-link to="/blog/" class="header__link">Blog</g-link>
               </li>
               <li class="header__item">
-                <a href="#0" class="header__link">Pricing</a>
+                <a class="header__link">Pricing</a>
               </li>
               <li class="header__item">
-                <a href="#0" class="header__link">Contact</a>
+                <g-link to="/contact/" class="header__link">Kontakt</g-link>
               </li>
               <li
                 class="header__item header__item--divider"
                 aria-hidden="true"
               ></li>
               <li class="header__item">
-                <a href="#0" class="btn btn--primary ">Download</a>
+                <a class="btn btn--primary">Download</a>
               </li>
             </ul>
           </div>
