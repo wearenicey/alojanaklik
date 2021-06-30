@@ -1,12 +1,82 @@
 <template>
   <Layout>
+    <!-- your content here -->
+    <div
+      class="container max-width-adaptive-lg min-height-100vh flex flex-center"
+    >
+      <div class="feature-v4">
+        <div class="container max-width-adaptive-lg">
+          <div class="feature-v4__grid grid gap-md items-center">
+            <div class="col-5@md position-relative z-index-1">
+              <div class="text-component">
+                <h1 class="text-xxxl feature-v4__text-offset@md">
+                  Forever Aloe Vera Gel
+                </h1>
+                <p class="text-md">
+                  99,7% čista aloja vera za Vaš imuni sistem
+                </p>
+              </div>
+
+              <div class="margin-top-sm">
+                <div class="flex flex-wrap gap-sm items-center">
+                  <a href="#0" class="btn btn--primary">Naruči proizvod</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-7@md">
+              <figure>
+                <g-image
+                  class="block width-100%"
+                  src="~/assets/img/aloja_1.jpg"
+                  alt="Image description"
+                />
+              </figure>
+              <div class="text-componet text-center margin-top-xxs">
+                <p>👇 Skroluj niže za više informacija</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <section class="feature-v5 padding-bottom-lg">
+      <div class="feature-v5__content">
+        <div class="container max-width-adaptive-sm">
+          <div class="grid">
+            <div class="margin-bottom-md">
+              <h2 class="text-xl">
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              </h2>
+            </div>
+
+            <div class="text-component col-8@md margin-left-auto@md">
+              <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Placeat voluptatem voluptates ut ratione, dignissimos natus
+                velit consectetur, quibusdam mollitia laudantium eveniet laborum
+                illum non explicabo sunt. Consequatur itaque quod
+                necessitatibus?
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <figure class="feature-v5__media container max-width-lg">
+        <g-image
+          class="block width-100% shadow-lg"
+          src="~/assets/img/aloja_1.jpg"
+          alt="Image description"
+        />
+      </figure>
+    </section>
     <div
       class="
         overscroll-section
         position-relative
         z-index-1
         js-overscroll-section
-        bg-secondary
       "
     >
       <section
@@ -15,84 +85,6 @@
           js-overscroll-section__sticky-content
         "
       >
-        <!-- your content here -->
-
-        <div
-          class="
-            container
-            max-width-adaptive-lg
-            min-height-100vh
-            flex flex-center
-          "
-        >
-          <div class="feature-v4">
-            <div class="container max-width-adaptive-lg">
-              <div class="feature-v4__grid grid gap-md items-center">
-                <div class="col-5@md position-relative z-index-1">
-                  <div class="text-component">
-                    <h1 class="text-xxxl feature-v4__text-offset@md">
-                      Forever Aloe Vera Gel
-                    </h1>
-                    <p class="text-md">
-                      99,7% čista aloja vera za Vaš imuni sistem
-                    </p>
-                  </div>
-
-                  <div class="margin-top-sm">
-                    <div class="flex flex-wrap gap-sm items-center">
-                      <a href="#0" class="btn btn--primary">Naruči proizvod</a>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-7@md">
-                  <figure>
-                    <g-image
-                      class="block width-100%"
-                      src="~/assets/img/aloja_1.jpg"
-                      alt="Image description"
-                    />
-                  </figure>
-                  <div class="text-componet text-center margin-top-xxs">
-                    <p>👇 Skroluj niže za više informacija</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <section class="feature-v5 padding-bottom-lg">
-          <div class="feature-v5__content">
-            <div class="container max-width-adaptive-sm">
-              <div class="grid">
-                <div class="margin-bottom-md">
-                  <h2 class="text-xl">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  </h2>
-                </div>
-
-                <div class="text-component col-8@md margin-left-auto@md">
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Placeat voluptatem voluptates ut ratione, dignissimos natus
-                    velit consectetur, quibusdam mollitia laudantium eveniet
-                    laborum illum non explicabo sunt. Consequatur itaque quod
-                    necessitatibus?
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <figure class="feature-v5__media container max-width-lg">
-            <g-image
-              class="block width-100% shadow-lg"
-              src="~/assets/img/aloja_1.jpg"
-              alt="Image description"
-            />
-          </figure>
-        </section>
-
         <section class="feature-v2 padding-y-xl sekcija">
           <div class="container max-width-adaptive-lg">
             <div class="grid gap-md">
@@ -859,16 +851,23 @@ export default {
     frontEnd.setAttribute("src", "../main-header.js");
     frontEnd.setAttribute("id", "main-header-js");
 
-    document.body.appendChild(frontEnd);
     // 👈 load the JS code once the component is mounted
+    let front = document.createElement("script");
+    front.setAttribute("src", "../overscroll-section.js"); // 👈 make sure to use the correct path
+    front.setAttribute("id", "overscroll-section-js");
 
     let accordion = document.createElement("script");
     accordion.setAttribute("src", "../accordion.js");
     accordion.setAttribute("id", "accordion-js");
+    document.body.appendChild(frontEnd);
+
+    document.body.appendChild(front);
+
     document.body.appendChild(accordion);
   },
   destroyed() {
     document.getElementById("main-header-js").remove();
+    document.getElementById("overscroll-section-js").remove();
 
     // remove the JS code once the component has been destroyed
     document.getElementById("overscroll-section-js").remove();
