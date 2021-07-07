@@ -7,9 +7,9 @@
 @import 'custom-style/spacing';
 @import 'custom-style/typography';
 @import 'custom-style/util';
+@import 'components/1_anim-menu-btn';
 
-
-@import 'components/1_main-header';
+@import 'components/2_flexi-header';
 @import 'components/1_card-v5';
 @import 'components/1_overscroll-section';
 @import 'components/1_feature-v4';
@@ -19,6 +19,11 @@
 @import 'components/1_accordion';
 @import 'components/2_accordion-v2';
 @import 'components/link.scss';
+@import 'components/1_card-v8';
+@import 'components/2_feature-v8';
+@import 'components/1_scrolling-animations';
+@import 'components/2_diagonal-animated-divider';
+@import 'components/card-product.scss';
 
 
 // .articles {
@@ -264,4 +269,8 @@ body {
 @keyframes action {
   0% { transform: translateY(0); }
   100% { transform: translateY(-10px); }
+}
+
+.max-height-picture {
+  height: 680px;
 }

@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Awesome Blog',
+  siteName: 'Aloe',
   siteDescription: 'Blog about awesome lists, collections of resources around a specific technology.',
   siteUrl: 'https://serene-feynman-2c0e7e.netlify.app/',
   metadata: {

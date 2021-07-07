@@ -1,59 +1,34 @@
 <template>
-  <div class="container max-width-adaptive-lg margin-top-xl">
-    <div class="grid gap-md">
-      <div
-        class="col-4@md"
-        v-for="edge in $static.allEvent.edges"
-        :key="edge.node.id"
-      >
-        <div class="card-v5">
-          <a
-            :href="edge.node.path"
-            class="card-v5__img-link"
-            aria-label="Description of the link"
-          >
-            <figure class="card-v5__img">
-              <!-- <g-image :src="page.node.imgOne" alt="Card preview img" /> -->
-              <img :src="edge.node.imgOne[0].url" alt="Card preview img" />
-            </figure>
-          </a>
+  <div class="container max-width-adaptive-lg">
+    <ul class="feature-v8__sub-content grid gap-lg">
+      <li class="col-4@md" v-for="item in products" :key="item.node.id">
+        <a :href="item.node.path" class="card-v8 bg radius-lg">
+          <figure>
+            <g-image :src="item.node.imgOne[0].url" alt="Card preview img" />
+          </figure>
 
-          <div class="card-v5__content">
+          <footer class="padding-sm">
+            <p class="text-sm color-contrast-medium margin-bottom-sm">Label</p>
             <div class="text-component">
-              <h3>{{ edge.node.title }}</h3>
-              <p>{{ edge.node.textOne }}</p>
-              <p></p>
+              <h4>
+                <span class="card-v8__title">{{ item.node.title }}</span>
+              </h4>
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
+          </footer>
+        </a>
+      </li>
+    </ul>
   </div>
 </template>
 
 
-<static-query>
-query {
-  allEvent {
-    edges {
-      node {
-        id
-        title
-        subtitle
-        link
-        textOne
-        path
-        imgOne{
-            url
-          }
-      }
-    }
-  }
-}
-</static-query>
+
 
 <script>
 export default {
   name: "Card",
+  props: {
+    products: {},
+  },
 };
 </script>

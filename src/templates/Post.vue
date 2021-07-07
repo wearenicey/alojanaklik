@@ -1,27 +1,46 @@
 <template>
   <Layout>
-    <article class="t-article-v3 padding-bottom-lg">
-      <div
-        class="t-article-v3__hero margin-bottom-lg"
-        v-bind:style="{
-          'background-image': 'url(' + $page.post.imageTwo.path.src + ')',
-        }"
-      >
-        <div class="container max-width-adaptive-sm">
-          <div class="t-article-v3__intro-text text-component text-center">
-            <h1 class="text-xxxl color-inherit">
-              {{ $page.post.title }}
-            </h1>
-            <time
-              class="text-sm color-inherit"
-              :datetime="$page.post.datetime"
-              >{{ $page.post.humanTime }}</time
-            >
+    <article class="padding-y-lg">
+      <header class="container max-width-xs margin-bottom-lg">
+        <div
+          class="
+            text-component text-center
+            line-height-lg
+            v-space-md
+            margin-bottom-md
+          "
+        >
+          <h1>{{ $page.post.title }}</h1>
+          <p class="color-contrast-medium text-md">{{ $page.post.excerpt }}</p>
+        </div>
+
+        <div class="flex justify-center">
+          <div class="author author--meta">
+            <g-image
+              :src="require(`!!assets-loader!@img/${$page.post.author.image}`)"
+            ></g-image>
+
+            <div class="author__content text-component v-space-xxs">
+              <h4 class="text-base">{{ $page.post.author.name }}</h4>
+              <p class="text-sm color-contrast-medium">
+                <time
+                  class="text-sm color-inherit"
+                  :datetime="$page.post.datetime"
+                  >{{ $page.post.humanTime }}</time
+                >&mdash; {{ $page.post.timeToRead }} min
+              </p>
+            </div>
           </div>
         </div>
-      </div>
+      </header>
 
-      <div class="container max-width-adaptive-sm margin-bottom-xl">
+      <figure class="container max-width-lg margin-bottom-lg">
+        <g-image
+          :src="require(`!!assets-loader!@img/${$page.post.image}`)"
+        ></g-image>
+      </figure>
+
+      <div class="container max-width-adaptive-sm">
         <div
           class="text-component line-height-lg v-space-md"
           v-html="$page.post.content"
