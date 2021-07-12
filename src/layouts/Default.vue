@@ -74,19 +74,22 @@
                   >
                 </li>
                 <li>
-                  <a href="#0" class="f-header__dropdown-link"
-                    >Sub Nav Item Three</a
-                  >
+                  <g-link to="/mrsavljenje/" class="f-header__dropdown-link">
+                    Mršavljenje
+                  </g-link>
                 </li>
                 <li>
-                  <a href="#0" class="f-header__dropdown-link"
-                    >Sub Nav Item Four</a
+                  <g-link
+                    to="/nega-lica-i-tela/"
+                    class="f-header__dropdown-link"
                   >
+                    Nega lica i tela
+                  </g-link>
                 </li>
                 <li>
-                  <a href="#0" class="f-header__dropdown-link"
-                    >Sub Nav Item Five</a
-                  >
+                  <g-link to="/licna-higijena/" class="f-header__dropdown-link">
+                    Lična higijena
+                  </g-link>
                 </li>
               </ul>
             </li>

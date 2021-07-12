@@ -3,6 +3,10 @@
     <section class="feature-v8 padding-bottom-xxl">
       <div class="feature-v8__main-content bg-contrast-lower padding-top-xxl">
         <div class="container max-width-adaptive-lg">
+              <g-image
+            class="block width-100% height-100% object-cover margin-bottom-sm"
+            src="~/assets/img/jacanjeimuniteta.jpg"
+          ></g-image>
           <div class="grid gap-md justify-between@md">
             <div class="text-component col-6@md">
               <h1>Jačanje imuniteta</h1>

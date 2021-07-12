@@ -5,18 +5,20 @@
         <div class="container max-width-adaptive-lg">
           <g-image
             class="block width-100% height-100% object-cover margin-bottom-sm"
-            src="~/assets/img/ishrana.jpg"
+            src="~/assets/img/licnahigijena.jpg"
           ></g-image>
+
           <div class="grid gap-md justify-between@md">
             <div class="text-component col-6@md">
-              <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h1>
+              <h1>Licna Higijena</h1>
             </div>
 
             <div class="text-component col-5@md">
               <p class="color-contrast-medium">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus
-                asperiores laudantium at sunt voluptatibus a distinctio adipisci
-                dicta, explicabo quidem.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum,
+                suscipit voluptatem? Consequatur cupiditate, iure, corporis
+                ducimus natus velit fugiat pariatur nisi officia aspernatur sit?
+                Dolores iste nobis nam repellat maxime.
               </p>
             </div>
           </div>
@@ -30,7 +32,7 @@
 
 <page-query>
 query {
- products: allEvent (filter: {category: {eq:"ishrana"}}) {
+ products: allEvent (filter: {category: {eq:"licnaHigijena"}}) {
     edges {
       node {
         id
@@ -54,8 +56,20 @@ query {
 import Card from "~/components/Card.vue";
 export default {
   metaInfo: {
-    title: "Jačanje imuniteta",
+    title: "Lična higijena | Proizvodi na bazi aloje vere",
+    meta: [
+      {
+        name: "title",
+        content: "Lična higijena | Proizvodi na bazi aloje vere",
+      },
+      {
+        name: "description",
+        content:
+          "Forever je prirodna i organska kompanija za negu kože. Njihova misija je da koriste samo najkvalitetnije sastojke u svim svojim proizvodima koji su napravljeni od biljke Aloe Vere, uzgajane na njihovim poljima.",
+      },
+    ],
   },
+
   components: {
     Card,
   },
