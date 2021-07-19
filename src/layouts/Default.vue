@@ -93,9 +93,6 @@
                 </li>
               </ul>
             </li>
-            <li class="f-header__item">
-              <a href="#0" class="f-header__link">About</a>
-            </li>
 
             <li class="f-header__item">
               <g-link to="/blog/" class="f-header__link">Blog</g-link>
@@ -103,6 +100,11 @@
             <li class="f-header__item">
               <g-link to="/postanite-saradnik/" class="f-header__link"
                 >Postanite saradnik</g-link
+              >
+            </li>
+            <li class="f-header__item">
+              <g-link to="/istorija-firme/" class="f-header__link"
+                >Istorija firme</g-link
               >
             </li>
             <li class="f-header__item">
