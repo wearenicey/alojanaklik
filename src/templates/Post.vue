@@ -16,9 +16,9 @@
 
         <div class="flex justify-center">
           <div class="author author--meta">
-            <g-image
+            <!-- <g-image
               :src="require(`!!assets-loader!@img/${$page.post.author.image}`)"
-            ></g-image>
+            ></g-image> -->
 
             <div class="author__content text-component v-space-xxs">
               <h4 class="text-base">{{ $page.post.author.name }}</h4>

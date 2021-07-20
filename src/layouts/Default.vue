@@ -49,7 +49,7 @@
 
           <ul class="f-header__list flex-grow flex-basis-0 justify-center@md">
             <li class="f-header__item">
-              <a href="#0" class="f-header__link">
+              <g-link to="/svi-proizvodi/" class="f-header__link">
                 <span>Proizvodi</span>
                 <svg
                   class="f-header__dropdown-icon icon"
@@ -58,7 +58,7 @@
                 >
                   <path d="M6,9l4-5H2Z" />
                 </svg>
-              </a>
+              </g-link>
 
               <ul class="f-header__dropdown">
                 <li>

@@ -4,25 +4,74 @@
       class="position-relative z-index-1 height-100vh flex flex-center bg-white"
     >
       <div class="container max-width-adaptive-lg">
-        <div class="grid">
-          <div class="col-6@md padding-y-xl@md padding-y-lg">
+        <div class="grid gap-sm">
+          <div class="col-6@md padding-y-xxl@md padding-y-lg">
             <div class="text-component text-left">
-              <h1>Savremeni online business</h1>
+              <h1 class="">Savremeni online business</h1>
               <p>
-                Rad od kuće koji pruža finansijsku sigurnost uz više vremena za
-                sebe i svoje najbliže
+                Svi znamo da je pokretanje sopstvenog posla najbolji način za
+                postizanje finansijske slobode, ali većina nas je previše
+                uplašena ili nema dovoljno novca da to započne.
               </p>
             </div>
           </div>
 
           <div class="col-6@md">
             <g-image
-              src="~/assets/img/postanite-saradnik.jpg"
+              src="~/assets/img/savremeni-online-biznis.jpg"
               alt="Image description"
             ></g-image>
           </div>
         </div>
       </div>
+    </section>
+    <section class="position-relative z-index-1 height-100vh flex flex-center">
+      <div class="container position-relative max-width-adaptive-lg z-index-2">
+        <section class="feature-v2 padding-y-xl">
+          <div class="grid gap-md">
+            <div class="col-4@md">
+              <h1 class="text-lg">
+                Mnogi odustanu pre nego što i pokušaju. Ali Vi niste poput
+                većine ljudi, jer Vi želite nešto bolje za sebe i svoju
+                porodicu. Spremni ste da promenite svoj život i Forever Living
+                Vam može pomoći u tome
+              </h1>
+            </div>
+
+            <div class="col-8@md">
+              <div class="text-component padding-left-md@md">
+                <p>
+                  Forever Living je prilika za sve koji žele više od standardnog
+                  8 do 4 posla, bez budućih izgleda ili koristi, dok ujedno ne
+                  žele da budu zaglavljeni u tuđem snu. Kada se pridružite
+                  Forever Livingu, dobijate pristup ekskluzivnim proizvodima po
+                  veleprodajnim cenama, tako da ih možete prodati po
+                  maloprodajnoj vrednosti bez ikakvih dodatnih troškova - to će
+                  vam omogućiti da ostvarite dodatni prihod dok drugima pomažete
+                  da pomognu sebi i ostvare svoje snove!
+                </p>
+                <p class="flex justify-end">
+                  <a class="btn btn--subtle" href="#0">Saznaj više</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div
+        class="
+          position-absolute
+          inset-0
+          bg-secondary
+          z-index-1
+          origin-top-left
+          scroll-fx
+          js-scroll-fx
+        "
+        data-scroll-fx="skewY, -7deg, 0deg, 0%, 50%"
+        aria-hidden="true"
+      ></div>
     </section>
 
     <section class="position-relative z-index-1 height-100vh flex flex-center">
@@ -49,7 +98,7 @@
         class="
           position-absolute
           inset-0
-          bg-secondary
+          bg-white
           z-index-1
           origin-top-left
           scroll-fx
@@ -261,7 +310,7 @@
         class="
           position-absolute
           inset-0
-          bg-white
+          bg-secondary
           z-index-1
           origin-top-left
           scroll-fx
@@ -392,7 +441,7 @@
         class="
           position-absolute
           inset-0
-          bg-secondary
+          bg-white
           z-index-1
           origin-top-left
           scroll-fx

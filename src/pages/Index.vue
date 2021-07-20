@@ -435,6 +435,54 @@
         </div>
       </div>
     </section>
+    <section class="feature-v2 padding-y-xl">
+      <div class="container max-width-adaptive-lg">
+        <div class="grid gap-md">
+          <div class="col-4@md">
+            <h1 class="text-xl">
+              Aloe vera je lekovita biljka koju ljudi koriste hiljadama godina.
+            </h1>
+          </div>
+
+          <div class="col-8@md">
+            <div class="text-component padding-left-md@md">
+              <p>
+                O njoj se treba brinuti kako bi gel aloje u njenom lišću ostao
+                svež i moćan sa zdravim prednostima! Zato svake godine, Forever
+                Living prati 50 miliona biljaka tokom njihovog životnog ciklusa,
+                od sadnice do berbe. Koristi se od lečenja opekotina do
+                poboljšanja vašeg imuno sistema!
+              </p>
+              <p class="flex justify-end">
+                <a class="btn btn--subtle" href="#0">Saznaj više o Aloji</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      style="
+        background-image: url('../pocetna-zadnja-sekcija.jpg');
+        height: 100%;
+      "
+    >
+      <div
+        class="
+          container
+          text-center
+          max-width-adaptive-lg
+          padding-y-xxl
+          margin-bottom-lg
+        "
+      >
+        <h1 class="">
+          Inovativna rešenja za povećanje nivoa energije, jačanje imuno sistema
+          i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja
+          hemikalija i konzervansa. Forever Living
+        </h1>
+      </div>
+    </section>
   </Layout>
 </template>
 
