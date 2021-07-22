@@ -156,8 +156,8 @@
         </nav>
 
         <div class="footer-v4__logo">
-          <a @click="x"">
-           <g-image src="~/assets/img/foreverlogogold.png"></g-image>
+          <a @click="x">
+            <g-image src="~/assets/img/foreverlogogold.png"></g-image>
           </a>
         </div>
 

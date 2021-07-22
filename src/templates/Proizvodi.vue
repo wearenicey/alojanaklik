@@ -640,77 +640,78 @@
             </div>
             <!-- end mobile -->
             <section class=" padding-y-lg " id="yourID">
-              
-                <div class="container max-width-adaptive-lg margin-bottom-lg">
-                  <div class="text-component text-center">
-                    <h1>Naruči sa zvanične stranice, plati karticom ili pouzećem.
-                    </h1>
-                    <p class="width-66% margin-x-auto">Internet prodavnica kompanije Forever Living Products doo Beograd je jedina zvanična prodavnica
-                      artikala sa obeležjima Forever Living Products International.</p>
-                  </div>
+
+              <div class="container max-width-adaptive-lg margin-bottom-lg">
+                <div class="text-component text-center">
+                  <h1>Naruči sa zvanične stranice, plati karticom ili pouzećem.
+                  </h1>
+                  <p class="width-66% margin-x-auto">Internet prodavnica kompanije Forever Living Products doo Beograd
+                    je jedina zvanična prodavnica
+                    artikala sa obeležjima Forever Living Products International.</p>
                 </div>
-                <div class="container max-width-adaptive-lg ">
-                  <div class="grid items-center">
-                    <div class="col-9@md bg-white  padding-xl@md padding-lg ">
-                      <div class="grid items-center gap-md">
-                        <div class="text-component">
-                          <h3>{{$page.event.ctaNaslov}}</h3>
-                          <p class="text-sm">
-                            {{$page.event.ctaTekst}}
-                          </p>
-                        </div>
-                        <div class="">
-                          <div class="flex items-center">
-                            <h5 class="proba  color-error-lighter margin-right-sm">UKLJUČENO</h5>
-                            <div class=" proba2"></div>
-  
-                          </div>
-                          <ul class="grid gap-sm margin-top-md">
-                            <li class="col-6@md ">
-                              <div class="flex items-center ">
-                                <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Proizvode na popustu
-  
-                              </div>
-  
-                            </li>
-                            <li class="col-6@md ">
-                              <div class="flex items-center ">
-                                <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />Dodatni materijal
-  
-                              </div>
-  
-                            </li>
-                            <li class="col-6@md ">
-                              <div class="flex items-center ">
-                                <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Dodatnu zaradu "sa
-                                strane"
-                              </div>
-  
-                            </li>
-                            <li class="col-6@md ">
-                              <div class="flex items-center ">
-                                <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Posao po svojoj meri
-                              </div>
-  
-                            </li>
-                          </ul>
-                        </div>
+              </div>
+              <div class="container max-width-adaptive-lg ">
+                <div class="grid items-center">
+                  <div class="col-9@md bg-white  padding-xl@md padding-lg ">
+                    <div class="grid items-center gap-md">
+                      <div class="text-component">
+                        <h3>{{$page.event.ctaNaslov}}</h3>
+                        <p class="text-sm">
+                          {{$page.event.ctaTekst}}
+                        </p>
                       </div>
-                    </div>
-                    <div class="col-3@md padding-y-xl padding-x-xs shadow-lg bg-contrast-lower">
-                      <div class="text-component text-center">
-                        <p class="text-bold">Pay once, own it forever</p>
-                        <g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
-                          Alojom
-                        </g-link>
-                        <h4>{{$page.event.ctaCena}} RSD</h4>
-                        <a :href="$page.event.ctaLink" class="btn btn--primary margin-top-sm">{{$page.event.ctaHero}}</a>
-                        <p class="text-sm margin-top-sm">*Kako biste izvršili kupovinu sa 5% popusta, neophodno je da se
-                          učlanite i poručite proizvode u minimalnom iznosu od 66eur!</p>
+                      <div class="">
+                        <div class="flex items-center">
+                          <h5 class="proba  color-error-lighter margin-right-sm">UKLJUČENO</h5>
+                          <div class=" proba2"></div>
+
+                        </div>
+                        <ul class="grid gap-sm margin-top-md">
+                          <li class="col-6@md ">
+                            <div class="flex items-center ">
+                              <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Proizvode na popustu
+
+                            </div>
+
+                          </li>
+                          <li class="col-6@md ">
+                            <div class="flex items-center ">
+                              <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />Dodatni materijal
+
+                            </div>
+
+                          </li>
+                          <li class="col-6@md ">
+                            <div class="flex items-center ">
+                              <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Dodatnu zaradu "sa
+                              strane"
+                            </div>
+
+                          </li>
+                          <li class="col-6@md ">
+                            <div class="flex items-center ">
+                              <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Posao po svojoj meri
+                            </div>
+
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </div>
+                  <div class="col-3@md padding-y-xl padding-x-xs shadow-lg bg-contrast-lower">
+                    <div class="text-component text-center">
+                      <p class="text-bold">Pay once, own it forever</p>
+                      <g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
+                        Alojom
+                      </g-link>
+                      <h4>{{$page.event.ctaCena}} RSD</h4>
+                      <a :href="$page.event.ctaLink" class="btn btn--primary margin-top-sm">{{$page.event.ctaHero}}</a>
+                      <p class="text-sm margin-top-sm">*Kako biste izvršili kupovinu sa 5% popusta, neophodno je da se
+                        učlanite i poručite proizvode u minimalnom iznosu od 66eur!</p>
+                    </div>
+                  </div>
                 </div>
+              </div>
             </section>
           </div>
         </section>
@@ -801,8 +802,14 @@
 
 <script>
   export default {
-    metaInfo: {
-      title: "Test!",
+    metaInfo() {
+      return {
+        title: this.$page.event.pageTitle,
+        meta: [
+          { name: 'description', content: this.$page.event.metaDesc }
+        ],
+        // etc...
+      }
     },
 
     mounted() {
