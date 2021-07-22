@@ -30,16 +30,13 @@
 
 <page-query>
 query {
- products: allEvent {
+ products: allProizvodi {
     edges {
       node {
         id
-        title
-        subtitle
-        link
-        textOne
+        h1Hero
         path
-        imgOne{
+        sekcija2Slika{
             url
           }
       }

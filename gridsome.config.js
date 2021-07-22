@@ -51,8 +51,8 @@ module.exports = {
         baseId: process.env.AIRTABLE_BASE, //required
         tables: [
           {
-            name: "Napici",
-            typeName: "Event", //required - needs to match template name
+            name: "Aloja proizvodi",
+            typeName: "Proizvodi", //required - needs to match template name
             select: {}, //optional
             links: [], //optional
           },
@@ -109,7 +109,7 @@ module.exports = {
         component: './src/templates/googleSheet.vue'
       }
     ],
-    Event: "/events/:id",
+    Proizvodi: "/proizvodi/:id",
   },
 
   transformers: {

@@ -32,16 +32,13 @@
 
 <page-query>
 query {
- products: allEvent (filter: {category: {eq:"licnaHigijena"}}) {
-    edges {
+ products: allProizvodi (filter: {kategorija: {eq:"licnaHigijena"}}) {
+  edges {
       node {
         id
-        title
-        subtitle
-        link
-        textOne
+        h1Hero
         path
-        imgOne{
+        sekcija2Slika{
             url
           }
       }

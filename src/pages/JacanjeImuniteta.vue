@@ -30,16 +30,13 @@
 
 <page-query>
 query {
- products: allEvent (filter: {category: {eq:"imunitet"}}) {
+ products: allProizvodi (filter: {kategorija: {eq:"imunitet"}}) {
     edges {
       node {
         id
-        title
-        subtitle
-        link
-        textOne
+        h1Hero
         path
-        imgOne{
+        sekcija2Slika{
             url
           }
       }

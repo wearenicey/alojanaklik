@@ -28,6 +28,8 @@
 @import 'components/1_rating.scss';
 @import 'components/2_product-card-v2.scss';
 @import 'components/3_products-gallery-v2.scss';
+@import 'components/1_sticky-hero';
+@import 'components/1_main-footer-v4';
 
 
 // .articles {
@@ -35,6 +37,12 @@
 //   z-index: 1;
 // }
 
+
+.ikonice {
+  width: 24px; height: 24px;
+  margin-right: var(--space-xs);
+  color: green;
+}
 
 .sharebar__btn {
   display: inline-block;
@@ -277,4 +285,13 @@ body {
 
 .max-height-picture {
   height: 680px;
+}
+
+.proba {
+  flex-shrink: 0;
+}
+
+.proba2 {
+  flex: 1 1 0%;
+  border-top: 2px solid silver;
 }

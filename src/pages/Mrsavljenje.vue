@@ -31,16 +31,13 @@
 
 <page-query>
 query {
- products: allEvent (filter: {category: {eq:"mrsavljenje"}}) {
+ products: allProizvodi (filter: {kategorija: {eq:"mrsavljenje"}}) {
     edges {
       node {
         id
-        title
-        subtitle
-        link
-        textOne
+        h1Hero
         path
-        imgOne{
+        sekcija2Slika{
             url
           }
       }

@@ -30,16 +30,13 @@
 
 <page-query>
 query {
- products: allEvent (filter: {category: {eq:"ishrana"}}) {
-    edges {
+ products: allProizvodi (filter: {kategorija: {eq:"ishrana"}}) {
+   edges {
       node {
         id
-        title
-        subtitle
-        link
-        textOne
+        h1Hero
         path
-        imgOne{
+        sekcija2Slika{
             url
           }
       }

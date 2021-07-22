@@ -4,10 +4,10 @@
       <div class="grid gap-md">
         <div
           class="col-4@md"
-          v-for="edge in $page.allEvent.edges"
+          v-for="edge in $page.allProizvodi.edges"
           :key="edge.node.id"
         >
-          <h3>{{ edge.node.title }}</h3>
+          <h3>{{ edge.node.h1Hero }}</h3>
         </div>
       </div>
     </div>
@@ -17,21 +17,19 @@
 
 <page-query>
 query {
-  allEvent {
+   allProizvodi {
     edges {
       node {
         id
-        title
-        subtitle
-        link
-        textOne
+        h1Hero
         path
-        imgOne{
+        sekcija2Slika{
             url
           }
       }
     }
-  }
+  
+}
 }
 </page-query>
 
