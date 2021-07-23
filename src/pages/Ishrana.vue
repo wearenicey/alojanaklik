@@ -9,14 +9,17 @@
           ></g-image>
           <div class="grid gap-md justify-between@md">
             <div class="text-component col-6@md">
-              <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h1>
+              <h1>Ishrana</h1>
             </div>
 
             <div class="text-component col-5@md">
               <p class="color-contrast-medium">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus
-                asperiores laudantium at sunt voluptatibus a distinctio adipisci
-                dicta, explicabo quidem.
+                Misija Forevera je da vam pruži alate i znanje za postizanje
+                vaših zdravstvenih ciljeva. Izbor dodataka u ishrani su tu da
+                Vam pomognu da podržite zdravu ishranu, bez obzira u kojoj ste
+                fazi života ili koliko puta dnevno volite da jedete! Izvrsna
+                ponuda vitaminsko-mineralnih dodataka kada dođe vreme za obrok
+                ili užinu.
               </p>
             </div>
           </div>

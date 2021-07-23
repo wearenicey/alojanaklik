@@ -2,12 +2,14 @@
   <Layout>
     <div class="bg-secondary">
       <!-- your content here -->
-      <div class="
+      <div
+        class="
           container
           max-width-adaptive-lg
           min-height-100vh
           flex flex-center
-        ">
+        "
+      >
         <div class="feature-v4">
           <div class="container max-width-adaptive-lg">
             <div class="feature-v4__grid grid gap-md items-center">
@@ -23,23 +25,31 @@
 
                 <div class="margin-top-sm">
                   <div class="flex flex-wrap gap-sm items-center">
-                    <a @click="scroll" class="btn btn--primary">Naruči proizvod</a>
+                    <a @click="scroll" class="btn btn--primary"
+                      >Naruči proizvod</a
+                    >
                   </div>
                 </div>
               </div>
 
               <div class="col-7@md">
                 <figure>
-                  <g-image class="block width-100%" :src="$page.event.slikaHero[0].url" alt="Image description" />
+                  <g-image
+                    class="block width-100%"
+                    :src="$page.event.slikaHero[0].url"
+                    alt="Image description"
+                  />
                 </figure>
               </div>
               <div class="col-12">
-                <div class="
+                <div
+                  class="
                     text-componet text-md@md
                     flex-center
                     margin-top-xxs
                     flex
-                  ">
+                  "
+                >
                   <div class="vert-move">👇</div>
                   <div class="text-center">
                     <p>Skroluj niže za više informacija</p>
@@ -50,16 +60,20 @@
           </div>
         </div>
       </div>
-      <div class="
+      <div
+        class="
           overscroll-section
           position-relative
           z-index-1
           js-overscroll-section
-        ">
-        <section class="
+        "
+      >
+        <section
+          class="
             overscroll-section__sticky-content
             js-overscroll-section__sticky-content
-          ">
+          "
+        >
           <section class="feature-v5 padding-bottom-lg">
             <div class="feature-v5__content">
               <div class="container max-width-adaptive-lg">
@@ -80,8 +94,11 @@
             </div>
 
             <figure class="feature-v5__media container max-width-lg">
-              <g-image class="block width-100% shadow-lg" :src="$page.event.sekcija2Slika[0].url"
-                alt="Image description" />
+              <g-image
+                class="block width-100% shadow-lg"
+                :src="$page.event.sekcija2Slika[0].url"
+                alt="Image description"
+              />
             </figure>
           </section>
 
@@ -102,12 +119,14 @@
                   </div>
                 </div>
                 <div class="col-12">
-                  <div class="
+                  <div
+                    class="
                       text-componet text-md@md
                       flex-center
                       margin-top-xxs
                       flex
-                    ">
+                    "
+                  >
                     <div class="vert-move">👇</div>
                     <div class="text-center">
                       <p>Skroluj niže za više informacija</p>
@@ -119,12 +138,14 @@
           </div>
         </section>
 
-        <section class="
+        <section
+          class="
             overscroll-section__scroll-content
             bg
             js-overscroll-section__scroll-content
             bg-secondary
-          ">
+          "
+        >
           <!-- your content here -->
           <div class="container max-width-lg padding-y-xl">
             <section class="feature-v7 margin-bottom-xl">
@@ -136,7 +157,10 @@
                   <div class="col-6@md">
                     <div class="feature-v7__item flex gap-sm">
                       <figure>
-                        <g-image :src="$page.event.kar1Ikonica[0].url" alt="Image description" />
+                        <g-image
+                          :src="$page.event.kar1Ikonica[0].url"
+                          alt="Image description"
+                        />
                       </figure>
 
                       <div class="text-component">
@@ -151,7 +175,10 @@
                   <div class="col-6@md">
                     <div class="feature-v7__item flex gap-sm">
                       <figure>
-                        <g-image :src="$page.event.kar2Ikonica[0].url" alt="Image description" />
+                        <g-image
+                          :src="$page.event.kar2Ikonica[0].url"
+                          alt="Image description"
+                        />
                       </figure>
 
                       <div class="text-component">
@@ -166,7 +193,10 @@
                   <div class="col-6@md">
                     <div class="feature-v7__item flex gap-sm">
                       <figure>
-                        <g-image :src="$page.event.kar3Ikonica[0].url" alt="Image description" />
+                        <g-image
+                          :src="$page.event.kar3Ikonica[0].url"
+                          alt="Image description"
+                        />
                       </figure>
 
                       <div class="text-component">
@@ -181,7 +211,10 @@
                   <div class="col-6@md">
                     <div class="feature-v7__item flex gap-sm">
                       <figure>
-                        <g-image :src="$page.event.kar4Ikonica[0].url" alt="Image description" />
+                        <g-image
+                          :src="$page.event.kar4Ikonica[0].url"
+                          alt="Image description"
+                        />
                       </figure>
 
                       <div class="text-component">
@@ -196,26 +229,44 @@
               </div>
             </section>
 
-            <ul class="accordion-v2 flex flex-column gap-xxxs js-accordion" data-animation="on" data-multi-items="on"
-              data-version="v2">
-              <li class="
+            <ul
+              class="accordion-v2 flex flex-column gap-xxxs js-accordion"
+              data-animation="on"
+              data-multi-items="on"
+              data-version="v2"
+            >
+              <li
+                class="
                   accordion-v2__item
                   bg
                   shadow-sm
                   radius-md
                   js-accordion__item
-                ">
-                <button class="
+                "
+              >
+                <button
+                  class="
                     reset
                     accordion-v2__header
                     padding-y-sm padding-x-md
                     js-tab-focus
-                  " type="button">
+                  "
+                  type="button"
+                >
                   <span class="text-md text-bold">Namena</span>
 
-                  <svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-                    <g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square"
-                      stroke-miterlimit="10">
+                  <svg
+                    class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                    viewBox="0 0 16 16"
+                    aria-hidden="true"
+                  >
+                    <g
+                      class="icon__group"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="square"
+                      stroke-miterlimit="10"
+                    >
                       <path d="M2 2l12 12" />
                       <path d="M14 2L2 14" />
                     </g>
@@ -223,10 +274,12 @@
                 </button>
 
                 <div class="accordion-v2__panel js-accordion__panel">
-                  <div class="
+                  <div
+                    class="
                       text-component
                       padding-top-xxxs padding-x-md padding-bottom-md
-                    ">
+                    "
+                  >
                     <p>
                       {{ $page.event.namena }}
                     </p>
@@ -234,24 +287,38 @@
                 </div>
               </li>
 
-              <li class="
+              <li
+                class="
                   accordion-v2__item
                   bg
                   shadow-sm
                   radius-md
                   js-accordion__item
-                ">
-                <button class="
+                "
+              >
+                <button
+                  class="
                     reset
                     accordion-v2__header
                     padding-y-sm padding-x-md
                     js-tab-focus
-                  " type="button">
+                  "
+                  type="button"
+                >
                   <span class="text-md text-bold">Kako se upotrebljava </span>
 
-                  <svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-                    <g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square"
-                      stroke-miterlimit="10">
+                  <svg
+                    class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                    viewBox="0 0 16 16"
+                    aria-hidden="true"
+                  >
+                    <g
+                      class="icon__group"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="square"
+                      stroke-miterlimit="10"
+                    >
                       <path d="M2 2l12 12" />
                       <path d="M14 2L2 14" />
                     </g>
@@ -259,33 +326,49 @@
                 </button>
 
                 <div class="accordion-v2__panel js-accordion__panel">
-                  <div class="
+                  <div
+                    class="
                       text-component
                       padding-top-xxxs padding-x-md padding-bottom-md
-                    ">
+                    "
+                  >
                     <p>{{ $page.event.upotreba }}</p>
                   </div>
                 </div>
               </li>
 
-              <li class="
+              <li
+                class="
                   accordion-v2__item
                   bg
                   shadow-sm
                   radius-md
                   js-accordion__item
-                ">
-                <button class="
+                "
+              >
+                <button
+                  class="
                     reset
                     accordion-v2__header
                     padding-y-sm padding-x-md
                     js-tab-focus
-                  " type="button">
+                  "
+                  type="button"
+                >
                   <span class="text-md text-bold">Sastojci</span>
 
-                  <svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-                    <g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square"
-                      stroke-miterlimit="10">
+                  <svg
+                    class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                    viewBox="0 0 16 16"
+                    aria-hidden="true"
+                  >
+                    <g
+                      class="icon__group"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="square"
+                      stroke-miterlimit="10"
+                    >
                       <path d="M2 2l12 12" />
                       <path d="M14 2L2 14" />
                     </g>
@@ -293,10 +376,12 @@
                 </button>
 
                 <div class="accordion-v2__panel js-accordion__panel">
-                  <div class="
+                  <div
+                    class="
                       text-component
                       padding-top-xxxs padding-x-md padding-bottom-md
-                    ">
+                    "
+                  >
                     <p>
                       {{ $page.event.sastojci }}
                     </p>
@@ -304,24 +389,38 @@
                 </div>
               </li>
 
-              <li class="
+              <li
+                class="
                   accordion-v2__item
                   bg
                   shadow-sm
                   radius-md
                   js-accordion__item
-                ">
-                <button class="
+                "
+              >
+                <button
+                  class="
                     reset
                     accordion-v2__header
                     padding-y-sm padding-x-md
                     js-tab-focus
-                  " type="button">
+                  "
+                  type="button"
+                >
                   <span class="text-md text-bold">Napomena</span>
 
-                  <svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-                    <g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square"
-                      stroke-miterlimit="10">
+                  <svg
+                    class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                    viewBox="0 0 16 16"
+                    aria-hidden="true"
+                  >
+                    <g
+                      class="icon__group"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="square"
+                      stroke-miterlimit="10"
+                    >
                       <path d="M2 2l12 12" />
                       <path d="M14 2L2 14" />
                     </g>
@@ -329,10 +428,12 @@
                 </button>
 
                 <div class="accordion-v2__panel js-accordion__panel">
-                  <div class="
+                  <div
+                    class="
                       text-component
                       padding-top-xxxs padding-x-md padding-bottom-md
-                    ">
+                    "
+                  >
                     <p>
                       {{ $page.event.napomena }}
                     </p>
@@ -551,14 +652,16 @@
                 <div class="container max-width-adaptive-lg position-relative">
                   <div class="grid padding-x-md padding-x-0@md">
                     <div class="position-relative z-index-2 col-6@md col-5@lg">
-                      <div class="
+                      <div
+                        class="
                           text-component
                           bg
                           padding-md padding-lg@md
                           shadow-sm
                           line-height-md
                           margin-top-xxxl
-                        ">
+                        "
+                      >
                         <h2>{{ $page.event.opis1Naslov }}</h2>
                         <p class="color-contrast-medium">
                           {{ $page.event.opis1Tekst }}
@@ -566,16 +669,21 @@
                       </div>
                     </div>
 
-                    <figure class="
+                    <figure
+                      class="
                         position-absolute
                         z-index-1
                         top-0
                         right-0
                         height-90%
                         col-10@md
-                      ">
-                      <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis1Slika[0].url"
-                        alt="Image description" />
+                      "
+                    >
+                      <g-image
+                        class="block width-100% height-100% object-cover"
+                        :src="$page.event.opis1Slika[0].url"
+                        alt="Image description"
+                      />
                     </figure>
                   </div>
                 </div>
@@ -585,14 +693,16 @@
                 <div class="container max-width-adaptive-lg position-relative">
                   <div class="grid justify-end padding-x-md padding-x-0@md">
                     <div class="position-relative z-index-2 col-6@md col-5@lg">
-                      <div class="
+                      <div
+                        class="
                           text-component
                           bg
                           padding-md padding-lg@md
                           shadow-sm
                           line-height-md
                           margin-top-xxxl
-                        ">
+                        "
+                      >
                         <h2>{{ $page.event.opis2Naslov }}</h2>
                         <p class="color-contrast-medium">
                           {{ $page.event.opis2Tekst }}
@@ -600,16 +710,21 @@
                       </div>
                     </div>
 
-                    <figure class="
+                    <figure
+                      class="
                         position-absolute
                         z-index-1
                         top-0
                         left-0
                         height-90%
                         col-10@md
-                      ">
-                      <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis2Slika[0].url"
-                        alt="Image description" />
+                      "
+                    >
+                      <g-image
+                        class="block width-100% height-100% object-cover"
+                        :src="$page.event.opis2Slika[0].url"
+                        alt="Image description"
+                      />
                     </figure>
                   </div>
                 </div>
@@ -619,7 +734,10 @@
             <div class="container hide@md max-adaptive-xl margin-y-lg">
               <div class="grid">
                 <div class="col-12 margin-bottom-md">
-                  <g-image :src="$page.event.opis1Slika[0].url" alt="Image description"></g-image>
+                  <g-image
+                    :src="$page.event.opis1Slika[0].url"
+                    alt="Image description"
+                  ></g-image>
                   <div class="text-component margin-top-xs">
                     <h2>{{ $page.event.opis1Naslov }}</h2>
                     <p class="color-contrast-medium">
@@ -628,7 +746,10 @@
                   </div>
                 </div>
                 <div class="col-12">
-                  <g-image :src="$page.event.opis2Slika[0].url" alt="Image description"></g-image>
+                  <g-image
+                    :src="$page.event.opis2Slika[0].url"
+                    alt="Image description"
+                  ></g-image>
                   <div class="text-component margin-top-xs">
                     <h2>{{ $page.event.opis2Naslov }}</h2>
                     <p class="color-contrast-medium">
@@ -639,75 +760,102 @@
               </div>
             </div>
             <!-- end mobile -->
-            <section class=" padding-y-lg " id="yourID">
-
+            <section class="padding-y-lg" id="yourID">
               <div class="container max-width-adaptive-lg margin-bottom-lg">
                 <div class="text-component text-center">
-                  <h1>Naruči sa zvanične stranice, plati karticom ili pouzećem.
+                  <h1>
+                    Naruči sa zvanične stranice, plati karticom ili pouzećem.
                   </h1>
-                  <p class="width-66% margin-x-auto">Internet prodavnica kompanije Forever Living Products doo Beograd
-                    je jedina zvanična prodavnica
-                    artikala sa obeležjima Forever Living Products International.</p>
+                  <p class="width-66%@md width-100% margin-x-auto">
+                    Internet prodavnica kompanije Forever Living Products doo
+                    Beograd je jedina zvanična prodavnica artikala sa obeležjima
+                    Forever Living Products International.
+                  </p>
                 </div>
               </div>
-              <div class="container max-width-adaptive-lg ">
+              <div class="container max-width-adaptive-lg">
                 <div class="grid items-center">
-                  <div class="col-9@md bg-white  padding-xl@md padding-lg ">
+                  <div class="col-9@md bg-white padding-xl@md padding-lg">
                     <div class="grid items-center gap-md">
                       <div class="text-component">
-                        <h3>{{$page.event.ctaNaslov}}</h3>
+                        <h3>{{ $page.event.ctaNaslov }}</h3>
                         <p class="text-sm">
-                          {{$page.event.ctaTekst}}
+                          {{ $page.event.ctaTekst }}
                         </p>
                       </div>
                       <div class="">
                         <div class="flex items-center">
-                          <h5 class="proba  color-error-lighter margin-right-sm">UKLJUČENO</h5>
-                          <div class=" proba2"></div>
-
+                          <h5 class="proba color-error-lighter margin-right-sm">
+                            Učlanjenjem dobijate
+                          </h5>
+                          <div class="proba2"></div>
                         </div>
                         <ul class="grid gap-sm margin-top-md">
-                          <li class="col-6@md ">
-                            <div class="flex items-center ">
-                              <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Proizvode na popustu
-
+                          <li class="col-6@md">
+                            <div class="flex items-center">
+                              <font-awesome
+                                class="ikonice"
+                                :icon="['fas', 'check-circle']"
+                              />
+                              Proizvode na popustu
                             </div>
-
                           </li>
-                          <li class="col-6@md ">
-                            <div class="flex items-center ">
-                              <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />Dodatni materijal
-
+                          <li class="col-6@md">
+                            <div class="flex items-center">
+                              <font-awesome
+                                class="ikonice"
+                                :icon="['fas', 'check-circle']"
+                              />Dodatni materijal
                             </div>
-
                           </li>
-                          <li class="col-6@md ">
-                            <div class="flex items-center ">
-                              <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Dodatnu zaradu "sa
-                              strane"
+                          <li class="col-6@md">
+                            <div class="flex items-center">
+                              <font-awesome
+                                class="ikonice"
+                                :icon="['fas', 'check-circle']"
+                              />
+                              Dodatnu zaradu "sa strane"
                             </div>
-
                           </li>
-                          <li class="col-6@md ">
-                            <div class="flex items-center ">
-                              <font-awesome class="ikonice" :icon="['fas', 'check-circle']" /> Posao po svojoj meri
+                          <li class="col-6@md">
+                            <div class="flex items-center">
+                              <font-awesome
+                                class="ikonice"
+                                :icon="['fas', 'check-circle']"
+                              />
+                              Posao po svojoj meri
                             </div>
-
                           </li>
                         </ul>
                       </div>
                     </div>
                   </div>
-                  <div class="col-3@md padding-y-xl padding-x-xs shadow-lg bg-contrast-lower">
+                  <div
+                    class="
+                      col-3@md
+                      padding-y-xl padding-x-xs
+                      shadow-lg
+                      bg-contrast-lower
+                    "
+                  >
                     <div class="text-component text-center">
                       <p class="text-bold">Pay once, own it forever</p>
-                      <g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
-                        Alojom
+                      <g-link
+                        class="margin-y-sm text-sm"
+                        to="/postanite-saradnik/"
+                        >Saznaj više o benefitima saradnje sa Alojom
                       </g-link>
-                      <h4>{{$page.event.ctaCena}} RSD</h4>
-                      <a :href="$page.event.ctaLink" class="btn btn--primary margin-top-sm">{{$page.event.ctaHero}}</a>
-                      <p class="text-sm margin-top-sm">*Kako biste izvršili kupovinu sa 5% popusta, neophodno je da se
-                        učlanite i poručite proizvode u minimalnom iznosu od 66eur!</p>
+                      <h4>{{ $page.event.ctaCena }} RSD</h4>
+                      <a
+                        :href="$page.event.ctaLink"
+                        class="btn btn--primary margin-top-sm"
+                        >{{ $page.event.ctaHero }}</a
+                      >
+                      <p class="text-sm margin-top-sm">
+                        *Kako biste izvršili kupovinu sa 5% popusta, neophodno
+                        je da se učlanite i poručite proizvode u minimalnom
+                        iznosu od 66eur!
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -801,55 +949,46 @@
 </page-query>
 
 <script>
-  export default {
-    metaInfo() {
-      return {
-        title: this.$page.event.pageTitle,
-        meta: [
-          { name: 'description', content: this.$page.event.metaDesc }
-        ],
-        // etc...
-      }
+export default {
+  metaInfo() {
+    return {
+      title: this.$page.event.pageTitle,
+      meta: [{ name: "description", content: this.$page.event.metaDesc }],
+      // etc...
+    };
+  },
+
+  mounted() {
+    let frontEnd = document.createElement("script");
+    frontEnd.setAttribute("src", "../../main-header.js");
+    frontEnd.setAttribute("id", "main-header-js");
+
+    // 👈 load the JS code once the component is mounted
+    let front = document.createElement("script");
+    front.setAttribute("src", "../../overscroll-section.js"); // 👈 make sure to use the correct path
+    front.setAttribute("id", "overscroll-section-js");
+
+    let accordion = document.createElement("script");
+    accordion.setAttribute("src", "../../accordion.js");
+    accordion.setAttribute("id", "accordion-js");
+    document.body.appendChild(frontEnd);
+
+    document.body.appendChild(front);
+
+    document.body.appendChild(accordion);
+  },
+  destroyed() {
+    document.getElementById("main-header-js").remove();
+    document.getElementById("overscroll-section-js").remove();
+
+    // remove the JS code once the component has been destroyed
+    document.getElementById("accordion-js").remove();
+  },
+  methods: {
+    scroll() {
+      let element = document.getElementById("yourID");
+      element.scrollIntoView({ behavior: "smooth", block: "end" });
     },
-
-    mounted() {
-
-      let frontEnd = document.createElement("script");
-      frontEnd.setAttribute("src", "../../main-header.js");
-      frontEnd.setAttribute("id", "main-header-js");
-
-      // 👈 load the JS code once the component is mounted
-      let front = document.createElement("script");
-      front.setAttribute("src", "../../overscroll-section.js"); // 👈 make sure to use the correct path
-      front.setAttribute("id", "overscroll-section-js");
-
-      let accordion = document.createElement("script");
-      accordion.setAttribute("src", "../../accordion.js");
-      accordion.setAttribute("id", "accordion-js");
-      document.body.appendChild(frontEnd);
-
-      document.body.appendChild(front);
-
-      document.body.appendChild(accordion);
-
-
-    },
-    destroyed() {
-      document.getElementById("main-header-js").remove();
-      document.getElementById("overscroll-section-js").remove();
-
-      // remove the JS code once the component has been destroyed
-      document.getElementById("accordion-js").remove();
-    },
-    methods: {
-
-      scroll() {
-        let element = document.getElementById("yourID");
-        element.scrollIntoView({ behavior: "smooth", block: "end" });
-      }
-
-    }
-
-
-  };
+  },
+};
 </script>

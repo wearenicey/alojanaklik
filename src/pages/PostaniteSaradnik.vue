@@ -348,7 +348,7 @@
               </g>
             </svg>
             <h3>1. korak</h3>
-            <p>Popunite obrazac u nastavku</p>
+            <p>Kontaktirajte nas ili popunite obrazac</p>
           </div>
           <div class="col-3@md">
             <svg
@@ -432,7 +432,7 @@
           </div>
 
           <div class="col-12 padding-top-lg">
-            <a class="btn btn--primary">Klikni za početak</a>
+            <a @click="z" class="btn btn--primary">Popunite obrazac</a>
           </div>
         </div>
       </div>
@@ -459,7 +459,14 @@ export default {
   metaInfo: {
     title: "Postanite saradnik",
   },
-
+  methods: {
+    z() {
+      if (process.isClient)
+        // this will run when linking directly or after a refresh
+        window.location.href =
+          "https://serene-feynman-2c0e7e.netlify.app/contact/";
+    },
+  },
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");

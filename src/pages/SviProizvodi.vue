@@ -14,9 +14,8 @@
 
             <div class="text-component col-5@md">
               <p class="color-contrast-medium">
-                Ojačajte svoj imuni sistem korišćenjem proizvoda na bazi aloje
-                vere. Poboljšajte odbrambeni sistem svog tela za bolju zaštitu
-                od bolesti. Naručite i platite pouzećem!
+                Otkrijte najpopularnije Forever proizvode i spoznajte kako Vam
+                mogu pomoći da danas izgledate bolje i osećate se bolje.
               </p>
             </div>
           </div>

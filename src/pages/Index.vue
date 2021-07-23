@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <section class="feature-v4 margin-y-xl">
+    <section class="feature-v4 padding-y-xxl">
       <div class="container max-width-adaptive-lg">
         <div class="feature-v4__grid grid gap-md items-center">
           <div class="col-5@md position-relative z-index-1">
@@ -33,7 +33,7 @@
         </div>
       </div>
     </section>
-    <div class="container max-width-adaptive-lg margin-y-xxl">
+    <div class="container max-width-adaptive-lg margin-bottom-xxl">
       <section class="feature-v7 margin-bottom-xl">
         <div class="container max-width-adaptive-lg">
           <div class="text-component text-center margin-bottom-xl">
@@ -107,8 +107,162 @@
         </div>
       </section>
     </div>
+    <div class="display@md">
+      <section class="feature-v2 padding-y-xl">
+        <div class="container max-width-adaptive-lg">
+          <div class="grid gap-md">
+            <div class="col-4@md">
+              <h1 class="text-xl">
+                Živite zdrav i srećan način života kakav zaslužujete.
+              </h1>
+            </div>
 
-    <section class="feature-v8 padding-bottom-xxl">
+            <div class="col-8@md">
+              <div class="text-component padding-left-md@md">
+                <p>
+                  Forever Living pruža priliku da započnete posao sa stvarnim
+                  potencijalom i dokazanim rezultatima, a da pritom ne žrtvujete
+                  ravnotežu između poslovnog i privatnog života. Sa proizvodima
+                  Forever Living, imaćete sve potrebno za početak, uključujući
+                  marketinške materijale, podršku i obuku koja će vam pomoći da
+                  napravite uspešan start.
+                </p>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="position-relative z-index-1 flex flex-center">
+        <div class="container position-relative z-index-2">
+          <section class="position-relative z-index-1 padding-y-xl">
+            <div class="container max-width-adaptive-lg position-relative">
+              <div class="grid padding-x-md padding-x-0@md">
+                <div class="position-relative z-index-2 col-6@md col-5@lg">
+                  <div class="
+                      text-component
+                      bg
+                      padding-md padding-lg@md
+                      shadow-sm
+                      line-height-md
+                      margin-y-xxl
+                    ">
+                    <h3>
+                      PREMIJUM PROIZVODI
+                    </h3>
+                    <p>Forever Living predstavlja najbolje u pogledu kvaliteta i
+                      efikasnosti. Forever proizvodi su napravljeni od prirodnih
+                      sastojaka i podržani su dugogodišnjim ispitivanjem.</p>
+                  </div>
+                </div>
+                <figure class="
+                    position-absolute
+                    z-index-1
+                    top-0
+                    right-0
+                    height-100%
+                    col-10@md
+                  ">
+                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-1.jpg"
+                    alt="Image description" />
+                </figure>
+              </div>
+            </div>
+          </section>
+          <section class="position-relative z-index-1 padding-y-xl">
+            <div class="container max-width-adaptive-lg position-relative">
+              <div class="grid justify-end padding-x-md padding-x-0@md">
+                <div class="position-relative z-index-2 col-6@md col-5@lg">
+                  <div class="
+                      text-component
+                      bg
+                      padding-md padding-lg@md
+                      shadow-sm
+                      line-height-md
+                      margin-y-xxl
+                    ">
+                    <h3>
+                      ZDRAVO OKRUŽENJE
+                    </h3>
+                    <p>Forever Living je kompanija sa savešću, gde je na prvom
+                      mestu briga o planeti, ljudima i generacijama koje dolaze.
+                      Nastojimo da pozitivno utičemo na svet oko nas</p>
+                  </div>
+                </div>
+                <figure class="
+                    position-absolute
+                    z-index-1
+                    top-0
+                    left-0
+                    height-100%
+                    col-10@md
+                  ">
+                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-2.jpg">
+                  </g-image>
+                </figure>
+              </div>
+            </div>
+          </section>
+          <section class="position-relative z-index-1 padding-y-xl">
+            <div class="container max-width-adaptive-lg position-relative">
+              <div class="grid padding-x-md padding-x-0@md">
+                <div class="position-relative z-index-2 col-6@md col-5@lg">
+                  <div class="
+                      text-component
+                      bg
+                      padding-md padding-lg@md
+                      shadow-sm
+                      line-height-md
+                      margin-y-xxl
+                    ">
+                    <h3>
+                      BRIGA O DRUGIMA
+                    </h3>
+                    <p>Forever nudi priliku za posao u kome možete zaraditi
+                      koliko god želite, a da istovremeno budete u mogućnosti da
+                      postignete savršenu ravnotežu između poslovnog i privatnog
+                      života kojoj svi teže!</p>
+                  </div>
+                </div>
+
+                <figure class="
+                    position-absolute
+                    z-index-1
+                    top-0
+                    right-0
+                    height-100%
+                    col-10@md
+                  ">
+                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-3.jpg"
+                    alt="Image description" />
+                </figure>
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <div class="
+          position-absolute
+          inset-0
+          bg-secondary
+          z-index-1
+          origin-top-left
+          scroll-fx
+          js-scroll-fx
+        " data-scroll-fx="skewY, -7deg, 0deg, 0%, 50%" aria-hidden="true"></div>
+      </section>
+
+
+      <div class="text-component text-center">
+        <g-link class="btn btn--primary margin-right-md@md margin-bottom-sm">Upoznajte se sa proizvodima
+        </g-link>
+        <g-link to="/postanite-saradnik/" class="btn btn--subtle">
+          Saznaj više o Forever karijeri</g-link>
+      </div>
+
+    </div>
+    <!-- MObile -->
+    <section class="feature-v8 padding-bottom-xxl hide@md">
       <div class="feature-v8__main-content bg-contrast-lower padding-top-xxl">
         <div class="container max-width-adaptive-lg">
           <div class="grid gap-md justify-between@md">
@@ -204,6 +358,7 @@
           Saznaj više o Forever karijeri</g-link>
       </div>
     </section>
+    <!-- end Mobile -->
 
     <section class="products-gallery-v2 padding-y-xl">
       <div class="container max-width-adaptive-lg">
@@ -392,7 +547,7 @@
         <div class="container max-width-sm text-component text-center">
           <h1>Inovativna rešenja za povećanje nivoa energije, jačanje imuno sistema
             i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja
-            hemikalija i konzervansa. Forever Living</h1>
+            hemikalija i konzervansa.</h1>
         </div>
       </div>
     </section>

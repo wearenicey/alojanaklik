@@ -14,10 +14,11 @@
 
             <div class="text-component col-5@md">
               <p class="color-contrast-medium">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum,
-                suscipit voluptatem? Consequatur cupiditate, iure, corporis
-                ducimus natus velit fugiat pariatur nisi officia aspernatur sit?
-                Dolores iste nobis nam repellat maxime.
+                Za mnoge je lična nega često način da pobegnu od svakodnevnog
+                stresa i ostave iza sebe bilo kakve brige. Forever Living razume
+                ovu potrebu za opuštanjem u svetu koji je konstantno dinamičan.
+                Zbog toga su kombinovali prirodne sastojke sa gelom aloe vere,
+                tako da možete iskusiti svoj spa dan bez obzira gde se nalazite!
               </p>
             </div>
           </div>

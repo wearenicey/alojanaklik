@@ -9,15 +9,14 @@
           ></g-image>
           <div class="grid gap-md justify-between@md">
             <div class="text-component col-6@md">
-              <h1>Mrsavljenje</h1>
+              <h1>Mršavljenje</h1>
             </div>
 
             <div class="text-component col-5@md">
               <p class="color-contrast-medium">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum,
-                suscipit voluptatem? Consequatur cupiditate, iure, corporis
-                ducimus natus velit fugiat pariatur nisi officia aspernatur sit?
-                Dolores iste nobis nam repellat maxime.
+                Ako želite da smršate, paleta proizvoda kompanije Forever pomoći
+                će vam da ispunite svoje ciljeve. Svima kome je potrebna pomoć
+                kako bi dobili telo koje su oduvek želeli. Počnite još danas.
               </p>
             </div>
           </div>

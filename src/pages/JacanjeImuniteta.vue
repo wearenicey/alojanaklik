@@ -3,7 +3,7 @@
     <section class="feature-v8 padding-bottom-xxl">
       <div class="feature-v8__main-content bg-contrast-lower padding-top-xxl">
         <div class="container max-width-adaptive-lg">
-              <g-image
+          <g-image
             class="block width-100% height-100% object-cover margin-bottom-sm"
             src="~/assets/img/jacanjeimuniteta.jpg"
           ></g-image>
@@ -14,9 +14,10 @@
 
             <div class="text-component col-5@md">
               <p class="color-contrast-medium">
-                Ojačajte svoj imuni sistem korišćenjem proizvoda na bazi aloje
-                vere. Poboljšajte odbrambeni sistem svog tela za bolju zaštitu
-                od bolesti. Naručite i platite pouzećem!
+                Forever Living asortiman proizvoda pomoći će vam u borbi protiv
+                infekcija i bolesti. Ovi proizvodi sadrže najkorisnije vitamine,
+                minerale i biljne ekstrakte, a sve u cilju jačanja odbrambenog
+                sistema vašeg tela.
               </p>
             </div>
           </div>

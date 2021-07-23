@@ -1,5 +1,11 @@
 <template>
   <Layout>
+    <div
+      class="typeform-widget"
+      data-url="https://form.typeform.com/to/GZe1EmtO?typeform-medium=embed-snippet"
+      style="width: 100%; height: 500px"
+    ></div>
+
     <section>
       <div class="container max-width-sm margin-y-xl">
         <div class="margin-bottom-lg">

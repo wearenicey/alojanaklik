@@ -10,15 +10,16 @@
 
           <div class="grid gap-md justify-between@md">
             <div class="text-component col-6@md">
-              <h1>Licna Higijena</h1>
+              <h1>Lična higijena</h1>
             </div>
 
             <div class="text-component col-5@md">
               <p class="color-contrast-medium">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum,
-                suscipit voluptatem? Consequatur cupiditate, iure, corporis
-                ducimus natus velit fugiat pariatur nisi officia aspernatur sit?
-                Dolores iste nobis nam repellat maxime.
+                Kompanija se fokusira na nežno negovanje nečijeg zdravlja
+                kombinacijom gela aloe vere iz domaćeg uzgoja i drugih
+                visokokvalitetnih sastojaka u njihovoj paleti proizvoda za negu
+                kože, nege, oralne higijene i lepote - a sve bez jakih
+                hemikalija ili sintetičkih mirisa
               </p>
             </div>
           </div>
