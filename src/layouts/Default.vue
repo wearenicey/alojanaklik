@@ -344,7 +344,7 @@ export default {
     y() {
       if (process.isClient)
         // this will run when linking directly or after a refresh
-        window.location.href = "https://www.alojanaklik.rs//contact/";
+        window.location.href = "https://www.alojanaklik.rs/contact/";
     },
   },
   mounted() {
