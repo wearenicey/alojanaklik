@@ -104,7 +104,7 @@ module.exports = {
         component: './src/templates/googleSheet.vue'
       }
     ],
-    Proizvodi: "/proizvodi/:id",
+    Proizvodi: "/proizvodi/:path",
   },
 
   transformers: {
