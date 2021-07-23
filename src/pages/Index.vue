@@ -5,9 +5,9 @@
         <div class="feature-v4__grid grid gap-md items-center">
           <div class="col-5@md position-relative z-index-1">
             <div class="text-component">
-              <h1 class=" padding-top-xxxl ">
-                Forever Living
-                Otkrijte posao kojim se možete ponositi
+              <h1 class="text-xxxl feature-v4__text-offset@md">
+                Forever Living 
+                <!-- Otkrijte posao kojim se možete ponositi -->
               </h1>
               <p>
                 Putovanje od hiljadu koraka započinje prvim. Forever je na ovom
@@ -16,7 +16,7 @@
                 vremena.
               </p>
             </div>
-            <div class="margin-top-xl">
+            <div class="margin-top-sm">
               <div class="flex flex-wrap gap-sm items-center">
                 <g-link to="/svi-proizvodi/" class="btn btn--primary">Upoznajte se sa proizvodima</g-link>
                 <g-link to="/contact/" class="color-inherit">Kontaktirajte nas</g-link>
@@ -24,16 +24,16 @@
             </div>
           </div>
 
-          <div class="col-7@md hide">
+          <div class="col-7@md">
             <figure>
-              <g-image class="block width-100%" src="~/assets/img/pocetna-slika-1.jpeg" alt="Image description"
-                quality="75" />
+              <g-image class="block  width-100%" src="~/assets/img/pocetna-slika-1.jpeg" alt="Image description"
+                quality="75" width="500" height="350" />
             </figure>
           </div>
         </div>
       </div>
     </section>
-    <div class="container max-width-adaptive-lg margin-bottom-xxl">
+    <div class="container max-width-adaptive-lg margin-y-xl">
       <section class="feature-v7 margin-bottom-xl">
         <div class="container max-width-adaptive-lg">
           <div class="text-component text-center margin-bottom-xl">
