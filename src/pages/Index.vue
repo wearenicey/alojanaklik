@@ -7,7 +7,7 @@
             <div class="text-component">
               <h1 class="text-xxxl feature-v4__text-offset@md">
                 Forever Living
-                <!-- Otkrijte posao kojim se možete ponositi -->
+                Otkrijte posao kojim se možete ponositi
               </h1>
               <div>
                 <p>
