@@ -12,9 +12,10 @@
               <div>
                 <p>
                   Putovanje od hiljadu koraka započinje prvim. Forever je na ovom
-                  putu više od 40 godina, a mi tek počinjemo. Radite od kuće i
+                  putu više od 40 godina, a mi tek počinjemo.
+                <p>Radite od kuće i
                   uživajte u fleksibilnosti postavljanja sopstvenog radnog
-                  vremena.
+                  vremena.</p>
                 </p>
               </div>
 
