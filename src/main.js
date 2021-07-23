@@ -17,4 +17,3 @@ export default function (Vue, { router, head, isClient }) {
 
 
 
-// document.getElementsByTagName("html")[0].className += " js";

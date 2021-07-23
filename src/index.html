@@ -2,7 +2,16 @@
 <html ${htmlAttrs}>
 
 <head>
+  ${head}
 
+
+
+
+</head>
+
+<body ${bodyAttrs}>
+  ${app}
+  ${scripts}
   <script src="https://unpkg.com/codyhouse-framework/main/assets/js/util.js"></script>
   <script>document.getElementsByTagName("html")[0].className += " js";</script>
   <script>
@@ -26,16 +35,6 @@
       }
     })();
   </script>
-  ${head}
-
-
-
-
-</head>
-
-<body ${bodyAttrs}>
-  ${app}
-  ${scripts}
 </body>
 
 </html>
