@@ -6,7 +6,7 @@
           <div class="col-5@md position-relative z-index-1">
             <div class="text-component">
               <h1 class="text-xxxl feature-v4__text-offset@md">
-                Forever Living
+                Forever Living <br>
                 Otkrijte posao kojim se možete ponositi
               </h1>
               <div>
