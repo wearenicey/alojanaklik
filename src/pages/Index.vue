@@ -9,12 +9,15 @@
                 Forever Living
                 <!-- Otkrijte posao kojim se možete ponositi -->
               </h1>
-              <p>
-                Putovanje od hiljadu koraka započinje prvim. Forever je na ovom
-                putu više od 40 godina, a mi tek počinjemo. Radite od kuće i
-                uživajte u fleksibilnosti postavljanja sopstvenog radnog
-                vremena.
-              </p>
+              <div>
+                <p>
+                  Putovanje od hiljadu koraka započinje prvim. Forever je na ovom
+                  putu više od 40 godina, a mi tek počinjemo. Radite od kuće i
+                  uživajte u fleksibilnosti postavljanja sopstvenog radnog
+                  vremena.
+                </p>
+              </div>
+
             </div>
             <div class="margin-top-sm">
               <div class="flex flex-wrap gap-sm items-center">
@@ -25,10 +28,12 @@
           </div>
 
           <div class="col-7@md">
-            <figure>
-              <g-image class="block  width-100%" src="~/assets/img/pocetna-slika-1.webp" alt="Image description"
-                quality="75" width="500" height="350" />
-            </figure>
+            <div>
+              <figure>
+                <g-image class="block  width-100%" src="~/assets/img/pocetna-slika-1.webp" alt="Image description"
+                  quality="75" width="500" height="350" />
+              </figure>
+            </div>
           </div>
         </div>
       </div>
