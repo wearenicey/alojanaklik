@@ -51,26 +51,7 @@ export default {
           content: imagePath,
         },
 
-        {
-          key: "twitter:description",
-          name: "twitter:description",
-          content: this.$page.googleSheet.subtitle,
-        },
-        {
-          key: "twitter:card",
-          name: "twitter:card",
-          content: image ? "summary_large_image" : "summary",
-        },
-        {
-          key: "twitter:image",
-          property: "twitter:image",
-          content: imagePath,
-        },
-        {
-          key: "twitter:title",
-          property: "twitter:title",
-          content: this.$page.googleSheet.title,
-        },
+        
       ],
       script: [
         {

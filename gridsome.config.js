@@ -5,15 +5,10 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Aloe',
-  siteDescription: 'Blog about awesome lists, collections of resources around a specific technology.',
-  siteUrl: 'https://serene-feynman-2c0e7e.netlify.app/',
-  metadata: {
-    twitter: {
-      site: '@simon_mannes',
-      creator: '@simon_mannes',
-    }
-  },
+  siteName: 'Forever Living Proizvodi | Aloja Vera',
+  siteDescription: 'Proizvode od aloe vere koji pomažu u poboljšanju zdravlja i blagostanja. Besplatne informacije o proizvodima, ishrani i zdravlju. Kontaktirajte nas i ostvarite popuste.',
+  siteUrl: 'https://www.alojanaklik.rs/',
+
 
   plugins: [
     {

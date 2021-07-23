@@ -323,11 +323,7 @@
     metadata {
       siteName
       siteDescription
-      siteUrl
-       twitter {
-        site
-        creator
-      }
+     
     }
   }
 </static-query>
