@@ -463,8 +463,7 @@ export default {
     z() {
       if (process.isClient)
         // this will run when linking directly or after a refresh
-        window.location.href =
-          "https://serene-feynman-2c0e7e.netlify.app/contact/";
+        window.location.href = "https://www.alojanaklik.rs//contact/";
     },
   },
   mounted() {

@@ -338,14 +338,13 @@ export default {
       // this will only run when navigating to the page
       if (process.isClient)
         // this will run when linking directly or after a refresh
-        window.location.href = "https://serene-feynman-2c0e7e.netlify.app/";
+        window.location.href = "https://www.alojanaklik.rs/";
     },
 
     y() {
       if (process.isClient)
         // this will run when linking directly or after a refresh
-        window.location.href =
-          "https://serene-feynman-2c0e7e.netlify.app/contact/";
+        window.location.href = "https://www.alojanaklik.rs//contact/";
     },
   },
   mounted() {
