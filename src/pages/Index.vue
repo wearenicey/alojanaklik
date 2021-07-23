@@ -24,7 +24,7 @@
             </div>
           </div>
 
-          <div class="col-7@md">
+          <div class="col-7@md hide">
             <figure>
               <g-image class="block width-100%" src="~/assets/img/pocetna-slika-1.jpeg" alt="Image description"
                 quality="75" />
