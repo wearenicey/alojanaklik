@@ -5,7 +5,7 @@
         <div class="feature-v4__grid grid gap-md items-center">
           <div class="col-5@md position-relative z-index-1">
             <div class="text-component">
-              <h1 class="feature-v4__text-offset@md">
+              <h1 class="">
                 Forever Living <br />
                 Otkrijte posao kojim se možete ponositi
               </h1>

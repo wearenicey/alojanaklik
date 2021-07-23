@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="articles padding-top-xl margin-bottom-xxl">
+    <div class="articles padding-top-xxl margin-bottom-xxl">
       <div class="container max-width-adaptive-lg">
         <div>
           <transition-group class="projects" name="fade">

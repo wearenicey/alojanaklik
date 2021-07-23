@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <article class="padding-y-lg">
+    <article class="padding-y-xxl ">
       <header class="container max-width-xs margin-bottom-lg">
         <div
           class="
