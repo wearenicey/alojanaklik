@@ -5,8 +5,8 @@
         <div class="feature-v4__grid grid gap-md items-center">
           <div class="col-5@md position-relative z-index-1">
             <div class="text-component">
-              <h1 class="">
-                Forever Living <br />
+              <h1 class="padding-bottom-xl">
+                Forever Living
                 Otkrijte posao kojim se možete ponositi
               </h1>
               <p>
@@ -16,7 +16,7 @@
                 vremena.
               </p>
             </div>
-            <div class="margin-top-sm">
+            <div class="margin-top-xl">
               <div class="flex flex-wrap gap-sm items-center">
                 <g-link to="/svi-proizvodi/" class="btn btn--primary">Upoznajte se sa proizvodima</g-link>
                 <g-link to="/contact/" class="color-inherit">Kontaktirajte nas</g-link>
