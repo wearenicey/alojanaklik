@@ -7,7 +7,7 @@
             <div class="text-component">
               <h1 class="text-xxxl feature-v4__text-offset@md">
                 Forever Living
-                <!-- Otkrijte posao kojim se možete ponositi -->
+                Otkrijte posao kojim se možete ponositi
               </h1>
               <div>
                 <p>
@@ -29,11 +29,11 @@
 
           <div class="col-7@md">
             <div>
-            <figure>
-              <g-image class="block  width-100%" src="~/assets/img/pocetna-slika-1.webp" alt="Image description"
-                quality="75" width="500" height="350" />
-            </figure>
-          </div>
+              <figure>
+                <g-image class="block  width-100%" src="~/assets/img/pocetna-slika-1.webp" alt="Image description"
+                  quality="75" width="500" height="350" />
+              </figure>
+            </div>
           </div>
         </div>
       </div>
