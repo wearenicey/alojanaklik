@@ -11,7 +11,6 @@
           </figure>
 
           <footer class="padding-sm">
-            <p class="text-sm color-contrast-medium margin-bottom-sm">Label</p>
             <div class="text-component">
               <h4>
                 <span class="card-v8__title">{{ item.node.h1Hero }}</span>

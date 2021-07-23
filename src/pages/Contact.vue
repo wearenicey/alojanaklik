@@ -1,5 +1,6 @@
 <template>
   <Layout>
+    <div class="padding-y-sm"></div>
     <div
       class="typeform-widget"
       data-url="https://form.typeform.com/to/GZe1EmtO?typeform-medium=embed-snippet"
