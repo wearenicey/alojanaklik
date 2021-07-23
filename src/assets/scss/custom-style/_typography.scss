@@ -1,12 +1,8 @@
-// --------------------------------
 
-// (START) Global editor code https://codyhouse.co/ds/globals/typography
-
-// --------------------------------
 
 :root {
   // font family
-  --font-primary: Inter, system-ui, sans-serif;
+  --font-primary: sans-serif;
 
   // font size
   --text-base-size: 1em; // body font-size
@@ -56,43 +52,15 @@ h1, h2, h3, h4 {
 // font family
 .font-primary { font-family: var(--font-primary); }
 
-// --------------------------------
+// color
+.color-secondary-darker { color: alpha(var(--color-secondary-darker), var(--color-o, 1)); }
+.color-secondary-dark { color: alpha(var(--color-secondary-dark), var(--color-o, 1)); }
+.color-secondary { color: alpha(var(--color-secondary), var(--color-o, 1)); }
+.color-secondary-light { color: alpha(var(--color-secondary-light), var(--color-o, 1)); }
+.color-secondary-lighter { color: alpha(var(--color-secondary-lighter), var(--color-o, 1)); }
+.color-tertiary-darker { color: alpha(var(--color-tertiary-darker), var(--color-o, 1)); }
+.color-tertiary-dark { color: alpha(var(--color-tertiary-dark), var(--color-o, 1)); }
+.color-tertiary { color: alpha(var(--color-tertiary), var(--color-o, 1)); }
+.color-tertiary-light { color: alpha(var(--color-tertiary-light), var(--color-o, 1)); }
+.color-tertiary-lighter { color: alpha(var(--color-tertiary-lighter), var(--color-o, 1)); }
 
-// (END) Global editor code
-
-// --------------------------------
-
-// link style
-a, .link {
-  color: var(--color-accent);
-}
-
-mark {
-  background-color: alpha(var(--color-accent), 0.2);
-  color: inherit;
-}
-
-.text-component {
-  --line-height-multiplier: 1;
-  --text-vspace-multiplier: 1;
-
-  blockquote {
-    padding-left: 1em;
-    border-left: 4px solid var(--color-contrast-low);
-  }
-
-  hr {
-    background: var(--color-contrast-low);
-    height: 1px;
-  }
-
-  figcaption {
-    font-size: var(--text-sm);
-    color: var(--color-contrast-medium);
-  }
-}
-
-.article { // e.g., blog posts
-  --body-line-height: 1.58; // set body line-height
-  --text-vspace-multiplier: 1.2; // increase vertical spacing
-}
