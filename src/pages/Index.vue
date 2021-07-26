@@ -385,7 +385,6 @@
           <div class="col-8@lg">
             <div class="grid gap-md">
               <div class="prod-card-v2 col-3@md">
-                <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
                 <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/aloja-vera-gel/"
                   aria-label="Description of the link">
@@ -428,7 +427,6 @@
               </div>
 
               <div class="prod-card-v2 col-3@md">
-                <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
                 <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/pasta-za-zube/"
                   aria-label="Description of the link">
@@ -469,7 +467,6 @@
               </div>
 
               <div class="prod-card-v2 col-3@md">
-                <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
                 <a class="prod-card-v2__img-link radius-lg shadow-sm" href="#0" aria-label="Description of the link">
                   <g-image src="~/assets/img/probiotik.webp" alt="Product preview image" quality="75" />
