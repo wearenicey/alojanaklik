@@ -105,75 +105,75 @@
     </div>
 
     <!-- your content here -->
-      <section class="feature-v7 margin-y-xl">
-        <div class="container max-width-adaptive-lg">
-          <div class="text-component text-center margin-bottom-xl">
-            <h2>{{ $page.event.h1Hero }} karakteristike</h2>
+    <section class="feature-v7 margin-y-xl">
+      <div class="container max-width-adaptive-lg">
+        <div class="text-component text-center margin-bottom-xl">
+          <h2>{{ $page.event.h1Hero }} karakteristike</h2>
+        </div>
+        <div class="grid gap-md">
+          <div class="col-6@md">
+            <div class="feature-v7__item flex gap-sm">
+              <figure>
+                <g-image :src="$page.event.kar1Ikonica[0].url" alt="Image description" />
+              </figure>
+
+              <div class="text-component">
+                <h4>{{ $page.event.kar1Naslov }}</h4>
+                <p>
+                  {{ $page.event.kar1P }}
+                </p>
+              </div>
+            </div>
           </div>
-          <div class="grid gap-md">
-            <div class="col-6@md">
-              <div class="feature-v7__item flex gap-sm">
-                <figure>
-                  <g-image :src="$page.event.kar1Ikonica[0].url" alt="Image description" />
-                </figure>
 
-                <div class="text-component">
-                  <h4>{{ $page.event.kar1Naslov }}</h4>
-                  <p>
-                    {{ $page.event.kar1P }}
-                  </p>
-                </div>
+          <div class="col-6@md">
+            <div class="feature-v7__item flex gap-sm">
+              <figure>
+                <g-image :src="$page.event.kar2Ikonica[0].url" alt="Image description" />
+              </figure>
+
+              <div class="text-component">
+                <h4>{{ $page.event.kar2Naslov }}</h4>
+                <p>
+                  {{ $page.event.kar2P }}
+                </p>
               </div>
             </div>
+          </div>
 
-            <div class="col-6@md">
-              <div class="feature-v7__item flex gap-sm">
-                <figure>
-                  <g-image :src="$page.event.kar2Ikonica[0].url" alt="Image description" />
-                </figure>
+          <div class="col-6@md">
+            <div class="feature-v7__item flex gap-sm">
+              <figure>
+                <g-image :src="$page.event.kar3Ikonica[0].url" alt="Image description" />
+              </figure>
 
-                <div class="text-component">
-                  <h4>{{ $page.event.kar2Naslov }}</h4>
-                  <p>
-                    {{ $page.event.kar2P }}
-                  </p>
-                </div>
+              <div class="text-component">
+                <h4>{{ $page.event.kar3Naslov }}</h4>
+                <p>
+                  {{ $page.event.kar3P }}
+                </p>
               </div>
             </div>
+          </div>
 
-            <div class="col-6@md">
-              <div class="feature-v7__item flex gap-sm">
-                <figure>
-                  <g-image :src="$page.event.kar3Ikonica[0].url" alt="Image description" />
-                </figure>
+          <div class="col-6@md">
+            <div class="feature-v7__item flex gap-sm">
+              <figure>
+                <g-image :src="$page.event.kar4Ikonica[0].url" alt="Image description" />
+              </figure>
 
-                <div class="text-component">
-                  <h4>{{ $page.event.kar3Naslov }}</h4>
-                  <p>
-                    {{ $page.event.kar3P }}
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-6@md">
-              <div class="feature-v7__item flex gap-sm">
-                <figure>
-                  <g-image :src="$page.event.kar4Ikonica[0].url" alt="Image description" />
-                </figure>
-
-                <div class="text-component">
-                  <h4>{{ $page.event.kar4Naslov }}</h4>
-                  <p>
-                    {{ $page.event.kar4P }}
-                  </p>
-                </div>
+              <div class="text-component">
+                <h4>{{ $page.event.kar4Naslov }}</h4>
+                <p>
+                  {{ $page.event.kar4P }}
+                </p>
               </div>
             </div>
           </div>
         </div>
-      </section>
-      <div class="container max-width-lg padding-y-xl">
+      </div>
+    </section>
+    <div class="container max-width-lg padding-y-xl">
 
       <ul class="accordion-v2 flex flex-column gap-xxxs js-accordion" data-animation="on" data-multi-items="on"
         data-version="v2">
@@ -321,38 +321,38 @@
         radius-md
         js-accordion__item
       ">
-<button class="
+          <button class="
           reset
           accordion-v2__header
           padding-y-sm padding-x-md
           js-tab-focus
         " type="button">
-  <span class="text-md text-bold">Napomena</span>
+            <span class="text-md text-bold">Napomena</span>
 
-  <svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-    <g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10">
-      <path d="M2 2l12 12" />
-      <path d="M14 2L2 14" />
-    </g>
-  </svg>
-</button>
+            <svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
+              <g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10">
+                <path d="M2 2l12 12" />
+                <path d="M14 2L2 14" />
+              </g>
+            </svg>
+          </button>
 
-<div class="accordion-v2__panel js-accordion__panel">
-  <div class="
+          <div class="accordion-v2__panel js-accordion__panel">
+            <div class="
             text-component
             padding-top-xxxs padding-x-md padding-bottom-md
           ">
-    <p>
-      {{ $page.event.napomena }}
-    </p>
-  </div>
-</div>
-</li>          
+              <p>
+                {{ $page.event.napomena }}
+              </p>
+            </div>
+          </div>
+        </li>
         </li>
       </ul>
-      </div>
-      <!-- recenzije -->
-      <!-- <section>
+    </div>
+    <!-- recenzije -->
+    <!-- <section>
               <div class="container max-width-adaptive-lg margin-y-xl">
                 <div class="margin-bottom-md text-bold">
                   <h2 class="text-center">Aloe Vera Gel iskustva</h2>
@@ -556,13 +556,13 @@
                 </div>
               </div>
             </section> -->
-      <!--end recenzije  -->
-      <div class="display@md">
-        <section class="position-relative z-index-1 padding-y-xl">
-          <div class="container max-width-adaptive-lg position-relative">
-            <div class="grid padding-x-md padding-x-0@md">
-              <div class="position-relative z-index-2 col-6@md col-5@lg">
-                <div class="
+    <!--end recenzije  -->
+    <div class="display@md">
+      <section class="position-relative z-index-1 padding-y-xl">
+        <div class="container max-width-adaptive-lg position-relative">
+          <div class="grid padding-x-md padding-x-0@md">
+            <div class="position-relative z-index-2 col-6@md col-5@lg">
+              <div class="
                           text-component
                           bg
                           padding-md padding-lg@md
@@ -570,14 +570,14 @@
                           line-height-md
                           margin-top-xxxl
                         ">
-                  <h2>{{ $page.event.opis1Naslov }}</h2>
-                  <p class="color-contrast-medium">
-                    {{ $page.event.opis1Tekst }}
-                  </p>
-                </div>
+                <h2>{{ $page.event.opis1Naslov }}</h2>
+                <p class="color-contrast-medium">
+                  {{ $page.event.opis1Tekst }}
+                </p>
               </div>
+            </div>
 
-              <figure class="
+            <figure class="
                         position-absolute
                         z-index-1
                         top-0
@@ -585,18 +585,18 @@
                         height-90%
                         col-10@md
                       ">
-                <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis1Slika[0].url"
-                  alt="Image description" />
-              </figure>
-            </div>
+              <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis1Slika[0].url"
+                alt="Image description" />
+            </figure>
           </div>
-        </section>
+        </div>
+      </section>
 
-        <section class="position-relative z-index-1 padding-y-xl">
-          <div class="container max-width-adaptive-lg position-relative">
-            <div class="grid justify-end padding-x-md padding-x-0@md">
-              <div class="position-relative z-index-2 col-6@md col-5@lg">
-                <div class="
+      <section class="position-relative z-index-1 padding-y-xl">
+        <div class="container max-width-adaptive-lg position-relative">
+          <div class="grid justify-end padding-x-md padding-x-0@md">
+            <div class="position-relative z-index-2 col-6@md col-5@lg">
+              <div class="
                           text-component
                           bg
                           padding-md padding-lg@md
@@ -604,14 +604,14 @@
                           line-height-md
                           margin-top-xxxl
                         ">
-                  <h2>{{ $page.event.opis2Naslov }}</h2>
-                  <p class="color-contrast-medium">
-                    {{ $page.event.opis2Tekst }}
-                  </p>
-                </div>
+                <h2>{{ $page.event.opis2Naslov }}</h2>
+                <p class="color-contrast-medium">
+                  {{ $page.event.opis2Tekst }}
+                </p>
               </div>
+            </div>
 
-              <figure class="
+            <figure class="
                         position-absolute
                         z-index-1
                         top-0
@@ -619,118 +619,120 @@
                         height-90%
                         col-10@md
                       ">
-                <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis2Slika[0].url"
-                  alt="Image description" />
-              </figure>
-            </div>
-          </div>
-        </section>
-      </div>
-      <!-- Mobile -->
-      <div class="container hide@md max-adaptive-xl margin-y-lg">
-        <div class="grid">
-          <div class="col-12 margin-bottom-md">
-            <g-image :src="$page.event.opis1Slika[0].url" alt="Image description"></g-image>
-            <div class="text-component margin-top-xs">
-              <h2>{{ $page.event.opis1Naslov }}</h2>
-              <p class="color-contrast-medium">
-                {{ $page.event.opis1Tekst }}
-              </p>
-            </div>
-          </div>
-          <div class="col-12">
-            <g-image :src="$page.event.opis2Slika[0].url" alt="Image description"></g-image>
-            <div class="text-component margin-top-xs">
-              <h2>{{ $page.event.opis2Naslov }}</h2>
-              <p class="color-contrast-medium">
-                {{ $page.event.opis2Tekst }}
-              </p>
-            </div>
+              <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis2Slika[0].url"
+                alt="Image description" />
+            </figure>
           </div>
         </div>
-      </div>
-      <!-- end mobile -->
-      <section class="padding-y-lg" id="yourID">
-        <div class="container max-width-adaptive-lg margin-bottom-lg">
-          <div class="text-component text-center">
-            <h1>
-              Naruči sa zvanične stranice, plati karticom ili pouzećem.
-            </h1>
-            <p class="width-66%@md width-100% margin-x-auto">
-              Internet prodavnica kompanije Forever Living Products doo
-              Beograd je jedina zvanična prodavnica artikala sa obeležjima
-              Forever Living Products International.
+      </section>
+    </div>
+    <!-- Mobile -->
+    <div class="container hide@md max-adaptive-xl margin-y-lg">
+      <div class="grid">
+        <div class="col-12 margin-bottom-md">
+          <g-image :src="$page.event.opis1Slika[0].url" alt="Image description"></g-image>
+          <div class="text-component margin-top-xs">
+            <h2>{{ $page.event.opis1Naslov }}</h2>
+            <p class="color-contrast-medium">
+              {{ $page.event.opis1Tekst }}
             </p>
           </div>
         </div>
-        <div class="container max-width-adaptive-lg">
-          <div class="grid items-center">
-            <div class="col-9@md bg-white padding-xl@md padding-lg">
-              <div class="grid items-center gap-md">
-                <div class="text-component">
-                  <h3>{{ $page.event.ctaNaslov }}</h3>
-                  <p class="text-sm">
-                    {{ $page.event.ctaTekst }}
-                  </p>
+        <div class="col-12">
+          <g-image :src="$page.event.opis2Slika[0].url" alt="Image description"></g-image>
+          <div class="text-component margin-top-xs">
+            <h2>{{ $page.event.opis2Naslov }}</h2>
+            <p class="color-contrast-medium">
+              {{ $page.event.opis2Tekst }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end mobile -->
+    <section class="padding-y-lg" id="yourID">
+      <div class="container max-width-adaptive-lg margin-bottom-lg">
+        <div class="text-component text-center">
+          <h1>
+            Naruči sa zvanične stranice, plati karticom ili pouzećem.
+          </h1>
+          <p class="width-66%@md width-100% margin-x-auto">
+            Internet prodavnica kompanije Forever Living Products doo
+            Beograd je jedina zvanična prodavnica artikala sa obeležjima
+            Forever Living Products International.
+          </p>
+        </div>
+      </div>
+      <div class="container max-width-adaptive-lg">
+        <div class="grid items-center">
+          <div class="col-9@md bg-white padding-xl@md padding-lg">
+            <div class="grid items-center gap-md">
+              <div class="text-component">
+                <h3>{{ $page.event.ctaNaslov }}</h3>
+                <p class="text-sm">
+                  {{ $page.event.ctaTekst }}
+                </p>
+              </div>
+              <div class="">
+                <div class="flex items-center">
+                  <h5 class="proba color-error-lighter margin-right-sm">
+                    Učlanjenjem dobijate
+                  </h5>
+                  <div class="proba2"></div>
                 </div>
-                <div class="">
-                  <div class="flex items-center">
-                    <h5 class="proba color-error-lighter margin-right-sm">
-                      Učlanjenjem dobijate
-                    </h5>
-                    <div class="proba2"></div>
-                  </div>
-                  <ul class="grid gap-sm margin-top-md">
-                    <li class="col-6@md">
-                      <div class="flex items-center">
-                        <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
-                        Proizvode na popustu
-                      </div>
-                    </li>
-                    <li class="col-6@md">
-                      <div class="flex items-center">
-                        <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />Dodatni materijal
-                      </div>
-                    </li>
-                    <li class="col-6@md">
-                      <div class="flex items-center">
-                        <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
-                        Dodatnu zaradu "sa strane"
-                      </div>
-                    </li>
-                    <li class="col-6@md">
-                      <div class="flex items-center">
-                        <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
-                        Posao po svojoj meri
-                      </div>
-                    </li>
-                  </ul>
-                </div>
+                <ul class="grid gap-sm margin-top-md">
+                  <li class="col-6@md">
+                    <div class="flex items-center">
+                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      Proizvode na popustu
+                    </div>
+                  </li>
+                  <li class="col-6@md">
+                    <div class="flex items-center">
+                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />Dodatni materijal
+                    </div>
+                  </li>
+                  <li class="col-6@md">
+                    <div class="flex items-center">
+                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      Dodatnu zaradu "sa strane"
+                    </div>
+                  </li>
+                  <li class="col-6@md">
+                    <div class="flex items-center">
+                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      Posao po svojoj meri
+                    </div>
+                  </li>
+                </ul>
               </div>
             </div>
-            <div class="
+          </div>
+          <div class="
                       col-3@md
                       padding-y-xl padding-x-xs
                       shadow-lg
                       bg-contrast-lower
                     ">
-              <div class="text-component text-center">
-                <p class="text-bold">Pay once, own it forever</p>
-                <g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
-                  Alojom
-                </g-link>
-                <h4>{{ $page.event.ctaCena }} RSD</h4>
-                <a :href="$page.event.ctaLink" class="btn btn--primary margin-top-sm">Naruči proizvod </a>
-                <p class="text-sm margin-top-sm">
-                  *Kako biste izvršili kupovinu sa 5% popusta, neophodno
-                  je da se učlanite i poručite proizvode u minimalnom
-                  iznosu od 66eur!
-                </p>
-              </div>
+            <div class="text-component text-center">
+              <p class="text-bold">Kupi jednom, zaljubi se FOREVER
+              </p>
+
+              <h4>{{ $page.event.ctaCena }} RSD</h4>
+              <g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
+                Alojom
+              </g-link>
+              <a :href="$page.event.ctaLink" class="btn btn--primary margin-top-sm">Naruči proizvod </a>
+              <p class="text-sm margin-top-sm">
+                *Kako biste izvršili kupovinu sa 5% popusta, neophodno
+                je da se učlanite i poručite proizvode u minimalnom
+                iznosu od 66eur!
+              </p>
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
   </Layout>
 </template>
 <page-query>
@@ -832,7 +834,7 @@
       frontEnd.setAttribute("id", "main-header-js");
 
       // 👈 load the JS code once the component is mounted
-     
+
 
       let accordion = document.createElement("script");
       accordion.setAttribute("src", "../../accordion.js");
