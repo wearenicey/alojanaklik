@@ -98,12 +98,7 @@ module.exports = {
     Post: '/blog/:path',
     Tag: '/tag/:id',
 
-    googleSheet: [
-      {
-        path: '/napici/:id',
-        component: './src/templates/googleSheet.vue'
-      }
-    ],
+
     Proizvodi: "/proizvodi/:path",
   },
 
