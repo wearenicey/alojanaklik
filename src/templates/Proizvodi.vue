@@ -719,10 +719,13 @@
               </p>
 
               <h4>{{ $page.event.ctaCena }} RSD</h4>
-              <g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
-                Alojom
-              </g-link>
-              <a :href="$page.event.ctaLink" class="btn btn--primary margin-top-sm">Naruči proizvod </a>
+              <div>
+                <g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
+                  Alojom
+                </g-link>
+              </div>
+
+              <a :href="$page.event.ctaLink" class="btn  margin-top-sm btn--primary">Naruči proizvod </a>
               <p class="text-sm margin-top-sm">
                 *Kako biste izvršili kupovinu sa 5% popusta, neophodno
                 je da se učlanite i poručite proizvode u minimalnom
