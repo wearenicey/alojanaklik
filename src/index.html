@@ -4,6 +4,9 @@
 <head>
 
   ${head}
+  <script src="./util.js"></script>
+
+  <script>document.getElementsByTagName("html")[0].className += " js";</script>
 
 
 
@@ -12,9 +15,7 @@
 </head>
 
 <body ${bodyAttrs}>
-  <script src="./util.js"></script>
 
-  <script>document.getElementsByTagName("html")[0].className += " js";</script>
   ${app}
   ${scripts}
   <script>
