@@ -167,7 +167,7 @@
                     height-100%
                     col-10@md
                   ">
-                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-1.jpg"
+                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-1.webp"
                     alt="Image description" />
                 </figure>
               </div>
@@ -201,7 +201,7 @@
                     height-100%
                     col-10@md
                   ">
-                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-2.jpg">
+                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-2.webp">
                   </g-image>
                 </figure>
               </div>
@@ -237,7 +237,7 @@
                     height-100%
                     col-10@md
                   ">
-                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-3.jpg"
+                  <g-image class="block width-100% height-100% object-cover" src="~/assets/img/pocetna-kartica-3.webp"
                     alt="Image description" />
                 </figure>
               </div>
@@ -384,24 +384,22 @@
 
           <div class="col-8@lg">
             <div class="grid gap-md">
-              <div class="prod-card-v2 col-4@md">
+              <div class="prod-card-v2 col-3@md">
                 <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
-                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="#0" aria-label="Description of the link">
+                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/aloja-vera-gel/" aria-label="Description of the link">
                   <figure>
-                    <g-image src="~/assets/img/pocetna-kartica-3.jpg" alt="Product preview image" quality="75" />
+                    <g-image src="~/assets/img/aloe-vera-gel.webp" alt="Product preview image" quality="75" />
                   </figure>
                 </a>
 
                 <div class="padding-sm text-center">
                   <h1 class="text-md">
-                    <a href="#0" class="product-card-v2__title">Forever Aloe Vera Gel
+                    <a href="/proizvodi/aloja-vera-gel/" class="product-card-v2__title">Forever Aloe Vera Gel
                     </a>
                   </h1>
 
-                  <div class="margin-y-xxxs">
-                    <span class="prod-card-v2__price">$79</span>
-                  </div>
+
 
                   <div class="rating js-rating js-rating--read-only">
                     <p class="sr-only">
@@ -428,23 +426,20 @@
                 </div>
               </div>
 
-              <div class="prod-card-v2 col-4@md">
+              <div class="prod-card-v2 col-3@md">
                 <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
-                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="#0" aria-label="Description of the link">
+                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/pasta-za-zube/" aria-label="Description of the link">
                   <figure>
-                    <g-image src="~/assets/img/pocetna-kartica-3.jpg" alt="Product preview image" quality="75" />
+                    <g-image src="~/assets/img/pasta-za-zube.webp" alt="Product preview image" quality="75" />
                   </figure>
                 </a>
 
                 <div class="padding-sm text-center">
                   <h1 class="text-md">
-                    <a href="#0" class="product-card-v2__title">Pasta za zube</a>
+                    <a href="/proizvodi/pasta-za-zube/" class="product-card-v2__title">Pasta za zube</a>
                   </h1>
 
-                  <div class="margin-y-xxxs">
-                    <span class="prod-card-v2__price">$79</span>
-                  </div>
 
                   <div class="rating js-rating js-rating--read-only">
                     <p class="sr-only">
@@ -471,21 +466,55 @@
                 </div>
               </div>
 
-              <div class="prod-card-v2 col-4@md">
+              <div class="prod-card-v2 col-3@md">
                 <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
                 <a class="prod-card-v2__img-link radius-lg shadow-sm" href="#0" aria-label="Description of the link">
-                  <g-image src="~/assets/img/pocetna-kartica-3.jpg" alt="Product preview image" quality="75" />
+                  <g-image src="~/assets/img/probiotik.webp" alt="Product preview image" quality="75" />
                 </a>
 
                 <div class="padding-sm text-center">
                   <h1 class="text-md">
-                    <a href="#0" class="product-card-v2__title">Probiotik - Forever Aktiv</a>
+                    <a href="/proizvodi/probiotik/" class="product-card-v2__title">Probiotik Forever Aktiv</a>
                   </h1>
 
-                  <div class="margin-y-xxxs">
-                    <span class="prod-card-v2__price">$79</span>
+                  <div class="rating js-rating js-rating--read-only">
+                    <p class="sr-only">
+                      The rating of this product is
+                      <span class="rating__value js-rating__value">3.5</span>
+                      out of 5
+                    </p>
+
+                    <a href="/proizvodi/probiotik/" class="rating__link" aria-label="Read reviews">
+                      <div class="
+                          rating__control
+                          overflow-hidden
+                          rating__control--is-hidden
+                          js-rating__control
+                        ">
+                        <svg width="24" height="24" viewBox="0 0 24 24">
+                          <polygon
+                            points="12 1.489 15.09 7.751 22 8.755 17 13.629 18.18 20.511 12 17.261 5.82 20.511 7 13.629 2 8.755 8.91 7.751 12 1.489"
+                            fill="currentColor" />
+                        </svg>
+                      </div>
+                    </a>
                   </div>
+                </div>
+              </div>
+              <div class="prod-card-v2 col-3@md">
+                <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
+
+                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/dezodorans/" aria-label="Description of the link">
+                  <g-image src="~/assets/img/dezodorans.webp" alt="Product preview image" quality="75" />
+                </a>
+
+                <div class="padding-sm text-center">
+                  <h1 class="text-md">
+                    <a href="/proizvodi/dezodorans/" class="product-card-v2__title">Dezodorans</a>
+                  </h1>
+
+                
 
                   <div class="rating js-rating js-rating--read-only">
                     <p class="sr-only">
