@@ -565,6 +565,7 @@
     metaInfo() {
       return {
         title: "Forever Living Proizvodi | Aloja Vera",
+        titleTemplate: "Forever Living Proizvodi | Aloja Vera",
         meta: [{ name: "description", content: "Proizvodi od aloe vere koji pomažu u poboljšanju zdravlja i blagostanja. Besplatne informacije o proizvodima, ishrani i zdravlju. Kontaktirajte nas i ostvarite popuste." }],
 
         meta: [{ name: "og:image", content: "https://www.alojanaklik.rs/assets/static/pocetna-kartica-1.71307f6.c41812ecc77912f15e9cd0d465c2cdf6.jpg" }],

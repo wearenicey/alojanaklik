@@ -819,6 +819,8 @@
     metaInfo() {
       return {
         title: this.$page.event.pageTitle,
+        titleTemplate: this.$page.event.pageTitle,
+
         meta: [{ name: "description", content: this.$page.event.metaDesc }],
         // etc...
       };
