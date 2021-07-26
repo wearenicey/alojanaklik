@@ -347,15 +347,6 @@ export default {
         window.location.href = "https://www.alojanaklik.rs/contact/";
     },
   },
-  mounted() {
-    let frontEnd = document.createElement("script");
-    frontEnd.setAttribute("src", "./main-header.js");
-    frontEnd.setAttribute("id", "main-header-js");
 
-    document.body.appendChild(frontEnd);
-  },
-  destroyed() {
-    document.getElementById("main-header-js").remove();
-  },
 };
 </script>

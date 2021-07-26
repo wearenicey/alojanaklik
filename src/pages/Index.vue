@@ -387,7 +387,8 @@
               <div class="prod-card-v2 col-3@md">
                 <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
-                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/aloja-vera-gel/" aria-label="Description of the link">
+                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/aloja-vera-gel/"
+                  aria-label="Description of the link">
                   <figure>
                     <g-image src="~/assets/img/aloe-vera-gel.webp" alt="Product preview image" quality="75" />
                   </figure>
@@ -429,7 +430,8 @@
               <div class="prod-card-v2 col-3@md">
                 <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
-                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/pasta-za-zube/" aria-label="Description of the link">
+                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/pasta-za-zube/"
+                  aria-label="Description of the link">
                   <figure>
                     <g-image src="~/assets/img/pasta-za-zube.webp" alt="Product preview image" quality="75" />
                   </figure>
@@ -505,7 +507,8 @@
               <div class="prod-card-v2 col-3@md">
                 <span class="prod-card-v2__badge" role="text">Popularno <i class="sr-only">product</i></span>
 
-                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/dezodorans/" aria-label="Description of the link">
+                <a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/dezodorans/"
+                  aria-label="Description of the link">
                   <g-image src="~/assets/img/dezodorans.webp" alt="Product preview image" quality="75" />
                 </a>
 
@@ -514,7 +517,7 @@
                     <a href="/proizvodi/dezodorans/" class="product-card-v2__title">Dezodorans</a>
                   </h1>
 
-                
+
 
                   <div class="rating js-rating js-rating--read-only">
                     <p class="sr-only">
@@ -603,6 +606,11 @@
     },
 
     mounted() {
+      let frontEnd = document.createElement("script");
+      frontEnd.setAttribute("src", "./main-header.js");
+      frontEnd.setAttribute("id", "main-header-js");
+
+      document.body.appendChild(frontEnd);
       let sticky = document.createElement("script");
       sticky.setAttribute("src", "../sticky.js");
       sticky.setAttribute("id", "sticky-js");
@@ -612,6 +620,8 @@
     },
     destroyed() {
       document.getElementById("sticky-js").remove();
+      document.getElementById("main-header-js").remove();
+
 
       // remove the JS code once the component has been destroyed
     },
