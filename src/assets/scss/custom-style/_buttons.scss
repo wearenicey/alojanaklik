@@ -12,7 +12,7 @@
   line-height: 1.2;
   @include fontSmooth;
   box-shadow: var(--shadow-xs);
-  transition: all s ease;
+  transition: all 0.2s ease;
   will-change: transform;
 
   &:hover {
@@ -32,7 +32,7 @@
 // themes
 .btn--primary {
   background: var(--color-primary);
-  color: var(--color-accent-darker);
+  color: var(--color-black);
 
   &:hover {
     background: var(--color-primary-dark);
@@ -79,4 +79,3 @@
 .btn--lg {
   font-size: 1.4em;
 }
-

@@ -21,8 +21,7 @@
             </div>
             <div class="margin-top-sm">
               <div class="flex flex-wrap gap-sm items-center">
-                <g-link to="/svi-proizvodi/" class="btn btn--primary">Upoznajte se sa proizvodima</g-link>
-                <g-link to="/contact/" class="color-inherit">Kontaktirajte nas</g-link>
+                <g-link to="/svi-proizvodi/" class="btn btn--md btn--primary">Upoznajte se sa proizvodima</g-link>
               </div>
             </div>
           </div>
@@ -563,8 +562,11 @@
 
 <script>
   export default {
-    metaInfo: {
-      title: "Forever Living",
+    metaInfo() {
+      return {
+        meta: [{ name: "og:image", content: "https://www.alojanaklik.rs/assets/static/pocetna-kartica-1.71307f6.c41812ecc77912f15e9cd0d465c2cdf6.jpg" }],
+
+      }
     },
 
     mounted() {
