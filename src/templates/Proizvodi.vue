@@ -4,10 +4,8 @@
     <div class="
           container
           max-width-adaptive-lg
-          min-height-100vh
-          flex flex-center
-        ">
-      <div class="feature-v4 padding-top-xl">
+          flex flex-center">
+      <div class="feature-v4 padding-top-xxl">
         <div class="container max-width-adaptive-lg">
           <div class="feature-v4__grid grid gap-md items-center">
             <div class="col-5@md position-relative z-index-1">
@@ -50,17 +48,17 @@
       </div>
     </div>
 
-    <section class="feature-v5 padding-bottom-lg">
-      <div class="feature-v5__content">
+    <section class="feature-v5 margin-top-xxl padding-bottom-lg">
+      <div class="feature-v5__content padding-top-xxl">
         <div class="container max-width-adaptive-lg">
           <div class="grid">
-            <div class="margin-bottom-md">
+            <div class="col-8@md margin-bottom-md">
               <h2 class="text-xl">
                 {{ $page.event.sekcija2Naslov }}
               </h2>
             </div>
 
-            <div class="text-component col-8@md margin-left-auto@md">
+            <div class="text-component col-8@md">
               <p>
                 {{ $page.event.sekcija2P }}
               </p>
@@ -347,7 +345,6 @@
               </p>
             </div>
           </div>
-        </li>
         </li>
       </ul>
     </div>

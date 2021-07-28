@@ -8,11 +8,11 @@ Usage: codyhouse.co/license
 -------------------------------- */
 
 :root {
-  --f-header-height: 50px;
-  --f-header-logo-width: 104px;
+  --f-header-height: 60px;
+  --f-header-logo-width: 120px;
 
   @include breakpoint(md) {
-    --f-header-height: 70px;
+    --f-header-height: 80px;
   }
 }
 

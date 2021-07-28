@@ -31,6 +31,11 @@
 @import 'components/1_sticky-hero';
 @import 'components/1_main-footer-v4';
 
+body {
+  background-color: #fafafa !important;
+  color: var(--color-primary-darker, hsl(240, 4%, 20%));
+}
+
 
 // .articles {
 //   position: relative;
@@ -132,7 +137,7 @@
 
 .story__author-name {
   margin-bottom: var(--space-xxxxs);
-  
+
   a {
     text-decoration: none;
     color: var(--color-contrast-higher);
@@ -197,7 +202,7 @@
 }
 
 
-// ARticle 
+// ARticle
 
 .t-article-v3__hero {
   background-color: var(--color-contrast-lower);
@@ -252,7 +257,7 @@
 }
 
 .feature-v5__content {
-  background-color: #C3FCF2;
+  background-color: var(--color-secondary-lighter);
   padding-bottom: calc(var(--feature-content-media-gap) + var(--feature-media-offset));
 }
 
@@ -293,4 +298,14 @@ body {
 .proba2 {
   flex: 1 1 0%;
   border-top: 2px solid silver;
+}
+
+.component-inside {
+  margin-bottom: -3rem;
+  margin-top: 12rem;
+
+  @include breakpoint(md) {
+    margin-top: var(--space-xxl);
+    margin-bottom: var(--space-xxl);
+  }
 }

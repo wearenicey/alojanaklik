@@ -1,4 +1,3 @@
-
 :root {
   --btn-font-size: 1em;
   --btn-padding-x: var(--space-sm);
@@ -31,8 +30,8 @@
 
 // themes
 .btn--primary {
-  background: var(--color-primary);
-  color: var(--color-black);
+  background: var(--color-primary-dark);
+  color: var(--color-white);
 
   &:hover {
     background: var(--color-primary-dark);
