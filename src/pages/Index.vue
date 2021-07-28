@@ -5,8 +5,8 @@
         <div class="feature-v4__grid grid gap-md items-center">
           <div class="col-5@md position-relative z-index-1">
             <div class="text-component">
+              <p class="text-sm text-uppercase font-bold">Forever Living</p>
               <h1 class="text-xxxl line-height-1">
-                Forever Living <br/>
                 Otkrijte posao kojim se možete ponositi
               </h1>
               <div>
@@ -18,7 +18,7 @@
                 </p>
               </div>
             </div>
-            <div class="margin-top-sm">
+            <div class="margin-top-lg">
               <div class="flex flex-wrap gap-sm items-center">
                 <g-link to="/svi-proizvodi/" class="btn btn--md btn--primary"
                 >Upoznajte se sa proizvodima

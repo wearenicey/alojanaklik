@@ -1,4 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@700&display=swap');
+@font-face {
+  font-family: 'STIX Two Text';
+  src: url('../STIXTwoText-Bold.eot');
+  src: url('../STIXTwoText-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../STIXTwoText-Bold.woff2') format('woff2'),
+  url('../STIXTwoText-Bold.woff') format('woff'),
+  url('../STIXTwoText-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
 
 :root {
   // font family
