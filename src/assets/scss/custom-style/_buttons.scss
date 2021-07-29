@@ -2,7 +2,7 @@
   --btn-font-size: 16px;
   --btn-padding-x: var(--space-md);
   --btn-padding-y: var(--space-xs);
-  --btn-radius: 0.25em;
+  --btn-radius: 3rem;
 }
 
 .btn {
@@ -35,9 +35,12 @@
 .btn--primary {
   background: var(--color-primary-dark);
   color: var(--color-white);
+  border: 1px solid var(--color-primary-dark);
+  box-shadow: 0px 6px 14px 2px alpha(var(--color-secondary-dark), 0.2);
 
   &:hover {
     background: var(--color-primary-dark);
+    box-shadow: 0px 2px 8px  alpha(var(--color-secondary), 0.2);
   }
 
   &:focus {
@@ -46,8 +49,16 @@
 }
 
 .btn--subtle {
-  background: var(--color-contrast-lower);
-  color: var(--color-contrast-higher);
+  background: var(--color-bg);
+  color: var(--color-primary-dark);
+  border: 1px solid var(--color-contrast-lower);
+  font-family: var(--font-secondary);
+  font-weight: 500;
+  box-shadow: var(--shadow-sm);
+
+  &:hover {
+    box-shadow: var(--shadow-xs);
+  }
 }
 
 .btn--accent {

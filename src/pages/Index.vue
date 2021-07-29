@@ -5,12 +5,12 @@
         <div class="feature-v4__grid grid gap-md items-center">
           <div class="col-5@md position-relative z-index-1">
             <div class="text-component">
-              <p class="text-sm text-uppercase font-bold">Forever Living</p>
-              <h1 class="text-xxxl line-height-1">
+              <h1 class="text-sm text-uppercase font-bold font-secondary color-accent">Forever Living</h1>
+              <h2 class="text-xxxl line-height-1 color-accent-dark" style="margin-top: 1.5rem">
                 Otkrijte posao kojim se možete ponositi
-              </h1>
+              </h2>
               <div>
-                <p>
+                <p class="color-accent-dark">
                   Putovanje od hiljadu koraka započinje prvim. Forever je na
                   ovom putu više od 40 godina, a mi tek počinjemo. Radite od
                   kuće i uživajte u fleksibilnosti postavljanja sopstvenog
@@ -46,9 +46,9 @@
       </div>
     </section>
     <section class="feature-v7 margin-bottom-xl">
-      <div class="container max-width-adaptive-lg">
+      <div class="container max-width-adaptive-md">
         <div class="text-component text-center text-left@md margin-bottom-lg">
-          <h2>Forever Living benefiti</h2>
+          <h2 class="font-secondary color-accent-dark font-normal">Forever Living benefiti</h2>
         </div>
         <div class="grid gap-md">
           <div class="col-6@md col-12">
@@ -64,8 +64,8 @@
               </figure>
 
               <div class="text-component">
-                <h4>Budi sebi šef</h4>
-                <p>
+                <h4 class="font-secondary color-accent font-normal">Budi sebi šef</h4>
+                <p class="text-sm color-accent-dark">
                   Imajte slobodu da sami napravite svoj raspored, radite gde
                   želite i koliko želite.
                 </p>
@@ -86,8 +86,8 @@
               </figure>
 
               <div class="text-component">
-                <h4>Putujte svetom</h4>
-                <p>
+                <h4 class="font-secondary color-accent font-normal">Putujte svetom</h4>
+                <p class="text-sm color-accent-dark">
                   Postanite svetski putnik uz Forever Living. Iskoristite
                   priliku i posetite najlepše gradove na planeti.
                 </p>
@@ -108,8 +108,8 @@
               </figure>
 
               <div class="text-component">
-                <h4>Alati i obuke</h4>
-                <p>
+                <h4 class="font-secondary color-accent font-normal">Alati i obuke</h4>
+                <p class="text-sm color-accent-dark">
                   Od raznih radionica i webinara, do stotine besplatnih
                   materijala online, imate sve što Vam je potrebno za uspeh.
                 </p>
@@ -130,8 +130,8 @@
               </figure>
 
               <div class="text-component">
-                <h4>Popusti na proizvode</h4>
-                <p>
+                <h4 class="font-secondary color-accent font-normal">Popusti na proizvode</h4>
+                <p class="text-sm color-accent-dark">
                   Ostvarite ekskluzivne popuste na proizvode u kojima ćete
                   uživati sami ili prilikom prodaje drugima
                 </p>
@@ -143,17 +143,17 @@
     </section>
 
     <section class="feature-v2 padding-y-xl">
-      <div class="container max-width-adaptive-lg">
+      <div class="container max-width-adaptive-md position-relative">
         <div class="grid gap-md">
           <div class="col-5@md col-12">
-            <h1 class="text-xl">
+            <h1 class="text-xl letter-spacing-sm color-accent-dark font-secondary font-normal">
               Živite zdrav i srećan način života kakav zaslužujete.
             </h1>
           </div>
 
           <div class="col-7@md col-12">
             <div class="text-component">
-              <p>
+              <p class="color-accent-dark">
                 Forever Living pruža priliku da započnete posao sa stvarnim
                 potencijalom i dokazanim rezultatima, a da pritom ne žrtvujete
                 ravnotežu između poslovnog i privatnog života. Sa proizvodima
@@ -168,7 +168,7 @@
     </section>
 
     <section class="position-relative z-index-1 padding-y-xl">
-      <div class="container max-width-adaptive-lg position-relative">
+      <div class="container max-width-adaptive-md position-relative">
         <div class="grid padding-x-md padding-x-0@md">
           <div class="position-relative z-index-2 col-6@md col-5@lg">
             <div
@@ -181,8 +181,8 @@
                 component-inside
               "
             >
-              <h3>PREMIJUM PROIZVODI</h3>
-              <p>
+              <h3 class="text-xl font-normal letter-spacing-sm font-secondary color-accent-dark">Premijum proizvodi</h3>
+              <p class="color-accent margin-top-sm">
                 Forever Living predstavlja najbolje u pogledu kvaliteta i
                 efikasnosti. Forever proizvodi su napravljeni od prirodnih
                 sastojaka i podržani su dugogodišnjim ispitivanjem.
@@ -211,7 +211,7 @@
       </div>
     </section>
     <section class="position-relative z-index-1 padding-y-xl">
-      <div class="container max-width-adaptive-lg position-relative">
+      <div class="container max-width-adaptive-md position-relative">
         <div class="grid justify-end padding-x-md padding-x-0@md">
           <div class="position-relative z-index-2 col-6@md col-5@lg">
             <div
@@ -224,8 +224,8 @@
                 component-inside
               "
             >
-              <h3>ZDRAVO OKRUŽENJE</h3>
-              <p>
+              <h3 class="text-xl font-normal letter-spacing-sm font-secondary color-accent-dark">Zdravo okruženje</h3>
+              <p class="color-accent margin-top-sm">
                 Forever Living je kompanija sa savešću, gde je na prvom mestu
                 briga o planeti, ljudima i generacijama koje dolaze. Nastojimo
                 da pozitivno utičemo na svet oko nas
@@ -254,7 +254,7 @@
       </div>
     </section>
     <section class="position-relative z-index-1 padding-y-xl">
-      <div class="container max-width-adaptive-lg position-relative">
+      <div class="container max-width-adaptive-md position-relative">
         <div class="grid padding-x-md padding-x-0@md">
           <div class="position-relative z-index-2 col-6@md col-5@lg">
             <div
@@ -267,8 +267,8 @@
                 component-inside
               "
             >
-              <h3>BRIGA O DRUGIMA</h3>
-              <p>
+              <h3 class="text-xl font-normal letter-spacing-sm font-secondary color-accent-dark">Briga o drugima</h3>
+              <p class="color-accent margin-top-sm">
                 Forever nudi priliku za posao u kome možete zaraditi koliko god
                 želite, a da istovremeno budete u mogućnosti da postignete
                 savršenu ravnotežu između poslovnog i privatnog života kojoj svi
@@ -428,8 +428,8 @@
         <div class="grid gap-lg">
           <div class="col-4@lg">
             <div class="text-component text-center text-left@lg">
-              <h1>Forever Living Proizvodi</h1>
-              <p>
+              <h2 class="color-accent-dark font-secondary font-normal letter-spacing-sm">Forever Living Proizvodi</h2>
+              <p class="text-sm">
                 Počnite danas da živite zdravije, srećnije i ispunjenije.
                 Upoznajte se sa proizvodima.
               </p>
@@ -439,11 +439,11 @@
                 >
               </p> -->
             </div>
-            <div class="text-component margin-top-sm">
+            <div class="text-component margin-top-lg">
               <g-link class="btn btn--primary margin-right-md@md margin-bottom-xs"
               >Upoznajte se sa proizvodima
               </g-link>
-              <g-link to="/postanite-saradnik/" class="btn">
+              <g-link to="/postanite-saradnik/" class="btn btn--subtle">
                 Saznaj više o Forever karijeri
               </g-link>
             </div>
@@ -451,7 +451,7 @@
 
           <div class="col-8@lg">
             <div class="grid gap-md">
-              <div class="prod-card-v2 col-3@md">
+              <div class="prod-card-v2 col-4@md">
                 <a
                     class="prod-card-v2__img-link radius-lg shadow-sm"
                     href="/proizvodi/aloja-vera-gel/"
@@ -502,8 +502,7 @@
                   </div>
                 </div>
               </div>
-
-              <div class="prod-card-v2 col-3@md">
+              <div class="prod-card-v2 col-4@md">
                 <a
                     class="prod-card-v2__img-link radius-lg shadow-sm"
                     href="/proizvodi/pasta-za-zube/"
@@ -554,61 +553,7 @@
                   </div>
                 </div>
               </div>
-
-              <div class="prod-card-v2 col-3@md">
-                <a
-                    class="prod-card-v2__img-link radius-lg shadow-sm"
-                    href="#0"
-                    aria-label="Description of the link"
-                >
-                  <g-image
-                      src="~/assets/img/probiotik.webp"
-                      alt="Product preview image"
-                      quality="75"
-                  />
-                </a>
-
-                <div class="padding-sm text-center">
-                  <p class="">
-                    <a
-                        href="/proizvodi/probiotik/"
-                        class="product-card-v2__title"
-                    >Probiotik Forever Aktiv</a
-                    >
-                  </p>
-
-                  <div class="rating js-rating js-rating--read-only">
-                    <p class="sr-only">
-                      The rating of this product is
-                      <span class="rating__value js-rating__value">3.5</span>
-                      out of 5
-                    </p>
-
-                    <a
-                        href="/proizvodi/probiotik/"
-                        class="rating__link"
-                        aria-label="Read reviews"
-                    >
-                      <div
-                          class="
-                          rating__control
-                          overflow-hidden
-                          rating__control--is-hidden
-                          js-rating__control
-                        "
-                      >
-                        <svg width="24" height="24" viewBox="0 0 24 24">
-                          <polygon
-                              points="12 1.489 15.09 7.751 22 8.755 17 13.629 18.18 20.511 12 17.261 5.82 20.511 7 13.629 2 8.755 8.91 7.751 12 1.489"
-                              fill="currentColor"
-                          />
-                        </svg>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div class="prod-card-v2 col-3@md">
+              <div class="prod-card-v2 col-4@md">
                 <span class="prod-card-v2__badge" role="text"
                 >Popularno <i class="sr-only">product</i></span
                 >
@@ -671,11 +616,11 @@
         <div class="grid gap-md">
           <div class="text-center">
             <div class="text-component margin-bottom-sm">
-              <h1 class="text-xl">
+              <h1 class="text-xl font-secondary font font-normal color-accent-dark letter-spacing-sm">
                 Aloe vera je lekovita biljka koju ljudi koriste hiljadama
                 godina.
               </h1>
-              <p>
+              <p class="color-accent">
                 O njoj se treba brinuti kako bi gel aloje u njenom lišću ostao
                 svež i moćan sa zdravim prednostima! Zato svake godine, Forever
                 Living prati 50 miliona biljaka tokom njihovog životnog ciklusa,
@@ -707,8 +652,8 @@
       ></div>
 
       <div class="sticky-hero__content">
-        <div class="container max-width-sm text-component text-center">
-          <h1>
+        <div class="container max-width-sm text-component text-left letter-spacing-sm line-height-lg">
+          <h1 class="font-secondary font-medium color-contrast-lower">
             Inovativna rešenja za povećanje nivoa energije, jačanje imuno
             sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja
             hemikalija i konzervansa.

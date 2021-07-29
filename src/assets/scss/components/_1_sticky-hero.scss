@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 File#: _1_sticky-hero
 Title: Sticky Hero
@@ -38,12 +38,12 @@ Usage: codyhouse.co/license
   height: 100%;
   width: 100%;
   opacity: 0;
-  background-color: var(--color-bg);
+  background-color: var(--color-accent);
   transition: opacity 1s;
 }
 
 .sticky-hero--media-is-fixed.sticky-hero--overlay-layer .sticky-hero__media::after {
-  opacity: 0.65;
+  opacity: 0.75;
 }
 
 .sticky-hero--media-is-fixed.sticky-hero--scale .sticky-hero__media {
@@ -79,6 +79,6 @@ Usage: codyhouse.co/license
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
   transform: translateZ(0); // fix issue on iOS
 }
