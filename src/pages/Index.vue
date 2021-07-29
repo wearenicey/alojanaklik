@@ -40,6 +40,8 @@
                     height="350"
                 />
               </figure>
+                            <figure>
+
               <g-image
                     class="hide@md"
                     src="~/assets/img/pocetna-slika-1.webp"
