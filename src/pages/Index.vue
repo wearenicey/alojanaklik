@@ -31,14 +31,14 @@
           <div class="col-7@md">
             <div>
               <figure>
-                <img src="/pocetna-slika-1.webp"   alt="" srcset="">
-                <!-- <g-image
-                    class="block width-100%"
+                <g-image
+                    class="block width-100% display@md"
                     src="~/assets/img/pocetna-slika-1.webp"
                     alt="Image description"
                     quality="75"
-                    
-                /> -->
+                    width="500"
+                    height="350"
+                />
               </figure>
             </div>
           </div>
