@@ -40,6 +40,15 @@
                     height="350"
                 />
               </figure>
+              <g-image
+                    class="hide@md"
+                    src="~/assets/img/pocetna-slika-1.webp"
+                    alt="Image description"
+                    quality="75"
+                    width="500"
+                    height="350"
+                />
+              </figure>
             </div>
           </div>
         </div>
