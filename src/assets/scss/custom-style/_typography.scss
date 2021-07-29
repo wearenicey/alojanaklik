@@ -13,6 +13,7 @@
 :root {
   // font family
   --font-primary: 'STIX Two Text', serif;
+  --font-secondary: 'Inter', sans-serif;
 
   // font size
   --text-base-size: 1em; // body font-size
@@ -24,6 +25,7 @@
 
   // capital letters - used in combo with the lhCrop mixin
   --font-primary-capital-letter: 1;
+  --font-secondary-capital-letter: 1;
 
   // unit - don't modify unless you want to change the typography unit (e.g., from Em to Rem units)
   --text-unit: 1em; // if not Em units → --text-unit: var(--text-base-size);
@@ -41,7 +43,7 @@
   --text-xxxxl: calc(var(--text-xxxl) * var(--text-scale-ratio));
 }
 
-@supports (--css: variables) {
+@supports(--css: variables) {
   @include breakpoint(md) {
     :root {
       --text-base-size: 1.25em;
@@ -51,7 +53,7 @@
 }
 
 body {
-  font-family: sans-serif;
+  font-family: var(--font-secondary);
 }
 
 h1, h2, h3, h4 {
@@ -60,47 +62,17 @@ h1, h2, h3, h4 {
 }
 
 // font family
-.font-primary {
-  font-family: var(--font-primary);
-}
+.font-primary { font-family: var(--font-primary); }
+.font-secondary { font-family: var(--font-secondary); }
 
 // color
-.color-secondary-darker {
-  color: alpha(var(--color-secondary-darker), var(--color-o, 1));
-}
-
-.color-secondary-dark {
-  color: alpha(var(--color-secondary-dark), var(--color-o, 1));
-}
-
-.color-secondary {
-  color: alpha(var(--color-secondary), var(--color-o, 1));
-}
-
-.color-secondary-light {
-  color: alpha(var(--color-secondary-light), var(--color-o, 1));
-}
-
-.color-secondary-lighter {
-  color: alpha(var(--color-secondary-lighter), var(--color-o, 1));
-}
-
-.color-tertiary-darker {
-  color: alpha(var(--color-tertiary-darker), var(--color-o, 1));
-}
-
-.color-tertiary-dark {
-  color: alpha(var(--color-tertiary-dark), var(--color-o, 1));
-}
-
-.color-tertiary {
-  color: alpha(var(--color-tertiary), var(--color-o, 1));
-}
-
-.color-tertiary-light {
-  color: alpha(var(--color-tertiary-light), var(--color-o, 1));
-}
-
-.color-tertiary-lighter {
-  color: alpha(var(--color-tertiary-lighter), var(--color-o, 1));
-}
+.color-secondary-darker { color: alpha(var(--color-secondary-darker), var(--color-o, 1)); }
+.color-secondary-dark { color: alpha(var(--color-secondary-dark), var(--color-o, 1)); }
+.color-secondary { color: alpha(var(--color-secondary), var(--color-o, 1)); }
+.color-secondary-light { color: alpha(var(--color-secondary-light), var(--color-o, 1)); }
+.color-secondary-lighter { color: alpha(var(--color-secondary-lighter), var(--color-o, 1)); }
+.color-tertiary-darker { color: alpha(var(--color-tertiary-darker), var(--color-o, 1)); }
+.color-tertiary-dark { color: alpha(var(--color-tertiary-dark), var(--color-o, 1)); }
+.color-tertiary { color: alpha(var(--color-tertiary), var(--color-o, 1)); }
+.color-tertiary-light { color: alpha(var(--color-tertiary-light), var(--color-o, 1)); }
+.color-tertiary-lighter { color: alpha(var(--color-tertiary-lighter), var(--color-o, 1)); }
