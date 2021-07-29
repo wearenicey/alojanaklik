@@ -52,11 +52,11 @@ query {
 import Card from "~/components/Card.vue";
 export default {
   metaInfo: {
-    title: "Jačanje imuniteta",
+    title: "Jačanje imuniteta | Proizvodi na bazi aloje vere Forever Living",
     meta: [
       {
         name: "title",
-        content: "Jačanje imuniteta | Proizvodi na bazi aloje vere ",
+        content: "Jačanje imuniteta | Proizvodi na bazi aloje vere Forever Living",
       },
       {
         name: "description",

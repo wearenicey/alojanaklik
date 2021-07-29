@@ -54,11 +54,11 @@ query {
 import Card from "~/components/Card.vue";
 export default {
   metaInfo: {
-    title: "Lična higijena | Proizvodi na bazi aloje vere",
+    title: "Lična higijena | Proizvodi na bazi aloje vere Forever Living",
     meta: [
       {
         name: "title",
-        content: "Lična higijena | Proizvodi na bazi aloje vere",
+        content: "Lična higijena | Proizvodi na bazi aloje vere Forever Living",
       },
       {
         name: "description",

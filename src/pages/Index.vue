@@ -146,9 +146,9 @@
       <div class="container max-width-adaptive-md position-relative">
         <div class="grid gap-md">
           <div class="col-5@md col-12">
-            <h1 class="text-xl letter-spacing-sm color-accent-dark font-secondary font-normal">
+            <h2 class="text-xl letter-spacing-sm color-accent-dark font-secondary font-normal">
               Živite zdrav i srećan način života kakav zaslužujete.
-            </h1>
+            </h2>
           </div>
 
           <div class="col-7@md col-12">
@@ -475,31 +475,7 @@
                     </a>
                   </p>
 
-                  <div class="rating js-rating js-rating--read-only">
-                    <p class="sr-only">
-                      The rating of this product is
-                      <span class="rating__value js-rating__value">3.5</span>
-                      out of 5
-                    </p>
-
-                    <a href="#0" class="rating__link" aria-label="Read reviews">
-                      <div
-                          class="
-                          rating__control
-                          overflow-hidden
-                          rating__control--is-hidden
-                          js-rating__control
-                        "
-                      >
-                        <svg width="24" height="24" viewBox="0 0 24 24">
-                          <polygon
-                              points="12 1.489 15.09 7.751 22 8.755 17 13.629 18.18 20.511 12 17.261 5.82 20.511 7 13.629 2 8.755 8.91 7.751 12 1.489"
-                              fill="currentColor"
-                          />
-                        </svg>
-                      </div>
-                    </a>
-                  </div>
+                 
                 </div>
               </div>
               <div class="prod-card-v2 col-4@md">
@@ -526,37 +502,11 @@
                     >
                   </p>
 
-                  <div class="rating js-rating js-rating--read-only">
-                    <p class="sr-only">
-                      The rating of this product is
-                      <span class="rating__value js-rating__value">3.5</span>
-                      out of 5
-                    </p>
-
-                    <a href="#0" class="rating__link" aria-label="Read reviews">
-                      <div
-                          class="
-                          rating__control
-                          overflow-hidden
-                          rating__control--is-hidden
-                          js-rating__control
-                        "
-                      >
-                        <svg width="24" height="24" viewBox="0 0 24 24">
-                          <polygon
-                              points="12 1.489 15.09 7.751 22 8.755 17 13.629 18.18 20.511 12 17.261 5.82 20.511 7 13.629 2 8.755 8.91 7.751 12 1.489"
-                              fill="currentColor"
-                          />
-                        </svg>
-                      </div>
-                    </a>
-                  </div>
+                
                 </div>
               </div>
               <div class="prod-card-v2 col-4@md">
-                <span class="prod-card-v2__badge" role="text"
-                >Popularno <i class="sr-only">product</i></span
-                >
+               
 
                 <a
                     class="prod-card-v2__img-link radius-lg shadow-sm"
@@ -579,31 +529,7 @@
                     >
                   </p>
 
-                  <div class="rating js-rating js-rating--read-only">
-                    <p class="sr-only">
-                      The rating of this product is
-                      <span class="rating__value js-rating__value">3.5</span>
-                      out of 5
-                    </p>
-
-                    <a href="#0" class="rating__link" aria-label="Read reviews">
-                      <div
-                          class="
-                          rating__control
-                          overflow-hidden
-                          rating__control--is-hidden
-                          js-rating__control
-                        "
-                      >
-                        <svg width="24" height="24" viewBox="0 0 24 24">
-                          <polygon
-                              points="12 1.489 15.09 7.751 22 8.755 17 13.629 18.18 20.511 12 17.261 5.82 20.511 7 13.629 2 8.755 8.91 7.751 12 1.489"
-                              fill="currentColor"
-                          />
-                        </svg>
-                      </div>
-                    </a>
-                  </div>
+              
                 </div>
               </div>
             </div>
@@ -616,10 +542,10 @@
         <div class="grid gap-md">
           <div class="text-center">
             <div class="text-component margin-bottom-sm">
-              <h1 class="text-xl font-secondary font font-normal color-accent-dark letter-spacing-sm">
+              <h2 class="text-xxl font-secondary font font-normal color-accent-dark letter-spacing-sm">
                 Aloe vera je lekovita biljka koju ljudi koriste hiljadama
                 godina.
-              </h1>
+              </h2>
               <p class="color-accent">
                 O njoj se treba brinuti kako bi gel aloje u njenom lišću ostao
                 svež i moćan sa zdravim prednostima! Zato svake godine, Forever
@@ -647,17 +573,17 @@
     >
       <div
           class="sticky-hero__media"
-          style="background-image: url('../pocetna-zadnja-sekcija.jpg')"
+          style="background-image: url('../pocetna-zadnja-sekcija.webp')"
           aria-hidden="true"
       ></div>
 
       <div class="sticky-hero__content">
         <div class="container max-width-sm text-component text-left letter-spacing-sm line-height-lg">
-          <h1 class="font-secondary font-medium color-contrast-lower">
+          <h2 class="text-xxl font-secondary font-medium color-contrast-lower">
             Inovativna rešenja za povećanje nivoa energije, jačanje imuno
             sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja
             hemikalija i konzervansa.
-          </h1>
+          </h2>
         </div>
       </div>
     </section>

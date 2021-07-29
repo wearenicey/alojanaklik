@@ -30,12 +30,12 @@
         <section class="feature-v2 padding-y-xl">
           <div class="grid gap-md">
             <div class="col-4@md">
-              <h1 class="text-lg">
+              <h2 class="text-xl">
                 Mnogi odustanu pre nego što i pokušaju. Ali Vi niste poput
                 većine ljudi, jer Vi želite nešto bolje za sebe i svoju
                 porodicu. Spremni ste da promenite svoj život i Forever Living
                 Vam može pomoći u tome
-              </h1>
+              </h2>
             </div>
 
             <div class="col-8@md">
@@ -85,9 +85,9 @@
           </div>
           <div class="col-6@md padding-y-xl@md padding-y-md">
             <div class="text-component text-right">
-              <h1 class="text-lg">
+              <h2 class="text-xxl">
                 Stvorimo tvoj izuzetan poslovni kutak uz Forever Living
-              </h1>
+              </h2>
               <a class="btn btn--primary">Pridruži nam se</a>
             </div>
           </div>
@@ -113,7 +113,8 @@
       <div class="container position-relative z-index-2">
         <div class="container position-relative z-index-2">
           <div class="text-component text-center">
-            <h1>Posao od kuće koji pruža...</h1>
+              <h2 class="text-xxl">
+                    Posao od kuće koji pruža...</h2>
           </div>
           <section class="position-relative z-index-1 padding-y-xl">
             <div class="container max-width-adaptive-lg position-relative">
@@ -324,7 +325,7 @@
     <section class="position-relative z-index-1 flex padding-y-xxl flex-center">
       <div class="container max-width-adaptive-lg position-relative z-index-2">
         <div class="text-component text-center">
-          <h1 class="padding-bottom-lg">4 jednostavna koraka !</h1>
+          <h2 class="padding-bottom-lg text-xxl">4 jednostavna koraka !</h2>
         </div>
         <div class="grid gap-sm text-center items-start">
           <div class="col-3@md">

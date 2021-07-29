@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <section class="bg-cover bg-center bg-no-repeat padding-y-xxl display@md"
-      style="background-image: url(../istorija-pocetna.jpg)">
+      style="background-image: url(../istorija-pocetna.webp)">
       <div class="container max-width-adaptive-sm">
         <div class="
             bg bg-opacity-80%
@@ -23,14 +23,14 @@
     <section class="hide@md">
       <div class="container max-width-adaptive-lg padding-top-xl">
         <div class="text-component text-center">
-          <h1>Forever Living - Istorija kompanije</h1>
+          <h2 class="text-xl">Forever Living - Istorija kompanije</h2>
           <p class="margin-bottom-sm">
             Forever Living Products je osnovan na ideji da promeni živote
             ljudi širom sveta, distribucijom kvalitetnih zdravstvenih rešenja
             na bazi aloja vere.
           </p>
           <figure class="text-component__block">
-            <g-image class="block width-100%" src="~/assets/img/istorija-pocetna.jpg" alt="Image description"
+            <g-image class="block width-100%" src="~/assets/img/istorija-pocetna.webp" alt="Image description"
               width="320" height="220" quality="75" />
           </figure>
 
@@ -39,7 +39,7 @@
     </section>
     <div class="position-relative z-index-1 overflow-hidden padding-y-xl">
       <!-- <div class="margin-bottom-lg">
-        <h1 class="text-center">Vertical Timeline</h1>
+        <h2 class="text-center">Vertical Timeline</h2>
       </div> -->
 
       <div class="container max-width-adaptive-lg">
@@ -70,7 +70,7 @@
                     bi znali šta je najbolje za njihov životni stil!
                   </p>
                   <figure class="text-component__block">
-                    <g-image class="block width-100%" src="~/assets/img/istorija-rex.jpg" alt="Image description" />
+                    <g-image class="block width-100%" src="~/assets/img/istorija-rex.webp" alt="Image description" />
                   </figure>
                 </div>
               </div>
@@ -118,7 +118,7 @@
                     proizvodnje do prodaje i otpreme
                   </p>
                   <figure class="text-component__block">
-                    <g-image class="block width-100%" src="~/assets/img/istorija-kamion.jpg" alt="Image description" />
+                    <g-image class="block width-100%" src="~/assets/img/istorija-kamion.webp" alt="Image description" />
                   </figure>
                 </div>
               </div>
@@ -157,7 +157,7 @@
                     nedeljno samo na Dominikanskim poljima aloe
                   </p>
                   <figure class="text-component__block">
-                    <g-image class="block width-100%" src="~/assets/img/istorija-aloe.jpg" alt="Image description" />
+                    <g-image class="block width-100%" src="~/assets/img/istorija-aloe.webp" alt="Image description" />
                   </figure>
                 </div>
               </div>
@@ -192,7 +192,7 @@
                     kg aloe vere.
                   </p>
                   <figure class="text-component__block">
-                    <g-image class="block width-100%" src="~/assets/img/istorija-proizvodnja.jpg"
+                    <g-image class="block width-100%" src="~/assets/img/istorija-proizvodnja.webp"
                       alt="Image description" />
                   </figure>
                 </div>
@@ -224,7 +224,7 @@
                     direktor, rukovodi operacijama širom sveta
                   </p>
                   <figure class="text-component__block">
-                    <g-image class="block width-100%" src="~/assets/img/aloe-imperija.jpg" alt="Image description" />
+                    <g-image class="block width-100%" src="~/assets/img/aloe-imperija.webp" alt="Image description" />
                   </figure>
                 </div>
               </div>

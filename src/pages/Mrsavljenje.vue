@@ -51,11 +51,11 @@ query {
 import Card from "~/components/Card.vue";
 export default {
   metaInfo: {
-    title: "Mršavljenje | Proizvodi na bazi aloje vere",
+    title: "Mršavljenje | Proizvodi na bazi aloje vere Forever Living",
     meta: [
       {
         name: "title",
-        content: "Mršavljenje | Proizvodi na bazi aloje vere",
+        content: "Mršavljenje | Proizvodi na bazi aloje vere Forever Living",
       },
       {
         name: "description",

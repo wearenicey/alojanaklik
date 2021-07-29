@@ -7,7 +7,7 @@
       style="width: 100%; height: 500px"
     ></div>
 
-    <section>
+    <section class="hide">
       <div class="container max-width-sm margin-y-xl">
         <div class="margin-bottom-lg">
           <h1 class="text-center">Questions &amp; Answers</h1>
@@ -230,7 +230,7 @@
         </ul>
       </div>
     </section>
-    <section class="contact-v2 position-relative z-index-1">
+    <section class="contact-v2 position-relative z-index-1 hide">
       <div class="container max-width-xs margin-bottom-lg">
         <div class="text-component text-center">
           <h1>Contact Us</h1>
@@ -241,7 +241,7 @@
         </div>
       </div>
 
-      <div class="container max-width-lg">
+      <div class="container max-width-lg ">
         <div class="margin-bottom-lg">
           <dl
             class="details-list details-list--rows grid details-list--cols@md"

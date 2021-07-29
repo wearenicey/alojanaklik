@@ -53,11 +53,11 @@ query {
 import Card from "~/components/Card.vue";
 export default {
   metaInfo: {
-    title: "Nega lica i tela | Proizvodi na bazi aloje vere",
+    title: "Nega lica i tela | PProizvodi na bazi aloje vere Forever Living",
     meta: [
       {
         name: "title",
-        content: "Nega lica i tela | Proizvodi na bazi aloje vere",
+        content: "Nega lica i tela | Proizvodi na bazi aloje vere Forever Living",
       },
       {
         name: "description",

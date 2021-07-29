@@ -65,7 +65,7 @@
 
 					<ul class="f-header__list flex-grow flex-basis-0 justify-end@md">
 						<li class="f-header__item">
-							<g-link to="/svi-proizvodi/" class="f-header__link">
+							<g-link to="/proizvodi/" class="f-header__link">
 								<span>Proizvodi</span>
 								<svg
 										class="f-header__dropdown-icon icon"
@@ -119,8 +119,8 @@
 							>
 						</li>
 						<li class="f-header__item">
-							<g-link to="/istorija-firme/" class="f-header__link"
-							>Istorija firme
+							<g-link to="/istorija-kompanije/" class="f-header__link"
+							>Istorija kompanije
 							</g-link
 							>
 						</li>
@@ -141,7 +141,7 @@
 				<nav class="footer-v4__nav">
 					<ul class="footer-v4__nav-list">
 						<li class="footer-v4__nav-item">
-							<g-link to="/svi-proizvodi/"> Proizvodi</g-link>
+							<g-link to="/proizvodi/"> Proizvodi</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/jacanje-imuniteta/">Jačanje imuniteta</g-link>
@@ -162,7 +162,7 @@
 							<g-link to="/postanite-saradnik/">Postanite saradnik</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
-							<g-link to="/istorija-firme/">Istorija firme</g-link>
+							<g-link to="/istorija-kompanije/">Istorija kompanije</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/blog/">Blog</g-link>

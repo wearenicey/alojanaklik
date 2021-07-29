@@ -2,6 +2,7 @@
   <div class="container max-width-adaptive-lg">
     <ul class="feature-v8__sub-content grid gap-lg">
       <li class="col-4@md" v-for="item in products" :key="item.node.id">
+        <p>
         <a :href="item.node.path" class="card-v8 bg radius-lg">
           <figure>
             <g-image
@@ -12,12 +13,13 @@
 
           <footer class="padding-sm">
             <div class="text-component">
-              <h4>
+              <p class="text-bold color-black text-md">
                 <span class="card-v8__title">{{ item.node.h1Hero }}</span>
-              </h4>
+              </p>
             </div>
           </footer>
         </a>
+        </p>
       </li>
     </ul>
   </div>
