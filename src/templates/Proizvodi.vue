@@ -30,7 +30,7 @@
                 <g-image class="block width-100%" :src="$page.event.slikaHero[0].url" alt="Image description" />
               </figure>
             </div>
-            <div class="col-12">
+            <div class="col-12 hide@md">
               <div class="
                     text-componet text-md@md
                     flex-center
@@ -116,7 +116,7 @@
               </figure>
 
               <div class="text-component">
-                <h4>{{ $page.event.kar1Naslov }}</h4>
+                <h3>{{ $page.event.kar1Naslov }}</h3>
                 <p>
                   {{ $page.event.kar1P }}
                 </p>
@@ -131,7 +131,7 @@
               </figure>
 
               <div class="text-component">
-                <h4>{{ $page.event.kar2Naslov }}</h4>
+                <h3>{{ $page.event.kar2Naslov }}</h3>
                 <p>
                   {{ $page.event.kar2P }}
                 </p>
@@ -146,7 +146,7 @@
               </figure>
 
               <div class="text-component">
-                <h4>{{ $page.event.kar3Naslov }}</h4>
+                <h3>{{ $page.event.kar3Naslov }}</h3>
                 <p>
                   {{ $page.event.kar3P }}
                 </p>
@@ -161,7 +161,7 @@
               </figure>
 
               <div class="text-component">
-                <h4>{{ $page.event.kar4Naslov }}</h4>
+                <h3>{{ $page.event.kar4Naslov }}</h3>
                 <p>
                   {{ $page.event.kar4P }}
                 </p>
@@ -650,9 +650,9 @@
     <section class="padding-y-lg" id="yourID">
       <div class="container max-width-adaptive-lg margin-bottom-lg">
         <div class="text-component text-center">
-          <h1>
+          <h2 class="text-xxl">
             Naruči sa zvanične stranice, plati karticom ili pouzećem.
-          </h1>
+          </h2>
           <p class="width-66%@md width-100% margin-x-auto">
             Internet prodavnica kompanije Forever Living Products doo
             Beograd je jedina zvanična prodavnica artikala sa obeležjima
@@ -824,6 +824,8 @@
         titleTemplate: this.$page.event.pageTitle,
 
         meta: [{ name: "description", content: this.$page.event.metaDesc }],
+        // link: [{ rel: "canonical", href: `https://www.alojanaklik.rs/proizvodi` }],
+
         // etc...
       };
     },
