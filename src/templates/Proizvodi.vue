@@ -52,8 +52,8 @@
       <div class="feature-v5__content padding-top-xxl">
         <div class="container max-width-adaptive-lg">
           <div class="grid">
-            <div class="col-8@md margin-bottom-md">
-              <h2 class="text-xl">
+            <div class="col-4@md margin-bottom-md">
+              <h2 class="text-lg">
                 {{ $page.event.sekcija2Naslov }}
               </h2>
             </div>
@@ -749,8 +749,9 @@
   path
   pHero
   ctaHero
-  slikaHero{
-  url
+  slikaHero
+  {
+    url
   }
   heroAlt
 
