@@ -27,7 +27,7 @@
 
             <div class="col-7@md">
               <figure>
-                <g-image class="block width-100%" :src="$page.event.slikaHero[0].url"  alt="Image description" />
+                <g-image :immediate="true" class="block width-100%" :src="$page.event.slikaHero[0].url"  :alt="$page.event.heroAlt" />
               </figure>
             </div>
             <div class="col-12 hide@md">
@@ -68,7 +68,7 @@
       </div>
 
       <figure class="feature-v5__media container max-width-lg">
-        <g-image class="block width-100% shadow-lg" :src="$page.event.sekcija2Slika[0].url" alt="Image description" />
+        <g-image class="block width-100% shadow-lg" :src="$page.event.sekcija2Slika[0].url" :alt="$page.event.alt2"/>
       </figure>
     </section>
 
@@ -583,7 +583,7 @@
                         col-10@md
                       ">
               <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis1Slika[0].url"
-                alt="Image description" />
+                :alt="$page.event.alt3" />
             </figure>
           </div>
         </div>
@@ -617,7 +617,7 @@
                         col-10@md
                       ">
               <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis2Slika[0].url"
-                alt="Image description" />
+                :alt="$page.event.alt4" />
             </figure>
           </div>
         </div>
@@ -627,7 +627,7 @@
     <div class="container hide@md max-adaptive-xl margin-y-lg">
       <div class="grid">
         <div class="col-12 margin-bottom-md">
-          <g-image :src="$page.event.opis1Slika[0].url" alt="Image description"></g-image>
+          <g-image :src="$page.event.opis1Slika[0].url" :alt="$page.event.alt3"></g-image>
           <div class="text-component margin-top-xs">
             <h2>{{ $page.event.opis1Naslov }}</h2>
             <p class="color-contrast-medium">
@@ -636,7 +636,7 @@
           </div>
         </div>
         <div class="col-12">
-          <g-image :src="$page.event.opis2Slika[0].url" alt="Image description"></g-image>
+          <g-image :src="$page.event.opis2Slika[0].url" :alt="$page.event.alt4"></g-image>
           <div class="text-component margin-top-xs">
             <h2>{{ $page.event.opis2Naslov }}</h2>
             <p class="color-contrast-medium">
@@ -680,24 +680,25 @@
                 <ul class="grid gap-sm margin-top-md">
                   <li class="col-6@md">
                     <div class="flex items-center">
-                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
                       Proizvode na popustu
                     </div>
                   </li>
                   <li class="col-6@md">
                     <div class="flex items-center">
-                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />Dodatni materijal
+                       <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
+                        Dodatni materijal
                     </div>
                   </li>
                   <li class="col-6@md">
                     <div class="flex items-center">
-                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
                       Dodatnu zaradu "sa strane"
                     </div>
                   </li>
                   <li class="col-6@md">
                     <div class="flex items-center">
-                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
                       Posao po svojoj meri
                     </div>
                   </li>
@@ -743,7 +744,7 @@
   id
   pageTitle
   metaDesc
-  kategorija
+  category
   h1Hero
   path
   pHero
@@ -751,12 +752,14 @@
   slikaHero{
   url
   }
+  heroAlt
 
   sekcija2Naslov
   sekcija2P
   sekcija2Slika {
   url
   }
+  alt2
   sekcija3Naslov
   sekcija3Tekst
 
@@ -802,11 +805,13 @@
   opis1Slika {
   url
   }
+  alt3
   opis2Naslov
   opis2Tekst
   opis2Slika {
   url
   }
+  alt4
   ctaNaslov
   ctaTekst
   ctaLink

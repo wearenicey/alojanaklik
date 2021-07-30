@@ -31,8 +31,9 @@
 
 
 <page-query>
+
 query {
- products: allProizvodi (filter: {kategorija: {eq:"negaLicaTela"}}) {
+ products: allProizvodi (filter: {category:{contains: ["negaLicaTela"]} }) {
   edges {
       node {
         id

@@ -33,7 +33,7 @@
 
 <page-query>
 query {
- products: allProizvodi (filter: {kategorija: {eq:"ishrana"}}) {
+ products: allProizvodi (filter: {category:{contains: ["ishrana"]} })  {
    edges {
       node {
         id

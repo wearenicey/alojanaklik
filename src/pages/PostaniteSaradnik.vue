@@ -30,7 +30,7 @@
         <section class="feature-v2 padding-y-xl">
           <div class="grid gap-md">
             <div class="col-4@md">
-              <h2 class="text-xl">
+              <h2 class="">
                 Mnogi odustanu pre nego što i pokušaju. Ali Vi niste poput
                 većine ljudi, jer Vi želite nešto bolje za sebe i svoju
                 porodicu. Spremni ste da promenite svoj život i Forever Living

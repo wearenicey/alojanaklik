@@ -30,7 +30,7 @@
 
 <page-query>
 query {
- products: allProizvodi (filter: {kategorija: {eq:"mrsavljenje"}}) {
+ products:  allProizvodi (filter: {category:{contains: ["mrsavljenje"]} }) {
     edges {
       node {
         id

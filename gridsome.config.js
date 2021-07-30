@@ -11,14 +11,7 @@ module.exports = {
 
 
   plugins: [
-    {
-      use: 'gridsome-source-google-sheets',
-      options: {
-        sheetId: '1dsJ2B9eRdXaIBqHi-evES7Sos98Kbkem_NXh4SPdMaM',
-        apiKey: 'AIzaSyCvEV1bvBTzfQf7vuCa_Te9rGfAwAAElqM',
-        // type: 'TYPE_NAME', //Optional - default is googleSheet. Used for graphql queries.
-      }
-    },
+   
 
     {
       use: 'gridsome-plugin-gtm',

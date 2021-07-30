@@ -33,7 +33,7 @@
 
 <page-query>
 query {
- products: allProizvodi (filter: {kategorija: {eq:"licnaHigijena"}}) {
+ products: allProizvodi (filter: {category:{contains: ["licnaHigijena"]} }) {
   edges {
       node {
         id
