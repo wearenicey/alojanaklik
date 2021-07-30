@@ -672,7 +672,7 @@
               </div>
               <div class="">
                 <div class="flex items-center">
-                  <h5 class="proba color-error-lighter margin-right-sm">
+                  <h5 class="proba color-contrast-medium margin-right-sm">
                     Učlanjenjem dobijate
                   </h5>
                   <div class="proba2"></div>

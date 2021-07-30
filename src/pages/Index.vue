@@ -20,7 +20,7 @@
             </div>
             <div class="margin-top-lg">
               <div class="flex flex-wrap gap-sm items-center">
-                <g-link to="/svi-proizvodi/" class="btn btn--md btn--primary"
+                <g-link to="/proizvodi/" class="btn btn--md btn--primary"
                 >Upoznajte se sa proizvodima
                 </g-link
                 >
@@ -32,7 +32,7 @@
             <div>
               <figure>
                 <g-image :immediate="true"
-                
+
                     class="block width-100% display@md"
                     src="~/assets/img/pocetna-slika-1.webp"
                     alt="Image description"
@@ -487,7 +487,7 @@
                     </a>
                   </p>
 
-                 
+
                 </div>
               </div>
               <div class="prod-card-v2 col-4@md">
@@ -514,11 +514,11 @@
                     >
                   </p>
 
-                
+
                 </div>
               </div>
               <div class="prod-card-v2 col-4@md">
-               
+
 
                 <a
                     class="prod-card-v2__img-link radius-lg shadow-sm"
@@ -541,7 +541,7 @@
                     >
                   </p>
 
-              
+
                 </div>
               </div>
             </div>
