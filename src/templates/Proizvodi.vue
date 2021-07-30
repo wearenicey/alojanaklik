@@ -171,7 +171,7 @@
         </div>
       </div>
     </section>
-    <div class="container max-width-lg padding-y-xl">
+    <div class="container max-width-sm padding-y-xl">
 
       <ul class="accordion-v2 flex flex-column gap-xxxs js-accordion" data-animation="on" data-multi-items="on"
         data-version="v2">
