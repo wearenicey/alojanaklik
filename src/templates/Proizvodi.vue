@@ -20,7 +20,7 @@
 
               <div class="margin-top-sm">
                 <div class="flex flex-wrap gap-sm items-center">
-                  <a @click="scroll" class="btn btn--primary">{{ $page.event.ctaHero }}</a>
+                  <a @click="scroll" class="btn btn--md btn--primary">{{ $page.event.ctaHero }}</a>
                 </div>
               </div>
             </div>
