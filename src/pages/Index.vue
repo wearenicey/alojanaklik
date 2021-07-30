@@ -31,7 +31,8 @@
           <div class="col-7@md">
             <div>
               <figure>
-                <g-image
+                <g-image :immediate="true"
+                
                     class="block width-100% display@md"
                     src="~/assets/img/pocetna-slika-1.webp"
                     alt="Image description"
