@@ -30,9 +30,10 @@
 </template>
 
 
-<page-query>
+<static-query>
+
 query {
- products: allProizvodi (filter: {kategorija: {eq:"negaLicaTela"}}) {
+ products: allProizvodi (filter: {category:{contains: ["negaLicaTela"]} }) {
   edges {
       node {
         id
@@ -46,7 +47,7 @@ query {
   
 }
 }
-</page-query>
+</static-query>
 
 
 <script>

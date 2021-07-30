@@ -31,7 +31,7 @@
 
 <page-query>
 query {
- products: allProizvodi (filter: {kategorija: {eq:"imunitet"}}) {
+ products: allProizvodi (filter: {category:{contains: ["imunitet"]} })    {
     edges {
       node {
         id
