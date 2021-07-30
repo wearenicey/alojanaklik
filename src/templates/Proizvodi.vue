@@ -53,7 +53,7 @@
         <div class="container max-width-adaptive-lg">
           <div class="grid">
             <div class="col-4@md margin-bottom-md">
-              <h2 class="text-xl">
+              <h2 class="text-lg">
                 {{ $page.event.sekcija2Naslov }}
               </h2>
             </div>
