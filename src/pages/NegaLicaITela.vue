@@ -30,7 +30,7 @@
 </template>
 
 
-<static-query>
+<page-query>
 
 query {
  products: allProizvodi (filter: {category:{contains: ["negaLicaTela"]} }) {
@@ -47,7 +47,7 @@ query {
   
 }
 }
-</static-query>
+</page-query>
 
 
 <script>
