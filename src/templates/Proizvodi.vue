@@ -27,7 +27,7 @@
 
             <div class="col-7@md">
               <figure>
-                <g-image class="block width-100%" :src="$page.event.slikaHero[0].url"  alt="Image description" />
+                <g-image :immediate="true" class="block width-100%" :src="$page.event.slikaHero[0].url"  alt="Image description" />
               </figure>
             </div>
             <div class="col-12 hide@md">
@@ -680,24 +680,25 @@
                 <ul class="grid gap-sm margin-top-md">
                   <li class="col-6@md">
                     <div class="flex items-center">
-                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
                       Proizvode na popustu
                     </div>
                   </li>
                   <li class="col-6@md">
                     <div class="flex items-center">
-                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />Dodatni materijal
+                       <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
+                        Dodatni materijal
                     </div>
                   </li>
                   <li class="col-6@md">
                     <div class="flex items-center">
-                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
                       Dodatnu zaradu "sa strane"
                     </div>
                   </li>
                   <li class="col-6@md">
                     <div class="flex items-center">
-                      <font-awesome class="ikonice" :icon="['fas', 'check-circle']" />
+                      <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
                       Posao po svojoj meri
                     </div>
                   </li>
@@ -743,7 +744,7 @@
   id
   pageTitle
   metaDesc
-  kategorija
+  category
   h1Hero
   path
   pHero
