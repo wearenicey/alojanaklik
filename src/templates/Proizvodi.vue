@@ -25,7 +25,7 @@
               </div>
             </div>
 
-            <div class="col-7@md hide@md">
+            <div class="col-7@md display@md">
               <figure>
                 <g-image :immediate="true" class="block width-100%" :src="$page.event.slikaHero[0].url"
                   :alt="$page.event.heroAlt" />
