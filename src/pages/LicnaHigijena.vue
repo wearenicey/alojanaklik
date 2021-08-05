@@ -3,26 +3,25 @@
     <section class="feature-v8 padding-bottom-xxl">
       <div class="feature-v8__main-content bg-contrast-lower padding-top-xxl">
         <div class="container max-width-adaptive-lg">
+					<div class="grid gap-md margin-bottom-sm@md">
+						<div class="text-component col-12 col-8@md">
+							<h1 class="line-height-1 color-accent-dark">Lična higijena</h1>
+						</div>
+
+						<div class="text-component col-12 col-8@md margin-bottom-0">
+							<p class="color-accent-dark">
+								Kompanija se fokusira na nežno negovanje nečijeg zdravlja
+								kombinacijom gela aloe vere iz domaćeg uzgoja i drugih
+								visokokvalitetnih sastojaka u njihovoj paleti proizvoda za negu
+								kože, nege, oralne higijene i lepote - a sve bez jakih
+								hemikalija ili sintetičkih mirisa
+							</p>
+						</div>
+					</div>
           <g-image
-            class="block width-100% height-100% object-cover margin-bottom-sm"
+            class="block width-100% height-100% object-cover margin-bottom-sm radius-lg display@md"
             src="~/assets/img/licnahigijena.jpg"
           ></g-image>
-
-          <div class="grid gap-md justify-between@md">
-            <div class="text-component col-6@md">
-              <h1>Lična higijena</h1>
-            </div>
-
-            <div class="text-component col-5@md">
-              <p class="color-contrast-medium">
-                Kompanija se fokusira na nežno negovanje nečijeg zdravlja
-                kombinacijom gela aloe vere iz domaćeg uzgoja i drugih
-                visokokvalitetnih sastojaka u njihovoj paleti proizvoda za negu
-                kože, nege, oralne higijene i lepote - a sve bez jakih
-                hemikalija ili sintetičkih mirisa
-              </p>
-            </div>
-          </div>
         </div>
       </div>
       <Card :products="$page.products.edges" />
@@ -44,7 +43,7 @@ query {
           }
       }
     }
-  
+
 }
 }
 </page-query>

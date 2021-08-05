@@ -3,23 +3,23 @@
     <section class="feature-v8 padding-bottom-xxl">
       <div class="feature-v8__main-content bg-contrast-lower padding-top-xxl">
         <div class="container max-width-adaptive-lg">
+					<div class="grid gap-md margin-bottom-sm@md">
+						<div class="text-component col-12 col-8@md">
+							<h1 class="line-height-1 color-accent-dark">Mršavljenje</h1>
+						</div>
+
+						<div class="text-component col-12 col-8@md margin-bottom-0">
+							<p class="color-accent-dark">
+								Ako želite da smršate, paleta proizvoda kompanije Forever pomoći
+								će vam da ispunite svoje ciljeve. Svima kome je potrebna pomoć
+								kako bi dobili telo koje su oduvek želeli. Počnite još danas.
+							</p>
+						</div>
+					</div>
           <g-image
-            class="block width-100% height-100% object-cover margin-bottom-sm"
+            class="block width-100% height-100% object-cover margin-bottom-sm radius-lg display@md"
             src="~/assets/img/mrsavljenje.jpg"
           ></g-image>
-          <div class="grid gap-md justify-between@md">
-            <div class="text-component col-6@md">
-              <h1>Mršavljenje</h1>
-            </div>
-
-            <div class="text-component col-5@md">
-              <p class="color-contrast-medium">
-                Ako želite da smršate, paleta proizvoda kompanije Forever pomoći
-                će vam da ispunite svoje ciljeve. Svima kome je potrebna pomoć
-                kako bi dobili telo koje su oduvek želeli. Počnite još danas.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
       <Card :products="$page.products.edges" />
@@ -41,7 +41,7 @@ query {
           }
       }
     }
-  
+
 }
 }
 </page-query>

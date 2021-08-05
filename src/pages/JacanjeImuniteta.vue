@@ -1,26 +1,26 @@
 <template>
   <Layout>
     <section class="feature-v8 padding-bottom-xxl">
-      <div class="feature-v8__main-content bg-contrast-lower padding-top-xxl">
+      <div class="feature-v8__main-content padding-top-xxl">
         <div class="container max-width-adaptive-lg">
+					<div class="grid gap-md margin-bottom-sm@md">
+						<div class="text-component col-12 col-8@md">
+							<h1 class="line-height-1 color-accent-dark">Jačanje imuniteta</h1>
+						</div>
+
+						<div class="text-component col-12 col-8@md margin-bottom-0">
+							<p class="color-accent-dark">
+								Forever Living asortiman proizvoda pomoći će vam u borbi protiv
+								infekcija i bolesti. Ovi proizvodi sadrže najkorisnije vitamine,
+								minerale i biljne ekstrakte, a sve u cilju jačanja odbrambenog
+								sistema vašeg tela.
+							</p>
+						</div>
+					</div>
           <g-image
-            class="block width-100% height-100% object-cover margin-bottom-sm"
+            class="block width-100% height-100% object-cover margin-bottom-sm radius-lg display@md"
             src="~/assets/img/jacanjeimuniteta.jpg"
           ></g-image>
-          <div class="grid gap-md justify-between@md">
-            <div class="text-component col-6@md">
-              <h1>Jačanje imuniteta</h1>
-            </div>
-
-            <div class="text-component col-5@md">
-              <p class="color-contrast-medium">
-                Forever Living asortiman proizvoda pomoći će vam u borbi protiv
-                infekcija i bolesti. Ovi proizvodi sadrže najkorisnije vitamine,
-                minerale i biljne ekstrakte, a sve u cilju jačanja odbrambenog
-                sistema vašeg tela.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
       <Card :products="$page.products.edges" />
@@ -42,7 +42,7 @@ query {
           }
       }
     }
-  
+
 }
 }
 </page-query>

@@ -3,25 +3,25 @@
     <section class="feature-v8 padding-bottom-xxl">
       <div class="feature-v8__main-content bg-contrast-lower padding-top-xxl">
         <div class="container max-width-adaptive-lg">
+					<div class="grid gap-md margin-bottom-sm@md">
+						<div class="text-component col-12 col-8@md">
+							<h1 class="line-height-1 color-accent-dark">Nega Lica i Tela</h1>
+						</div>
+
+						<div class="text-component col-12 col-8@md margin-bottom-0">
+							<p class="color-accent-dark">
+								Za mnoge je lična nega često način da pobegnu od svakodnevnog
+								stresa i ostave iza sebe bilo kakve brige. Forever Living razume
+								ovu potrebu za opuštanjem u svetu koji je konstantno dinamičan.
+								Zbog toga su kombinovali prirodne sastojke sa gelom aloe vere,
+								tako da možete iskusiti svoj spa dan bez obzira gde se nalazite!
+							</p>
+						</div>
+					</div>
           <g-image
-            class="block width-100% height-100% object-cover margin-bottom-sm"
+            class="block width-100% height-100% object-cover margin-bottom-sm radius-lg display@md"
             src="~/assets/img/negalicaitela.jpg"
           ></g-image>
-          <div class="grid gap-md justify-between@md">
-            <div class="text-component col-6@md">
-              <h1>Nega Lica i Tela</h1>
-            </div>
-
-            <div class="text-component col-5@md">
-              <p class="color-contrast-medium">
-                Za mnoge je lična nega često način da pobegnu od svakodnevnog
-                stresa i ostave iza sebe bilo kakve brige. Forever Living razume
-                ovu potrebu za opuštanjem u svetu koji je konstantno dinamičan.
-                Zbog toga su kombinovali prirodne sastojke sa gelom aloe vere,
-                tako da možete iskusiti svoj spa dan bez obzira gde se nalazite!
-              </p>
-            </div>
-          </div>
         </div>
       </div>
       <Card :products="$page.products.edges" />
@@ -44,7 +44,7 @@ query {
           }
       }
     }
-  
+
 }
 }
 </page-query>

@@ -51,8 +51,8 @@
         <div class="text-component text-center text-left@md margin-bottom-lg">
           <h2 class="font-secondary color-accent-dark font-normal">Forever Living benefiti</h2>
         </div>
-        <div class="grid gap-md">
-          <div class="col-6@md col-12">
+				<div class="grid gap-md">
+					<div class="col-6@md">
             <div class="feature-v7__item flex gap-sm">
               <figure>
                 <g-image
