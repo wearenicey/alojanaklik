@@ -12,9 +12,7 @@
     >
       <div class="f-header__mobile-content container max-width-lg">
         <a @click="x" class="f-header__logo">
-          <g-image
-            src="~/assets/img/Forever Living Proizvodi _ Aloja Vera.svg"
-          ></g-image>
+          <g-image src="~/assets/img/aloja-na-klik-logo.webp"></g-image>
         </a>
 
         <button
@@ -40,9 +38,7 @@
         >
           <div class="f-header__nav-logo-wrapper flex-grow flex-basis-0">
             <a a @click="x" class="f-header__logo">
-              <g-image
-                src="~/assets/img/Forever Living Proizvodi _ Aloja Vera.svg"
-              ></g-image>
+              <g-image src="~/assets/img/aloja-na-klik-logo.webp"></g-image>
             </a>
           </div>
 
