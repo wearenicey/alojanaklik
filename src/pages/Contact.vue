@@ -313,6 +313,7 @@
 export default {
   metaInfo: {
     title: "Kontakt",
+    
   },
 
   mounted() {
