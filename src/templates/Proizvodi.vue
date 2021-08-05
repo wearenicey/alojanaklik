@@ -334,7 +334,7 @@
 			</ul>
 		</div>
 
-		<section class="position-relative z-index-1 padding-y-xl">
+		<section class="position-relative z-index-1 padding-y-xl display@md">
 			<div class="container max-width-adaptive-md position-relative">
 				<div class="grid padding-x-md padding-x-0@md">
 					<div class="position-relative z-index-2 col-6@md col-5@lg">
@@ -368,7 +368,7 @@
 			</div>
 		</section>
 
-		<section class="position-relative z-index-1 padding-y-xl">
+		<section class="position-relative z-index-1 padding-y-xl display@md">
 			<div class="container max-width-adaptive-md position-relative">
 				<div class="grid padding-x-md padding-x-0@md">
 					<div class="position-relative z-index-2 col-6@md col-5@lg">
@@ -401,6 +401,31 @@
 				</div>
 			</div>
 		</section>
+
+		<!-- Mobile -->
+		<div class="container hide@md max-adaptive-xl margin-y-lg">
+			<div class="grid">
+				<div class="col-12 margin-bottom-md">
+					<g-image :src="$page.event.opis1Slika[0].url" :alt="$page.event.alt3"></g-image>
+					<div class="text-component margin-top-xs">
+						<h2>{{ $page.event.opis1Naslov }}</h2>
+						<p class="color-contrast-medium">
+							{{ $page.event.opis1Tekst }}
+						</p>
+					</div>
+				</div>
+				<div class="col-12">
+					<g-image :src="$page.event.opis2Slika[0].url" :alt="$page.event.alt4"></g-image>
+					<div class="text-component margin-top-xs">
+						<h2>{{ $page.event.opis2Naslov }}</h2>
+						<p class="color-contrast-medium">
+							{{ $page.event.opis2Tekst }}
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- end mobile -->
 
 	</Layout>
 </template>
