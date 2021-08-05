@@ -25,9 +25,10 @@
               </div>
             </div>
 
-            <div class="col-7@md">
+            <div class="col-7@md hide@md">
               <figure>
-                <g-image :immediate="true" class="block width-100%" :src="$page.event.slikaHero[0].url"  :alt="$page.event.heroAlt" />
+                <g-image :immediate="true" class="block width-100%" :src="$page.event.slikaHero[0].url"
+                  :alt="$page.event.heroAlt" />
               </figure>
             </div>
             <div class="col-12 hide@md">
@@ -68,7 +69,7 @@
       </div>
 
       <figure class="feature-v5__media container max-width-lg">
-        <g-image class="block width-100% shadow-lg" :src="$page.event.sekcija2Slika[0].url" :alt="$page.event.alt2"/>
+        <g-image class="block width-100% shadow-lg" :src="$page.event.sekcija2Slika[0].url" :alt="$page.event.alt2" />
       </figure>
     </section>
 
@@ -686,8 +687,8 @@
                   </li>
                   <li class="col-6@md">
                     <div class="flex items-center">
-                       <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
-                        Dodatni materijal
+                      <g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
+                      Dodatni materijal
                     </div>
                   </li>
                   <li class="col-6@md">
@@ -751,7 +752,7 @@
   ctaHero
   slikaHero
   {
-    url
+  url
   }
   heroAlt
 
