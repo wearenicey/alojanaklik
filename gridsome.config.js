@@ -10,8 +10,9 @@ module.exports = {
   siteUrl: 'https://www.alojanaklik.rs/',
 
 
+
   plugins: [
-   
+
 
     {
       use: 'gridsome-plugin-gtm',
