@@ -12,7 +12,10 @@
     >
       <div class="f-header__mobile-content container max-width-lg">
         <a @click="x" class="f-header__logo">
-          <g-image src="~/assets/img/aloja-na-klik-logo.png"></g-image>
+          <g-image
+            src="~/assets/img/aloja-na-klik-logo.png"
+            width="150"
+          ></g-image>
         </a>
 
         <button
