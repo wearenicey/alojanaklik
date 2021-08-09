@@ -172,16 +172,13 @@
       <div class="container max-width-adaptive-md position-relative">
         <div class="grid padding-x-md padding-x-0@md">
           <div class="position-relative z-index-2 col-6@md col-5@lg">
-            <div
-                class="
+            <div class="
                 text-component
                 bg
                 padding-md padding-lg@md
                 shadow-sm
                 line-height-md
-                component-inside
-              "
-            >
+                component-inside">
               <h3 class="text-xl font-normal letter-spacing-sm font-secondary color-accent-dark">Premijum proizvodi</h3>
               <p class="color-accent margin-top-sm">
                 Forever Living predstavlja najbolje u pogledu kvaliteta i

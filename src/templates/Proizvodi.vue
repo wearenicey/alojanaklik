@@ -49,7 +49,7 @@
         <div class="container max-width-adaptive-lg">
           <div class="grid justify-center">
             <div class="col-12 col-8@md margin-bottom-md">
-              <h2 class="font-secondary text-center color-accent-dark font-normal">
+              <h2 class="font-secondary text-center color-primary-darker font-normal">
                 {{ $page.event.sekcija2Naslov }}
               </h2>
             </div>
@@ -63,22 +63,22 @@
         </div>
       </div>
 
-      <figure class="feature-v5__media container max-width-lg">
-        <g-image class="block width-100% shadow-lg" :src="$page.event.sekcija2Slika[0].url" :alt="$page.event.alt2" />
+      <figure class="feature-v5__media container max-width-md">
+        <g-image class="block width-100%" :src="$page.event.sekcija2Slika[0].url" :alt="$page.event.alt2" />
       </figure>
     </section>
 
     <div class="feature-v2 padding-y-xl">
-      <div class="container max-width-adaptive-lg">
+      <div class="container max-width-adaptive-md">
         <div class="grid gap-md">
-          <div class="col-4@md">
+          <div class="col-12">
             <h2 class="text-xl letter-spacing-sm color-accent-dark font-secondary font-normal">
               {{ $page.event.sekcija3Naslov }}
             </h2>
           </div>
 
-          <div class="col-8@md">
-            <div class="text-component padding-left-md@md">
+          <div class="col-12">
+            <div class="text-component">
               <p class="color-accent-dark">
                 {{ $page.event.sekcija3Tekst }}
               </p>
@@ -334,73 +334,81 @@
       </ul>
     </div>
 
-    <section class="position-relative z-index-1 padding-y-xl display@md">
-      <div class="container max-width-adaptive-md position-relative">
-        <div class="grid padding-x-md padding-x-0@md">
-          <div class="position-relative z-index-2 col-6@md col-5@lg">
-            <div class="
-                          text-component
-                          bg
-                          padding-md padding-lg@md
-                          shadow-sm
-                          line-height-md
-                          margin-top-xxxl
-                        ">
-              <h2>{{ $page.event.opis1Naslov }}</h2>
-              <p class="color-contrast-medium">
-                {{ $page.event.opis1Tekst }}
-              </p>
-            </div>
-          </div>
-
-          <figure class="
-                        position-absolute
-                        z-index-1
-                        top-0
-                        right-0
-                        height-90%
-                        col-10@md
-                      ">
-            <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis1Slika[0].url"
-              :alt="$page.event.alt3" />
-          </figure>
-        </div>
-      </div>
-    </section>
-
-    <section class="position-relative z-index-1 padding-y-xl display@md">
-      <div class="container max-width-adaptive-md position-relative">
-        <div class="grid padding-x-md padding-x-0@md">
-          <div class="position-relative z-index-2 col-6@md col-5@lg">
-            <div class="
-                          text-component
-                          bg
-                          padding-md padding-lg@md
-                          shadow-sm
-                          line-height-md
-                          margin-top-xxxl
-                        ">
-              <h2>{{ $page.event.opis2Naslov }}</h2>
-              <p class="color-contrast-medium">
-                {{ $page.event.opis2Tekst }}
-              </p>
-            </div>
-          </div>
-
-          <figure class="
-                        position-absolute
-                        z-index-1
-                        top-0
-                        left-0
-                        height-90%
-                        col-10@md
-                      ">
-            <g-image class="block width-100% height-100% object-cover" :src="$page.event.opis2Slika[0].url"
-              :alt="$page.event.alt4" />
-          </figure>
-        </div>
-      </div>
-    </section>
+		<section class="position-relative z-index-1 padding-y-xl display@md">
+			<div class="container max-width-adaptive-md position-relative">
+				<div class="grid padding-x-md padding-x-0@md">
+					<div class="position-relative z-index-2 col-6@md col-5@lg">
+						<div class="
+                text-component
+                bg
+                padding-md padding-lg@md
+                shadow-sm
+                line-height-md
+                component-inside">
+							<h3 class="text-xl font-normal letter-spacing-sm font-secondary color-accent-dark">{{ $page.event.opis1Naslov }}</h3>
+							<p class="color-accent margin-top-sm">{{ $page.event.opis1Tekst }}</p>
+						</div>
+					</div>
+					<figure
+							class="
+              position-absolute
+              z-index-1
+              top-0
+              right-0
+              height-100%
+              col-10@md
+            "
+					>
+						<g-image
+								class="block width-100% height-100% object-cover"
+								width="520"
+								height="520"
+								src="~/assets/img/pocetna-kartica-1.webp"
+								alt="Image description"
+						/>
+					</figure>
+				</div>
+			</div>
+		</section>
+		<section class="position-relative z-index-1 padding-y-xl display@md">
+			<div class="container max-width-adaptive-md position-relative">
+				<div class="grid justify-end padding-x-md padding-x-0@md">
+					<div class="position-relative z-index-2 col-6@md col-5@lg">
+						<div
+								class="
+                text-component
+                bg
+                padding-md padding-lg@md
+                shadow-sm
+                line-height-md
+                component-inside
+              "
+						>
+							<h3 class="text-xl font-normal letter-spacing-sm font-secondary color-accent-dark">{{ $page.event.opis2Naslov }}</h3>
+							<p class="color-accent margin-top-sm">{{ $page.event.opis2Tekst }}</p>
+						</div>
+					</div>
+					<figure
+							class="
+              position-absolute
+              z-index-1
+              top-0
+              left-0
+              height-100%
+              col-10@md
+            "
+					>
+						<g-image
+								class="block width-100% height-100% object-cover"
+								width="520"
+								height="520"
+								src="~/assets/img/pocetna-kartica-2.webp"
+						>
+						</g-image>
+					</figure>
+				</div>
+			</div>
+		</section>
 
     <!-- Mobile -->
     <div class="container hide@md max-adaptive-xl margin-y-lg">
@@ -429,10 +437,10 @@
     <section class="padding-y-lg" id="yourID">
       <div class="container max-width-adaptive-lg margin-bottom-lg">
         <div class="text-component text-center">
-          <h2 class="text-xxl">
+          <h2 class="text-xxl font-secondary font font-normal color-accent-dark letter-spacing-sm">
             Naruči sa zvanične stranice, plati karticom ili pouzećem.
           </h2>
-          <p class="width-66%@md width-100% margin-x-auto">
+          <p class="width-66%@md width-100% margin-x-auto color-accent">
             Internet prodavnica kompanije Forever Living Products doo
             Beograd je jedina zvanična prodavnica artikala sa obeležjima
             Forever Living Products International.
@@ -441,19 +449,19 @@
       </div>
       <div class="container max-width-adaptive-lg">
         <div class="grid items-center">
-          <div class="col-9@md bg-white padding-xl@md padding-lg">
-            <div class="grid items-center gap-md">
+          <div class="col-8@md bg-white padding-xl@md padding-lg">
+            <div class="grid items-center gap-lg">
               <div class="text-component">
-                <h3>{{ $page.event.ctaNaslov }}</h3>
-                <p class="text-sm">
+                <h3 class="font-secondary color-primary-darker">{{ $page.event.ctaNaslov }}</h3>
+                <p class="">
                   {{ $page.event.ctaTekst }}
                 </p>
               </div>
-              <div class="">
+              <div>
                 <div class="flex items-center">
-                  <h5 class="proba color-contrast-medium margin-right-sm">
+                  <p class="proba color-contrast-medium margin-right-sm text-sm">
                     Učlanjenjem dobijate
-                  </h5>
+                  </p>
                   <div class="proba2"></div>
                 </div>
                 <ul class="grid gap-sm margin-top-md">
@@ -485,25 +493,19 @@
               </div>
             </div>
           </div>
-          <div class="
-                      col-3@md
-                      padding-y-xl padding-x-xs
-                      shadow-lg
-                      bg-contrast-lower
-                    ">
+          <div class="col-4@md padding-y-xl padding-x-xs shadow-lg bg-contrast-lower radius-lg">
             <div class="text-component text-center">
-              <p class="text-bold">Kupi jednom, zaljubi se FOREVER
-              </p>
+              <p class="">Kupi jednom, zaljubi se FOREVER</p>
 
-              <h4>{{ $page.event.ctaCena }} RSD</h4>
+              <p class="text-md font-bold">{{ $page.event.ctaCena }} RSD</p>
               <div>
                 <g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
                   Alojom
                 </g-link>
               </div>
 
-              <a :href="$page.event.ctaLink" class="btn  margin-top-sm btn--primary">Naruči proizvod </a>
-              <p class="text-sm margin-top-sm">
+              <a :href="$page.event.ctaLink" class="btn btn--md margin-top-sm btn--primary">Naruči proizvod </a>
+              <p class="text-sm color-contrast-medium margin-top-sm">
                 *Kako biste izvršili kupovinu sa 5% popusta, neophodno
                 je da se učlanite i poručite proizvode u minimalnom
                 iznosu od 66eur!
