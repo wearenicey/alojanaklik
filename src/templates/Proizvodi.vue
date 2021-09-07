@@ -390,7 +390,7 @@
               col-10@md
             ">
 						<g-image class="block width-100% height-100% object-cover" width="520" height="520"
-							src="$page.event.opis2Slika[0].url">
+							:src="$page.event.opis2Slika[0].url">
 						</g-image>
 					</figure>
 				</div>
