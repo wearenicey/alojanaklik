@@ -359,7 +359,7 @@
               col-10@md
             ">
 						<g-image class="block width-100% height-100% object-cover" width="520" height="520"
-							src="~/assets/img/pocetna-kartica-1.webp" alt="Image description" />
+							:src="$page.event.opis1Slika[0].url" alt="Image description" />
 					</figure>
 				</div>
 			</div>
@@ -390,7 +390,7 @@
               col-10@md
             ">
 						<g-image class="block width-100% height-100% object-cover" width="520" height="520"
-							src="~/assets/img/pocetna-kartica-2.webp">
+							src="$page.event.opis2Slika[0].url">
 						</g-image>
 					</figure>
 				</div>
