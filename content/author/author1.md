@@ -6,5 +6,4 @@ facebook: https://www.facebook.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
 image: slicica-1.png
-cover: ./cover/benjamin-voros-Lxq_TyMMHtQ-unsplash.jpg
 ---
