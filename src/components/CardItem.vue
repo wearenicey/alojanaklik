@@ -45,7 +45,7 @@
         </p>
       </div>
 
-      <!-- <div class="story__author margin-top-sm">
+      <div class="story__author margin-top-sm">
         <g-image
           :src="require(`!!assets-loader!@img/${record.author.image}`)"
           :alt="record.author.name"
@@ -59,7 +59,7 @@
             >, &mdash; {{ record.timeToRead }} min
           </p>
         </div>
-      </div> -->
+      </div>
     </div>
   </article>
 </template>
