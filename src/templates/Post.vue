@@ -22,21 +22,21 @@
 
             <div class="author__content text-component v-space-xxs">
               <h4 class="text-base">{{ $page.post.author.name }}</h4>
-              <p class="text-sm color-contrast-medium">
+              <!-- <p class="text-sm color-contrast-medium">
                 <time
                   class="text-sm color-inherit"
                   :datetime="$page.post.datetime"
                   >{{ $page.post.humanTime }}</time
                 >&mdash; {{ $page.post.timeToRead }} min
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
       </header>
 
-      <figure class="container max-width-lg margin-bottom-lg">
+      <figure class="container max-width-md margin-bottom-lg">
         <g-image
-          :src="require(`!!assets-loader!@img/${$page.post.image}`)"
+          :src="require(`!!assets-loader!@img/${$page.post.image}`)" class="width-100%"
         ></g-image>
       </figure>
 

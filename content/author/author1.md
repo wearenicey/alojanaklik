@@ -1,6 +1,6 @@
 ---
 id: author1
-name: Troes retardat
+name:
 bio: Primis vitae mauris turpis ornare libero odio torquent vehicula proin consequat curabitur mattis
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
