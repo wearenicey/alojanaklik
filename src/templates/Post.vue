@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <article class="padding-y-xxl ">
+    <article class="padding-y-xxl">
       <header class="container max-width-xs margin-bottom-lg">
         <div
           class="
@@ -15,13 +15,7 @@
         </div>
 
         <div class="flex justify-center">
-          <div class="author author--meta">
-            <!-- <g-image
-              :src="require(`!!assets-loader!@img/${$page.post.author.image}`)"
-            ></g-image> -->
-
             <div class="author__content text-component v-space-xxs">
-              <h4 class="text-base">{{ $page.post.author.name }}</h4>
               <p class="text-sm color-contrast-medium">
                 <time
                   class="text-sm color-inherit"
@@ -31,12 +25,12 @@
               </p>
             </div>
           </div>
-        </div>
       </header>
 
       <figure class="container max-width-md margin-bottom-lg">
         <g-image
-          :src="require(`!!assets-loader!@img/${$page.post.image}`)" class="width-100%"
+          :src="require(`!!assets-loader!@img/${$page.post.image}`)"
+          class="width-100%"
         ></g-image>
       </figure>
 
@@ -73,14 +67,7 @@
         id
         title
       }
-     
-      author {
-        id
-        name
-        image
-        path
-        bio
-      }
+    
     }
 
    

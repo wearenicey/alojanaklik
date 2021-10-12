@@ -9,7 +9,6 @@ imageTwo:
   path: ./images/slika-1.jpg
   alt: "A colorful building against a blue sky background"
 image_caption: Photo by Josh Spires on Unsplash
-author: author1
 featured: true
 ---
 
@@ -19,7 +18,8 @@ Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to st
 
 ![aloe vera](./images/aloe-vera-blog-3.webp)
 
-## Aloja vera biljka se koristi vekovima
+Aloja vera biljka se koristi vekovima
+-------------------------------------
 
 **Aloja vera biljka** se spominje još u Starom zavetu 6000. god. p. n. e. Prvi put se spominje u Egiptu u gradu Nipur gde su pronađeni opisi lekovitih svojstava aloje. Doneta je u Aziju oko 400.god. p. n. e., a u Evropu između 10. i 13. veka. Aloja se prvi put primenjuje u Engleskoj kao sredstvo za lečenje spoljnih rana i bolesti. U Americi se koristi za zaštitu kože od 1820 godine, a prve plantaže su nastale 1912. godine na Floridi.
 

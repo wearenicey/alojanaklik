@@ -45,15 +45,9 @@
         </p>
       </div>
 
-      <div class="story__author margin-top-sm">
-        <g-image
-          :src="require(`!!assets-loader!@img/${record.author.image}`)"
-          :alt="record.author.name"
-        />
+      <div class=" margin-top-sm flex">
         <div class="line-height-xs">
-          <address class="story__author-name">
-            {{ record.author.name }}
-          </address>
+        
           <p class="story__meta">
             <time :datetime="record.datetime">{{ record.humanTime }}</time
             >, &mdash; {{ record.timeToRead }} min

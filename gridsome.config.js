@@ -57,23 +57,20 @@ module.exports = {
       },
     },
 
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        typeName: 'Author',
-        path: './content/author/*.md'
-      }
-    },
+
 
     {
       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'Post',
         path: './content/blog/**/*.md',
+				remark: {
+					autolinkHeadings: false,
+
+				},
 
 
         refs: {
-          author: 'Author',
           tags: {
             typeName: 'Tag',
             create: true
@@ -107,10 +104,8 @@ module.exports = {
 
   transformers: {
     remark: {
-      autolinkClassName: 'icon icon-link heading-anchor',
       externalLinksTarget: '_blank',
       externalLinksRel: ['noopener',],
-      anchorClassName: 'icon icon-link',
     }
   },
 
@@ -122,3 +117,4 @@ module.exports = {
 
 
 }
+

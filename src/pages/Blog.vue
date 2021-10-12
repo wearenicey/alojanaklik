@@ -55,12 +55,7 @@ query Posts ($page: Int) {
           title
           path
         }
-        author {
-          id
-          name
-          image
-        }
-        
+     
       }
         
     }
