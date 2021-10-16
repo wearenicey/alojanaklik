@@ -12,94 +12,118 @@ image_caption: Photo by Josh Spires on Unsplash
 featured: true
 ---
 
-Svakodnevno sedenje po više sati dovodi Vas u situaciju da se neredovno hranite ili se često prejedate. Neadekvatna ishrana bez vitamina i minerala vremenom oštećuje kožu i kosu. Instant rešenja su svuda oko nas - kupićete neki hemijski preparat...
+**Vitamin B12 naziva se još i kobalamin** (cijanokobalamin) i pripada vitaminima koje organizam ne može sam da stvara. Pronađen je 1948 godine, rastvorljiv je u vodi i jedini sadrži kobalt. Nalazi se isključivo u namirnicama životinjskog porekla. U ljudskom organizmu smešten je uglavnom u jetri.Ukoliko se unese u većim količinama organizam će skladištiti u jetri.
 
-Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to ste rešili privremeno lekovima, antacidima. Šta posle, ako lekovi više ne pomažu? U našoj okolini postoje veoma moćne biljke, poput aloje koje mogu pomoći kod svakodnevnih problema sa varenjem, UV zračenjem, hidratacijom kože, pa čak i uslučaju najtežih bolesti.
+**Vitamin B12 ima višestruku ulogu u organizmu:**
+1. Ima ključnu ulogu u stvaranju crvenih krvnih zrnaca; 
+2. Veoma je bitan za formiranje DNK;
+3. Važan je za metaboličke procese u organizmu i
+4. Održavanje nervne funkcije.
 
-![aloe vera](./images/aloe-vera-blog-3.webp)
+Vitamin B12 omogućava pretvaranje hrane u gorivo, te na taj način podiže nivo energije. Spada u grupu antianemičnih vitamina te je veoma bitan kod osoba koje pate od anemije i neuropatije. Apsorbuje se u stomaku pomoću proteina pod nazivom intrinzični faktor.
 
-Aloja vera biljka se koristi vekovima
--------------------------------------
 
-**Aloja vera biljka** se spominje još u Starom zavetu 6000. god. p. n. e. Prvi put se spominje u Egiptu u gradu Nipur gde su pronađeni opisi lekovitih svojstava aloje. Doneta je u Aziju oko 400.god. p. n. e., a u Evropu između 10. i 13. veka. Aloja se prvi put primenjuje u Engleskoj kao sredstvo za lečenje spoljnih rana i bolesti. U Americi se koristi za zaštitu kože od 1820 godine, a prve plantaže su nastale 1912. godine na Floridi.
 
-Mnogi naučnici, filozofi, lekari i istoričari su pisali o čudotvornim dejstvima ove biljke. Hipokrat je pisao o aloji kao leku koji leči tumore, dizenteriju i stomačne tegobe. Kleopatra je smatrala da je aloja vera biljka ta koja je činila lepšom, posebno je isticala **aloja vera gel**, a faraoni su verovali da aloja doprinosi dugom životu.
-Iz Novog Zaveta imamo podatak da je melasa iz aloje i mirte prelivena na telo Isusa Hrista. Maje su se mazale po licu kako bi bile lepše, a Kristofer Kolumbo nikada nije krenuo na put bez ove čudotvorne biljke. Indijanci su je koristili čak protiv ujeda zmije.
+## Ko je ugrožen nedostatkom vitamina B12? ##
 
-## Aloja u raznim oblicima
 
-**Aloja vera biljka** se koristi u sledećim oblicima:
+Postoje određene grupacije ljudi koje mogu biti ugrožene nedostatkom vitamina B12 usled načina života ili određenih zdravstvenih problema. Tu spadaju:
+1. Starije osobe od 65 godina - organizam nije u mogućnosti da apsorbuje ovaj vitamin usled nedostatka lučenja enzima za varenje;
+2. Vegetarijanci - ne jedu namirnice koje sadrže mleko i jaja;
+3. Vegani - ne jedu namirnice životinjskog porekla;
+4. Kod osoba koje imaju smanjeno lučenje želudačne kiseline usled dugotrajnog uzimanja antacida (lekovi za smanjenje želudačne kiseline);
+5. Osobe koje imaju nedostatak enzima za varenje;
+6. Osobe koje su obolele od helikobakterije, te im je oštećena sluznica želuca koja je veoma važna za apsorpciju vitamina B12;
+7. Ljudi kojima je odstranjen deo želuca ili su imali operaciju creva - te su smanjene mogućnosti varenja;
+8. Osobe koje boluju od dijabetesa, a uzimaju lek metformin - direktno smanjuje unete količine vitamina B12, te je potreban veći dnevni unos;
+9. Osobe zaražene HIV-om (virus humane imunodeficijencije);
+10. Osobe koje boluju od insuficijencije pankreasa i
+11. Alkoholičari - jer alkohol uništava jetru u kojoj se skladišti vitamin B12.
 
-1. Kao lekovito bilje i to:
 
-- Aloja vera sok
-- Aloja vera gel
-- Aloja vera sprej
-- Aloja vera krema
+## Posledice nedostatka vitamina B12 ##
 
-2. Kao sobno bilje ima sledeće uloge:
+Blagi nedostatak B12 vitamina je vrlo česta pojava koja izaziva **malaksalost**, bledilo, **konstipaciju** (zatvor), nervozu, **gubitak apetita**, trnjenje ruku i nogu. Postoji veliki broj ljudi koji pate od nedostatka vitamina B12, a da toga nisu ni svesni. U dužem vremenskom periodu nedostatak vitamina B12 može da dovede do velikih mentalnih i fizičkih oboljenja.
 
-- Da prečišćava vazduh - neutrališe negativna zračenja kućnih aparata i raznih štetnih materija iz vazduha
-- Da održava stalnu svežinu vazduha - otporna je na duvanski dim
-- I kao ukrasno bilje ima dekorativnu funkciju.
+**Simptomi  nedostatka vitamina B12 su:**
+1. Vrtoglavice praćene umorom;
+2. Bledilo i **malaksalost**;
+3. Problemi sa koncentracijom, kožom (dermatitis, ekcem i gljivice) i kosom;
+4. Pojačana napetost i strahovi;
+5. Trnjenje i ukočenost usled oštećenja živaca koje je posledica nedostatka kiseonika u ćelijama;
+6. **Gubitak apetita** i težine;
+7. Nadutost, **zatvor** (konstipacija) ili dijareja;
+8. Problemi sa ravnotežom i konfuzija;
+9. Lupanje srca;
+10. Pojava afti u usnoj šupljni i jeziku;
+11. Osećaj pečenja jezika usled uzimanja kiselih namirnica i
+12. Loše pamćenje.
 
-- **Aloja vera sok** - sadrži preko 240 hranljivih sastojaka i bogat je izvor vitamina (A, B1, B2, B3, B5, B6, B12, C), minerala (kalcijum, natrijum, bakar, cink, hrom, mangan, kalijum, magnezijum, gvožđe), antioksidanasa, aminokiselina (od toga 8 esencijalnih), antikinona, enzima, saponina i lignina.
 
-Sok od aloje vera pomaže kod:
+U **težim slučajevima** dolazi do pojave:
+1. **Perniciozne anemije** - javlja se u slučajevima težih oštećenja želuca, te ne postoji mogućnost apsorbovanja vitamina B12. Tada se on unosi isključivo intravenski, jer oralna primena nema zadovoljavajući efekat.
+2. **Srčanih oboljenja** - zbog nedostatka folne kiseline, dolazi do povišenih vrednosti homocisteina koji dovode do šloga, infarkta i drugih srčanih oboljenja. [Istraživanja su pokazala da dodavanje folne kiseline, vitamina B12 i probukola](https://pubmed.ncbi.nlm.nih.gov/23363713/) osnovnoj terapiji pacijenata sa hipertenzijom, značajno dovodi do pada homocisteina (Hcy) i asimetričnog dimetilarginina (ADMA) u plazmi. To za posledicu ima smanjenje hipertenzije, te vitamin B12 ima značajnu ulogu u prevenciji srčanih oboljenja.
+3. **Osteoporoze** - usled nedostatka B12 vitamina dolazi do teže sinteze kolagena koji je ključan u izgradnji gustine kostiju. Kao posledicu imamo češće prelome kostiju posebno kod osoba starijih od 65 godina. Takođe [ispitivanje pojave osteoporoze kod starijih žena  pokazuje da zavisi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4548174/) od nivoa homocisteina (Hcy) i metilmalonske kiseline (MMA) u plazmi, ali nikako od zajedničkog dejstva, već individualnog.
 
-1.  Probavnih smetnji, posebno konstipacije
-2.  Lečenja čira na želucu
-3.  Regulacije nivoa želudačne kiseline
-4.  Regulacije nivoa šećera u krvi
-5.  Održavanja hidriranosti organizma
-6.  Poboljšanja rada jetre
-7.  Upale u organizmu
-8.  Snižavanja nivoa lošeg holesterola
-9.  Ublažavanja simptoma astme i alergije
-10. Poboljšanja imuniteta.
 
-- **Aloja vera gel** se nalazi u unutrašnjosti lista aloje. Zbog svoje gustine veoma je povoljan za spravljanje maski za lice, tinktura za opekotine, losiona za kosu, krema za sunčanje, krema za zarastanje rana i raznih kožnih bolesti.
 
-- **Aloja sprej za grlo i nos** je veoma atraktivan proizvod u vremenu gripa, epidemija i pandemija, te je veoma efikasno sredstvo za suzbijanje bakterija i gljivica. Zbog svog antiseptičkog dejstva veoma je efikasan za smirivanje upala (grla, nosa, ždrela, usne šupljine ili desni).
+## Hrana koja sadrži B12 vitamin ##
 
-- **Aloja vera za lice** - kreme su veoma efikasne u hidriranju ispucale i dehidrirane kože. Pomažu održavanju mekoće i elastičnosti. Deluje antibakterijski i protivupalno.
+Vitamin B12 se nalazi isključivo u namirnicama životinjskog porekla. Najviše ga ima u mesu, mleku, jajima i plodovima mora. Prirodni izvori ovog vitamina su najviše:
+1. Crveno i belo meso (govedina, jagnjetina, ćuretina) - oko 186g bifteka sadrži 200% dnevnih potreba ovog vitamina;
+2. Iznutrice (džigerica i bubrezi) - oko 100g jetre sadži 1500% dnevnih potreba vitamina B12, a 100g bubrega oko 1300%. Goveđa jetra sadrži 60 μg po obroku, a pileća 18 μg;
+3. Riba (posebno morska) - jedna porcija lososa ima duplo veću količinu vitamina B12 od dnevno potrebne (4,8 μg). Vitamin B12 i omega 3 masne kiseline su odlične u očuvanju nervnog sistema čoveka;
+4. Sardine - oko 150 gr sardine sadrži duplo veću dnevnu dozu vitamina B12 od potrebne;
+5. Plodovi mora - školjke sadrže 84 μg po obroku, a kavijar 5,67 μg;
+6. Mleko - uključujući jogurt i sir sadrže oko 1 μg vitamina B12. Većina zamena za mleko: kokos, badem, soja ili zob su obogaćeni vitaminom B12 i sadže oko 1 μg;
+7. Žitarice - većina žitarica je obogaćena vitaminom B12, tako da u proseku po porciji sadrže oko 6 μg;
+8. Jaja - belance sadrži proteine, a žumance vitamin B12, A, D, cink i gvožđe.
 
-## Aloja vera u kozmetici - gel i krema za sunčanje
 
-**Aloja vera biljka** u kozmetici ima široku primenu zbog sadržaja lekovitih i hranljivih sastojaka aloje (minerala, vitamina, enzima, aminokiselina, saponina, lignina i polifenola). Aloja spada u grupu kaktusa koja sadži u velikoj meri vodu (oko 99%) te samim tim je izvrsna za **održavanje hidratacije**. To čini kožu zategnutijom i svežom. Naziva se još i “eliksirom mladosti”. Zbog antioksidativnog svojstva, krema na bazi aloje je veoma efikasno sredstvo **protiv starenja kože**. Zbog visokog sadžaja polisaharida **idealna je za masnu kožu** jer je koža brzo upija. Protivupalno dejstvo aloje svrstava ove kreme u najefikasnije u borbi protiv akni. Idealna krema za rešavanje problema hidratacije, iritacije, zarastanje rana, ekcema, psorijaze ili uboda je aloja [vera gel](https://flpshop.rs/nega-koze/11694/aloe-vera-gelly/360000954255/personal.html).
 
-Upotrebljva se čak i kod tretmana kose, kod bojenja i trajne ondulacije. Koža ga u potpunosti upija te ne ostavlja tragove na odeći. Veoma je praktičnog pakovanja te je pogodan u priboru za prvu pomoć.
+![vitaminb12](./images/vitamin-b12-2.webp)
 
-Zbog sve većeg štetnog uticaja sunčevog zračenja koža je izložena ubrzanom starenju, te postaje suva, meka i opuštena. U slučaju opekotina javlja se crvenilo, a u težim slučajevima plikovi. Sve to isušuje kožu i stvara površinske rane u slučaju pucanja plikova, te koža deluje neugledno i zapušteno. [Losion za sunčanje](https://flpshop.rs/nega-koze/12541/aloe-sunscreen/360000954255/personal.html) na bazi aloje je izvrstan za rešavanje svih ovih problema.
 
-Krema za sunčanje je idealna u borbi protiv visokog UV zračenja i štetnog uticaja vetra. Losion je na bazi gela od aloje koji je lako razmaziv i omogućava održavanje prirodne hidratacije kože. Krema za sunčanje sadrži zaštitni faktor 30, te je pogodna za celu porodicu, kako za odrasle tako i za decu. Ovaj losion je vodootporan i pogodan za dugotrajno očuvanje boje kože.
 
-## Uloga aloje kod rešavanja želudačnih smetnji - žgaravica i probavne smetnje
+## Blagodati uzimanja suplemenata i hrane bogate vitaminom B12 ##
 
-Poznato je da aloja ima izvrsno dejstvo kad rešavanja želudačnih smetnji. Aloja sadži glikoproteine zvane aktin i sterol koji smanjuju upale i rane na sluznici želuca. S obzirom da sadrži enzime koji su neophodni za varenje veoma je efikasna za sprečavanje zatvora i detoksikaciju organizma. Aloja je poznata kao biljka koja ima protivbakterijsko dejstvo te je pogodna za suzbijanje helikobakterije, uzročnika gastritisa. Poznato je da je aloja alkalna po svom sastavu te je izvrsna u održavanju PH vrednosti želudačne kiseline. Reguliše kako višak, tako i manjak želudačne kiseline. Proizvod koji može zadovoljiti sve vaše potrebe po pitanju želudačnih smetnji je [aloe vera gel](https://flpshop.rs/napici/11837/forever-aloe-vera-gel/360000954255/personal.html).
-Aloja vera gel sadrži 99,7% čistog gela iz lista aloje te omogućava sistemu za varenje da apsorbuje sve hranljive sastojke iz hrane. Ujedno podstiče i stvaranje dobrih bakterija. Polisaharid acemanan podiže imunitet organizma. Ne sadrži konzervanse i pakovan je u ambalaži od materijala koji je 100% recikliran. Pije se 120 ml dnevno ukupno, podeljeno u 2 ili 3 doze. Nakon otvaranja čuva se u frižideru do 30 dana na temperaturi ne nižoj od 7°C.
+Vitamin B12 moguće je uneti u organizam preko hrane životinjskog porekla, putem suplemenata (tableta) ili intravenski injekcijom u slučaju težih oboljenja želuca i creva).
 
-![aloe vera](./images/aloe-vera-blog-2.webp)
+**Benefiti koje donosi normalan dnevni unos vitamina B12 su:**
+1. Pomaže kod sprečavanje pojave defekata kod novorođenčadi;
+2. Utiče pozitivno u prevenciji anemije kroz stvaranje crvenih krvnih zrnaca (eritrocita);
+3. Povećava raspoloženje jer utiče na proizvodnju serotonina i dopamina i sprečava pojavu depresije;
+4. Smanjuje rizik od pojave makularne degeneracije (oboljenje oka);
+5. Sprečava gubitak neurona te je odličan u očuvanju moždanih funkcija;
+6. Smanjuje nivo homocisteina te je dobar u preventivi srčanih oboljenja;
+7. Utiče pozitivno na očuvanje gustine kostiju i sprečavanju osteoporoze;
+8. Blagodetno deluje kod osoba obolelih od dijabetesa, želuca i onih koji su imali operaciju creva, podižući imunitet, otklanjajući konstipacija (zatvor) i čuvajući metaboličke procese organizma;
+8. Utiče pozitivno na kvalitet života jer sprečava gubitak apetita, umor i malaksalost;
+10. Pomaže kod zdravlja kože, noktiju i kose jer sprečava ekcem, listanje noktiju i opadanje kose.
 
-## Antioksidativna svojstva aloje koja mogu pomoći kod raka
+Ukoliko imate problem sa unosom vitamina B12, niste ljubitelj mesa, mleka i jaja ili ste jednostavno vegan, imate neki zdravstveni problem, proizvod koji vam može pomoći samo sa 1 tabletom dnevno je [forever B12 plus](https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html).
+Veoma je efikasan kod održavanja normalnog nivo vitamina B12 i folne kiseline, održavanja trudnoće i poboljšanja metalnog i fizičkog zdravlja. 
 
-Brojni hemijski i biološki agensi koji imaju dokazana kancerogena svojstva (kafa, nikotin, slobodni radikali, pesticidi, konzervansi) doprinose transformaciji zdrave ćelije u malignu. Da li će doći do te transformacije najviše zavisi od imuno sistema organizma. Postoje jasni naučni dokazi istočne medicine koja potvrđuje pozitivno dejstvo aloje na sprečavanje razvoja tumora, kao i jačanju imuno sistema i zdravih ćelija u organizmu. Analizom je ustanovljeno da aloja sadrži veliki broj ugljenihhidrata (polisaharida i oligosaharida) sa imunomodulatornim svojstvom. To znači da aloja direktno doprinosi stvaranju T ćelija koje su osnova imuno sistema čoveka.
-U slučaju hemoterapije, **aloja vera biljka** pomaže tako što sprečava oštećenja zdravih ćelija, naročito ćelija imunskog sistema. Dokazano je da aloja sadrži najmanje tri antitumorska sastojka emodin, lecitin i manozu. U slučaju lečenje kancera aloja vera biljka ima sledeća dejstva:
 
-1. Antioksidaciono
-2. Detoksiokaciono
-3. Imunostimulatorno
-4. Antivirusno
-5. UV zaštitno
 
-## Sadržaj aloja vera soka
+## Koliko je potrebno dnevno uneti vitamina B12? ##
 
-**Aloja vera sok sadrži:**
+Dnevne potrebe za vitaminom B12 variraju od pola, uzrasta, zdravstvenog stanja i navika u ishrani. Vitamin B12 se uzima pojedinačno, u kompleksu B vitamina ili kao multivitamin. Najveći problem kod ovog vitamina je njegovo apsorbovanje, naročito ako je oštećena sluznica želuca, ako se koriste lekovi atacidi, metformin i inhibitori, ako je došlo do operacije creva ili ako se unose velike količine kafe i alkohola.
 
-1. Obilje vitamina - A, B1, B2, B3, B5, B6, B9, B12, C, E. Vitamini imaju veoma bitnu ulogu kod jačanja imuno sistema čoveka. Posebno se ističu vitamini A, C i E jer su značajni u borbi protiv starenja kože;
-2. Enzime - aloja sadrži čak 16 enzima koji su veoma važni za varenje, protiv upale kože i upalnih procesa oboljenja;
-3. Minerale - kalcijum, bakar, selen, magnezijum, gvožđe i hrom koji su veoma važni protiv perutanja kože, za jačanje kostiju, protiv mišićnih grčeva, anemije i poboljšanja imuno sistema;
-4. Aminokiseline - aloja vera sok sadrži 8 amino kiselina koje organizam mora unositi jer ih ne stvara sam;
-5. Šećere (monosaharde i polisaharide) i biljne hormone - koji su važni i efikasni u borbi protiv akni, ožiljaka i bora.
+Najefikasnije dejstvo vitamina B12 je kada se unese u organizam sublingvalno (pod jezik) ili intravenski.
 
-Ukoliko postoje bilo kakve smetnje sa probavnim traktom (zatvor, gorušica, helikobakterija), sa suvom kožom ili ste osoba čija koža lako izgori na suncu, [aloja vera sok](https://flpshop.rs/napici/11837/forever-aloe-vera-gel/360000954255/personal.html) može pomoći u rešavanju navedenih problema. Veoma je važno konsultovati se sa svojim lekarom koji će odrediti adekvatnu terapiju, a [aloja vera gel](https://flpshop.rs/nega-koze/11694/aloe-vera-gelly/360000954255/personal.html) ili [aloja vera losion](https://flpshop.rs/nega-koze/12541/aloe-sunscreen/360000954255/personal.html) mogu samo ubrzati rešavanje zdravstvenih problema. **Aloja vera biljka** se naziva magičnom biljkom upravo zbog mogućnosti izlečenja i najtežih bolesti poput kancera zbog sadžaja preko 240 hranljivih sastojaka.
+**Preporuka za dnevni unos vitamina B12** u μg(mikorograma) je:
+1. Odojčad do 6 meseci - 0,4 μg;
+2. Od 7 do 12 meseci - 0,5 μg;
+3. Od 1 do 3 godine - 0,9 μg;
+4. Od 4 do 8 godina - 4,2 μg;
+5. Od 9 do 13 godina - 1,8 μg;
+6. Od 14 do 18 godina - 2,4 μg;
+7. Odrasle osobe preko 19 godina i stariji - 2,4 μg;
+8. Trudnice - 2,6 μg;
+9. Dojilje - 2,8 μg.
+
+Ukoliko imate neke od simptoma [nedostatka vitamina B12](https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html): **malaksalost, gubitak apetita, konstipaciju** (zatvor) ili imate problem sa želucem, pijete velike količine kafe, unosite alkohol, dugo vremena pijete lekove za regulisanje kiseline, prešli ste 65-tu godinu, vegan ste ili vegetarijanac, imali ste **operaciju creva** onda verovatno imate manjak vitamina B12. Važno je obratiti se svome lekaru i odraditi laboratorijske analize koje će potvrditi vaše sumnje. Najlakši i najefikasniji način regulisanja dnevnih potreba [vitamina B12](https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html) je putem hrane životinjskog porekla (meso, mleko, jaja, riba, jetra, žitarice) i [putem suplementa](https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html). 
+
+
+
