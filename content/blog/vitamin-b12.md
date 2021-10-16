@@ -1,10 +1,10 @@
 ---
-title: Afte u ustima kao posledica nedostatka vitamina B
+title: Vitamin B12 i njegova uloga
 tags: aloe vera
 category: Digital
-excerpt: Pamtite li period kada ste imali bol u ustima kao dete? Da li ste znali od čega nastaju te male kvržice koje zadaju bol? A da li znate kako ih se jednostavno rešiti?
-created: 2021-10-15
-image: afte-1.webp
+excerpt: Da li ste osetili umor ili malaksalost duži vremenski period i za to ste pomislili da je posledica rada? Da li ste ikada proverili unos vitamina u organizam? Znate li značaj vitamina B12 za očuvanje zdravlja?
+created: 2021-10-16
+image: vitamin-b12-1.webp
 imageTwo:
   path: ./images/slika-1.jpg
   alt: "A colorful building against a blue sky background"
