@@ -20,6 +20,7 @@
           <g-image
             class="block width-100% height-100% object-cover margin-bottom-sm radius-lg display@md"
             src="~/assets/img/jacanjeimuniteta.jpg"
+            alt="forever living imunitet"
           ></g-image>
         </div>
       </div>

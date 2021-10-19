@@ -59,13 +59,13 @@
                     src="~/assets/img/sam-svoj-gazda.svg"
                     width="128"
                     height="128"
-                    alt="Image description"
+                    alt="forever living harmonija"
                     quality="75"
                 />
               </figure>
 
               <div class="text-component">
-                <h4 class="font-secondary color-accent font-normal">Budi sebi šef</h4>
+                <h3 class="font-secondary color-accent font-normal">Budi sebi šef</h3>
                 <p class="text-sm color-accent-dark">
                   Imajte slobodu da sami napravite svoj raspored, radite gde
                   želite i koliko želite.
@@ -81,13 +81,13 @@
                     src="~/assets/img/putuj-svetom.svg"
                     width="128"
                     height="128"
-                    alt="Image description"
+                    alt="flp na odmoru"
                     quality="75"
                 />
               </figure>
 
               <div class="text-component">
-                <h4 class="font-secondary color-accent font-normal">Putujte svetom</h4>
+                <h3 class="font-secondary color-accent font-normal">Putujte svetom</h3>
                 <p class="text-sm color-accent-dark">
                   Postanite svetski putnik uz Forever Living. Iskoristite
                   priliku i posetite najlepše gradove na planeti.
@@ -103,13 +103,13 @@
                     src="~/assets/img/obuke.svg"
                     width="128"
                     height="128"
-                    alt="Image description"
+                    alt="forever living edukacija"
                     quality="75"
                 />
               </figure>
 
               <div class="text-component">
-                <h4 class="font-secondary color-accent font-normal">Alati i obuke</h4>
+                <h3 class="font-secondary color-accent font-normal">Alati i obuke</h3>
                 <p class="text-sm color-accent-dark">
                   Od raznih radionica i webinara, do stotine besplatnih
                   materijala online, imate sve što Vam je potrebno za uspeh.
@@ -125,13 +125,13 @@
                     src="~/assets/img/aloja-popust.svg"
                     width="128"
                     height="128"
-                    alt="Image description"
+                    alt="forever living popusti"
                     quality="75"
                 />
               </figure>
 
               <div class="text-component">
-                <h4 class="font-secondary color-accent font-normal">Popusti na proizvode</h4>
+                <h3 class="font-secondary color-accent font-normal">Popusti na proizvode</h3>
                 <p class="text-sm color-accent-dark">
                   Ostvarite ekskluzivne popuste na proizvode u kojima ćete
                   uživati sami ili prilikom prodaje drugima
@@ -202,7 +202,7 @@
                 width="520"
                 height="520"
                 src="~/assets/img/pocetna-kartica-1.webp"
-                alt="Image description"
+                alt="aloe vera gel"
             />
           </figure>
         </div>
@@ -245,6 +245,7 @@
                 width="520"
                 height="520"
                 src="~/assets/img/pocetna-kartica-2.webp"
+                alt="flp klijenti"
             >
             </g-image>
           </figure>
@@ -289,7 +290,7 @@
                 width="520"
                 height="520"
                 src="~/assets/img/pocetna-kartica-3.webp"
-                alt="Image description"
+                alt="forever living srbija"
             />
           </figure>
         </div>
@@ -329,7 +330,7 @@
                   <figure>
                     <g-image
                         src="~/assets/img/aloe-vera-gel.webp"
-                        alt="Product preview image"
+                        alt="aloe vera gel"
                         quality="75"
                     />
                   </figure>
@@ -356,7 +357,7 @@
                   <figure>
                     <g-image
                         src="~/assets/img/pasta-za-zube.webp"
-                        alt="Product preview image"
+                        alt="forever living pasta za zube"
                         quality="75"
                     />
                   </figure>
@@ -384,7 +385,7 @@
                 >
                   <g-image
                       src="~/assets/img/dezodorans.webp"
-                      alt="Product preview image"
+                      alt="forever living dezodorans"
                       quality="75"
                   />
                 </a>
