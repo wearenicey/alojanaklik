@@ -1,6 +1,6 @@
 ---
 title: Afte u ustima kao posledica nedostatka vitamina B
-tags: aloe vera
+tags: aloe-vera
 category: Digital
 excerpt: Pamtite li period kada ste imali bol u ustima kao dete? Da li ste znali od čega nastaju te male kvržice koje zadaju bol? A da li znate kako ih se jednostavno rešiti?
 created: 2021-10-15
@@ -13,9 +13,6 @@ image_caption: Photo by Josh Spires on Unsplash
 featured: true
 ---
 
-
-## Afte u ustima ##
-
-
+## Afte u ustima
 
 ** nije gotov tekst...**

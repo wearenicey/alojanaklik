@@ -1,6 +1,6 @@
 ---
 title: Kako piti aloju veru - benefiti magične biljke
-tags: aloe vera
+tags: aloe-vera
 category: Digital
 excerpt: Da li ste nekada probali da rešite zdravstveni problem pomoću lekovitih biljaka? Da li znate lekovita svojstva aloje?
 created: 2021-10-09
@@ -18,8 +18,7 @@ Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to st
 
 ![aloe vera](./images/aloe-vera-blog-3.webp)
 
-Aloja vera biljka se koristi vekovima
--------------------------------------
+## Aloja vera biljka se koristi vekovima
 
 **Aloja vera biljka** se spominje još u Starom zavetu 6000. god. p. n. e. Prvi put se spominje u Egiptu u gradu Nipur gde su pronađeni opisi lekovitih svojstava aloje. Doneta je u Aziju oko 400.god. p. n. e., a u Evropu između 10. i 13. veka. Aloja se prvi put primenjuje u Engleskoj kao sredstvo za lečenje spoljnih rana i bolesti. U Americi se koristi za zaštitu kože od 1820 godine, a prve plantaže su nastale 1912. godine na Floridi.
 
