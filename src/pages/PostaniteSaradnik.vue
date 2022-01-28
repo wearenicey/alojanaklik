@@ -457,6 +457,7 @@
 
 <script>
 export default {
+	//meta deskripcija
   metaInfo: {
     title: "Postanite saradnik",
   },
@@ -467,6 +468,8 @@ export default {
         window.location.href = "https://www.alojanaklik.rs/contact/";
     },
   },
+	
+	//CodyHouse javascript UI
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");

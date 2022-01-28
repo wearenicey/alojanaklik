@@ -27,7 +27,7 @@
   </Layout>
 </template>
 
-
+<!--->GraphQl upit za kolekciju mrsavljenje <--->
 <page-query>
 query {
  products:  allProizvodi (filter: {category:{contains: ["mrsavljenje"]} }) {
@@ -48,8 +48,11 @@ query {
 
 
 <script>
+// importovanje komponenti
 import Card from "~/components/Card.vue";
+
 export default {
+	//meta deskripcija
   metaInfo: {
     title: "Mršavljenje | Proizvodi na bazi aloje vere Forever Living",
     meta: [
@@ -65,9 +68,12 @@ export default {
     ],
   },
 
+//pozivanje komponenti
   components: {
     Card,
   },
+
+	//CodyHouse javascript UI
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");

@@ -44,7 +44,7 @@
   </Layout>
 </template>
 
-
+<!-->GraphQl upit za blog postove <-->
 <page-query>
   query Post ($path: String!) {
   post: post (path: $path) {
@@ -78,6 +78,7 @@
 
 <script>
 export default {
+	//CodyHouse javascript UI
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../../main-header.js");

@@ -26,7 +26,7 @@
   </Layout>
 </template>
 
-
+<!-->GraphQL upit za sve proizvode <-->
 <page-query>
 query {
  products: allProizvodi {
@@ -47,8 +47,10 @@ query {
 
 
 <script>
+// importovanje komponente
 import Card from "~/components/Card.vue";
 export default {
+	//meta deskripcija
   metaInfo: {
     title: "Jačanje imuniteta",
     meta: [
@@ -64,9 +66,12 @@ export default {
     ],
   },
 
+//pozivanje komponente
   components: {
     Card,
   },
+	
+	//CodyHouse javascript UI
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");

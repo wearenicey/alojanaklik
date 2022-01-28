@@ -25,7 +25,7 @@
     </div>
   </Layout>
 </template>
-
+<!--->GraphQl call to get all blog post with pagination <--->
 <page-query>
 query Posts ($page: Int) {
   entries: allPost (perPage: 5, page: $page) @paginate {
@@ -66,14 +66,17 @@ query Posts ($page: Int) {
 </page-query>
 
 <script>
+// import component
 import CardItem from "~/components/CardItem.vue";
 
 export default {
+	//call component
   components: {
     CardItem,
   },
 
   data() {
+	//povratni novi objekti
     return {
       loadedPosts: [],
       currentPage: 1,
@@ -81,9 +84,12 @@ export default {
     };
   },
 
+	//poziva se sinhrono nakon kreiranja instance
   created() {
     this.loadedPosts.push(...this.$page.entries.edges);
   },
+	
+	//pozivanje codyehouse scripti
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");
@@ -99,6 +105,7 @@ export default {
   },
 
   methods: {
+		// funkcija za ucitavanje load more posts
     async loadMore() {
       if (this.currentPage + 1 > this.$page.entries.pageInfo.totalPages) {
         this.showMoreEnabled = false;

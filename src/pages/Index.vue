@@ -464,6 +464,7 @@
 <script>
 export default {
   metaInfo() {
+		// meta deskripcija
     return {
       title: "Forever Living Proizvodi | Aloja Vera",
       titleTemplate: "Forever Living Proizvodi | Aloja Vera",
@@ -485,6 +486,7 @@ export default {
     };
   },
 
+	// pozivanje codyhouse javascript ui
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "./main-header.js");

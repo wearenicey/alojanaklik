@@ -29,7 +29,7 @@
   </Layout>
 </template>
 
-
+<!--->GraphQl upit za kolekciju licna higijena <--->
 <page-query>
 query {
  products: allProizvodi (filter: {category:{contains: ["licnaHigijena"]} }) {
@@ -50,8 +50,11 @@ query {
 
 
 <script>
+//imporovanje komponenti
 import Card from "~/components/Card.vue";
+
 export default {
+	//meta deskrpcija
   metaInfo: {
     title: "Lična higijena | Proizvodi na bazi aloje vere Forever Living",
     meta: [
@@ -67,9 +70,12 @@ export default {
     ],
   },
 
+//pozivanje komponenti
   components: {
     Card,
   },
+	
+	//CodyHouse javascript UI
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");

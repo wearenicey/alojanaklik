@@ -58,6 +58,7 @@
   </Layout>
 </template>
 
+<!-->GraphQL upit za filtriranje po tagu bloga <-->
 <page-query>
 query Tag ($id: ID!, $page: Int) {
   tag: tag (id: $id) {
@@ -88,6 +89,7 @@ query Tag ($id: ID!, $page: Int) {
 
 <script>
 export default {
+	//meta deskripcija
   metaInfo() {
     return {
       title: `Tag: ${this.$page.tag.title}`,

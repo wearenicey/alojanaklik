@@ -30,7 +30,7 @@
   </Layout>
 </template>
 
-
+<!-->graphql upit za provizvode koji zadrze kategoriju ishrana <-->
 <page-query>
 query {
  products: allProizvodi (filter: {category:{contains: ["ishrana"]} })  {
@@ -51,14 +51,18 @@ query {
 
 
 <script>
+// importovanje komponente
 import Card from "~/components/Card.vue";
 export default {
   metaInfo: {
     title: "Jačanje imuniteta",
   },
+	// pozivanje komponente
   components: {
     Card,
   },
+	
+	// pozivanje codyhouse javascript ui
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");

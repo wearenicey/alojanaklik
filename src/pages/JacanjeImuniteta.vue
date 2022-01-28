@@ -29,7 +29,7 @@
   </Layout>
 </template>
 
-
+<!--->GraphQl upit za kolekciju imunitet <--->
 <page-query>
 query {
  products: allProizvodi (filter: {category:{contains: ["imunitet"]} })    {
@@ -50,8 +50,12 @@ query {
 
 
 <script>
+
+//importovanje komponenti
 import Card from "~/components/Card.vue";
+
 export default {
+	//meta deskripcija
   metaInfo: {
     title: "Jačanje imuniteta | Proizvodi na bazi aloje vere Forever Living",
     meta: [
@@ -67,9 +71,12 @@ export default {
     ],
   },
 
+//pozivanje komponente
   components: {
     Card,
   },
+
+	//CodyHouse javascript UI
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");

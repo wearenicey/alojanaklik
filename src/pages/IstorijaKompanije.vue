@@ -238,6 +238,7 @@
 
 <script>
   export default {
+		// pozivanje codyhouse javascript ui
     mounted() {
       let verticalOne = document.createElement("script");
       verticalOne.setAttribute("src", "../vertical-timeline.js");

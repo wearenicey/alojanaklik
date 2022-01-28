@@ -505,6 +505,8 @@
 
 	</Layout>
 </template>
+<!-->GraphQL upit za single prozivod <-->
+
 <page-query>
 
 	query Proizvodi ($id: ID!) {
@@ -593,6 +595,7 @@
 
 <script>
 	export default {
+		// meta deskripcija
 		metaInfo() {
 			return {
 				title: this.$page.event.pageTitle,
@@ -605,6 +608,7 @@
 			};
 		},
 
+		//CodyHose javascript UI
 		mounted() {
 			let frontEnd = document.createElement("script");
 			frontEnd.setAttribute("src", "../../main-header.js");

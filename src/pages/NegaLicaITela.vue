@@ -29,7 +29,7 @@
   </Layout>
 </template>
 
-
+<!--->GraphQl upit za kolekciju nega lica i tela <--->
 <page-query>
 
 query {
@@ -51,8 +51,11 @@ query {
 
 
 <script>
+//importovanje komponenti
 import Card from "~/components/Card.vue";
+
 export default {
+	//meta deskripcija
   metaInfo: {
     title: "Nega lica i tela | PProizvodi na bazi aloje vere Forever Living",
     meta: [
@@ -68,9 +71,12 @@ export default {
     ],
   },
 
+// pozivanje komponenti
   components: {
     Card,
   },
+
+	//CodyHouse javascript UI
   mounted() {
     let frontEnd = document.createElement("script");
     frontEnd.setAttribute("src", "../main-header.js");
