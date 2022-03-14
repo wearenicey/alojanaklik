@@ -1,640 +1,483 @@
 <template>
-	<Layout>
-		<!-- your content here -->
-		<div class="feature-v4 padding-top-xxxl padding-top-xxl@md">
-			<div class="container max-width-adaptive-lg">
-				<div class="feature-v4__grid grid gap-md items-center">
-					<div class="col-5@md position-relative z-index-1">
-						<div class="text-component">
-							<h1 class="text-xxxl text-center text-left@md line-height-1 color-accent-dark">
-								{{ $page.event.h1Hero }}
-							</h1>
-							<p class="color-accent-dark text-center text-left@md">
-								{{ $page.event.pHero }}
-							</p>
-						</div>
+  <Layout>
+    <section class="product-v3 padding-y-xxl js-product-v3">
+      <div class="container max-width-adaptive-xl">
+        <div class="grid gap-md">
+          <div class="col-6@md col-7@lg">
+            <div class="flex flex-column gap-sm">
+              <figure v-for="(file, index) in $page.event.image" :key="file.id">
+                <g-image class="block width-100%" :src="file.url" />
+              </figure>
+            </div>
+          </div>
 
-						<div class="margin-top-sm margin-top-lg@lg">
-							<div class="flex flex-wrap gap-sm items-center justify-center justify-start@md">
-								<a @click="scroll" class="btn btn--md btn--primary">{{ $page.event.ctaHero }}</a>
-							</div>
-						</div>
-					</div>
+          <div class="col-6@md col-5@lg">
+            <div class="product-v3__panel">
+              <div class="margin-bottom-xs">
+                <h1>{{ $page.event.title }}</h1>
+              </div>
 
-					<div class="col-7@md order-2">
-						<figure>
-							<g-image :immediate="true" class="block width-100%" :src="$page.event.slikaHero[0].url"
-								:alt="$page.event.heroAlt" />
-						</figure>
-					</div>
-					<div class="col-12 order-1 hide@md  margin-top-xl margin-top-0@md">
-						<div class="
-                    text-componet text-md@md
-                    flex-center
-                    margin-top-xxs
-                    flex
-                  ">
-							<div class="vert-move">👇</div>
-							<div class="text-center">
-								<p>Skroluj niže za više informacija</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+              <div class="flex items-center margin-bottom-sm">
+                <div
+                  class="
+                    rating rating--read-only
+                    js-rating js-rating--read-only
+                    text-xs
+                  "
+                >
+                  <p class="sr-only">
+                    The rating of this product is
+                    <span class="rating__value js-rating__value">4.5</span> out
+                    of 5
+                  </p>
 
-		<section class="feature-v5 margin-top-xxl padding-bottom-lg">
-			<div class="feature-v5__content padding-top-xxl">
-				<div class="container max-width-adaptive-lg">
-					<div class="grid justify-center">
-						<div class="col-12 col-8@md margin-bottom-md">
-							<h2 class="font-secondary text-center color-primary-darker font-normal">
-								{{ $page.event.sekcija2Naslov }}
-							</h2>
-						</div>
+                  <div
+                    class="
+                      rating__control rating__control--is-hidden
+                      js-rating__control
+                    "
+                  >
+                    <svg width="24" height="24" viewBox="0 0 24 24">
+                      <polygon
+                        points="12 1.489 15.09 7.751 22 8.755 17 13.629 18.18 20.511 12 17.261 5.82 20.511 7 13.629 2 8.755 8.91 7.751 12 1.489"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
 
-						<div class="col-12 col-8@md text-component text-center">
-							<p>
-								{{ $page.event.sekcija2P }}
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
+              <div class="grid margin-bottom-lg">
+                <div
+                  v-for="(category, index) in $page.event.nabrajanje"
+                  :key="category.id"
+                  class="flex items-center padding-bottom-sm"
+                >
+                  <g-image
+                    class="margin-right-xs"
+                    src="~/assets/img/check.svg"
+                  ></g-image>
+                  {{ category }}
+                </div>
+              </div>
 
-			<figure class="feature-v5__media container max-width-md">
-				<g-image class="block width-100%" :src="$page.event.sekcija2Slika[0].url" :alt="$page.event.alt2" />
-			</figure>
-		</section>
+              <div class="flex flex-wrap gap-md js-product-v3__cta">
+                <button
+                  class="
+                    btn btn--primary
+                    flex-grow
+                    justify-between
+                    padding-x-lg
+                  "
+                >
+                  Kupi {{ $page.event.ctaText }}
+                  <span>
+                    <g-image
+                      class="margin-right-xs"
+                      src="~/assets/img/strelica.svg"
+                    ></g-image
+                  ></span>
+                </button>
+                <g-image
+                  class="margin-right-xs"
+                  src="~/assets/img/logo-futer.png"
+                ></g-image>
+              </div>
+              <div>
+                <ul
+                  class="
+                    accordion-v2
+                    flex flex-column
+                    padding-top-xl
+                    gap-xxxs
+                    js-accordion
+                  "
+                  data-animation="on"
+                  data-multi-items="on"
+                  data-version="v2"
+                >
+                  <li class="accordion-v2__item js-accordion__item">
+                    <button
+                      class="
+                        color-primary
+                        reset
+                        accordion-v2__header
+                        padding-y-sm padding-x-md
+                        js-tab-focus
+                      "
+                      type="button"
+                    >
+                      <span class="text-md">Panel 1</span>
 
-		<div class="feature-v2 padding-y-xl">
-			<div class="container max-width-adaptive-md">
-				<div class="grid gap-md">
-					<div class="col-12">
-						<h2 class="text-xl letter-spacing-sm color-accent-dark font-secondary font-normal">
-							{{ $page.event.sekcija3Naslov }}
-						</h2>
-					</div>
+                      <svg
+                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                        viewBox="0 0 20 20"
+                      >
+                        <g
+                          class="icon__group"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <line x1="3" y1="3" x2="17" y2="17" />
+                          <line x1="17" y1="3" x2="3" y2="17" />
+                        </g>
+                      </svg>
+                    </button>
 
-					<div class="col-12">
-						<div class="text-component">
-							<p class="color-accent-dark">
-								{{ $page.event.sekcija3Tekst }}
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+                    <div
+                      class="
+                        accordion-v2__panel
+                        padding-top-xxxs padding-x-md padding-bottom-md
+                        js-accordion__panel
+                      "
+                    >
+                      <div
+                        class="
+                          text-component
+                          line-height-md
+                          color-contrast-medium
+                          text-space-y-md
+                        "
+                        v-html="$page.event.karakteristike"
+                      ></div>
+                    </div>
+                  </li>
 
-		<!-- your content here -->
-		<section class="feature-v7 margin-bottom-xl">
-			<div class="container max-width-adaptive-md">
-				<div class="text-component text-center text-left@md margin-bottom-lg">
-					<h2 class="font-secondary color-accent-dark font-normal">{{ $page.event.h1Hero }} karakteristike</h2>
-				</div>
-				<div class="grid gap-md">
-					<div class="col-6@md">
-						<div class="feature-v7__item flex gap-sm">
-							<figure>
-								<g-image :src="$page.event.kar1Ikonica[0].url" alt="Image description" />
-							</figure>
+                  <li class="accordion-v2__item js-accordion__item">
+                    <button
+                      class="
+                        reset
+                        accordion-v2__header
+                        padding-y-sm padding-x-md
+                        js-tab-focus
+                      "
+                      type="button"
+                    >
+                      <span class="text-md">Panel 2</span>
 
-							<div class="text-component">
-								<h4 class="font-secondary color-accent font-normal">{{ $page.event.kar1Naslov }}</h4>
-								<p class="text-sm color-accent-dark">
-									{{ $page.event.kar1P }}
-								</p>
-							</div>
-						</div>
-					</div>
+                      <svg
+                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                        viewBox="0 0 20 20"
+                      >
+                        <g
+                          class="icon__group"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <line x1="3" y1="3" x2="17" y2="17" />
+                          <line x1="17" y1="3" x2="3" y2="17" />
+                        </g>
+                      </svg>
+                    </button>
 
-					<div class="col-6@md">
-						<div class="feature-v7__item flex gap-sm">
-							<figure>
-								<g-image :src="$page.event.kar2Ikonica[0].url" alt="Image description" />
-							</figure>
+                    <div
+                      class="
+                        accordion-v2__panel
+                        padding-top-xxxs padding-x-md padding-bottom-md
+                        js-accordion__panel
+                      "
+                    >
+                      <div
+                        class="text-component line-height-md text-space-y-md"
+                      >
+                        <p>
+                          Lorem ipsum dolor sit amet consectetur adipisicing
+                          elit. Nostrum a ab quae quas optio ut officia quia?
+                          Modi at impedit dolorem est voluptatem facilis, beatae
+                          atque tenetur, soluta dolorum inventore sapiente
+                          laborum. Alias esse soluta porro distinctio aperiam,
+                          qui suscipit.
+                        </p>
+                        <p>
+                          Lorem ipsum dolor sit amet consectetur adipisicing
+                          elit. Nostrum a ab quae quas optio ut officia quia?
+                          Modi at impedit dolorem est voluptatem facilis, beatae
+                          atque tenetur, soluta dolorum inventore sapiente
+                          laborum. Alias esse soluta porro distinctio aperiam,
+                          qui suscipit.
+                        </p>
+                      </div>
+                    </div>
+                  </li>
 
-							<div class="text-component">
-								<h4 class="font-secondary color-accent font-normal">{{ $page.event.kar2Naslov }}</h4>
-								<p class="text-sm color-accent-dark">
-									{{ $page.event.kar2P }}
-								</p>
-							</div>
-						</div>
-					</div>
+                  <li class="accordion-v2__item js-accordion__item">
+                    <button
+                      class="
+                        reset
+                        accordion-v2__header
+                        padding-y-sm padding-x-md
+                        js-tab-focus
+                      "
+                      type="button"
+                    >
+                      <span class="text-md">Panel 3</span>
 
-					<div class="col-6@md">
-						<div class="feature-v7__item flex gap-sm">
-							<figure>
-								<g-image :src="$page.event.kar3Ikonica[0].url" alt="Image description" />
-							</figure>
+                      <svg
+                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                        viewBox="0 0 20 20"
+                      >
+                        <g
+                          class="icon__group"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <line x1="3" y1="3" x2="17" y2="17" />
+                          <line x1="17" y1="3" x2="3" y2="17" />
+                        </g>
+                      </svg>
+                    </button>
 
-							<div class="text-component">
-								<h4 class="font-secondary color-accent font-normal">{{ $page.event.kar3Naslov }}</h4>
-								<p class="text-sm color-accent-dark">
-									{{ $page.event.kar3P }}
-								</p>
-							</div>
-						</div>
-					</div>
+                    <div
+                      class="
+                        accordion-v2__panel
+                        padding-top-xxxs padding-x-md padding-bottom-md
+                        js-accordion__panel
+                      "
+                    >
+                      <div
+                        class="text-component line-height-md text-space-y-md"
+                      >
+                        <p>
+                          Lorem ipsum dolor sit amet consectetur adipisicing
+                          elit. Nostrum a ab quae quas optio ut officia quia?
+                          Modi at impedit dolorem est voluptatem facilis, beatae
+                          atque tenetur, soluta dolorum inventore sapiente
+                          laborum. Alias esse soluta porro distinctio aperiam,
+                          qui suscipit.
+                        </p>
+                      </div>
+                    </div>
+                  </li>
 
-					<div class="col-6@md">
-						<div class="feature-v7__item flex gap-sm">
-							<figure>
-								<g-image :src="$page.event.kar4Ikonica[0].url" alt="Image description" />
-							</figure>
+                  <li class="accordion-v2__item js-accordion__item">
+                    <button
+                      class="
+                        reset
+                        accordion-v2__header
+                        padding-y-sm padding-x-md
+                        js-tab-focus
+                      "
+                      type="button"
+                    >
+                      <span class="text-md">Panel 4</span>
 
-							<div class="text-component">
-								<h4 class="font-secondary color-accent font-normal">{{ $page.event.kar4Naslov }}</h4>
-								<p class="text-sm color-accent-dark">
-									{{ $page.event.kar4P }}
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<div class="container max-width-sm padding-y-xl">
-			<ul class="accordion-v2 flex flex-column gap-xxxs js-accordion" data-animation="on" data-multi-items="on"
-				data-version="v2">
-				<li class="
-                  accordion-v2__item
-                  bg
-                  shadow-sm
-                  radius-md
-                  js-accordion__item
-                ">
-					<button class="
-                    reset
-                    accordion-v2__header
-                    padding-y-sm padding-x-md
-                    js-tab-focus
-                  " type="button">
-						<span class="text-md text-bold">Namena</span>
+                      <svg
+                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                        viewBox="0 0 20 20"
+                      >
+                        <g
+                          class="icon__group"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <line x1="3" y1="3" x2="17" y2="17" />
+                          <line x1="17" y1="3" x2="3" y2="17" />
+                        </g>
+                      </svg>
+                    </button>
 
-						<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-							<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10">
-								<path d="M2 2l12 12" />
-								<path d="M14 2L2 14" />
-							</g>
-						</svg>
-					</button>
+                    <div
+                      class="
+                        accordion-v2__panel
+                        padding-top-xxxs padding-x-md padding-bottom-md
+                        js-accordion__panel
+                      "
+                    >
+                      <div
+                        class="text-component line-height-md text-space-y-md"
+                      >
+                        <p>
+                          Lorem ipsum dolor sit amet consectetur adipisicing
+                          elit. Nostrum a ab quae quas optio ut officia quia?
+                          Modi at impedit dolorem est voluptatem facilis, beatae
+                          atque tenetur, soluta dolorum inventore sapiente
+                          laborum. Alias esse soluta porro distinctio aperiam,
+                          qui suscipit.
+                        </p>
+                        <p>
+                          Lorem ipsum dolor sit amet consectetur adipisicing
+                          elit. Nostrum a ab quae quas optio ut officia quia?
+                          Modi at impedit dolorem est voluptatem facilis, beatae
+                          atque tenetur, soluta dolorum inventore sapiente
+                          laborum. Alias esse soluta porro distinctio aperiam,
+                          qui suscipit.
+                        </p>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
 
-					<div class="accordion-v2__panel js-accordion__panel">
-						<div class="
-                      text-component
-                      padding-top-xxxs padding-x-md padding-bottom-md
-                    ">
-							<p>
-								{{ $page.event.namena }}
-							</p>
-						</div>
-					</div>
-				</li>
+            <div
+              class="product-v3__cta-clone hide@md js-product-v3__cta-clone"
+              aria-hidden="true"
+            >
+              <div class="container max-width-adaptive-lg">
+                <div class="flex flex-wrap gap-md">
+                  <div>
+                    <label class="sr-only" for="product-qty-input-clone"
+                      >Quantity:</label
+                    >
 
-				<li class="
-                  accordion-v2__item
-                  bg
-                  shadow-sm
-                  radius-md
-                  js-accordion__item
-                ">
-					<button class="
-                    reset
-                    accordion-v2__header
-                    padding-y-sm padding-x-md
-                    js-tab-focus
-                  " type="button">
-						<span class="text-md text-bold">Kako se upotrebljava </span>
+                    <div class="number-input number-input--v2 js-number-input">
+                      <input
+                        class="
+                          form-control
+                          js-number-input__value
+                          js-product-v3__input-clone
+                        "
+                        type="number"
+                        name="product-qty-input-clone"
+                        id="product-qty-input-clone"
+                        min="0"
+                        max="10"
+                        step="1"
+                        value="1"
+                      />
 
-						<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-							<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10">
-								<path d="M2 2l12 12" />
-								<path d="M14 2L2 14" />
-							</g>
-						</svg>
-					</button>
+                      <button
+                        class="
+                          reset
+                          number-input__btn number-input__btn--plus
+                          js-number-input__btn
+                        "
+                        aria-label="Increase Number"
+                      >
+                        <svg
+                          class="icon"
+                          viewBox="0 0 12 12"
+                          aria-hidden="true"
+                        >
+                          <path
+                            d="M11,5H7V1A1,1,0,0,0,5,1V5H1A1,1,0,0,0,1,7H5v4a1,1,0,0,0,2,0V7h4a1,1,0,0,0,0-2Z"
+                          />
+                        </svg>
+                      </button>
 
-					<div class="accordion-v2__panel js-accordion__panel">
-						<div class="
-                      text-component
-                      padding-top-xxxs padding-x-md padding-bottom-md
-                    ">
-							<p>{{ $page.event.upotreba }}</p>
-						</div>
-					</div>
-				</li>
+                      <button
+                        class="
+                          reset
+                          number-input__btn number-input__btn--minus
+                          js-number-input__btn
+                        "
+                        aria-label="Decrease Number"
+                      >
+                        <svg
+                          class="icon"
+                          viewBox="0 0 12 12"
+                          aria-hidden="true"
+                        >
+                          <path d="M11,7H1A1,1,0,0,1,1,5H11a1,1,0,0,1,0,2Z" />
+                        </svg>
+                      </button>
+                    </div>
+                  </div>
 
-				<li class="
-                  accordion-v2__item
-                  bg
-                  shadow-sm
-                  radius-md
-                  js-accordion__item
-                ">
-					<button class="
-                    reset
-                    accordion-v2__header
-                    padding-y-sm padding-x-md
-                    js-tab-focus
-                  " type="button">
-						<span class="text-md text-bold">Sastojci</span>
+                  <button class="btn btn--primary flex-grow">
+                    Kupi {{ $page.event.title }}
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-						<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-							<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10">
-								<path d="M2 2l12 12" />
-								<path d="M14 2L2 14" />
-							</g>
-						</svg>
-					</button>
-
-					<div class="accordion-v2__panel js-accordion__panel">
-						<div class="
-                      text-component
-                      padding-top-xxxs padding-x-md padding-bottom-md
-                    ">
-							<p>
-								{{ $page.event.sastojci }}
-							</p>
-						</div>
-					</div>
-				</li>
-
-				<li v-if="$page.event.napomena === '-'" class=" hide
-                  accordion-v2__item
-                  bg
-                  shadow-sm
-                  radius-md
-                  js-accordion__item
-                ">
-					<button class="
-                    reset
-                    accordion-v2__header
-                    padding-y-sm padding-x-md
-                    js-tab-focus
-                  " type="button">
-						<span class="text-md text-bold">Napomena</span>
-
-						<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-							<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10">
-								<path d="M2 2l12 12" />
-								<path d="M14 2L2 14" />
-							</g>
-						</svg>
-					</button>
-
-					<div class="accordion-v2__panel js-accordion__panel">
-						<div class="
-                      text-component
-                      padding-top-xxxs padding-x-md padding-bottom-md
-                    ">
-							<p>
-								{{ $page.event.napomena }}
-							</p>
-						</div>
-					</div>
-				</li>
-				<li v-else class="
-        accordion-v2__item
-        bg
-        shadow-sm
-        radius-md
-        js-accordion__item
-      ">
-					<button class="
-          reset
-          accordion-v2__header
-          padding-y-sm padding-x-md
-          js-tab-focus
-        " type="button">
-						<span class="text-md text-bold">Napomena</span>
-
-						<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 16 16" aria-hidden="true">
-							<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10">
-								<path d="M2 2l12 12" />
-								<path d="M14 2L2 14" />
-							</g>
-						</svg>
-					</button>
-
-					<div class="accordion-v2__panel js-accordion__panel">
-						<div class="
-            text-component
-            padding-top-xxxs padding-x-md padding-bottom-md
-          ">
-							<p>
-								{{ $page.event.napomena }}
-							</p>
-						</div>
-					</div>
-				</li>
-			</ul>
-		</div>
-
-		<section class="position-relative z-index-1 padding-y-xl display@md">
-			<div class="container max-width-adaptive-md position-relative">
-				<div class="grid padding-x-md padding-x-0@md">
-					<div class="position-relative z-index-2 col-6@md col-5@lg">
-						<div class="
-                text-component
-                bg
-                padding-md padding-lg@md
-                shadow-sm
-                line-height-md
-                component-inside">
-							<h3 class="text-xl font-normal letter-spacing-sm font-secondary color-accent-dark">{{
-								$page.event.opis1Naslov }}</h3>
-							<p class="color-accent margin-top-sm">{{ $page.event.opis1Tekst }}</p>
-						</div>
-					</div>
-					<figure class="
-              position-absolute
-              z-index-1
-              top-0
-              right-0
-              height-100%
-              col-10@md
-            ">
-						<g-image class="block width-100% height-100% object-cover" width="520" height="520"
-							:src="$page.event.opis1Slika[0].url" alt="Image description" />
-					</figure>
-				</div>
-			</div>
-		</section>
-		<section class="position-relative z-index-1 padding-y-xl display@md">
-			<div class="container max-width-adaptive-md position-relative">
-				<div class="grid justify-end padding-x-md padding-x-0@md">
-					<div class="position-relative z-index-2 col-6@md col-5@lg">
-						<div class="
-                text-component
-                bg
-                padding-md padding-lg@md
-                shadow-sm
-                line-height-md
-                component-inside
-              ">
-							<h3 class="text-xl font-normal letter-spacing-sm font-secondary color-accent-dark">{{
-								$page.event.opis2Naslov }}</h3>
-							<p class="color-accent margin-top-sm">{{ $page.event.opis2Tekst }}</p>
-						</div>
-					</div>
-					<figure class="
-              position-absolute
-              z-index-1
-              top-0
-              left-0
-              height-100%
-              col-10@md
-            ">
-						<g-image class="block width-100% height-100% object-cover" width="520" height="520"
-							:src="$page.event.opis2Slika[0].url">
-						</g-image>
-					</figure>
-				</div>
-			</div>
-		</section>
-
-		<!-- Mobile -->
-		<div class="container hide@md max-adaptive-xl margin-y-lg">
-			<div class="grid">
-				<div class="col-12 margin-bottom-md">
-					<g-image :src="$page.event.opis1Slika[0].url" :alt="$page.event.alt3"></g-image>
-					<div class="text-component margin-top-xs">
-						<h2>{{ $page.event.opis1Naslov }}</h2>
-						<p class="color-contrast-medium">
-							{{ $page.event.opis1Tekst }}
-						</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<g-image :src="$page.event.opis2Slika[0].url" :alt="$page.event.alt4"></g-image>
-					<div class="text-component margin-top-xs">
-						<h2>{{ $page.event.opis2Naslov }}</h2>
-						<p class="color-contrast-medium">
-							{{ $page.event.opis2Tekst }}
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- end mobile -->
-		<section class="padding-y-lg" id="yourID">
-			<div class="container max-width-adaptive-lg margin-bottom-lg">
-				<div class="text-component text-center">
-					<h2 class="text-xxl font-secondary font font-normal color-accent-dark letter-spacing-sm">
-						Naruči sa zvanične stranice, plati karticom ili pouzećem.
-					</h2>
-					<p class="width-66%@md width-100% margin-x-auto color-accent">
-						Internet prodavnica kompanije Forever Living Products doo
-						Beograd je jedina zvanična prodavnica artikala sa obeležjima
-						Forever Living Products International.
-					</p>
-				</div>
-			</div>
-			<div class="container max-width-adaptive-lg">
-				<div class="grid items-center">
-					<div class="col-8@md bg-white padding-xl@md padding-lg">
-						<div class="grid items-center gap-lg">
-							<div class="text-component">
-								<h3 class="font-secondary color-primary-darker">{{ $page.event.ctaNaslov }}</h3>
-								<p class="">
-									{{ $page.event.ctaTekst }}
-								</p>
-							</div>
-							<div>
-								<div class="flex items-center">
-									<p class="flex-position color-contrast-medium margin-right-sm text-sm">
-										Učlanjenjem dobijate
-									</p>
-									<div class="flex-position-border"></div>
-								</div>
-								<ul class="grid gap-sm margin-top-md">
-									<li class="col-6@md">
-										<div class="flex items-center">
-											<g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
-											Proizvode na popustu
-										</div>
-									</li>
-									<li class="col-6@md">
-										<div class="flex items-center">
-											<g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
-											Dodatni materijal
-										</div>
-									</li>
-									<li class="col-6@md">
-										<div class="flex items-center">
-											<g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
-											Dodatnu zaradu "sa strane"
-										</div>
-									</li>
-									<li class="col-6@md">
-										<div class="flex items-center">
-											<g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
-											Posao po svojoj meri
-										</div>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="col-4@md padding-y-xl padding-x-xs shadow-lg bg-contrast-lower radius-lg">
-						<div class="text-component text-center">
-							<p class="">Kupi jednom, zaljubi se FOREVER</p>
-
-							<p class="text-md font-bold">{{ $page.event.ctaCena }} RSD</p>
-							<div>
-								<g-link class="margin-y-sm text-sm" to="/postanite-saradnik/">Saznaj više o benefitima saradnje sa
-									Alojom
-								</g-link>
-							</div>
-
-							<a :href="$page.event.ctaLink" class="btn btn--md margin-top-sm btn--primary">Naruči proizvod </a>
-							<p class="text-sm color-contrast-medium margin-top-sm">
-								*Kako biste izvršili kupovinu sa 5% popusta, neophodno
-								je da se učlanite i poručite proizvode u minimalnom
-								iznosu od 66eur!
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-	</Layout>
+    <div class="container max-width-adaptive-sm">
+      <div
+        class="text-component line-height-lg v-space-md"
+        v-html="$page.event.karakteristike"
+      ></div>
+    </div>
+  </Layout>
 </template>
-<!-->GraphQL upit za single prozivod <-->
+
 
 <page-query>
 
 	query Proizvodi ($id: ID!) {
 	event: proizvodi(id: $id) {
-
-	id
-	pageTitle
-	metaDesc
-	category
-	h1Hero
-	path
-	pHero
-	ctaHero
-	slikaHero
-	{
-	url
-	}
-	heroAlt
-
-	sekcija2Naslov
-	sekcija2P
-	sekcija2Slika {
-	url
-	}
-	alt2
-	sekcija3Naslov
-	sekcija3Tekst
-
-
-	kar1Naslov
-	kar1P
-	kar1Ikonica{
-	url
-	}
-	kar2Naslov
-	kar2P
-	kar2Ikonica{
-	url
-	}
-
-	kar3Naslov
-	kar3P
-	kar3Ikonica{
-	url
-	}
-	kar4Naslov
-	kar4P
-	kar4Ikonica{
-	url
-	}
-
-	namena
-	upotreba
-	sastojci
-	napomena
-
-	recenzija1
-	recenzija1Ime
-
-	recenzija2
-	recenzija2Ime
-
-	recenzija3
-	recenzija3Ime
-
-	opis1Naslov
-	opis1Tekst
-	opis1Slika {
-	url
-	}
-	alt3
-	opis2Naslov
-	opis2Tekst
-	opis2Slika {
-	url
-	}
-	alt4
-	ctaNaslov
-	ctaTekst
-	ctaLink
-	ctaCena
-	}
+		 id
+        path
+         pageTitle
+				 title
+        metaDesc
+				cta
+				ctaText
+        karakteristike
+        namena
+        sastojci
+        napomena
+        upotreba
+        utisciText
+        utisciIme
+        utisciZanimajnje
+        utisciSlikaAlt
+        opis
+        cta
+        cena
+        category
+        nabrajanje
+        image{
+          url
+          
+        }
 
 	}
-</page-query>
+	}
+		</page-query>
 
-<script>
-	export default {
-		// meta deskripcija
-		metaInfo() {
-			return {
-				title: this.$page.event.pageTitle,
-				titleTemplate: this.$page.event.pageTitle,
+	<script>
+export default {
+  // meta deskripcija
+  metaInfo() {
+    return {
+      title: this.$page.event.pageTitle,
+      titleTemplate: this.$page.event.pageTitle,
+      meta: [{ name: "description", content: this.$page.event.metaDesc }],
+      // link: [{ rel: "canonical", href: `https://www.alojanaklik.rs/proizvodi` }],
+      // etc...
+    };
+  },
+  //CodyHose javascript UI
+  mounted() {
+    let frontEnd = document.createElement("script");
+    frontEnd.setAttribute("src", "../../../main-header.js");
+    frontEnd.setAttribute("id", "main-header-js");
 
-				meta: [{ name: "description", content: this.$page.event.metaDesc }],
-				// link: [{ rel: "canonical", href: `https://www.alojanaklik.rs/proizvodi` }],
+    // 👈 load the JS code once the component is mounted
+    let accordion = document.createElement("script");
+    accordion.setAttribute("src", "../../../accordion.js");
+    accordion.setAttribute("id", "accordion-js");
+    document.body.appendChild(frontEnd);
+    document.body.appendChild(accordion);
 
-				// etc...
-			};
-		},
-
-		//CodyHose javascript UI
-		mounted() {
-			let frontEnd = document.createElement("script");
-			frontEnd.setAttribute("src", "../../main-header.js");
-			frontEnd.setAttribute("id", "main-header-js");
-
-			// 👈 load the JS code once the component is mounted
-
-
-			let accordion = document.createElement("script");
-			accordion.setAttribute("src", "../../accordion.js");
-			accordion.setAttribute("id", "accordion-js");
-			document.body.appendChild(frontEnd);
-
-
-			document.body.appendChild(accordion);
-		},
-		destroyed() {
-			document.getElementById("main-header-js").remove();
-			// remove the JS code once the component has been destroyed
-			document.getElementById("accordion-js").remove();
-		},
-		methods: {
-			scroll() {
-				let element = document.getElementById("yourID");
-				element.scrollIntoView({ behavior: "smooth", block: "end" });
-			},
-		},
-	};
+    let product = document.createElement("script");
+    product.setAttribute("src", "../../product.js");
+    product.setAttribute("id", "product-js");
+  },
+  destroyed() {
+    document.getElementById("main-header-js").remove();
+    // remove the JS code once the component has been destroyed
+    document.getElementById("accordion-js").remove();
+    document.getElementById("product-js").remove();
+  },
+  methods: {
+    scroll() {
+      let element = document.getElementById("yourID");
+      element.scrollIntoView({ behavior: "smooth", block: "end" });
+    },
+  },
+};
 </script>
+		

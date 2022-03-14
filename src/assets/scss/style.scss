@@ -1,50 +1,50 @@
-@import '~codyhouse-framework/main/assets/css/base';
-@import 'custom-style/buttons';
-@import 'custom-style/colors';
-@import 'custom-style/forms';
-@import 'custom-style/icons';
-@import 'custom-style/shared-styles';
-@import 'custom-style/spacing';
-@import 'custom-style/typography';
-@import 'custom-style/util';
-@import 'components/1_anim-menu-btn';
+@import "~codyhouse-framework/main/assets/css/base";
+@import "custom-style/buttons";
+@import "custom-style/colors";
+@import "custom-style/forms";
+@import "custom-style/icons";
+@import "custom-style/shared-styles";
+@import "custom-style/spacing";
+@import "custom-style/typography";
+@import "custom-style/util";
+@import "components/1_anim-menu-btn";
 
-@import 'components/2_flexi-header';
-@import 'components/1_card-v5';
-@import 'components/1_overscroll-section';
-@import 'components/1_feature-v4';
-@import 'components/1_feature-v7';
-@import 'components/1_video-feature';
-@import 'components/1_feature-v9';
-@import 'components/1_accordion';
-@import 'components/2_accordion-v2';
-@import 'components/link.scss';
-@import 'components/1_card-v8';
-@import 'components/2_feature-v8';
-@import 'components/1_scrolling-animations';
-@import 'components/2_diagonal-animated-divider';
-@import 'components/card-product.scss';
-@import 'components/1_vertical-timeline';
-@import 'components/1_rating.scss';
-@import 'components/2_product-card-v2.scss';
-@import 'components/3_products-gallery-v2.scss';
-@import 'components/1_sticky-hero';
-@import 'components/1_main-footer-v4';
+@import "components/2_flexi-header";
+@import "components/1_card-v5";
+@import "components/1_overscroll-section";
+@import "components/1_feature-v4";
+@import "components/1_feature-v7";
+@import "components/1_video-feature";
+@import "components/1_feature-v9";
+@import "components/1_accordion";
+@import "components/2_accordion-v2";
+@import "components/link.scss";
+@import "components/1_card-v8";
+@import "components/2_feature-v8";
+@import "components/1_scrolling-animations";
+@import "components/2_diagonal-animated-divider";
+@import "components/card-product.scss";
+@import "components/1_vertical-timeline";
+@import "components/1_rating.scss";
+@import "components/2_product-card-v2.scss";
+@import "components/3_products-gallery-v2.scss";
+@import "components/1_sticky-hero";
+@import "components/1_main-footer-v4";
+@import "components/_2_product-v3";
 
 body {
   background-color: #fafafa !important;
   color: var(--color-primary-darker, hsl(240, 4%, 20%));
 }
 
-
 // .articles {
 //   position: relative;
 //   z-index: 1;
 // }
 
-
 .ikonice {
-  width: 24px; height: 24px;
+  width: 24px;
+  height: 24px;
   margin-right: var(--space-xs);
   color: green;
 }
@@ -54,12 +54,12 @@ body {
   padding: var(--space-sm);
   background: var(--color-contrast-lower);
   border-radius: 50%;
-  transition: .2s;
+  transition: 0.2s;
 
   .icon {
     display: block;
     color: var(--color-contrast-high);
-    transition: color .2s;
+    transition: color 0.2s;
     font-size: 1.2em;
   }
 
@@ -73,10 +73,9 @@ body {
   }
 }
 
-
 .story__img {
   display: block;
-  transition: opacity .2s;
+  transition: opacity 0.2s;
   margin-bottom: var(--space-xs);
 
   &:hover {
@@ -100,7 +99,7 @@ body {
   background-color: alpha(var(--color-primary), 0.2);
   padding: var(--space-xxs);
   border-radius: var(--radius-md);
-  transition: background-color .2s;
+  transition: background-color 0.2s;
 
   &:hover {
     text-decoration: underline;
@@ -155,7 +154,6 @@ body {
 
 // --featured
 
-
 .projects {
   display: grid;
   grid-template-columns: 1fr 1fr !important;
@@ -185,7 +183,7 @@ body {
     }
   }
 
-  #story:nth-child(n+2)   {
+  #story:nth-child(n + 2) {
     .story__title {
       font-size: var(--text-md) !important;
     }
@@ -200,7 +198,6 @@ body {
 .fade-leave-to {
   opacity: 0;
 }
-
 
 // ARticle
 
@@ -239,8 +236,9 @@ body {
     background-color: var(--color-contrast-low);
   }
 
-  &::before, &::after {
-    content: '';
+  &::before,
+  &::after {
+    content: "";
     display: block;
     height: 1px;
     width: auto;
@@ -258,7 +256,9 @@ body {
 
 .feature-v5__content {
   background-color: var(--color-secondary-lighter);
-  padding-bottom: calc(var(--feature-content-media-gap) + var(--feature-media-offset));
+  padding-bottom: calc(
+    var(--feature-content-media-gap) + var(--feature-media-offset)
+  );
 }
 
 .feature-v5__media {
@@ -266,25 +266,30 @@ body {
 }
 
 body {
-  background-color:#C3FCF2;
+  background-color: #c3fcf2;
 }
-
-
-
 
 // animacija
 
-
-  .vert-move { -webkit-animation: action 1s infinite  alternate;
-  animation: action 1s infinite  alternate;
+.vert-move {
+  -webkit-animation: action 1s infinite alternate;
+  animation: action 1s infinite alternate;
 }
 @-webkit-keyframes action {
-  0% { transform: translateY(0); }
-  100% { transform: translateY(-10px); }
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
 }
 @keyframes action {
-  0% { transform: translateY(0); }
-  100% { transform: translateY(-10px); }
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
 }
 
 .max-height-picture {
@@ -307,5 +312,10 @@ body {
   @include breakpoint(md) {
     margin-top: var(--space-xxl);
     margin-bottom: var(--space-xxl);
+  }
+}
+.accordion-v2__panel {
+  strong {
+    color: black !important;
   }
 }
