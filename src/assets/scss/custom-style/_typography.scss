@@ -44,8 +44,10 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: var(--font-primary);
   --heading-font-weight: 700;
+  font-family: var(--font-primary);
+  font-weight: var(--heading-font-weight);
+  letter-spacing: -2%;
 }
 
 // font family
