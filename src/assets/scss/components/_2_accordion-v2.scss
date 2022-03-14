@@ -116,3 +116,12 @@ Usage: codyhouse.co/license
             transform: translateY(0px);
   }
 }
+
+.accordion-v2__item {
+  box-shadow: var(--shadow-xs);
+  transition: 0.3s;
+
+  &:hover {
+    box-shadow: var(--shadow-md);
+  }
+}

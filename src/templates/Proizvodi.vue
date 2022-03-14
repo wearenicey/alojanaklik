@@ -1,22 +1,56 @@
 <template>
   <Layout>
-    <section class="product-v3 padding-y-xxl js-product-v3">
+    <section class="product-v3 padding-y-xxl js-product-v3 bg-white">
       <div class="container max-width-adaptive-xl">
         <div class="grid gap-md">
           <div class="col-6@md col-7@lg">
-            <div class="flex flex-column gap-sm">
-              <figure v-for="(file, index) in $page.event.image" :key="file.id">
-                <g-image class="block width-100%" :src="file.url" />
-              </figure>
+            <div class="thumbslide js-thumbslide">
+              <div class="slideshow slideshow--transition-slide">
+                <p class="sr-only">Slideshow Items</p>
+
+                <ul class="slideshow__content">
+                  <li
+                    v-for="(file, index) in $page.event.image"
+                    :key="file.id"
+                    class="slideshow__item bg js-slideshow__item"
+                    v-bind:style="{ backgroundImage: 'url(' + file.url + ')' }"
+                    :data-thumb="file.url"
+                  ></li>
+                </ul>
+              </div>
+
+              <div class="thumbslide__nav-wrapper" aria-hidden="true">
+                <nav class="thumbslide__nav">
+                  <ol class="thumbslide__nav-list">
+                    <!-- this content will be created using JavaScript -->
+                  </ol>
+                </nav>
+              </div>
             </div>
+            <!-- <div class="flex flex-column gap-sm">
+              <figure
+                class="hide-on-mobile-image"
+                v-for="(file, index) in $page.event.image"
+                :key="file.id"
+              >
+                <g-image class="block width-100% radius-lg" :src="file.url" />
+              </figure>
+            </div> -->
           </div>
 
           <div class="col-6@md col-5@lg">
             <div class="product-v3__panel">
-              <div class="margin-bottom-xs">
+              <div class="margin-bottom-sm color-primary text-bold">
+                <p>{{ $page.event.categoryTitle }}</p>
+              </div>
+              <div class="margin-y-sm">
                 <h1>{{ $page.event.title }}</h1>
               </div>
-
+              <div class="margin-top-sm margin-bottom-lg">
+                <p class="text-lg color-accent font-primary">
+                  {{ $page.event.cena }} RSD
+                </p>
+              </div>
               <div class="flex items-center margin-bottom-sm">
                 <div
                   class="
@@ -79,8 +113,24 @@
                   ></span>
                 </button>
                 <g-image
-                  class="margin-right-xs"
+                  class="margin-right-xs display@md"
                   src="~/assets/img/logo-futer.png"
+                ></g-image>
+              </div>
+              <div class="flex flex-wrap gap-md padding-top-xl">
+                <g-image
+                  class="margin-right-xs"
+                  src="~/assets/img/aloeScienceCouncil.png"
+                ></g-image>
+
+                <g-image
+                  class="margin-right-xs"
+                  src="~/assets/img/kosherRating.png"
+                ></g-image>
+
+                <g-image
+                  class="margin-right-xs"
+                  src="~/assets/img/islamicApproval.png"
                 ></g-image>
               </div>
               <div>
@@ -96,9 +146,10 @@
                   data-multi-items="on"
                   data-version="v2"
                 >
-                  <li class="accordion-v2__item js-accordion__item">
+                  <li class="accordion-v2__item js-accordion__item b">
                     <button
                       class="
+                        bg-contrast-lower
                         color-primary
                         reset
                         accordion-v2__header
@@ -107,7 +158,210 @@
                       "
                       type="button"
                     >
-                      <span class="text-md">Panel 1</span>
+                      <span class="text-md">Karakteristike</span>
+
+                      <svg
+                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                        viewBox="0 0 20 20"
+                      >
+                        <g
+                          class="icon__group"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <line x1="3" y1="3" x2="17" y2="17" />
+                          <line x1="17" y1="3" x2="3" y2="17" />
+                        </g>
+                      </svg>
+                    </button>
+
+                    <div
+                      class="
+                        accordion-v2__panel
+                        padding-top-xxxs padding-x-md padding-bottom-md
+                        js-accordion__panel
+                        bg-contrast-lower
+                      "
+                    >
+                      <div
+                        class="
+                          text-component
+                          line-height-md
+                          color-contrast-medium
+                          text-space-y-md
+                        "
+                        v-html="$page.event.karakteristike"
+                      ></div>
+                    </div>
+                  </li>
+
+                  <li class="accordion-v2__item js-accordion__item">
+                    <button
+                      class="
+                        bg-contrast-lower
+                        color-primary
+                        reset
+                        accordion-v2__header
+                        padding-y-sm padding-x-md
+                        js-tab-focus
+                      "
+                      type="button"
+                    >
+                      <span class="text-md">Namena</span>
+
+                      <svg
+                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                        viewBox="0 0 20 20"
+                      >
+                        <g
+                          class="icon__group"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <line x1="3" y1="3" x2="17" y2="17" />
+                          <line x1="17" y1="3" x2="3" y2="17" />
+                        </g>
+                      </svg>
+                    </button>
+
+                    <div
+                      class="
+                        bg-contrast-lower
+                        accordion-v2__panel
+                        padding-top-xxxs padding-x-md padding-bottom-md
+                        js-accordion__panel
+                      "
+                    >
+                      <div
+                        class="
+                          text-component
+                          line-height-md
+                          color-contrast-medium
+                          text-space-y-md
+                        "
+                        v-html="$page.event.namena"
+                      ></div>
+                    </div>
+                  </li>
+
+                  <li class="accordion-v2__item js-accordion__item">
+                    <button
+                      class="
+                        bg-contrast-lower
+                        color-primary
+                        reset
+                        accordion-v2__header
+                        padding-y-sm padding-x-md
+                        js-tab-focus
+                      "
+                      type="button"
+                    >
+                      <span class="text-md">Sastojci</span>
+
+                      <svg
+                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                        viewBox="0 0 20 20"
+                      >
+                        <g
+                          class="icon__group"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <line x1="3" y1="3" x2="17" y2="17" />
+                          <line x1="17" y1="3" x2="3" y2="17" />
+                        </g>
+                      </svg>
+                    </button>
+
+                    <div
+                      class="
+                        bg-contrast-lower
+                        accordion-v2__panel
+                        padding-top-xxxs padding-x-md padding-bottom-md
+                        js-accordion__panel
+                      "
+                    >
+                      <div
+                        class="
+                          text-component
+                          line-height-md
+                          color-contrast-medium
+                          text-space-y-md
+                        "
+                        v-html="$page.event.sastojci"
+                      ></div>
+                    </div>
+                  </li>
+
+                  <li class="accordion-v2__item js-accordion__item">
+                    <button
+                      class="
+                        bg-contrast-lower
+                        color-primary
+                        reset
+                        accordion-v2__header
+                        padding-y-sm padding-x-md
+                        js-tab-focus
+                      "
+                      type="button"
+                    >
+                      <span class="text-md">Napomene</span>
+
+                      <svg
+                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
+                        viewBox="0 0 20 20"
+                      >
+                        <g
+                          class="icon__group"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <line x1="3" y1="3" x2="17" y2="17" />
+                          <line x1="17" y1="3" x2="3" y2="17" />
+                        </g>
+                      </svg>
+                    </button>
+
+                    <div
+                      class="
+                        bg-contrast-lower
+                        accordion-v2__panel
+                        padding-top-xxxs padding-x-md padding-bottom-md
+                        js-accordion__panel
+                      "
+                    >
+                      <div
+                        class="
+                          text-component
+                          line-height-md
+                          color-contrast-medium
+                          text-space-y-md
+                        "
+                        v-html="$page.event.napomena"
+                      ></div>
+                    </div>
+                  </li>
+                  <li class="accordion-v2__item js-accordion__item">
+                    <button
+                      class="
+                        bg-contrast-lower
+                        color-primary
+                        reset
+                        accordion-v2__header
+                        padding-y-sm padding-x-md
+                        js-tab-focus
+                      "
+                      type="button"
+                    >
+                      <span class="text-md">Upotreba</span>
 
                       <svg
                         class="icon accordion-v2__icon-arrow no-js:is-hidden"
@@ -140,177 +394,8 @@
                           color-contrast-medium
                           text-space-y-md
                         "
-                        v-html="$page.event.karakteristike"
+                        v-html="$page.event.upotreba"
                       ></div>
-                    </div>
-                  </li>
-
-                  <li class="accordion-v2__item js-accordion__item">
-                    <button
-                      class="
-                        reset
-                        accordion-v2__header
-                        padding-y-sm padding-x-md
-                        js-tab-focus
-                      "
-                      type="button"
-                    >
-                      <span class="text-md">Panel 2</span>
-
-                      <svg
-                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
-                        viewBox="0 0 20 20"
-                      >
-                        <g
-                          class="icon__group"
-                          fill="none"
-                          stroke="currentColor"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                        >
-                          <line x1="3" y1="3" x2="17" y2="17" />
-                          <line x1="17" y1="3" x2="3" y2="17" />
-                        </g>
-                      </svg>
-                    </button>
-
-                    <div
-                      class="
-                        accordion-v2__panel
-                        padding-top-xxxs padding-x-md padding-bottom-md
-                        js-accordion__panel
-                      "
-                    >
-                      <div
-                        class="text-component line-height-md text-space-y-md"
-                      >
-                        <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Nostrum a ab quae quas optio ut officia quia?
-                          Modi at impedit dolorem est voluptatem facilis, beatae
-                          atque tenetur, soluta dolorum inventore sapiente
-                          laborum. Alias esse soluta porro distinctio aperiam,
-                          qui suscipit.
-                        </p>
-                        <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Nostrum a ab quae quas optio ut officia quia?
-                          Modi at impedit dolorem est voluptatem facilis, beatae
-                          atque tenetur, soluta dolorum inventore sapiente
-                          laborum. Alias esse soluta porro distinctio aperiam,
-                          qui suscipit.
-                        </p>
-                      </div>
-                    </div>
-                  </li>
-
-                  <li class="accordion-v2__item js-accordion__item">
-                    <button
-                      class="
-                        reset
-                        accordion-v2__header
-                        padding-y-sm padding-x-md
-                        js-tab-focus
-                      "
-                      type="button"
-                    >
-                      <span class="text-md">Panel 3</span>
-
-                      <svg
-                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
-                        viewBox="0 0 20 20"
-                      >
-                        <g
-                          class="icon__group"
-                          fill="none"
-                          stroke="currentColor"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                        >
-                          <line x1="3" y1="3" x2="17" y2="17" />
-                          <line x1="17" y1="3" x2="3" y2="17" />
-                        </g>
-                      </svg>
-                    </button>
-
-                    <div
-                      class="
-                        accordion-v2__panel
-                        padding-top-xxxs padding-x-md padding-bottom-md
-                        js-accordion__panel
-                      "
-                    >
-                      <div
-                        class="text-component line-height-md text-space-y-md"
-                      >
-                        <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Nostrum a ab quae quas optio ut officia quia?
-                          Modi at impedit dolorem est voluptatem facilis, beatae
-                          atque tenetur, soluta dolorum inventore sapiente
-                          laborum. Alias esse soluta porro distinctio aperiam,
-                          qui suscipit.
-                        </p>
-                      </div>
-                    </div>
-                  </li>
-
-                  <li class="accordion-v2__item js-accordion__item">
-                    <button
-                      class="
-                        reset
-                        accordion-v2__header
-                        padding-y-sm padding-x-md
-                        js-tab-focus
-                      "
-                      type="button"
-                    >
-                      <span class="text-md">Panel 4</span>
-
-                      <svg
-                        class="icon accordion-v2__icon-arrow no-js:is-hidden"
-                        viewBox="0 0 20 20"
-                      >
-                        <g
-                          class="icon__group"
-                          fill="none"
-                          stroke="currentColor"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                        >
-                          <line x1="3" y1="3" x2="17" y2="17" />
-                          <line x1="17" y1="3" x2="3" y2="17" />
-                        </g>
-                      </svg>
-                    </button>
-
-                    <div
-                      class="
-                        accordion-v2__panel
-                        padding-top-xxxs padding-x-md padding-bottom-md
-                        js-accordion__panel
-                      "
-                    >
-                      <div
-                        class="text-component line-height-md text-space-y-md"
-                      >
-                        <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Nostrum a ab quae quas optio ut officia quia?
-                          Modi at impedit dolorem est voluptatem facilis, beatae
-                          atque tenetur, soluta dolorum inventore sapiente
-                          laborum. Alias esse soluta porro distinctio aperiam,
-                          qui suscipit.
-                        </p>
-                        <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Nostrum a ab quae quas optio ut officia quia?
-                          Modi at impedit dolorem est voluptatem facilis, beatae
-                          atque tenetur, soluta dolorum inventore sapiente
-                          laborum. Alias esse soluta porro distinctio aperiam,
-                          qui suscipit.
-                        </p>
-                      </div>
                     </div>
                   </li>
                 </ul>
@@ -427,6 +512,7 @@
         cta
         cena
         category
+				categoryTitle
         nabrajanje
         image{
           url
@@ -455,12 +541,27 @@ export default {
     frontEnd.setAttribute("src", "../../../main-header.js");
     frontEnd.setAttribute("id", "main-header-js");
 
+    let swipe = document.createElement("script");
+    swipe.setAttribute("src", "../../../swpie.js");
+    swipe.setAttribute("id", "swpie-js");
+
+    let thumbnail = document.createElement("script");
+    thumbnail.setAttribute("src", "../../../thumbnail.js");
+    thumbnail.setAttribute("id", "thumbnail-js");
+
+    let slideshow = document.createElement("script");
+    slideshow.setAttribute("src", "../../../slideshow.js");
+    slideshow.setAttribute("id", "slideshow-js");
     // 👈 load the JS code once the component is mounted
+
     let accordion = document.createElement("script");
     accordion.setAttribute("src", "../../../accordion.js");
     accordion.setAttribute("id", "accordion-js");
     document.body.appendChild(frontEnd);
     document.body.appendChild(accordion);
+    document.body.appendChild(swipe);
+    document.body.appendChild(thumbnail);
+    document.body.appendChild(slideshow);
 
     let product = document.createElement("script");
     product.setAttribute("src", "../../product.js");
@@ -471,6 +572,7 @@ export default {
     // remove the JS code once the component has been destroyed
     document.getElementById("accordion-js").remove();
     document.getElementById("product-js").remove();
+
   },
   methods: {
     scroll() {

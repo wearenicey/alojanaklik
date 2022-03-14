@@ -32,6 +32,12 @@
 @import "components/1_main-footer-v4";
 @import "components/_2_product-v3";
 
+@import "components/1_image-magnifier";
+@import "components/1_tabs";
+@import "components/2_slideshow";
+@import "components/3_thumbnail-slideshow";
+@import "components/4_product-v2";
+
 body {
   background-color: #fafafa !important;
   color: var(--color-primary-darker, hsl(240, 4%, 20%));
@@ -318,4 +324,11 @@ body {
   strong {
     color: black !important;
   }
+}
+
+@media (max-width: 920px) {
+	.hide-on-mobile-image:nth-of-type(1n+2){
+		 display: none; 
+		}
+	
 }

@@ -1,8 +1,3 @@
-@use '../base' as *;
-@use '_1_breadcrumbs.scss' as *;
-@use '_1_rating.scss' as *;
-@use '_1_number-input.scss' as *;
-
 /* -------------------------------- 
 
 File#: _2_product-v3
@@ -11,29 +6,41 @@ Descr: Product info section with CTA
 Usage: codyhouse.co/license
 
 -------------------------------- */
-
 .product-v3__panel {
-  position: sticky;
+  // position: -webkit-sticky;
+  // position: sticky;
   top: var(--space-md);
 }
 
-.product-v3__cta-clone { // CTA clone visible on smaller screens
+.product-v3__cta-clone {
   position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
   padding: var(--space-sm) var(--space-md);
-  background-color: alpha(var(--color-bg), 0.9);
+  background-color: hsla(
+    var(--color-bg-h),
+    var(--color-bg-s),
+    var(--color-bg-l),
+    0.9
+  );
+  -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
   box-shadow: var(--shadow-lg);
-  z-index: var(--z-index-fixed-element, 10); 
+  z-index: var(--z-index-fixed-element, 10);
+  -webkit-transform: translateY(100%);
   transform: translateY(100%);
   visibility: hidden;
-  transition: transform .3s, visibility 0s 0.3s;
+  transition: visibility 0s 0.3s, -webkit-transform 0.3s;
+  transition: transform 0.3s, visibility 0s 0.3s;
+  transition: transform 0.3s, visibility 0s 0.3s, -webkit-transform 0.3s;
 }
 
 .product-v3__cta-clone--is-visible {
+  -webkit-transform: translateY(0);
   transform: translateY(0);
   visibility: visible;
-  transition: transform .3s;
+  transition: -webkit-transform 0.3s;
+  transition: transform 0.3s;
+  transition: transform 0.3s, -webkit-transform 0.3s;
 }

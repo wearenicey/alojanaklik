@@ -1,0 +1,22 @@
+@use '../base' as *;
+@use '_1_breadcrumbs.scss' as *;
+@use '_1_btns.scss' as *;
+@use '_1_color-swatches.scss' as *;
+@use '_1_tabs.scss' as *;
+@use '_2_slideshow.scss' as *;
+@use '_3_thumbnail-slideshow.scss' as *;
+@use '_1_image-magnifier.scss' as *;
+
+/* -------------------------------- 
+
+File#: _4_product-v2
+Title: Product v2
+Descr: Product info section with CTA
+Usage: codyhouse.co/license
+
+-------------------------------- */
+
+.product-v2 .thumbslide {
+  --thumbslide-thumbnail-auto-size: 90px; // min-width value -> used in JS to auto update the thumbnails width
+  --thumbslide-thumbnail-grid-gap: var(--space-xxxs); // gap among thumbnails
+}
