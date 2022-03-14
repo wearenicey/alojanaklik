@@ -6,115 +6,113 @@ Descr: Stacked, expandable content sections
 Usage: codyhouse.co/license
 
 -------------------------------- */
-
 :root {
-  // icon
-  --accordion-v2-icon-size: 1em;
-  --accordion-v2-icon-stroke-width: 1.5px;
-}
-
-.accordion-v2 {
+  --accordion-v2-icon-size: 20px;
+  --accordion-v2-icon-stroke-width: 2px;
 }
 
 .accordion-v2__item {
-  box-shadow: var(--shadow-xs);
+  background-color: var(--color-bg-light);
+  box-shadow: var(--inner-glow-top), var(--shadow-sm);
+  border-radius: var(--radius-md);
   transition: 0.3s;
-
-  &:hover {
-    box-shadow: var(--shadow-md);
-  }
+}
+.accordion-v2__item:hover {
+  box-shadow: var(--inner-glow-top), var(--shadow-md);
 }
 
 .accordion-v2__header {
-  // button
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   text-align: left;
   cursor: pointer;
-
-  .icon {
-    font-size: var(--accordion-v2-icon-size);
-
-    .icon__group {
-      stroke-width: var(--accordion-v2-icon-stroke-width);
-    }
-  }
+}
+.accordion-v2__header .icon {
+  --size: var(--accordion-v2-icon-size);
+}
+.accordion-v2__header .icon .icon__group {
+  stroke-width: var(--accordion-v2-icon-stroke-width);
 }
 
-.accordion-v2__icon-arrow {
-  .icon__group {
-    will-change: transform;
-    transform-origin: 8px 8px;
-
-    > * {
-      transform-origin: 8px 8px;
-      stroke-dasharray: 17;
-      transform: translateY(3px);
-    }
-
-    > *:first-child {
-      stroke-dashoffset: 8.5;
-    }
-
-    > *:last-child {
-      stroke-dashoffset: 8.5;
-    }
-  }
+.accordion-v2__icon-arrow .icon__group {
+  will-change: transform;
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
+.accordion-v2__icon-arrow .icon__group > * {
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  stroke-dasharray: 20;
+  -webkit-transform: translateY(4px);
+          transform: translateY(4px);
+}
+.accordion-v2__icon-arrow .icon__group > *:first-child {
+  stroke-dashoffset: 10.15;
+}
+.accordion-v2__icon-arrow .icon__group > *:last-child {
+  stroke-dashoffset: 10.15;
 }
 
-.accordion-v2__item--is-open > .accordion-v2__header {
-  > .accordion-v2__icon-arrow .icon__group {
-    // animated arrow icon
-    transform: rotate(-90deg);
-
-    > *:first-child,
-    *:last-child {
-      stroke-dashoffset: 0;
-      transform: translateY(0px);
-    }
-  }
+.accordion-v2__item--is-open > .accordion-v2__header > .accordion-v2__icon-arrow .icon__group {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+.accordion-v2__item--is-open > .accordion-v2__header > .accordion-v2__icon-arrow .icon__group > *:first-child, .accordion-v2__item--is-open > .accordion-v2__header > .accordion-v2__icon-arrow .icon__group *:last-child {
+  stroke-dashoffset: 0;
+  -webkit-transform: translateY(0px);
+          transform: translateY(0px);
 }
 
-.js {
-  .accordion-v2__panel {
-    display: none;
-    will-change: height;
-    transform: translateZ(0px);
-  }
-
-  .accordion-v2__item--is-open > .accordion-v2__panel {
-    display: block;
-  }
+.js .accordion-v2__panel {
+  display: none;
+  will-change: height;
+  -webkit-transform: translateZ(0px);
+          transform: translateZ(0px);
+}
+.js .accordion-v2__item--is-open > .accordion-v2__panel {
+  display: block;
 }
 
-// animations
-.accordion-v2[data-animation="on"] {
-  .accordion-v2__item--is-open .accordion-v2__panel > * {
-    animation: accordion-v2-entry-animation 0.4s var(--ease-out);
+.accordion-v2[data-animation=on] .accordion-v2__item--is-open .accordion-v2__panel > * {
+  -webkit-animation: accordion-v2-entry-animation 0.4s var(--ease-out);
+          animation: accordion-v2-entry-animation 0.4s var(--ease-out);
+}
+.accordion-v2[data-animation=on] .accordion-v2__icon-arrow .icon__group {
+  transition: -webkit-transform 0.3s var(--ease-out);
+  transition: transform 0.3s var(--ease-out);
+  transition: transform 0.3s var(--ease-out), -webkit-transform 0.3s var(--ease-out);
+}
+.accordion-v2[data-animation=on] .accordion-v2__icon-arrow .icon__group > * {
+  transition: stroke-dashoffset 0.3s, -webkit-transform 0.3s;
+  transition: transform 0.3s, stroke-dashoffset 0.3s;
+  transition: transform 0.3s, stroke-dashoffset 0.3s, -webkit-transform 0.3s;
+  transition-timing-function: var(--ease-out);
+}
+
+@-webkit-keyframes accordion-v2-entry-animation {
+  from {
+    opacity: 0;
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
   }
-
-  .accordion-v2__icon-arrow {
-    .icon__group {
-      transition: transform 0.3s var(--ease-out);
-
-      > * {
-        transition: transform 0.3s, stroke-dashoffset 0.3s;
-        transition-timing-function: var(--ease-out);
-      }
-    }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
   }
 }
 
 @keyframes accordion-v2-entry-animation {
   from {
     opacity: 0;
-    transform: translateY(-10px);
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
   }
-
   to {
     opacity: 1;
-    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
   }
 }

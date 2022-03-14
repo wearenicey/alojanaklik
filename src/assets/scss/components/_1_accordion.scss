@@ -5,156 +5,164 @@ Title: Accordion
 Descr: Create stacked sections of content and allow the user to expand/collapse them
 Usage: codyhouse.co/license
 
--------------------------------- */ 
-
+-------------------------------- */
 :root {
-  // general
+  /* general */
   --accordion-border-width: 1px;
-  --accordion-border-color: var(--color-contrast-low);
-  // icon
-  --accordion-icon-size: 1em;
-  --accordion-icon-stroke-width: 1.5px;
+  /* icon */
+  --accordion-icon-size: 20px;
+  --accordion-icon-stroke-width: 2px;
 }
-
-.accordion {}
 
 .accordion__item {
   border-style: solid;
-  border-color: var(--accordion-border-color);
+  border-color: var(--color-contrast-lower);
   border-bottom-width: var(--accordion-border-width);
-
-  &:first-child {
-    border-top-width: var(--accordion-border-width);
-  }
+}
+.accordion__item:first-child {
+  border-top-width: var(--accordion-border-width);
 }
 
-.accordion__header { // button
+.accordion__header {
+  /* button */
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   text-align: left;
   cursor: pointer;
-
-  .icon {
-    font-size: var(--accordion-icon-size);
-
-    .icon__group {
-      stroke-width: var(--accordion-icon-stroke-width);
-    }
-  }
+}
+.accordion__header .icon {
+  --size: var(--accordion-icon-size);
+}
+.accordion__header .icon .icon__group {
+  stroke-width: var(--accordion-icon-stroke-width);
 }
 
-.accordion__icon-arrow,
-.accordion__icon-arrow-v2,
-.accordion__icon-plus {
-  .icon__group {
-    will-change: transform;
-    transform-origin: 8px 8px;
-
-    > * {
-      transform-origin: 8px 8px;
-    }
-  }
+.accordion__icon-arrow .icon__group,
+.accordion__icon-arrow-v2 .icon__group,
+.accordion__icon-plus .icon__group {
+  will-change: transform;
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
 }
 
-.accordion__icon-arrow,
-.accordion__icon-arrow-v2 {
-  .icon__group {
-    > * {
-      stroke-dasharray: 17;
-      transform: translateY(3px);
-    }
-
-    > *:first-child {
-      stroke-dashoffset: 8.5;
-    }
-
-    > *:last-child {
-      stroke-dashoffset: 8.5;
-    }
-  }
+.accordion__icon-arrow .icon__group > * {
+  -webkit-transform-origin: 10px 14px;
+          transform-origin: 10px 14px;
 }
 
-.accordion__icon-plus {
-  .icon__group {
-    transform: rotate(-90deg);
-
-    > *:first-child {
-      transform: rotate(-90deg);
-    }
-  }
+.accordion__icon-arrow-v2 .icon__group > * {
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  stroke-dasharray: 20;
+  -webkit-transform: translateY(4px);
+          transform: translateY(4px);
+}
+.accordion__icon-arrow-v2 .icon__group > *:first-child {
+  stroke-dashoffset: 10.15;
+}
+.accordion__icon-arrow-v2 .icon__group > *:last-child {
+  stroke-dashoffset: 10.15;
 }
 
-.accordion__item--is-open > .accordion__header {
-  > .accordion__icon-arrow .icon__group { // animated arrow icon
-    > *:first-child {
-      transform: translateY(-3px) rotate(-90deg);
-    }
-
-    > *:last-child {
-      transform: translateY(-3px) rotate(90deg);
-    }
-  }
-
-  > .accordion__icon-arrow-v2 .icon__group { // animated arrow icon v2
-    transform: rotate(-90deg);
-
-    > *:first-child, *:last-child {
-      stroke-dashoffset: 0;
-      transform: translateY(0px);
-    }
-  }
-
-  > .accordion__icon-plus .icon__group { // animated plus icon
-    transform: rotate(0);
-
-    > *:first-child {
-      transform: rotate(0);
-    }
-  }
+.accordion__icon-plus .icon__group {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+.accordion__icon-plus .icon__group > * {
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
+.accordion__icon-plus .icon__group > *:first-child {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
 }
 
-.js {
-  .accordion__panel {
-    display: none;
-    will-change: height;
-    transform: translateZ(0px);
-  }
-
-  .accordion__item--is-open > .accordion__panel {
-    display: block;
-  }
+.accordion__item--is-open > .accordion__header > .accordion__icon-arrow .icon__group {
+  /* animated arrow icon */
+}
+.accordion__item--is-open > .accordion__header > .accordion__icon-arrow .icon__group > *:first-child {
+  -webkit-transform: translateY(-8px) rotate(-90deg);
+          transform: translateY(-8px) rotate(-90deg);
+}
+.accordion__item--is-open > .accordion__header > .accordion__icon-arrow .icon__group > *:last-child {
+  -webkit-transform: translateY(-8px) rotate(90deg);
+          transform: translateY(-8px) rotate(90deg);
+}
+.accordion__item--is-open > .accordion__header > .accordion__icon-arrow-v2 .icon__group {
+  /* animated arrow icon v2 */
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+.accordion__item--is-open > .accordion__header > .accordion__icon-arrow-v2 .icon__group > *:first-child, .accordion__item--is-open > .accordion__header > .accordion__icon-arrow-v2 .icon__group *:last-child {
+  stroke-dashoffset: 0;
+  -webkit-transform: translateY(0px);
+          transform: translateY(0px);
+}
+.accordion__item--is-open > .accordion__header > .accordion__icon-plus .icon__group {
+  /* animated plus icon */
+  -webkit-transform: rotate(0);
+          transform: rotate(0);
+}
+.accordion__item--is-open > .accordion__header > .accordion__icon-plus .icon__group > *:first-child {
+  -webkit-transform: rotate(0);
+          transform: rotate(0);
 }
 
-// animations
-.accordion[data-animation="on"] {
-  .accordion__item--is-open .accordion__panel > * {
-    animation: accordion-entry-animation .4s var(--ease-out);
+.js .accordion__panel {
+  display: none;
+  will-change: height;
+  -webkit-transform: translateZ(0px);
+          transform: translateZ(0px);
+}
+.js .accordion__item--is-open > .accordion__panel {
+  display: block;
+}
+
+/* animations */
+.accordion[data-animation=on] .accordion__item--is-open .accordion__panel > * {
+  -webkit-animation: accordion-entry-animation 0.4s var(--ease-out);
+          animation: accordion-entry-animation 0.4s var(--ease-out);
+}
+.accordion[data-animation=on] .accordion__icon-arrow .icon__group,
+.accordion[data-animation=on] .accordion__icon-arrow-v2 .icon__group,
+.accordion[data-animation=on] .accordion__icon-plus .icon__group {
+  transition: -webkit-transform 0.3s var(--ease-out);
+  transition: transform 0.3s var(--ease-out);
+  transition: transform 0.3s var(--ease-out), -webkit-transform 0.3s var(--ease-out);
+}
+.accordion[data-animation=on] .accordion__icon-arrow .icon__group > *,
+.accordion[data-animation=on] .accordion__icon-arrow-v2 .icon__group > *,
+.accordion[data-animation=on] .accordion__icon-plus .icon__group > * {
+  transition: stroke-dashoffset 0.3s, -webkit-transform 0.3s;
+  transition: transform 0.3s, stroke-dashoffset 0.3s;
+  transition: transform 0.3s, stroke-dashoffset 0.3s, -webkit-transform 0.3s;
+  transition-timing-function: var(--ease-out);
+}
+
+@-webkit-keyframes accordion-entry-animation {
+  from {
+    opacity: 0;
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
   }
-
-  .accordion__icon-arrow,
-  .accordion__icon-arrow-v2,
-  .accordion__icon-plus {
-    .icon__group {
-      transition: transform .3s var(--ease-out);
-
-      > * {
-        transition: transform .3s, stroke-dashoffset .3s;
-        transition-timing-function: var(--ease-out);
-      }
-    }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
   }
 }
 
 @keyframes accordion-entry-animation {
   from {
     opacity: 0;
-    transform: translateY(-10px);
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
   }
-
   to {
     opacity: 1;
-    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
   }
 }
