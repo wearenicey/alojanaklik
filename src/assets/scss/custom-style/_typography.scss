@@ -1,34 +1,22 @@
-@font-face {
-  font-family: 'STIX Two Text';
-  src: url('../STIXTwoText-Bold.eot');
-  src: url('../STIXTwoText-Bold.eot?#iefix') format('embedded-opentype'),
-  url('../STIXTwoText-Bold.woff2') format('woff2'),
-  url('../STIXTwoText-Bold.woff') format('woff'),
-  url('../STIXTwoText-Bold.ttf') format('truetype');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
 :root {
   // font family
-  --font-primary: 'STIX Two Text', serif;
+  --font-primary: 'Space Grotesk', sans-serif;
   --font-secondary: 'Inter', sans-serif;
 
   // font size
   --text-base-size: 1em; // body font-size
   --text-scale-ratio: 1.2; // multiplier used to generate the type scale values 👇
-
+  
   // line-height
   --body-line-height: 1.5;
   --heading-line-height: 1.2;
-
+  
   // capital letters - used in combo with the lhCrop mixin
   --font-primary-capital-letter: 1;
   --font-secondary-capital-letter: 1;
 
-  // unit - don't modify unless you want to change the typography unit (e.g., from Em to Rem units)
-  --text-unit: 1em; // if not Em units → --text-unit: var(--text-base-size);
+  // unit - don't modify unless you want to change the typography unit (e.g., from Rem to Em units)
+  --text-unit: 1em; // if Em units → --text-unit: 1em;
 }
 
 :root, * {
@@ -43,12 +31,11 @@
   --text-xxxxl: calc(var(--text-xxxl) * var(--text-scale-ratio));
 }
 
-@supports(--css: variables) {
-  @include breakpoint(md) {
-    :root {
-      --text-base-size: 1.25em;
-      --text-scale-ratio: 1.25;
-    }
+
+@include breakpoint(md) {
+  :root {
+    --text-base-size: 1.25em;
+    --text-scale-ratio: 1.25;
   }
 }
 
@@ -58,7 +45,7 @@ body {
 
 h1, h2, h3, h4 {
   font-family: var(--font-primary);
-  font-weight: 700;
+  --heading-font-weight: 700;
 }
 
 // font family
@@ -76,3 +63,8 @@ h1, h2, h3, h4 {
 .color-tertiary { color: alpha(var(--color-tertiary), var(--color-o, 1)); }
 .color-tertiary-light { color: alpha(var(--color-tertiary-light), var(--color-o, 1)); }
 .color-tertiary-lighter { color: alpha(var(--color-tertiary-lighter), var(--color-o, 1)); }
+.color-quaternary-darker { color: alpha(var(--color-quaternary-darker), var(--color-o, 1)); }
+.color-quaternary-dark { color: alpha(var(--color-quaternary-dark), var(--color-o, 1)); }
+.color-quaternary { color: alpha(var(--color-quaternary), var(--color-o, 1)); }
+.color-quaternary-light { color: alpha(var(--color-quaternary-light), var(--color-o, 1)); }
+.color-quaternary-lighter { color: alpha(var(--color-quaternary-lighter), var(--color-o, 1)); }

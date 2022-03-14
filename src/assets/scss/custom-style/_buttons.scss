@@ -1,8 +1,8 @@
 :root {
-  --btn-font-size: 16px;
-  --btn-padding-x: var(--space-md);
-  --btn-padding-y: var(--space-xs);
-  --btn-radius: 3rem;
+  --btn-font-size: 18px;
+  --btn-padding-x: 24px;
+  --btn-padding-y: 12px;
+  --btn-radius: 10rem;
 }
 
 .btn {
@@ -86,9 +86,11 @@
 }
 
 .btn--md {
-  font-size: 1.2em;
+  padding: var(--space-xs) var(--space-md);
+  font-size: var(--text-md);
 }
 
 .btn--lg {
-  font-size: 1.4em;
+  padding: var(--space-xs) var(--space-md);
+  font-size: 30px;
 }
