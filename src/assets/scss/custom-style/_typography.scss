@@ -7,15 +7,15 @@
 
   // font size
   --text-base-size: 1em; // body font-size
-  --text-scale-ratio: 1.2; // multiplier used to generate the type scale values 👇
+  --text-scale-ratio: 1.25; // multiplier used to generate the type scale values 👇
 
   // line-height
-  --body-line-height: 1.5;
-  --heading-line-height: 1.2;
+  --body-line-height: 1.6;
+  --heading-line-height: 1.25;
 
   // capital letters - used in combo with the lhCrop mixin
-  --font-primary-capital-letter: 1;
-  --font-secondary-capital-letter: 1;
+  --font-primary-capital-letter: 1.2;
+  --font-secondary-capital-letter: 1.2;
 
   // unit - don't modify unless you want to change the typography unit (e.g., from Rem to Em units)
   --text-unit: 1em; // if Em units → --text-unit: 1em;
@@ -47,6 +47,7 @@
 
 body {
   font-family: var(--font-secondary);
+  font-weight: 600;
 }
 
 h1,

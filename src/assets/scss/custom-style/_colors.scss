@@ -60,8 +60,8 @@
   @include defineColorHSL(--color-bg-lighter, 240, 2%, 100%);
 
   // color contrasts
-  @include defineColorHSL(--color-contrast-lower, 0, 0%, 93%);
-  @include defineColorHSL(--color-contrast-low, 240, 2%, 75%);
+  @include defineColorHSL(--color-contrast-lower, 0, 0%, 95%);
+  @include defineColorHSL(--color-contrast-low, 240, 2%, 78%);
   @include defineColorHSL(--color-contrast-medium, 240, 1%, 55%);
   @include defineColorHSL(--color-contrast-high, 240, 3%, 30%);
   @include defineColorHSL(--color-contrast-higher, 240, 6%, 17%);
