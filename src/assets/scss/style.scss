@@ -1,52 +1,20 @@
-@import "~codyhouse-framework/main/assets/css/base";
-@import "custom-style/buttons";
-@import "custom-style/colors";
-@import "custom-style/forms";
-@import "custom-style/icons";
-@import "custom-style/shared-styles";
-@import "custom-style/spacing";
-@import "custom-style/typography";
-@import "custom-style/util";
-@import "components/1_anim-menu-btn";
+@import 'base';
+/*! purgecss start ignore */
+@import 'custom-style';
+@import 'components';
+/*! purgecss end ignore */
 
-@import "components/2_flexi-header";
-@import "components/1_card-v5";
-@import "components/1_overscroll-section";
-@import "components/1_feature-v4";
-@import "components/1_feature-v7";
-@import "components/1_video-feature";
-@import "components/1_feature-v9";
-@import "components/1_accordion";
-@import "components/2_accordion-v2";
-@import "components/link.scss";
-@import "components/1_card-v8";
-@import "components/2_feature-v8";
-@import "components/1_scrolling-animations";
-@import "components/2_diagonal-animated-divider";
-@import "components/card-product.scss";
-@import "components/1_vertical-timeline";
-@import "components/1_rating.scss";
-@import "components/2_product-card-v2.scss";
-@import "components/3_products-gallery-v2.scss";
-@import "components/1_sticky-hero";
-@import "components/1_main-footer-v4";
-@import "components/_2_product-v3";
 
-@import "components/1_image-magnifier";
-@import "components/1_tabs";
-@import "components/2_slideshow";
-@import "components/3_thumbnail-slideshow";
-@import "components/4_product-v2";
+// 👇 optional -> set custom breakpoints
+// $breakpoints: (
+//   xs: 32rem,
+//   sm: 48rem,
+//   md: 64rem,
+//   lg: 80rem,
+//   xl: 90rem
+// );
 
-body {
-	background-color: #fafafa !important;
-	color: var(--color-primary-darker, hsl(240, 4%, 20%));
-}
 
-// .articles {
-//   position: relative;
-//   z-index: 1;
-// }
 
 .ikonice {
 	width: 24px;
@@ -269,12 +237,7 @@ body {
 	margin-top: calc(-1 * var(--feature-media-offset));
 }
 
-body {
-	background-color: #c3fcf2;
-}
-
 // animacija
-
 .vert-move {
 	-webkit-animation: action 1s infinite alternate;
 	animation: action 1s infinite alternate;

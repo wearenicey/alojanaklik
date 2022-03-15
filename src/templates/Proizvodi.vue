@@ -2,8 +2,8 @@
 	<Layout>
 		<div class="bg-white">
 			<section class="product-v3 padding-y-xxl js-product-v3 bg-white">
-				<div class="container max-width-adaptive-xl">
-					<div class="grid gap-xl">
+				<div class="container max-width-adaptive-lg">
+					<div class="grid gap-lg">
 						<div class="col-6@md col-6@lg">
 							<div class="flex flex-column gap-sm">
 								<figure class="hide-on-mobile-image" v-for="(file, index) in $page.event.image" :key="file.id">
