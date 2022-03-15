@@ -21,7 +21,7 @@
 									<h1>{{ $page.event.title }}</h1>
 								</div>
 								<div class="margin-top-sm margin-bottom-lg">
-									<p class="text-lg color-accent font-primary text-normal">{{ $page.event.cena }} RSD</p>
+									<p class="text-lg color-accent-dark font-primary text-normal">{{ $page.event.cena }} RSD</p>
 								</div>
 
 								<div class="grid margin-bottom-lg gap-xxs">

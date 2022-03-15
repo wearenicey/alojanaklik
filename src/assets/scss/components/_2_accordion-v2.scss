@@ -13,12 +13,12 @@ Usage: codyhouse.co/license
 
 .accordion-v2__item {
   background-color: var(--color-bg-light);
-  box-shadow: var(--inner-glow-top), var(--shadow-sm);
-  border-radius: var(--radius-md);
+  box-shadow: var(--inner-glow-top), var(--shadow-xs);
+  border-radius: var(--radius-lg);
   transition: 0.3s;
 }
 .accordion-v2__item:hover {
-  box-shadow: var(--inner-glow-top), var(--shadow-md);
+  box-shadow: var(--inner-glow-top), var(--shadow-sm);
 }
 
 .accordion-v2__header {
@@ -27,6 +27,7 @@ Usage: codyhouse.co/license
   align-items: center;
   justify-content: space-between;
   text-align: left;
+  border-radius: var(--radius-lg);
   cursor: pointer;
 }
 .accordion-v2__header .icon {
@@ -67,6 +68,8 @@ Usage: codyhouse.co/license
 
 .js .accordion-v2__panel {
   display: none;
+  border-bottom-left-radius: var(--radius-lg);
+  border-bottom-right-radius: var(--radius-lg);
   will-change: height;
   -webkit-transform: translateZ(0px);
           transform: translateZ(0px);
@@ -122,6 +125,6 @@ Usage: codyhouse.co/license
   transition: 0.3s;
 
   &:hover {
-    box-shadow: var(--shadow-md);
+    box-shadow: var(--shadow-sm);
   }
 }

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&display=swap");
 
 :root {
   // font family
@@ -11,7 +11,7 @@
 
   // line-height
   --body-line-height: 1.6;
-  --heading-line-height: 1.2;
+  --heading-line-height: 1.1;
 
   // capital letters - used in combo with the lhCrop mixin
   --font-primary-capital-letter: 1;
@@ -48,7 +48,6 @@
 body {
   font-family: var(--font-secondary);
   line-height: var(--body-line-height);
-  font-weight: 600;
 }
 
 h1,
