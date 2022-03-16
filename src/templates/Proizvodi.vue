@@ -15,7 +15,7 @@
 						<div class="col-6@md col-6@lg">
 							<div class="product-v3__panel">
 								<div class="margin-bottom-sm color-primary text-bold">
-									<p>{{ $page.event.categoryTitle }}</p>
+									<!-- <p>{{ $page.event.categoryTitle }}</p> -->
 								</div>
 								<div class="margin-y-sm">
 									<h1>{{ $page.event.title }}</h1>
@@ -25,19 +25,19 @@
 								</div>
 
 								<div class="grid margin-bottom-lg gap-xxs">
-									<div v-for="(category, index) in $page.event.nabrajanje" :key="category.id" class="flex items-center">
+									<!-- <div v-for="(category, index) in $page.event.nabrajanje" :key="category.id" class="flex items-center">
 										<g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
 										{{ category }}
-									</div>
+									</div> -->
 								</div>
 
-								<div class="flex flex-wrap gap-md js-product-v3__cta items-center ">
+								<div class="flex flex-wrap gap-md js-product-v3__cta items-center">
 									<a :href="$page.event.cta" class="btn btn--primary flex-grow justify-between btn--md">
 										Kupi {{ $page.event.ctaText }}
 										<span> <g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span>
 									</a>
 									<div>
-									<g-image class="margin-right-xs display@md" src="~/assets/img/logo-futer.png"></g-image>
+										<g-image class="margin-right-xs display@md" src="~/assets/img/logo-futer.png"></g-image>
 									</div>
 								</div>
 								<div class="flex flex-wrap gap-md padding-top-xl">
@@ -48,9 +48,9 @@
 									<g-image class="margin-right-xs" src="~/assets/img/islamicApproval.png"></g-image>
 								</div>
 								<div>
-									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion " data-animation="on" data-multi-items="on" data-version="v2">
+									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion" data-animation="on" data-multi-items="on" data-version="v2">
 										<li class="accordion-v2__item js-accordion__item b accordion-v2__item--is-open">
-											<button class="bg-contrast-lower color-primary reset accordion-v2__header padding-y-md padding-x-md js-tab-focus " type="button">
+											<button class="bg-contrast-lower color-primary reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
 												<span class="text-md">Karakteristike</span>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
@@ -271,8 +271,9 @@
         cta
         cena
 				opisDva
-        category
-				categoryTitle
+				category {
+      ime
+    }
         nabrajanje
         image{
           url

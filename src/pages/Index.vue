@@ -3,7 +3,7 @@
 		<section class="position-relative z-index-1 padding-y-xxl" style="background-color: #f9fafb">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
-					<div class="col-5@md">
+					<div class="col-6@md">
 						<div class="text-component">
 							<h1>Otkrijte posao kojim se možete ponositi</h1>
 							<p class="color-contrast-medium">
@@ -13,17 +13,24 @@
 
 						<div class="">
 							<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
-								<a href="" class="btn btn--primary flex-grow justify-between btn--md">
+								<a href="" class="btn btn--primary btn--md display@md flex-grow justify-between btn--md@lg">
 									Upoznajte se sa proizvodima
 
-									<span> <g-image class="margin-left-md flex flex-center" src="~/assets/img/strelica.svg"></g-image></span>
+									<span> <g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span>
+								</a>
+								<a href="" class="btn btn--primary hide@md flex-grow justify-between btn--md@lg">
+									Upoznajte se sa proizvodima
+
+									<span> <g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span>
 								</a>
 							</div>
 						</div>
 					</div>
 
-					<div class="col-7@md">
-						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-1.png" alt="Forever Living" quality="75" width="600" height="400" />
+					<div class="col-6@md">
+						<g-image class="position-absolute bottom-xxxl -translate-x-50% -translate-x-20%@md display@md translate" src="~/assets/img/znak.svg"></g-image>
+
+						<g-image class="block width-100%" :immediate="true" src="~/assets/img/slikaaa.png" alt="Forever Living" quality="75" />
 					</div>
 				</div>
 			</div>
@@ -62,7 +69,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-4@md">
+					<div class="col-4@md order-last">
 						<g-image class="block width-100% height-100% r" :immediate="true" src="~/assets/img/pocetna-3.png" alt="Forever Living" />
 					</div>
 					<div class="col-4@md">
@@ -114,139 +121,146 @@
 			</div>
 		</section>
 
-			<section class="position-relative z-index-1 ">
-			<div class="container max-width-adaptive-md">
-				<div class="grid gap-lg items-center">
+		<section class="position-relative z-index-1">
+			<div class="container max-width-adaptive-lg">
+				<div class="grid gap-lg items-center padding-top-xl padding-top-0@md">
 					<div class="col-6@md">
-						<div class="text-component color-quaternary-lighter white-text">
-							Briga o drugima Forever nudi priliku za posao u kome možete zaraditi koliko god želite, a da istovremeno budete u mogućnosti da postignete savršenu ravnotežu između poslovnog i privatnog života kojoj svi teže!
+						<div class="text-component color-accent black-text text-lg">
+							<span>Premijum proizvodi</span> Forever Living predstavlja najbolje u pogledu kvaliteta i efikasnosti. Forever proizvodi su napravljeni od prirodnih sastojaka i podržani su dugogodišnjim ispitivanjem.
 						</div>
 					</div>
 
 					<div class="col-6@md">
-						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-kartica-2.png" alt="flp klijenti" />
+						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-kartica-1.png" alt="flp klijenti" />
 					</div>
 				</div>
 			</div>
 		</section>
 		<section class="position-relative z-index-1">
-			<div class="container max-width-adaptive-md">
-				<div class="grid gap-lg items-center">
-					<div class="col-6@md">
-						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-kartica-2.png" alt="flp klijenti" />
-					</div>
-					<div class="col-6@md">
-						<div class="text-component color-quaternary-lighter white-text">
-							Briga o drugima Forever nudi priliku za posao u kome možete zaraditi koliko god želite, a da istovremeno budete u mogućnosti da postignete savršenu ravnotežu između poslovnog i privatnog života kojoj svi teže!
-						</div>
-					</div>
-
-					
-				</div>
-			</div>
-		</section>
-		<section class="position-relative z-index-1 ">
-			<div class="container max-width-adaptive-md">
-				<div class="grid gap-lg items-center">
-					<div class="col-6@md">
-						<div class="text-component color-quaternary-lighter white-text">
-							Briga o drugima Forever nudi priliku za posao u kome možete zaraditi koliko god želite, a da istovremeno budete u mogućnosti da postignete savršenu ravnotežu između poslovnog i privatnog života kojoj svi teže!
-						</div>
-					</div>
-
-					<div class="col-6@md">
-						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-kartica-2.png" alt="flp klijenti" />
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<section class="products-gallery-v2 padding-y-xl">
 			<div class="container max-width-adaptive-lg">
-				<div class="grid gap-lg">
-					<div class="col-4@lg">
-						<div class="text-component text-left@lg">
-							<h2 class="color-accent-dark font-secondary font-normal letter-spacing-sm">Forever Living Proizvodi</h2>
-							<p class="text-sm">Počnite danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</p>
+				<div class="grid gap-lg items-center">
+					<div class="col-6@md order-last">
+						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-kartica-2.png" alt="flp klijenti" />
+					</div>
+					<div class="col-6@md">
+						<div class="text-component color-secondary black-text text-lg">
+							<span>Zdravo okruženje</span> Forever Living je kompanija sa savešću, gde je na prvom mestu briga o planeti, ljudima i generacijama koje dolaze. Nastojimo da pozitivno utičemo na svet oko nas
 						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="position-relative z-index-1">
+			<div class="container max-width-adaptive-lg">
+				<div class="grid gap-lg items-center">
+					<div class="col-6@md">
+						<div class="text-component color-primary black-text text-lg">
+							<span>Briga o drugima</span> nudi priliku za posao u kome možete zaraditi koliko god želite, a da istovremeno budete u mogućnosti da postignete savršenu ravnotežu između poslovnog i privatnog života kojoj svi teže!
+						</div>
+					</div>
+
+					<div class="col-6@md">
+						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-kartica-3.png" alt="flp klijenti" />
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="products-gallery-v2 padding-y-xl" style="background-color: #264328">
+			<div class="container max-width-adaptive-lg">
+				<div class="grid gap-lg items-center">
+					<div class="col-9@lg">
+						<div class="text-component text-left@lg color-primary">
+							<p class="white-text-one text-lg"><strong>Forever Living proizvodi</strong> počnite danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</p>
+						</div>
+					</div>
+					<div class="col-3@lg">
 						<div class="text-component margin-top-md margin-top-md@md">
 							<g-link class="btn btn--primary margin-right-md@md margin-bottom-xs">Upoznajte se sa proizvodima </g-link>
 							<g-link to="/postanite-saradnik/" class="btn btn--subtle"> Saznaj više o Forever karijeri </g-link>
 						</div>
 					</div>
-
-					<div class="col-8@lg">
-						<div class="grid gap-md">
-							<div class="prod-card-v2 col-4@md">
-								<a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/aloja-vera-gel/" aria-label="Description of the link">
-									<figure>
-										<g-image src="~/assets/img/aloe-vera-gel.webp" alt="aloe vera gel" quality="75" />
-									</figure>
-								</a>
-
-								<div class="padding-sm text-center">
-									<p class="">
-										<a href="/proizvodi/aloja-vera-gel/" class="product-card-v2__title">Forever Aloe Vera Gel </a>
-									</p>
-								</div>
-							</div>
-							<div class="prod-card-v2 col-4@md">
-								<a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/pasta-za-zube/" aria-label="Description of the link">
-									<figure>
-										<g-image src="~/assets/img/pasta-za-zube.webp" alt="forever living pasta za zube" quality="75" />
-									</figure>
-								</a>
-
-								<div class="padding-sm text-center">
-									<p class="">
-										<a href="/proizvodi/pasta-za-zube/" class="product-card-v2__title">Pasta za zube</a>
-									</p>
-								</div>
-							</div>
-							<div class="prod-card-v2 col-4@md">
-								<a class="prod-card-v2__img-link radius-lg shadow-sm" href="/proizvodi/dezodorans/" aria-label="Description of the link">
-									<g-image src="~/assets/img/dezodorans.webp" alt="forever living dezodorans" quality="75" />
-								</a>
-
-								<div class="padding-sm text-center">
-									<p class="">
-										<a href="/proizvodi/dezodorans/" class="product-card-v2__title">Dezodorans</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
 				</div>
 			</div>
 		</section>
-		<section class="feature-v2 padding-y-xl">
+		<section style="background-color: #264328">
+			<div class="container max-width-adaptive-lg">
+				<div class="grid gap-md">
+					<a class="card-v11 col-4@md radius-lg" href="#0" style="background-image: url(../aloe-vera-gel.webp)" aria-label="Link description">
+						<div class="card-v11__box width-90%  border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center text-md">
+								<p class="text-sm color-white margin-bottom-xxs">Forever Aloe Vera Gel</p>
+							</div>
+						</div>
+					</a>
+					<a class="card-v11 col-4@md radius-lg" href="#0" style="background-image: url(../pasta-za-zube.webp)" aria-label="Link description">
+						<div class="card-v11__box width-90%  border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center text-md">
+								<p class="text-sm color-white margin-bottom-xxs">Pasta za zube</p>
+							</div>
+						</div>
+					</a>
+					<a class="card-v11 col-4@md radius-lg" href="#0" style="background-image: url(../dezodorans.webp)" aria-label="Link description">
+						<div class="card-v11__box width-90%  border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center text-md">
+								<p class="text-sm color-white margin-bottom-xxs">Dezodorans</p>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+		</section>
+
+		<section class="feature-v2 padding-y-xl" style="background-color: #264328">
 			<div class="container max-width-adaptive-sm">
 				<div class="grid gap-md">
 					<div class="text-center">
 						<div class="text-component margin-bottom-sm">
-							<h2 class="text-xxl font-secondary font font-normal color-accent-dark letter-spacing-sm">Aloe vera je lekovita biljka koju ljudi koriste hiljadama godina.</h2>
-							<p class="color-accent">
+							<h2 class="text-xxl font-secondary font font-normal color-white letter-spacing-sm">Aloe vera je lekovita biljka koju ljudi koriste hiljadama godina.</h2>
+							<p class="color-primary">
 								O njoj se treba brinuti kako bi gel aloje u njenom lišću ostao svež i moćan sa zdravim prednostima! Zato svake godine, Forever Living prati 50 miliona biljaka tokom njihovog životnog ciklusa, od sadnice do berbe. Koristi se
 								od lečenja opekotina do poboljšanja vašeg imuno sistema!
 							</p>
 						</div>
 						<div class="flex flex-wrap flex-center gap-sm">
-							<a class="btn btn--subtle" href="/proizvodi/">Saznaj više o Aloji</a>
+							<a class="btn btn--primary" href="/proizvodi/">Saznaj više o Aloji</a>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
-
-		<section class="sticky-hero sticky-hero--overlay-layer margin-bottom-xl js-sticky-hero">
-			<div class="sticky-hero__media" style="background-image: url('../pocetna-zadnja-sekcija.webp')" aria-hidden="true"></div>
-
-			<div class="sticky-hero__content">
-				<div class="container max-width-sm text-component text-left letter-spacing-sm line-height-lg">
-					<h2 class="text-xxl font-secondary font-medium color-contrast-lower">Inovativna rešenja za povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa.</h2>
+		<section style="background-image: url(../pozadina.png); background-size: contain; background-repeat: no-repeat">
+			<div class="container max-width-adaptive-md">
+				<div class="grid">
+					<div class="col">
+						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-zadnja-sekcija.png" alt="flp klijenti" />
+					</div>
 				</div>
 			</div>
 		</section>
+
+		<section>
+			<div class="container max-width-adaptive-sm">
+				<h2 class="text-xxxl font-secondary font font-normal color-black text-center letter-spacing-sm">
+					Inovativna rešenja za povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa
+				</h2>
+			</div>
+		</section>
+		<div class="container max-width-adaptive-lg padding-y-xl">
+			<div class=" radius-lg inner-glow shadow-xs padding-md padding-lg@md" style="background-color: #264328">
+				<div class="grid gap-md items-center">
+					<div class="col text-center">
+						<div class="text-component">
+							<h2 class="text-xl color-white">Banner Title</h2>
+							<p class="color-contrast-lower">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit ipsum quo nihil ipsam sapiente. Suscipit, rerum!</p>
+						</div>
+						<div class="flex padding-top-md justify-center@md">
+							<a href="#0" class="btn btn--primary">Purchase</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</Layout>
 </template>
 

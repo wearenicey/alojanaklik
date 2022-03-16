@@ -40,14 +40,26 @@ module.exports = {
             name: "ALOJA",
             typeName: "Proizvodi", //required - needs to match template name
             select: {}, //optional
-            links: [], //optional
+            links: [
+							{
+								fieldName: 'category',
+								typeName: 'Kategorija',
+								linkToFirst: false // optional
+						}
+						], //optional
           },
-          // {
-          //   name: "Parties",
-          //   typeName: "Parties", //required - needs to match template name
-          //   select: {}, //optional
-          //   links: [], //optional
-          // },
+          {
+            name: "category",
+            typeName: "Kategorija",
+						links: [
+							{
+								fieldName: 'ALOJA',
+								typeName: 'Proizvodi',
+								linkToFirst: false // optional
+						}
+						], //optional //required - needs to match template name
+           
+          },
         ],
       },
     },
@@ -88,7 +100,15 @@ module.exports = {
     Post: "/blog/:path",
     Tag: "/tag/:id",
 
-    Proizvodi: "/proizvodi/:category/:path",
+    Proizvodi: "/proizvodi/:path",
+		Kategorija: [
+			{
+				path: '/:slug',
+				componenent: '~/templates/Kategorija.vue',
+			},
+		],
+
+		
   },
 
   transformers: {
