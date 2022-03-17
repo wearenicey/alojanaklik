@@ -61,34 +61,12 @@
               <ul class="f-header__dropdown">
                 <li>
                   <g-link
-                    to="/jacanje-imuniteta/"
+                    to="/dodaci-ishrani/"
                     class="f-header__dropdown-link"
-                    >Jačanje imuniteta
+                    >Dodaci ishrani
                   </g-link>
                 </li>
-                <li>
-                  <g-link to="/ishrana/" class="f-header__dropdown-link"
-                    >Ishrana
-                  </g-link>
-                </li>
-                <li>
-                  <g-link to="/mrsavljenje/" class="f-header__dropdown-link">
-                    Mršavljenje
-                  </g-link>
-                </li>
-                <li>
-                  <g-link
-                    to="/nega-lica-i-tela/"
-                    class="f-header__dropdown-link"
-                  >
-                    Nega lica i tela
-                  </g-link>
-                </li>
-                <li>
-                  <g-link to="/licna-higijena/" class="f-header__dropdown-link">
-                    Lična higijena
-                  </g-link>
-                </li>
+             
               </ul>
             </li>
 
@@ -122,7 +100,7 @@
               <g-link to="/proizvodi/"> Proizvodi</g-link>
             </li>
             <li class="footer-v4__nav-item">
-              <g-link to="/jacanje-imuniteta/">Jačanje imuniteta</g-link>
+              <g-link to="/dodaci-ishrani/">Dodaci ishrani</g-link>
             </li>
             <li class="footer-v4__nav-item">
               <g-link to="/ishrana/">Ishrana</g-link>

@@ -14,8 +14,8 @@
 
 						<div class="col-6@md col-6@lg">
 							<div class="product-v3__panel">
-								<div class="margin-bottom-sm color-primary text-bold">
-									<!-- <p>{{ $page.event.categoryTitle }}</p> -->
+								<div class="margin-bottom-sm color-primary text-bold text-md">
+									<p>{{ $page.event.category[0].ime }}</p>
 								</div>
 								<div class="margin-y-sm">
 									<h1>{{ $page.event.title }}</h1>
@@ -25,10 +25,10 @@
 								</div>
 
 								<div class="grid margin-bottom-lg gap-xxs">
-									<!-- <div v-for="(category, index) in $page.event.nabrajanje" :key="category.id" class="flex items-center">
+									<div v-for="(category, index) in $page.event.nabrajanje" :key="category.id" class="flex items-center">
 										<g-image class="margin-right-xs" src="~/assets/img/check.svg"></g-image>
 										{{ category }}
-									</div> -->
+									</div>
 								</div>
 
 								<div class="flex flex-wrap gap-md js-product-v3__cta items-center">
@@ -210,8 +210,8 @@
 
 						<div class="col-7@md">
 							<div class="flex flex-wrap gap-sm items-center">
-								<div class="color-primary text-bold">
-									<p>{{ $page.event.categoryTitle }}</p>
+								<div class="color-primary text-bold text-md">
+									<p>{{ $page.event.category[0].ime }}</p>
 								</div>
 								<div class="">
 									<h2>{{ $page.event.title }}</h2>

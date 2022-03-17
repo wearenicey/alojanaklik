@@ -100,7 +100,7 @@ module.exports = {
     Post: "/blog/:path",
     Tag: "/tag/:id",
 
-    Proizvodi: "/proizvodi/:path",
+    Proizvodi: "/:kategorija/:path",
 		Kategorija: [
 			{
 				path: '/:slug',
