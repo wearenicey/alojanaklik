@@ -21,7 +21,7 @@
 				<div class="grid gap-md">
 					<div class="card col-4@md col-6" v-for="(category, index) in $page.category.aloja" :key="category.id">
 						<a class="text-decoration-none" :href="category.path">
-							<figure class="card__img padding-x-md@ padding-top-md@md padding-x-sm padding-top-sm">
+							<figure class="card__img padding-x-md@md padding-top-md@md padding-x-sm padding-top-sm">
 								<g-image class="radius-lg" :src="category.image[0].url" alt="Card preview img" />
 							</figure>
 
