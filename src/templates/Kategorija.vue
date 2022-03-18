@@ -1,7 +1,7 @@
 <template>
 	<Layout>
 		<section class=" bg-cover bg-center bg-no-repeat" v-bind:style="{ backgroundImage: 'url(' + $page.category.slikaKategorije[0].url + ')' }">
-			<div class="padding-top-xxl padding-bottom-xl">
+			<div class="padding-y-xl items-center">
 				<div class="container max-width-adaptive-lg">
 					<div class="text-component padding-top-sm">
 						<h1 class="color-white">{{ $page.category.ime }}</h1>

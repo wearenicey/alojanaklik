@@ -1,7 +1,7 @@
 <template>
 	<Layout>
 		<div class="bg-white">
-			<section class="product-v3 padding-y-xxl js-product-v3 bg-white">
+			<section class="product-v3 padding-y-lg js-product-v3 bg-white">
 				<div class="container max-width-adaptive-lg">
 					<div class="grid gap-lg">
 						<div class="col-6@md col-6@lg">

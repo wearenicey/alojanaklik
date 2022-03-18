@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-		<section class="position-relative z-index-1 padding-y-xxl" style="background-color: #f9fafb">
+		<section class="position-relative  padding-y-xxl" style="background-color: #f9fafb; z-index: -1;">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
@@ -98,7 +98,7 @@
 			</div>
 		</section>
 
-		<section class="position-relative z-index-1 padding-y-xl" style="background-color: #264328">
+		<section class="position-relative  padding-y-xl" style="background-color: #264328">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-5@md">
@@ -121,7 +121,7 @@
 			</div>
 		</section>
 
-		<section class="position-relative z-index-1">
+		<section class="position-relative ">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center padding-top-xl padding-top-0@md">
 					<div class="col-6@md">
@@ -136,7 +136,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="position-relative z-index-1">
+		<section class="position-relative ">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md order-last">
@@ -150,7 +150,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="position-relative z-index-1">
+		<section class="position-relative ">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
@@ -290,7 +290,7 @@ export default {
 	// pozivanje codyhouse javascript ui
 	mounted() {
 		let frontEnd = document.createElement("script");
-		frontEnd.setAttribute("src", "./main-header.js");
+		frontEnd.setAttribute("src", "../main-header.js");
 		frontEnd.setAttribute("id", "main-header-js");
 
 		document.body.appendChild(frontEnd);

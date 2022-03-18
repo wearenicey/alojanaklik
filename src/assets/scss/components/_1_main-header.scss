@@ -1,249 +1,779 @@
+@use '../base' as *;
+
 /* -------------------------------- 
 
-File#: _1_header
-Title: Main Header
-Descr: Accessible website navigation
+File#: _1_anim-menu-btn
+Title: Animated Menu Button
+Descr: A menu button w/ a morphing icon
 Usage: codyhouse.co/license
 
 -------------------------------- */
 
 :root {
-  --header-height: 50px;
+  --anim-menu-btn-size: 48px;
+  --anim-menu-btn-transition-duration: .2s;
+  
+  // 🍔 icon
+  --anim-menu-btn-icon-size: 32px;
+  --anim-menu-btn-icon-stroke: 2px;
+}
 
-  @include breakpoint(md) {
-    --header-height: 70px;
+.anim-menu-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: var(--anim-menu-btn-size);
+  height: var(--anim-menu-btn-size);
+}
+
+// icons
+.anim-menu-btn__icon {
+  position: relative;
+  display: block;
+  font-size: var(--anim-menu-btn-icon-size);
+  width: 1em;
+  height: var(--anim-menu-btn-icon-stroke);
+  color: inherit;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  transform: scale(1);
+  
+  &::before, &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: inherit;
+    border-radius: inherit;
   }
 }
 
-.header {
-  height: var(--header-height);
-  width: 100%;
+// menu to 'X' close
+.anim-menu-btn__icon--close {
+  background-size: 100% 100%;
+  will-change: transform, background-size;
+  transition-property: transform, background-size;
+  transition-duration: var(--anim-menu-btn-transition-duration, 0.2s);
+
+  .anim-menu-btn:active & {
+    transform: scale(0.9);
+  }
+
+  &::before, &::after {
+    will-change: inherit;
+    transition: inherit;
+  }
+
+  &::before { // line top
+    transform: translateY(-0.25em) rotate(0);
+  }
+
+  &::after { // line bottom
+    transform: translateY(0.25em) rotate(0);
+  }
+}
+
+.anim-menu-btn--state-b {
+  .anim-menu-btn__icon--close {
+    background-size: 0% 100%;
+
+    &::before {
+      transform: translateY(0) rotate(45deg);
+    }
+
+    &::after {
+      transform: translateY(0) rotate(-45deg);
+    }
+  }
+}
+
+// menu to arrow
+.anim-menu-btn__icon--arrow-left,
+.anim-menu-btn__icon--arrow-right,
+.anim-menu-btn__icon--arrow-up,
+.anim-menu-btn__icon--arrow-down {
+  border-radius: 50em;
+  will-change: transform;
+  transition-property: transform;
+  transition-duration: var(--anim-menu-btn-transition-duration, 0.2s);
+
+  .anim-menu-btn:active & {
+    transform: scale(0.9);
+  }
+
+  &::before, &::after {
+    transform-origin: calc(var(--anim-menu-btn-icon-stroke)/2) 50%;
+    will-change: transform, width;
+    transition-property: transform, width;
+    transition-duration: var(--anim-menu-btn-transition-duration, 0.2s);
+  }
+
+  &::before { // line top
+    transform: translateY(-0.25em) rotate(0);
+  }
+
+  &::after { // line bottom
+    transform: translateY(0.25em) rotate(0);
+  }
+}
+
+.anim-menu-btn__icon--arrow-right {
+  transform: rotate(180deg);
+
+  .anim-menu-btn:active & {
+    transform: rotate(180deg) scale(0.9);
+  }
+}
+
+.anim-menu-btn--state-b {
+  .anim-menu-btn__icon--arrow-left,
+  .anim-menu-btn__icon--arrow-right,
+  .anim-menu-btn__icon--arrow-up,
+  .anim-menu-btn__icon--arrow-down {
+    &::before, &::after {
+      width: 50%;
+    }
+
+    &::before {
+      transform: translateY(0) rotate(-45deg);
+    }
+
+    &::after {
+      transform: translateY(0) rotate(45deg);
+    }
+  }
+
+  &:active .anim-menu-btn__icon--arrow-up {
+    transform: rotate(90deg) scale(0.9);
+  }
+
+  .anim-menu-btn__icon--arrow-up {
+    transform: rotate(90deg);
+  }
+
+  &:active .anim-menu-btn__icon--arrow-down {
+    transform: rotate(-90deg) scale(0.9);
+  }
+
+  .anim-menu-btn__icon--arrow-down {
+    transform: rotate(-90deg);
+  }
+}
+
+@use '../base' as *;
+@use '_1_anim-menu-btn.scss' as *;
+@use '_2_flexi-header.scss' as *;
+@use '_1_sub-navigation.scss' as *;
+
+/* -------------------------------- 
+
+File#: _1_hiding-nav
+Title: Auto Hiding Navigation
+Descr: A Navigation container that auto-hides when the user scrolls down, and is revealed when they scrolls back up
+Usage: codyhouse.co/license
+
+-------------------------------- */
+
+.hide-nav {
+  --hide-nav-transition-duration: 0.3s;
+  position: sticky !important;
+  top: 0;
+  will-change: transform;
+  transition: transform var(--hide-nav-transition-duration), background-color var(--hide-nav-transition-duration);
+}
+
+.hide-nav--fixed {
+  background-color: transparent;
+}
+
+.hide-nav--has-bg {
   background-color: var(--color-bg);
-  z-index: var(--zindex-header);
 }
 
-.header--expanded {
-  // class added when navigation is visible - small devices only
+.hide-nav--off-canvas { // main header is off-canvas
+  // add off-canvas custom style (if any)
 }
 
-.header__container {
+@use '../base' as *;
+
+/* -------------------------------- 
+
+File#: _1_search-input
+Title: Search input
+Descr: Search input field with custom button
+Usage: codyhouse.co/license
+
+-------------------------------- */
+
+:root {
+  --search-input-btn-width: 2.2em;
+  --search-input-icon-size: 1em;
+  --search-input-shortcut-margin: 0.325em; /* gap between the shortcut badge and the input edges */
+}
+
+.search-input {
+  position: relative;
+}
+
+.search-input__input {
+  width: 100%;
   height: 100%;
+  
+  &::-webkit-search-decoration,
+  &::-webkit-search-cancel-button,
+  &::-webkit-search-results-button,
+  &::-webkit-search-results-decoration {
+    -webkit-appearance:none;
+  }
+
+  &::-ms-clear,
+  &::-ms-reveal {
+    display: none;
+    width: 0;
+    height: 0; 
+  }
+
+  .search-input--icon-right & {
+    padding-right: var(--search-input-btn-width);
+  }
+
+  .search-input--icon-left & {
+    padding-left: var(--search-input-btn-width);
+  }
+}
+
+.search-input__btn {
+  @include reset;
+  position: absolute;
+  top: 0;
+  right: 0;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: var(--search-input-btn-width);
+
+  &:active .icon {
+    transform: translateY(2px);
+  }
+
+  .icon {
+    display: block;
+    --size: var(--search-input-icon-size);
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--color-contrast-low); /* icon color */
+    transition: .2s;
+  }
+
+  .search-input--icon-left & {
+    left: 0;
+    right: auto;
+    pointer-events: none;
+  }
+}
+
+.search-input__btn:focus .icon,
+.search-input .search-input__input:focus + .search-input__btn .icon {
+  color: var(--color-primary); /* active icon color */
+}
+
+/* --shortcut */
+.search-input__shortcut {
+  position: absolute;
+  right: var(--search-input-shortcut-margin);
+  top: var(--search-input-shortcut-margin);
+  height: calc(100% - var(--search-input-shortcut-margin)*2);
+  display: flex;
+  align-items: center;
+
+  background-color: var(--color-bg);
+  border: 1px solid var(--color-contrast-lower);
+  border-radius: var(--radius-sm);
+
+  --space-unit: 1em;
+  padding: 0 var(--space-xxxs);
+
+  line-height: 1;
+  color: var(--color-contrast-medium);
+}
+
+.search-input:focus-within .search-input__shortcut {
+  display: none;
+}
+
+@use '../base' as *;
+
+/* --------------------------------
+
+File#: _1_sub-navigation
+Title: Sub Navigation
+Descr: Secondary navigation template
+Usage: codyhouse.co/license
+
+-------------------------------- */
+
+.subnav {}
+
+.subnav__nav {
+  position: relative;
+  display: flex;
+
+  &::after { // shadow overlay indicating scrolling
+    content: '';
+    width: 1em;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: linear-gradient(to right, alpha(var(--color-bg-dark), 0), alpha(var(--color-bg-dark), 1));
+    pointer-events: none;
+  }
+}
+
+.subnav__list {
+  display: flex;
+  overflow: auto;
+}
+
+.subnav__item {
+  display: inline-block; // fallback
+  flex-shrink: 0;
+}
+
+.subnav__link {
+  display: block;
+  font-size: var(--text-sm);
+  padding: 1.5625em;
+  text-decoration: none;
+  color: alpha(var(--color-contrast-high), 0.65);
+  border: 3px solid transparent; // border-width
+  border-right-width: 0;
+  border-left-width: 0;
+
+  transition: .2s;
+
+  &:hover {
+    color: var(--color-contrast-high);
+  }
+
+  &[aria-current="page"] {
+    border-bottom-color: var(--color-primary); // border color
+    color: var(--color-contrast-high);
+  }
+}
+
+// --collapsed
+.subnav:not(.subnav--collapsed) {
+  .subnav__control, .subnav__close-btn {
+    display: none; // hide buttons if nav = expanded
+  }
+}
+
+.subnav--collapsed {
+  display: inline-block;
+
+  .subnav__wrapper {
+    position: fixed;
+    display: block;
+    z-index: var(--z-index-overlay, 15); 
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: alpha(var(--color-black), 0.9);
+    visibility: hidden;
+    opacity: 0;
+  }
+
+  .subnav__wrapper--is-visible {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity .3s;
+
+    .subnav__nav {
+      transform: translateY(0);
+      transition: transform .3s;
+    }
+  }
+
+  .subnav__nav {
+    display: block;
+    background-color: var(--color-bg);
+    box-shadow: var(--shadow-md);
+    max-height: 100%;
+    overflow: auto;
+    transform: translateY(-1em);
+
+    &::after {
+      display: none;
+    }
+  }
+
+  .subnav__list {
+    flex-direction: column;
+    overflow: visible;
+    padding: 0 var(--space-md) var(--space-md);
+  }
+
+  .subnav__link {
+    border-width: 0;
+    font-size: var(--text-md);
+    padding: var(--space-xs) 0;
+
+    &[aria-current="page"] {
+      color: var(--color-primary);
+    }
+  }
+}
+
+.subnav__close-btn {
+  --size: 2em;
+  width: var(--size);
+  height: var(--size);
+
+  display: flex;
+  margin: var(--space-xs) var(--space-xs) 0 auto;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 50%;
+  background-color: var(--color-bg-light);
+  box-shadow: var(--inner-glow), var(--shadow-sm);
+
+  transition: .2s;
+
+  &:hover {
+    background-color: var(--color-bg-lighter);
+    box-shadow: var(--inner-glow), var(--shadow-md);
+  }
+  
+  .icon {
+    display: block;
+    color: var(--color-contrast-high);
+  }
+}
+
+// used in JS - detect when the subnav needs to switch from an expanded layout to a collapsed one
+[class*="subnav--expanded"]::before {
+  display: none;
+  content: 'collapsed';
+}
+
+@each $breakpoint, $value in $breakpoints {
+  @include breakpoint(#{$breakpoint}) {
+    .subnav--expanded\@#{$breakpoint}::before {
+      content: 'expanded';
+    }
+  }
+}
+
+@use '../base' as *;
+@use '_1_anim-menu-btn.scss' as *;
+@use '_1_search-input.scss' as *;
+
+/* -------------------------------- 
+
+File#: _2_flexi-header
+Title: Flexi Header
+Descr: Customizable header template
+Usage: codyhouse.co/license
+
+-------------------------------- */
+
+:root {
+  --f-header-height: 50px;
+  --f-header-logo-width: 104px;
+
+  @include breakpoint(md) {
+    --f-header-height: 70px;
+  }
+}
+
+.f-header {
+  height: var(--f-header-height);
+  width: 100%;
+  z-index: var(--z-index-header, 3); 
+
+  &::before { /* used in JS to detect menu style */
+    display: none;
+    content: 'mobile';
+  }
+}
+
+.f-header--expanded {
+  /* class added when navigation is visible - small devices only */
+}
+
+.f-header__mobile-content { /* logo + menu button on small devices */
+  position: relative;
+  display: flex;
+  height: 100%;
   justify-content: space-between;
   align-items: center;
+  z-index: 2;
 }
 
-// logo
-.header__logo {
-  position: relative;
-  z-index: 2;
+.f-header__logo {
+  display: block;
+  width: var(--f-header-logo-width);
   flex-shrink: 0;
+  text-decoration: none;
 
-  a, svg, img {
+  svg, img {
     display: block;
   }
 }
 
-// nav
-.header__nav {
+.f-header__nav-control { /* menu button */
+  --anim-menu-btn-size: 40px;
+  /* 🍔 icon */
+  --anim-menu-btn-icon-size: 28px;
+  --anim-menu-btn-icon-stroke: 2px;
+}
+
+.f-header__nav {
   position: absolute;
-  z-index: 1;
   top: 0;
   left: 0;
   width: 100%;
-  max-height: 100vh;
+  max-height: calc(100vh - var(--f-header-offset, 0px));
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  padding: 0 0 var(--space-md);
   background-color: var(--color-bg);
   box-shadow: var(--shadow-md);
-  overflow: auto;
-  overscroll-behavior: contain;
-  -webkit-overflow-scrolling: touch;
-  font-size: 1.25em; // controls the font-size of all elements (sm)
+  z-index: 1;
 
-  display: none;
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(-1em);
 
-  &::before { // top header bg + border
+  &::before { /* top header bg + border */
     content: '';
     display: block;
     position: sticky;
     top: 0;
-    height: var(--header-height);
-    background: inherit;
-    border-bottom: 1px solid var(--color-contrast-low);
+    height: var(--f-header-height);
+    background-color: inherit;
+    border-bottom: 1px solid var(--color-contrast-lower);
   }
 }
 
-.header__nav--is-visible {
-  display: block;
+.f-header__nav--is-visible {
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0);
+  transition: visibility 0s, opacity .3s, transform .3s;
 }
 
-.header__nav-inner {
-  padding: var(--space-sm) var(--component-padding) var(--component-padding);
+.f-header__nav-logo-wrapper {
+  display: none; /* hide logo nav on small devices */
 }
 
-.header__label { // menu label
-  font-size: var(--text-sm);
-  color: var(--color-contrast-medium);
-  margin-bottom: var(--space-sm);
+.f-header__item {
+  flex-shrink: 0;
+  border-bottom: 1px solid var(--color-contrast-lower);
 }
 
-.header__item { // nav list item
-  margin-bottom: var(--space-sm);
+.f-header__dropdown-icon {
+  --size: 16px;
+  flex-shrink: 0;
+  margin: 0 10px 0 auto;
+  display: none; /* hide on mobile if link */
+
+  .f-header__dropdown-control & {
+    display: block;
+  }
 }
 
-.header__link { // link within list item
-  color: var(--color-contrast-higher);
+.f-header__link,
+.f-header__dropdown-control,
+.f-header__dropdown-link,
+.f-header__btn,
+.f-header__form-control {
+  font-size: var(--text-md);
+}
+
+.f-header__link,
+.f-header__dropdown-control,
+.f-header__dropdown-link {
+  display: flex;
+  align-items: center;
+  color: var(--color-contrast-high);
   text-decoration: none;
+  padding: var(--space-xs) 0;
 
-  &:hover, &[aria-current] { // style of :hover + selected link
+  &:hover,
+  &[aria-current="page"] {
     color: var(--color-primary);
   }
 }
 
-.header__item--divider { // element used to separate nav items
-  height: 1px;
+.f-header__btn,
+.f-header__form-control {
   width: 100%;
-  background-color: var(--color-contrast-low);
+  margin: var(--space-xs) 0;
 }
 
-// menu trigger
-.header__trigger { // menu button
-  position: relative;
-  z-index: 2;
+.f-header__dropdown-control {
+  width: 100%;
 }
 
-// menu icon
-.header__trigger-icon {
-  position: relative;
-  display: block;
-  height: 2px;
-  width: 1em;
-  background-color: currentColor;
-  margin-right: var(--space-xxs);
-  transition: 0.2s;
-
-  &::before, &::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: inherit;
-    height: inherit;
-    background-color: currentColor;
-    transition: 0.2s;
-  }
-
-  &::before {
-    transform: translateY(-5px);
-  }
-
-  &::after {
-    transform: translateY(5px);
-  }
+.f-header__dropdown { /* sub navigation */
+  padding-left: var(--space-md); /* offset sub nav */
 }
 
-.header__trigger[aria-expanded="true"] .header__trigger-icon {
-  background-color: transparent;
-
-  &::before {
-    transform: rotate(45deg);
+.f-header__dropdown-control {
+  + .f-header__dropdown {
+    display: none;
   }
 
-  &::after {
-    transform: rotate(-45deg);
+  &[aria-expanded="true"] + .f-header__dropdown {
+    display: block;
   }
 }
 
 @include breakpoint(md) {
-  .header__nav {
-    // reset
+  .f-header::before {
+    content: 'desktop';
+  }
+
+  .f-header__mobile-content {
+    display: none; /* hide logo + menu (mobile content) */
+  }
+
+  .f-header__nav {
+    /* reset */
     position: static;
+    padding: 0;
     background-color: transparent;
-    width: auto;
-    max-height: none;
     box-shadow: none;
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+    transition: none;
+    max-height: none;
     overflow: visible;
     overscroll-behavior: auto;
-    display: block;
+    height: var(--f-header-height);
 
-    font-size: 0.875em; // controls the font-size of all elements (md)
-
-    &::before {
+    &::before { /* reset */
       display: none;
     }
   }
 
-  .header__nav-inner {
-    padding: 0; // reset
+  .f-header__nav-logo-wrapper {
+    display: flex;
   }
 
-  .header__label { // hide label
-    @include srHide;
-  }
-
-  .header__list {
+  .f-header__nav-grid,
+  .f-header__list {
     display: flex;
     align-items: center;
   }
 
-  .header__item {
-    display: inline-block; // flex fallback
-    margin-bottom: 0;
-    margin-left: var(--space-md);
+  .f-header__nav-grid {
+    height: 100%;
   }
 
-  .header__item--divider {
-    height: 1em;
-    width: 1px;
+  .f-header__item {
+    position: relative;
+    border-bottom: none;
+    margin-right: var(--space-xs); /* margin between nav items */
+
+    &:last-child {
+      margin-right: 0;
+    }
   }
 
-  .header__trigger {
-    display: none;
+  .f-header__dropdown-icon {
+    --size: 12px;
+    display: block;
+    margin: 0 0 0 var(--space-xxxxs);
+  }
+
+  .f-header__link,
+  .f-header__dropdown-control,
+  .f-header__dropdown-link,
+  .f-header__btn,
+  .f-header__form-control {
+    font-size: 1.125rem;
+  }
+
+  .f-header__link {
+    padding: var(--space-xxxs) var(--space-xxs);
+  }
+
+  .f-header__link--icon {
+    span {
+      display: none; /* hide icon label */
+    }
+  }
+
+  .f-header__btn,
+  .f-header__form-control {
+    margin: 0; /* reset */
+  }
+
+  .f-header__dropdown {
+    position: absolute;
+    top: 100%;
+    width: 220px;
+    left: calc(50% - 110px);
+    padding: var(--space-xxxs) 0;
+    background-color: var(--color-bg-light);
+    border-radius: var(--radius-md);
+    box-shadow: var(--inner-glow), var(--shadow-md);
+    z-index: var(--z-index-popover, 5); 
+
+    /* hide */
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility .2s .2s, opacity .2s 0s;
+
+    .f-header__dropdown-control + & {
+      display: block; /* reset style */
+    }
+
+    .f-header__item:hover &,
+    .f-header__dropdown-control[aria-expanded="true"] + & {
+      visibility: visible;
+      opacity: 1;
+      transition: visibility .2s 0s, opacity .2s 0s;
+    }
+  }
+
+  .f-header__dropdown-link {
+    color: var(--color-contrast-high);
+    padding: var(--space-xs) var(--space-sm);
+    transition: .2s;
+
+    &:hover {
+      background-color: alpha(var(--color-contrast-higher), 0.075);
+      color: var(--color-contrast-higher);
+    }
   }
 }
 
-// no JS fallback
 html:not(.js) {
-  .header {
+  .f-header {
     height: auto;
-    padding-top: var(--space-xs);
   }
-
-  .header__trigger {
+  
+  .f-header__nav-control {
     display: none;
   }
 
-  .header__container {
-    display: block;
-  }
-
-  .header__nav {
+  .f-header__nav {
     position: static;
-    height: auto;
-    padding: 0;
+    padding: var(--space-xxs) 0 var(--space-md);
     box-shadow: none;
-    overflow: visible;
-    display: block;
-
-    &::before {
-      display: none;
-    }
-  }
-
-  .header__nav-inner { 
-    position: static;
-    height: auto;
-    padding: var(--space-md) 0;
-    overflow: visible;
-  }
-
-  @include breakpoint(md) {
-    .header {
-      height: var(--header-height);
-      padding: 0;
-    }
-
-    .header__container {
-      display: flex;
-    }
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
   }
 }
