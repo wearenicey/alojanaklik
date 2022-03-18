@@ -149,7 +149,7 @@
 			</section>
 
 			<div class="container max-width-adaptive-lg bg-white padding-bottom-xl">
-				<div class="grid gap-xl">
+				<div class="grid gap-xl items-center">
 					<div class="col-6@md col-4@lg">
 						<div class="flex flex-column gap-sm">
 							<g-image class="block width-100% radius-lg" :src="$page.event.utisciSlike[0].url" />
