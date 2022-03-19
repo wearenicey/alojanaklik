@@ -9,11 +9,11 @@
 						<h1>Get started</h1>
 						<p>
 							Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br />
-							Already have an account? <a href="#0">Login</a>
+							Already have an account?
 						</p>
 					</div>
 
-					<div class="grid gap-xs">
+					<div class="grid gap-xs margin-bottom-lg">
 						<div class="col-6@xs">
 							<button class="btn btn--subtle width-100%">
 								<svg aria-hidden="true" class="icon margin-right-xxxs" viewBox="0 0 16 16">
@@ -37,16 +37,13 @@
 						</div>
 					</div>
 
-					<p class="text-center margin-y-sm">or</p>
-
 					<div class="margin-bottom-sm">
-						<div class="grid gap-xs">
-							<div class="col-12">
-								<!-- <label class="form-label margin-bottom-xxxs" for="input-first-name">Kako vam mozemo pomoci?</label> -->
-
+						<div class="grid gap-md">
+							<div>
+								<label class="form-label margin-bottom-xxs" for="textarea">Šta bi ste hteli da nas pitate ili nam kažete?</label>
 								<div class="select">
-									<select class="select__input btn btn--subtle"  name="role[]" id="select-this" required>
-										<option value="">Kako vam mozemo pomoci?</option>
+									<select class="select__input btn radius-0 shadow-none border" name="role[]" id="select-this" required>
+										<option value="" disabled selected hidden>Izaberite</option>
 										<option value="Želimo da saznamo više o Aloja proizvodima">Želimo da saznamo više o Aloja proizvodima</option>
 										<option value="Podrška mom zdravlju">Podrška mom zdravlju</option>
 										<option value="Pogodnosti kupovine Aloe Vera proizvoda">Pogodnosti kupovine Aloe Vera proizvoda</option>
@@ -58,17 +55,17 @@
 							</div>
 							<div>
 								<label class="form-label margin-bottom-xxs" for="textarea">Šta bi ste hteli da nas pitate ili nam kažete?</label>
-								<textarea class="form-control width-100%" name="textarea" id="textarea" required></textarea>
+								<textarea cols="64" rows="6" class="form-control width-100%" name="textarea" id="textarea" required></textarea>
 								<!-- <p class="text-xs color-contrast-medium margin-top-xxs">Use helper text to provide additional information.</p> -->
 							</div>
-							<div class="col-6@md">
-								<label class="form-label margin-bottom-xxxs" for="input-first-name" >Kako se zovete? </label>
+							<div>
+								<label class="form-label margin-bottom-xxxs" for="input-first-name">Kako se zovete? </label>
 								<input class="form-control width-100%" type="text" name="input-first-name" id="input-first-name" required />
 							</div>
 
-							<div class="col-6@md">
+							<div>
 								<label class="form-label margin-bottom-xxxs" for="input-last-name">Broj telefona na koji Vas možemo dobiti? </label>
-								<input class="form-control width-100%" type="tel" id="phone" name="phone" placeholder="064444000"  required />
+								<input class="form-control width-100%" type="tel" id="phone" name="phone" placeholder="064444000" required />
 							</div>
 						</div>
 					</div>
@@ -78,16 +75,10 @@
 						<input class="form-control width-100%" type="email" name="input-email" id="input-email" placeholder="email@myemail.com" required />
 					</div>
 
-				
-
-			
-
 					<div class="margin-bottom-sm">
 						<button class="btn btn--primary btn--md width-100%" type="submit">Posalji</button>
 					</div>
-
 				</form>
-
 			</div>
 		</section>
 	</Layout>
