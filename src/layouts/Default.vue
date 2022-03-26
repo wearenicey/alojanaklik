@@ -55,7 +55,7 @@
 					</ul>
 
 					<ul class="f-header__list flex-grow flex-basis-0 justify-end@md">
-						<li class="f-header__item"><a href="/contact/" class="f-header__btn btn btn--primary">Kontakt</a></li>
+						<li class="f-header__item"><a href="/kontakt/" class="f-header__btn btn btn--primary">Kontakt</a></li>
 					</ul>
 				</div>
 			</div>

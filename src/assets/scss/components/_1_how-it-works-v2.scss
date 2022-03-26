@@ -1,0 +1,62 @@
+/* -------------------------------- 
+
+File#: _1_how-it-works-v2
+Title: How It Works v2
+Descr: A list of steps showing how a product works
+Usage: codyhouse.co/license
+
+-------------------------------- */
+:root {
+  --hiw-v2-gap: var(--space-lg);
+  --hiw-v2-arrow-size: 40px;
+}
+
+.hiw-v2__grid {
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--hiw-v2-gap)*2 + var(--hiw-v2-arrow-size));
+}
+
+.hiw-v2__item {
+  position: relative;
+}
+.hiw-v2__item:last-child .hiw-v2__arrow {
+  display: none;
+}
+
+.hiw-v2__arrow {
+  position: absolute;
+  top: calc(100% + var(--hiw-v2-gap));
+  left: calc(50% - var(--hiw-v2-arrow-size)/2);
+  width: var(--hiw-v2-arrow-size);
+  height: var(--hiw-v2-arrow-size);
+}
+
+@media (min-width: 64rem) {
+  /* layout swift */
+  :root {
+    --hiw-v2-gap: var(--space-md);
+  }
+
+  .hiw-v2__grid {
+    flex-direction: row;
+  }
+
+  .hiw-v2__item {
+    flex-grow: 1;
+    flex-basis: 0;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .hiw-v2__figure {
+    position: relative;
+  }
+
+  .hiw-v2__arrow {
+    top: calc(50% - var(--hiw-v2-arrow-size)/2);
+    left: calc(100% + var(--hiw-v2-gap));
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+  }
+}
