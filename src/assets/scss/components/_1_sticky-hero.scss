@@ -1,9 +1,8 @@
-/* -------------------------------- 
+/* --------------------------------
 
 File#: _1_sticky-hero
 Title: Sticky Hero
 Descr: A sticky hero section that reveals its content on scroll
-Usage: codyhouse.co/license
 
 -------------------------------- */
 .sticky-hero {
@@ -43,7 +42,7 @@ Usage: codyhouse.co/license
 }
 
 .sticky-hero--media-is-fixed.sticky-hero--overlay-layer .sticky-hero__media::after {
-  opacity: 0.65;
+  opacity: 0.75;
 }
 
 .sticky-hero--media-is-fixed.sticky-hero--scale .sticky-hero__media {

@@ -244,8 +244,8 @@
 			<div class="sticky-hero__media" style="background-image: url(../postanite-saradnik-2.jpg)" aria-hidden="true"></div>
 
 			<div class="sticky-hero__content">
-				<div class="container max-width-sm text-component">
-					<h3 class="h1">Stvorimo tvoj izuzetan poslovni kutak uz Forever Living</h3>
+				<div class="container max-width-md text-component text-center">
+					<h3 class="text-xxxxl color-primary-dark">Stvorimo tvoj izuzetan poslovni kutak uz Forever Living</h3>
 				</div>
 			</div>
 		</section>
@@ -276,12 +276,17 @@ export default {
 		scrolling.setAttribute("src", "../scrolling-animations.js");
 		scrolling.setAttribute("id", "scrolling-animations");
 
+		let stickyHero = document.createElement("script");
+		scrolling.setAttribute("src", "../sticky.js");
+		scrolling.setAttribute("id", "stickyHero");
+
 		document.body.appendChild(frontEnd);
 		document.body.appendChild(scrolling);
 	},
 	destroyed() {
 		document.getElementById("main-header-js").remove();
 		document.getElementById("scrolling-animations").remove();
+		document.getElementById("stickyHero").remove();
 
 		// remove the JS code once the component has been destroyed
 	},
