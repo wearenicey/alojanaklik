@@ -27,7 +27,10 @@ Usage: codyhouse.co/license
   align-items: center;
   justify-content: space-between;
   text-align: left;
-  border-radius: var(--radius-lg);
+  border-top-left-radius: var(--radius-lg);
+  border-top-right-radius: var(--radius-lg);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
   cursor: pointer;
 }
 .accordion-v2__header .icon {
