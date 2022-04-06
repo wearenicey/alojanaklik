@@ -35,7 +35,7 @@
 
 					<ul class="f-header__list flex-grow flex-basis-0 justify-center@md">
 						<li class="f-header__item">
-							<g-link  to="/proizvodi/" class="f-header__link">
+							<g-link to="/proizvodi/" class="f-header__link">
 								<span>Proizvodi</span>
 								<svg class="f-header__dropdown-icon icon" aria-hidden="true" viewBox="0 0 12 12">
 									<path d="M9.943,4.269A.5.5,0,0,0,9.5,4h-7a.5.5,0,0,0-.41.787l3.5,5a.5.5,0,0,0,.82,0l3.5-5A.5.5,0,0,0,9.943,4.269Z" />
@@ -44,10 +44,11 @@
 
 							<ul class="f-header__dropdown">
 								<li><g-link to="/dodaci-ishrani/" class="f-header__dropdown-link">Dodaci ishrani</g-link></li>
-								<li><a href="#0" class="f-header__dropdown-link">Sub Nav Item Two</a></li>
-								<li><a href="#0" class="f-header__dropdown-link">Sub Nav Item Three Item Three</a></li>
-								<li><a href="#0" class="f-header__dropdown-link">Sub Nav Item Four</a></li>
-								<li><a href="#0" class="f-header__dropdown-link">Sub Nav Item Five</a></li>
+								<li><a href="/preparati-za-higijenu/" class="f-header__dropdown-link">Lična higijena</a></li>
+								<li><a href="/preparati-za-mrsavljenje/" class="f-header__dropdown-link">Mršavljenje</a></li>
+								<li><a href="/napici/" class="f-header__dropdown-link">Napici</a></li>
+								<li><a href="/preparati-za-negu-koze/" class="f-header__dropdown-link">Nega kože</a></li>
+								<li><a href="/pcelinji-proizvodi/" class="f-header__dropdown-link">Pčelinji proizvodi</a></li>
 							</ul>
 						</li>
 						<li class="f-header__item"><g-link to="/postanite-saradnik/" class="f-header__link">Postanite saradnik </g-link></li>
@@ -74,16 +75,19 @@
 							<g-link to="/dodaci-ishrani/">Dodaci ishrani</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
-							<g-link to="/ishrana/">Ishrana</g-link>
+							<g-link to="/preparati-za-higijenu/">Lična higijena</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
-							<g-link to="/mrsavljenje/"> Mršavljenje</g-link>
+							<g-link to="/preparati-za-mrsavljenje/">Mršavljenje</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
-							<g-link to="/nega-lica-i-tela/"> Nega lica i tela</g-link>
+							<g-link to="/napici/"> Napici</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
-							<g-link to="/licna-higijena/"> Lična higijena</g-link>
+							<g-link to="/preparati-za-negu-koze/">Nega kože</g-link>
+						</li>
+						<li class="footer-v4__nav-item">
+							<g-link to="/pcelinji-proizvodi/">Pčelinji proizvodi</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/postanite-saradnik/">Postanite saradnik</g-link>
