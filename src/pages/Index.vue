@@ -47,7 +47,7 @@
 			</div>
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-md items-center">
-					<div class="col-4@md">
+					<div class="col-3@md">
 						<div class="grid flex-column gap-lg flex-center">
 							<div class="col">
 								<div class="">
@@ -69,10 +69,10 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-4@md order-last">
-						<g-image class="block width-100% height-100% r" :immediate="true" src="~/assets/img/pocetna-3.png" alt="Forever Living" />
+					<div class="col-6@md order-last">
+						<g-image class="block width-100% height-100%" quality="100" :immediate="true" src="~/assets/img/pocetna-3.jpg" alt="Forever Living" />
 					</div>
-					<div class="col-4@md">
+					<div class="col-3@md">
 						<div class="grid flex-column gap-lg flex-center">
 							<div class="col">
 								<div class="">

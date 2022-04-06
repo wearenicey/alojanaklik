@@ -1,4 +1,4 @@
-/* --------------------------------
+/* -------------------------------- 
 
 File#: _2_flexi-header
 Title: Flexi Header
@@ -6,27 +6,33 @@ Descr: Customizable header template
 Usage: codyhouse.co/license
 
 -------------------------------- */
-
 :root {
-  --f-header-height: 60px;
-  --f-header-logo-width: 120px;
-
-  @include breakpoint(md) {
-    --f-header-height: 80px;
+  --f-header-height: 50px;
+  --f-header-logo-width: 104px;
+}
+@media (min-width: 64rem) {
+  :root {
+    --f-header-height: 70px;
   }
 }
 
 .f-header {
   height: var(--f-header-height);
   width: 100%;
-  z-index: var(--zindex-header);
+  z-index: var(--z-index-header, 3);
+}
+.f-header::before {
+  /* used in JS to detect menu style */
+  display: none;
+  content: "mobile";
 }
 
 .f-header--expanded {
-  // class added when navigation is visible - small devices only
+  /* class added when navigation is visible - small devices only */
 }
 
-.f-header__mobile-content { // logo + menu button on small devices
+.f-header__mobile-content {
+  /* logo + menu button on small devices */
   position: relative;
   display: flex;
   height: 100%;
@@ -37,17 +43,18 @@ Usage: codyhouse.co/license
 
 .f-header__logo {
   display: block;
+  width: var(--f-header-logo-width);
   flex-shrink: 0;
   text-decoration: none;
-
-  svg, img {
-    display: block;
-  }
+}
+.f-header__logo svg, .f-header__logo img {
+  display: block;
 }
 
-.f-header__nav-control { // menu button
+.f-header__nav-control {
+  /* menu button */
   --anim-menu-btn-size: 40px;
-  // 🍔 icon
+  /* 🍔 icon */
   --anim-menu-btn-icon-size: 28px;
   --anim-menu-btn-icon-stroke: 2px;
 }
@@ -60,37 +67,42 @@ Usage: codyhouse.co/license
   max-height: calc(100vh - var(--f-header-offset, 0px));
   overflow: auto;
   -webkit-overflow-scrolling: touch;
-  overscroll-behavior: contain;
+  -ms-scroll-chaining: none;
+      overscroll-behavior: contain;
   padding: 0 0 var(--space-md);
   background-color: var(--color-bg);
   box-shadow: var(--shadow-md);
-  font-size: var(--text-md); // edit font size of all nav elements
   z-index: 1;
-
   visibility: hidden;
   opacity: 0;
-  transform: translateY(-1em);
-
-  &::before { // top header bg + border
-    content: '';
-    display: block;
-    position: sticky;
-    top: 0;
-    height: var(--f-header-height);
-    background-color: inherit;
-    border-bottom: 1px solid var(--color-contrast-lower);
-  }
+  -webkit-transform: translateY(-1em);
+          transform: translateY(-1em);
+}
+.f-header__nav::before {
+  /* top header bg + border */
+  content: "";
+  display: block;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  height: var(--f-header-height);
+  background-color: inherit;
+  border-bottom: 1px solid var(--color-contrast-lower);
 }
 
 .f-header__nav--is-visible {
   visibility: visible;
   opacity: 1;
-  transform: translateY(0);
-  transition: visibility 0s, opacity .3s, transform .3s;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+  transition: visibility 0s, opacity 0.3s, -webkit-transform 0.3s;
+  transition: visibility 0s, opacity 0.3s, transform 0.3s;
+  transition: visibility 0s, opacity 0.3s, transform 0.3s, -webkit-transform 0.3s;
 }
 
 .f-header__nav-logo-wrapper {
-  display: none; // hide logo nav on small devices
+  display: none;
+  /* hide logo nav on small devices */
 }
 
 .f-header__item {
@@ -99,27 +111,39 @@ Usage: codyhouse.co/license
 }
 
 .f-header__dropdown-icon {
-  display: none; // hide dropdown arrow on smaller screens
+  --size: 16px;
+  flex-shrink: 0;
+  margin: 0 10px 0 auto;
+  display: none;
+  /* hide on mobile if link */
+}
+.f-header__dropdown-control .f-header__dropdown-icon {
+  display: block;
 }
 
 .f-header__link,
+.f-header__dropdown-control,
+.f-header__dropdown-link,
+.f-header__btn,
+.f-header__form-control {
+  font-size: var(--text-md);
+}
+
+.f-header__link,
+.f-header__dropdown-control,
 .f-header__dropdown-link {
-  display: block;
   display: flex;
-  align-items: center; // align icon with text
+  align-items: center;
   color: var(--color-contrast-high);
   text-decoration: none;
   padding: var(--space-xs) 0;
-
-
-  &:hover,
-  &[aria-current="page"] {
-    color: var(--color-primary);
-  }
-
-  .icon {
-    flex-shrink: 0;
-  }
+}
+.f-header__link:hover, .f-header__link[aria-current=page],
+.f-header__dropdown-control:hover,
+.f-header__dropdown-control[aria-current=page],
+.f-header__dropdown-link:hover,
+.f-header__dropdown-link[aria-current=page] {
+  color: var(--color-primary);
 }
 
 .f-header__btn,
@@ -128,47 +152,64 @@ Usage: codyhouse.co/license
   margin: var(--space-xs) 0;
 }
 
-.f-header__dropdown { // sub navigation
-  padding-left: var(--space-md); // offset sub nav
+.f-header__dropdown-control {
+  width: 100%;
 }
 
-@include breakpoint(md) {
+.f-header__dropdown {
+  /* sub navigation */
+  padding-left: var(--space-md);
+  /* offset sub nav */
+}
+
+.f-header__dropdown-control + .f-header__dropdown {
+  display: none;
+}
+.f-header__dropdown-control[aria-expanded=true] + .f-header__dropdown {
+  display: block;
+}
+
+@media (min-width: 64rem) {
+  .f-header::before {
+    content: "desktop";
+  }
+
   .f-header__mobile-content {
-    display: none; // hide logo + menu (mobile content)
+    display: none;
+    /* hide logo + menu (mobile content) */
   }
 
   .f-header__nav {
-    // reset
+    /* reset */
     position: static;
     padding: 0;
     background-color: transparent;
     box-shadow: none;
     visibility: visible;
     opacity: 1;
-    transform: translateY(0);
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
     transition: none;
     max-height: none;
     overflow: visible;
-    overscroll-behavior: auto;
-
-    // new style
+    -ms-scroll-chaining: chained;
+        overscroll-behavior: auto;
     height: var(--f-header-height);
-    font-size: 0.875em; // edit font size of all nav elements
-
-    &::before { // reset
-      display: none;
-    }
+  }
+  .f-header__nav::before {
+    /* reset */
+    display: none;
   }
 
   .f-header__nav-logo-wrapper {
-    display: block; // fallback
     display: flex;
   }
 
   .f-header__nav-grid,
-  .f-header__list {
+.f-header__list {
     display: flex;
     align-items: center;
+    gap: 1rem;
   }
 
   .f-header__nav-grid {
@@ -176,96 +217,91 @@ Usage: codyhouse.co/license
   }
 
   .f-header__item {
-    display: inline-block; // fallback
     position: relative;
     border-bottom: none;
-    margin-right: var(--space-xs); // margin between nav items
-
-    &:last-child {
-      margin-right: 0;
-    }
+    margin-right: var(--space-xs);
+    /* margin between nav items */
+  }
+  .f-header__item:last-child {
+    margin-right: 0;
   }
 
   .f-header__dropdown-icon {
+    --size: 12px;
     display: block;
-    margin-left: var(--space-xxxxs);
-    width: 12px;
-    height: 12px;
-    flex-shrink: 0;
+    margin: 0 0 0 var(--space-xxxxs);
+  }
+
+  .f-header__link,
+.f-header__dropdown-control,
+.f-header__dropdown-link,
+.f-header__btn,
+.f-header__form-control {
+    font-size: 1.125rem;
   }
 
   .f-header__link {
     padding: var(--space-xxxs) var(--space-xxs);
   }
 
-  .f-header__link--icon {
-    span {
-      display: none;
-    }
+  .f-header__link--icon span {
+    display: none;
+    /* hide icon label */
   }
 
   .f-header__btn,
-  .f-header__form-control {
-    margin: 0; // reset
+.f-header__form-control {
+    margin: 0;
+    /* reset */
   }
 
   .f-header__dropdown {
-    font-size: 1rem;
     position: absolute;
     top: 100%;
-    width: 200px;
-    left: calc(50% - 100px);
+    width: 220px;
+    left: calc(50% - 110px);
     padding: var(--space-xxxs) 0;
-    background-color: var(--color-bg);
+    background-color: var(--color-bg-light);
     border-radius: var(--radius-md);
-    box-shadow: var(--shadow-md);
-    z-index: var(--zindex-popover);
-
-    // hide
+    box-shadow: var(--inner-glow), var(--shadow-md);
+    z-index: var(--z-index-popover, 5);
+    /* hide */
     visibility: hidden;
     opacity: 0;
-    transition: visibility .2s .2s, opacity .2s 0s;
-
-    .f-header__item:hover & {
-      visibility: visible;
-      opacity: 1;
-      transition: visibility .2s 0s, opacity .2s 0s;
-    }
+    transition: visibility 0.2s 0.2s, opacity 0.2s 0s;
+  }
+  .f-header__dropdown-control + .f-header__dropdown {
+    display: block;
+    /* reset style */
+  }
+  .f-header__item:hover .f-header__dropdown, .f-header__dropdown-control[aria-expanded=true] + .f-header__dropdown {
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0.2s 0s, opacity 0.2s 0s;
   }
 
   .f-header__dropdown-link {
     color: var(--color-contrast-high);
     padding: var(--space-xs) var(--space-sm);
-
-    &:hover {
-      background-color: var(--color-contrast-lower);
-    }
+    transition: 0.2s;
+  }
+  .f-header__dropdown-link:hover {
+    background-color: hsla(var(--color-contrast-higher-h), var(--color-contrast-higher-s), var(--color-contrast-higher-l), 0.075);
+    color: var(--color-contrast-higher);
   }
 }
-
-html:not(.js) {
-  .f-header {
-    height: auto;
-  }
-
-  .f-header__nav-control {
-    display: none;
-  }
-
-  .f-header__nav {
-    position: static;
-    padding: var(--space-xxs) 0 var(--space-md);
-    box-shadow: none;
-    visibility: visible;
-    opacity: 1;
-    transform: translateY(0);
-  }
+html:not(.js) .f-header {
+  height: auto;
 }
-
-.f-header__dropdown-link {
-  font-size: 16px;
-
-  @include breakpoint(md) {
-    font-size: 1rem;
-  }
+html:not(.js) .f-header__nav-control {
+  display: none;
+}
+html:not(.js) .f-header__nav {
+  position: static;
+  padding: var(--space-xxs) 0 var(--space-md);
+  box-shadow: none;
+  visibility: visible;
+  opacity: 1;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
 }
