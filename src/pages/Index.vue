@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-		<section class="position-relative  padding-y-xxl" style="background-color: #f9fafb; z-index: -1;">
+		<section class="position-relative padding-y-xxl" style="background-color: #f9fafb; z-index: 1">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
@@ -13,12 +13,12 @@
 
 						<div class="">
 							<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
-								<a href="" class="btn btn--primary btn--md display@md flex-grow justify-between btn--md@lg">
+								<a href="/proizvodi/" class="btn btn--primary btn--md display@md flex-grow justify-between btn--md@lg">
 									Upoznajte se sa proizvodima
 
 									<span> <g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span>
 								</a>
-								<a href="" class="btn btn--primary hide@md flex-grow justify-between btn--md@lg">
+								<a href="/proizvodi/" class="btn btn--primary hide@md flex-grow justify-between btn--md@lg">
 									Upoznajte se sa proizvodima
 
 									<span> <g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span>
@@ -98,7 +98,7 @@
 			</div>
 		</section>
 
-		<section class="position-relative  padding-y-xl" style="background-color: #264328">
+		<section class="position-relative padding-y-xl" style="background-color: #264328">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-5@md">
@@ -109,7 +109,7 @@
 
 						<div class="">
 							<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
-								<a href="/proizvodi/dodatak-ishrani/test-2/" class="flex flex-grow btn btn--primary">Kupi Forever fokus</a>
+								<a href="/proizvodi/" class="flex flex-grow btn btn--primary"> Upoznajte se sa proizvodima </a>
 							</div>
 						</div>
 					</div>
@@ -121,7 +121,7 @@
 			</div>
 		</section>
 
-		<section class="position-relative ">
+		<section class="position-relative">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center padding-top-xl padding-top-0@md">
 					<div class="col-6@md">
@@ -136,7 +136,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="position-relative ">
+		<section class="position-relative">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md order-last">
@@ -150,7 +150,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="position-relative ">
+		<section class="position-relative">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
@@ -166,7 +166,7 @@
 			</div>
 		</section>
 
-		<section class="products-gallery-v2 padding-bottom-xl padding-top-xxl bg-quaternary" >
+		<section class="products-gallery-v2 padding-bottom-xl padding-top-xxl bg-quaternary">
 			<div class="container max-width-adaptive-lg">
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
@@ -175,9 +175,8 @@
 						</div>
 					</div>
 					<div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj sve proizvode </g-link>
-													<g-link to="/postanite-saradnik/" class="btn btn--subtle btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs"> Saznaj više o Forever karijeri </g-link>
-
+						<g-link to="/proizvodi/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj sve proizvode </g-link>
+						<g-link to="/istorija-kompanije/" class="btn btn--subtle btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs hover-text"> Saznaj više o Forever karijeri </g-link>
 					</div>
 				</div>
 			</div>
@@ -238,23 +237,16 @@
 			</div>
 		</section>
 
-		<section>
-			<div class="container max-width-adaptive-sm">
-				<h2 class="text-xxxl font-secondary font font-normal color-black text-center letter-spacing-sm">
-					Inovativna rešenja za povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa
-				</h2>
-			</div>
-		</section>
 		<div class="container max-width-adaptive-lg padding-y-xl">
-			<div class=" radius-lg inner-glow shadow-xs padding-md padding-lg@md" style="background-color: #264328">
+			<div class="radius-lg inner-glow shadow-xs padding-md padding-lg@md" style="background-color: #264328">
 				<div class="grid gap-md items-center">
 					<div class="col text-center">
 						<div class="text-component">
-							<h2 class="text-xl color-white">Banner Title</h2>
-							<p class="color-contrast-lower">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit ipsum quo nihil ipsam sapiente. Suscipit, rerum!</p>
+							<h2 class="text-xl color-white">Inovativna rešenja</h2>
+							<p class="color-contrast-lower">Povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa. To je Forever Living</p>
 						</div>
 						<div class="flex padding-top-md justify-center@md">
-							<a href="#0" class="btn btn--primary">Purchase</a>
+							<a href="/kontakt/" class="btn btn--primary"> Kontaktirajte nas</a>
 						</div>
 					</div>
 				</div>
@@ -311,4 +303,7 @@ export default {
 </script>
 
 <style>
+.hover-text:hover {
+	color: white;
+}
 </style>

@@ -14,7 +14,7 @@
 						</div>
 					</div>
 					<div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj sve proizvode </g-link>
+						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
 					</div>
 				</div>
 			</div>
@@ -56,7 +56,7 @@
 						</div>
 					</div>
 					<div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj sve proizvode </g-link>
+						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
 					</div>
 				</div>
 			</div>
@@ -98,7 +98,7 @@
 						</div>
 					</div>
 					<div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj sve proizvode </g-link>
+						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
 					</div>
 				</div>
 			</div>
@@ -140,7 +140,7 @@
 						</div>
 					</div>
 					<div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj sve proizvode </g-link>
+						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
 					</div>
 				</div>
 			</div>
@@ -182,7 +182,7 @@
 						</div>
 					</div>
 					<div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj sve proizvode </g-link>
+						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
 					</div>
 				</div>
 			</div>
@@ -223,7 +223,7 @@
 						</div>
 					</div>
 					<div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj sve proizvode </g-link>
+						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
 					</div>
 				</div>
 			</div>
