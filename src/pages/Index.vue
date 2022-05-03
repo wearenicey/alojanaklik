@@ -184,24 +184,24 @@
 		<section class="bg-quaternary">
 			<div class="container max-width-adaptive-lg padding-bottom-xxl">
 				<div class="grid gap-md padding-bottom-md">
-					<a class="card-v11 col-4@md radius-lg" href="#0" style="background-image: url(../aloe-vera-gel.webp)" aria-label="Link description">
+					<a class="card-v11 col-4@md radius-lg" href="/napici/aloja-vera-gel/" style="background-image: url(../aloe-vera-gel.webp)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
 								<p class="text-md color-white">Forever Aloe Vera Gel</p>
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-4@md radius-lg display@md" href="#0" style="background-image: url(../pasta-za-zube.webp)" aria-label="Link description">
+					<a class="card-v11 col-4@md radius-lg display@md" href="/preparati-za-higijenu/pasta-za-zube/" style="background-image: url(../pasta-za-zube.webp)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
 								<p class="text-md color-white">Pasta za zube</p>
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-4@md radius-lg display@md" href="#0" style="background-image: url(../dezodorans.webp)" aria-label="Link description">
+					<a class="card-v11 col-4@md radius-lg display@md" href="/nega-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Dezodorans</p>
+								<p class="text-md color-white">Aloe First</p>
 							</div>
 						</div>
 					</a>
