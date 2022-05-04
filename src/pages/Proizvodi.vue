@@ -25,21 +25,21 @@
 					<a class="card-v11 col-4@md radius-lg" href="/dodaci-ishrani/forever-daily/" style="background-image: url(../forever-daily.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Forever Daily</p>
+								<p class="color-white">Forever Daily</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/dodaci-ishrani/forever-fokus-aloja/" style="background-image: url(../forever-fokus.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Forever Fokus</p>
+								<p class="color-white">Forever Fokus</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/dodaci-ishrani/supergreens/" style="background-image: url(../supergreens.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Superbilje</p>
+								<p class="color-white">Superbilje</p>
 							</div>
 						</div>
 					</a>
@@ -67,21 +67,21 @@
 					<a class="card-v11 col-4@md radius-lg" href="/preparati-za-higijenu/pasta-za-zube/" style="background-image: url(../pasta-za-zube.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Pasta za zube</p>
+								<p class="color-white">Pasta za zube</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/preparati-za-higijenu/sampon/" style="background-image: url(../sampon.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Šampon za kosu</p>
+								<p class="color-white">Šampon za kosu</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/preparati-za-higijenu/nega-za-usne/" style="background-image: url(../nega-za-usne.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Nega za usne</p>
+								<p class="color-white">Nega za usne</p>
 							</div>
 						</div>
 					</a>
@@ -109,21 +109,21 @@
 					<a class="card-v11 col-4@md radius-lg" href="/mrsavljenje/forever-therm/" style="background-image: url(../forever-therm.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Forever Therm</p>
+								<p class="color-white">Forever Therm</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/mrsavljenje/protein-cokolada/" style="background-image: url(../protein-cokolada.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Protein Čokolada</p>
+								<p class="color-white">Protein Čokolada</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/mrsavljenje/protein-vanila/" style="background-image: url(../protein-vanila.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Protein Vanila</p>
+								<p class="color-white">Protein Vanila</p>
 							</div>
 						</div>
 					</a>
@@ -151,21 +151,21 @@
 					<a class="card-v11 col-4@md radius-lg" href="/napici/aloja-vera-gel/" style="background-image: url(../aloe-vera-gel.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Aloe vera gel</p>
+								<p class="color-white">Aloe vera gel</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/napici/aloe-mango/" style="background-image: url(../aloe-mango.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Aloe vera gel Mango</p>
+								<p class="color-white">Aloe vera gel Mango</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/napici/aloe-berry/" style="background-image: url(../aloe-berry.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Aloe vera gel Berry</p>
+								<p class="color-white">Aloe vera gel Berry</p>
 							</div>
 						</div>
 					</a>
@@ -193,21 +193,21 @@
 					<a class="card-v11 col-4@md radius-lg" href="/nega-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Aloe First</p>
+								<p class="color-white">Aloe First</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/nega-koze/aloe-gelly/" style="background-image: url(../aloe-gelly.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Aloe Gelly</p>
+								<p class="color-white">Aloe Gelly</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/nega-koze/aloe-heat/" style="background-image: url(../aloe-heat.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Aloe vera Heat</p>
+								<p class="color-white">Aloe vera Heat</p>
 							</div>
 						</div>
 					</a>
