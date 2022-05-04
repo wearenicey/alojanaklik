@@ -170,11 +170,11 @@
 								</div>
 							</div>
 							<div class="">
-								<h2>{{ $page.event.utisciText }}</h2>
+								<h2 class="font-light font-secondary">{{ $page.event.utisciText }}</h2>
 								<p class="text-bold color-black line margin-top-md margin-bottom-xxxs">
 									{{ $page.event.utisciIme }}
 								</p>
-								<p class="color-contrast-low">
+								<p class="color-contrast-medium">
 									{{ $page.event.utisciZanimajnje }}
 								</p>
 							</div>
