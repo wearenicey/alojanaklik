@@ -182,7 +182,7 @@
 						</div>
 					</div>
 					<div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/nega-koze/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
+						<g-link to="/preparati-za-negu-koze/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
 					</div>
 				</div>
 			</div>
@@ -190,21 +190,21 @@
 		<section>
 			<div class="container max-width-adaptive-lg padding-bottom-xxl">
 				<div class="grid gap-md">
-					<a class="card-v11 col-4@md radius-lg" href="/nega-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
+					<a class="card-v11 col-4@md radius-lg" href="/preparati-za-negu-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
 								<p class="color-white">Aloe First</p>
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-4@md radius-lg display@md" href="/nega-koze/aloe-gelly/" style="background-image: url(../aloe-gelly.jpg)" aria-label="Link description">
+					<a class="card-v11 col-4@md radius-lg display@md" href="/preparati-za-negu-koze/aloe-gelly/" style="background-image: url(../aloe-gelly.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
 								<p class="color-white">Aloe Gelly</p>
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-4@md radius-lg display@md" href="/nega-koze/aloe-heat/" style="background-image: url(../aloe-heat.jpg)" aria-label="Link description">
+					<a class="card-v11 col-4@md radius-lg display@md" href="/preparati-za-negu-koze/aloe-heat/" style="background-image: url(../aloe-heat.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
 								<p class="color-white">Aloe vera Heat</p>

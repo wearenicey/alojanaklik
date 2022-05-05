@@ -198,7 +198,7 @@
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-4@md radius-lg display@md" href="/nega-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
+					<a class="card-v11 col-4@md radius-lg display@md" href="/preparati-za-negu-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
 								<p class="text-md color-white">Aloe First</p>
