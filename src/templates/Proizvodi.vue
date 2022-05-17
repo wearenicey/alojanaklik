@@ -291,9 +291,7 @@ export default {
 		return {
 			title: this.$page.event.pageTitle,
 			titleTemplate: this.$page.event.pageTitle,
-			meta: [{ name: "description", content: this.$page.event.metaDesc }],
-			// link: [{ rel: "canonical", href: `https://www.alojanaklik.rs/proizvodi` }],
-			// etc...
+			meta: [{ key: "description", name: "description", content: this.$page.event.metaDesc }],
 		};
 	},
 	//CodyHose javascript UI

@@ -6,8 +6,7 @@
 
 module.exports = {
   siteName: "Forever Living Proizvodi | Aloja Vera",
-  siteDescription:
-    "Proizvodi od aloe vere koji pomažu u poboljšanju zdravlja i blagostanja. Besplatne informacije o proizvodima, ishrani i zdravlju. Kontaktirajte nas i ostvarite popuste..",
+ 
   siteUrl: "https://www.alojanaklik.rs/",
 
   plugins: [

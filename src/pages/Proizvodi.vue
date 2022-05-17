@@ -268,6 +268,7 @@ export default {
 				content: "Jačanje imuniteta | Proizvodi na bazi aloje vere ",
 			},
 			{
+				key: "description",
 				name: "description",
 				content: "Ojačajte svoj imuni sistem korišćenjem proizvoda na bazi aloje vere. Poboljšajte odbrambeni sistem svog tela za bolju zaštitu od bolesti. Naručite i platite pouzećem!",
 			},

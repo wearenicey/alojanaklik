@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-		<section class=" bg-cover bg-center bg-no-repeat" v-bind:style="{ backgroundImage: 'url(' + $page.category.slikaKategorije[0].url + ')' }">
+		<section class="bg-cover bg-center bg-no-repeat" v-bind:style="{ backgroundImage: 'url(' + $page.category.slikaKategorije[0].url + ')' }">
 			<div class="padding-y-xl items-center">
 				<div class="container max-width-adaptive-lg">
 					<div class="text-component padding-top-sm">
@@ -8,11 +8,10 @@
 						<p class="color-white max-width-adaptive-sm">
 							{{ $page.category.opisKategorije }}
 						</p>
-							<a href="#targetId"  class="btn btn-contrast js-smooth-scroll color-white border border-2 border-contrast-low border-opacity-50%" data-duration="300"
-								>Saznaj vise <span class="margin-left-sm "> <g-image class="flex items-center" src="~/assets/img/strelicaa.svg"></g-image></span
-							></a>
+						<a href="#targetId" class="btn btn-contrast js-smooth-scroll color-white border border-2 border-contrast-low border-opacity-50%" data-duration="300"
+							>Saznaj vise <span class="margin-left-sm"> <g-image class="flex items-center" src="~/assets/img/strelicaa.svg"></g-image></span
+						></a>
 					</div>
-				
 				</div>
 			</div>
 		</section>
@@ -77,24 +76,19 @@ export default {
 		return {
 			title: this.$page.category.pageTitle,
 			titleTemplate: this.$page.category.pageTitle,
-			meta: [{ name: "description", content: this.$page.category.metaDesc }],
-			// link: [{ rel: "canonical", href: `https://www.alojanaklik.rs/proizvodi` }],
-			// etc...
+			meta: [{ key: "description", name: "description", content: this.$page.category.metaDesc }],
 		};
 	},
-		mounted() {
+	mounted() {
 		let frontEnd = document.createElement("script");
 		frontEnd.setAttribute("src", "../../../main-header.js");
 		frontEnd.setAttribute("id", "main-header-js");
 		// 👈 load the JS code once the component is mounted
-		
-		
+
 		document.body.appendChild(frontEnd);
-		
 	},
 	destroyed() {
 		document.getElementById("main-header-js").remove();
-	
 	},
 };
 </script>
