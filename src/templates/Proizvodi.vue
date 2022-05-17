@@ -48,7 +48,7 @@
 									<g-image class="margin-right-xs" src="~/assets/img/islamicApproval.png"></g-image>
 								</div>
 								<div>
-									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion" data-animation="on" data-multi-items="on" data-version="v2">
+									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion" data-animation="on" data-multi-items="off" data-version="v2">
 										<li class="accordion-v2__item js-accordion__item b accordion-v2__item--is-open">
 											<button class="bg-contrast-lower color-primary reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
 												<span class="text-md">Karakteristike</span>
@@ -148,7 +148,7 @@
 				</div>
 			</section>
 
-			<div class="container max-width-adaptive-lg bg-white padding-bottom-xl">
+			<div class="container max-width-adaptive-lg bg-white padding-y-xl">
 				<div class="grid gap-xl items-center">
 					<div class="col-6@md col-4@lg">
 						<div class="flex flex-column gap-sm">
@@ -170,11 +170,11 @@
 								</div>
 							</div>
 							<div class="">
-								<h2>{{ $page.event.utisciText }}</h2>
+								<h2 class="font-light font-secondary">{{ $page.event.utisciText }}</h2>
 								<p class="text-bold color-black line margin-top-md margin-bottom-xxxs">
 									{{ $page.event.utisciIme }}
 								</p>
-								<p class="color-contrast-low">
+								<p class="color-contrast-medium">
 									{{ $page.event.utisciZanimajnje }}
 								</p>
 							</div>
