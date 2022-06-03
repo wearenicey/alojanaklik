@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<header class="f-header js-f-header bg hide-nav js-hide-nav js-hide-nav--main" data-nav-target-class="f-header--expanded">
+		<header class="f-header js-f-header bg hide-nav js-hide-nav js-hide-nav--main bg-white" data-nav-target-class="f-header--expanded">
 			<div class="f-header__mobile-content container max-width-lg">
 				<a href="/" class="f-header__logo">
 					<svg width="147" height="40" viewBox="0 0 147 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -18,7 +18,7 @@
 				<div class="f-header__nav-grid justify-between@md container max-width-lg">
 					<div class="f-header__nav-logo-wrapper flex-grow flex-basis-0">
 						<a href="/" class="f-header__logo">
-							<img src="/logo.svg" height="" alt="">
+							<img src="/aloja-na-klik-logo.png" height="" alt="Aloja na klik">
 						</a>
 					</div>
 

@@ -53,26 +53,19 @@
       image_caption
       excerpt
       imageTwo {
-        
-      path     
-      alt
-    
+        path
+        alt
       }
       content
       humanTime : created(format:"DD MMMM YYYY")
-      datetime : created(format:"ddd MMM DD YYYY hh:mm:ss zZ")
-      
+      datetime : created(format:"ddd MMM DD YYYY hh:mm:ss")
+
       timeToRead
       tags {
         id
         title
       }
-    
     }
-
-   
-
-    
   }
 </page-query>
 

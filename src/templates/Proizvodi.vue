@@ -50,7 +50,7 @@
 								<div>
 									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion" data-animation="on" data-multi-items="off" data-version="v2">
 										<li class="accordion-v2__item js-accordion__item b accordion-v2__item--is-open">
-											<button class="bg-contrast-lower color-primary reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
+											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
 												<span class="text-md">Karakteristike</span>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
@@ -61,13 +61,13 @@
 												</svg>
 											</button>
 
-											<div class="accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel bg-contrast-lower">
-												<div class="text-component line-height-md color-contrast-medium text-space-y-md" v-html="$page.event.karakteristike"></div>
+											<div class="accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel bg-quaternary-light">
+												<div class="text-component line-height-md color-contrast-low text-space-y-md" v-html="$page.event.karakteristike"></div>
 											</div>
 										</li>
 
 										<li class="accordion-v2__item js-accordion__item">
-											<button class="bg-contrast-lower color-primary reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
+											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
 												<span class="text-md">Namena</span>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
@@ -78,13 +78,13 @@
 												</svg>
 											</button>
 
-											<div class="bg-contrast-lower accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel">
-												<div class="text-component line-height-md color-contrast-medium text-space-y-md" v-html="$page.event.namena"></div>
+											<div class="accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel bg-quaternary-light">
+												<div class="text-component line-height-md color-contrast-low text-space-y-md" v-html="$page.event.namena"></div>
 											</div>
 										</li>
 
 										<li class="accordion-v2__item js-accordion__item">
-											<button class="bg-contrast-lower color-primary reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
+											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
 												<span class="text-md">Sastojci</span>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
@@ -95,13 +95,13 @@
 												</svg>
 											</button>
 
-											<div class="bg-contrast-lower accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel">
-												<div class="text-component line-height-md color-contrast-medium text-space-y-md" v-html="$page.event.sastojci"></div>
+											<div class="accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel bg-quaternary-light">
+												<div class="text-component line-height-md color-contrast-low text-space-y-md" v-html="$page.event.sastojci"></div>
 											</div>
 										</li>
 
 										<li class="accordion-v2__item js-accordion__item">
-											<button class="bg-contrast-lower color-primary reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
+											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
 												<span class="text-md">Napomene</span>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
@@ -112,12 +112,12 @@
 												</svg>
 											</button>
 
-											<div class="bg-contrast-lower accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel">
-												<div class="text-component line-height-md color-contrast-medium text-space-y-md" v-html="$page.event.napomena"></div>
+											<div class="accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel bg-quaternary-light">
+												<div class="text-component line-height-md color-contrast-low text-space-y-md" v-html="$page.event.napomena"></div>
 											</div>
 										</li>
 										<li class="accordion-v2__item js-accordion__item">
-											<button class="bg-contrast-lower color-primary reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
+											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
 												<span class="text-md">Upotreba</span>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
@@ -128,8 +128,8 @@
 												</svg>
 											</button>
 
-											<div class="bg-contrast-lower accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel">
-												<div class="text-component line-height-md color-contrast-medium text-space-y-md" v-html="$page.event.upotreba"></div>
+											<div class="accordion-v2__panel padding-top-xxxs padding-x-md padding-bottom-md js-accordion__panel bg-quaternary-light">
+												<div class="text-component line-height-md color-contrast-low text-space-y-md" v-html="$page.event.upotreba"></div>
 											</div>
 										</li>
 									</ul>
@@ -183,7 +183,7 @@
 				</div>
 			</div>
 
-			<section class="position-relative z-index-1 padding-y-xl" style="background-color: #264328">
+			<section class="position-relative z-index-1 padding-y-xl bg-secondary">
 				<div class="container max-width-adaptive-lg">
 					<div class="grid gap-lg items-center">
 						<div class="col-5@md">
@@ -191,7 +191,7 @@
 
 							<div class="">
 								<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
-									<a :href="$page.event.cta" class="flex flex-grow btn btn--primary">Kupi {{ $page.event.ctaText }}</a>
+									<a :href="$page.event.cta" class="flex flex-grow btn btn--primary btn--md">Kupi {{ $page.event.ctaText }}</a>
 								</div>
 							</div>
 						</div>
@@ -202,7 +202,7 @@
 					</div>
 				</div>
 
-				<div class="container max-width-adaptive-lg padding-y-lg padding-x-md radius-lg margin-y-xxxl bg-white">
+				<div class="container max-width-adaptive-lg padding-y-lg padding-x-md radius-lg margin-y-xxl bg-white">
 					<div class="grid gap-lg">
 						<div class="col-5@md">
 							<g-image class="block width-100% height-100% radius-lg" :src="$page.event.image[0].url" />
@@ -240,15 +240,14 @@
 	</Layout>
 </template>
 
-
 <page-query>
 
 	query Proizvodi ($id: ID!) {
 	event: proizvodi(id: $id) {
-		 id
+		id
         path
-         pageTitle
-				 title
+        pageTitle
+				title
         metaDesc
 				cta
 				ctaText
@@ -272,15 +271,14 @@
         cena
 				opisDva
 				category {
-      ime
+      	ime
     }
         nabrajanje
-        image{
+        image {
           url
-          
         }
 
-	}
+		}
 	}
 		</page-query>
 
@@ -291,7 +289,7 @@ export default {
 		return {
 			title: this.$page.event.pageTitle,
 			titleTemplate: this.$page.event.pageTitle,
-			meta: [{ key: "description", name: "description", content: this.$page.event.metaDesc }],
+			meta: [{ key: "description", name: "description", content: this.$page.event.metaDesc }]
 		};
 	},
 	//CodyHose javascript UI
@@ -324,8 +322,7 @@ export default {
 		scroll() {
 			let element = document.getElementById("yourID");
 			element.scrollIntoView({ behavior: "smooth", block: "end" });
-		},
-	},
+		}
+	}
 };
 </script>
-		
