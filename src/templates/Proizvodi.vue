@@ -14,7 +14,7 @@
 
 						<div class="col-6@md col-6@lg">
 							<div class="product-v3__panel">
-								<div class="margin-bottom-sm color-primary text-bold text-md">
+								<div class="margin-bottom-sm color-contrast-low text-md">
 									<p>{{ $page.event.category[0].ime }}</p>
 								</div>
 								<div class="margin-y-sm">
