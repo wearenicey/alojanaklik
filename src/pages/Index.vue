@@ -17,7 +17,7 @@
 									Upoznajte se sa proizvodima
 									<span><g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span>
 								</a>
-								<a href="/proizvodi/" class="btn btn--primary hide@md flex-grow justify-between btn--md@lg">
+								<a href="/proizvodi/" class="btn btn--primary shadow-md hide@md flex-grow justify-between btn--md@lg">
 									Upoznajte se sa proizvodima
 
 									<span> <g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span>
@@ -45,11 +45,11 @@
 				</div>
 			</div>
 			<div class="container max-width-adaptive-lg">
-				<div class="grid gap-md items-center">
+				<div class="grid gap-lg items-center">
 					<div class="col-3@md">
 						<div class="grid flex-column gap-lg flex-center">
 							<div class="col">
-								<div class="">
+								<div class="text-center text-left@md">
 									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-01.svg"></g-image>
 									<div class="text-component">
 										<h4>Budi sebi šef</h4>
@@ -58,7 +58,7 @@
 								</div>
 							</div>
 							<div class="col">
-								<div class="">
+								<div class="text-center text-left@md">
 									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-02.svg"></g-image>
 									<div class="text-component">
 										<h4>Alati i obuke</h4>
@@ -74,7 +74,7 @@
 					<div class="col-3@md">
 						<div class="grid flex-column gap-lg flex-center">
 							<div class="col">
-								<div class="">
+								<div class="text-center text-left@md">
 									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-03.svg"></g-image>
 									<div class="text-component">
 										<h4>Putujte svetom</h4>
@@ -83,7 +83,7 @@
 								</div>
 							</div>
 							<div class="col">
-								<div class="">
+								<div class="text-center text-left@md">
 									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-04.svg"></g-image>
 									<div class="text-component">
 										<h4>Popusti na proizvode</h4>
@@ -174,8 +174,8 @@
 						</div>
 					</div>
 					<div class="padding-top-md padding-top-0@md text-center">
-						<g-link to="/proizvodi/" class="btn btn--primary margin-right-xs@md margin-bottom-sm">Pogledaj sve proizvode </g-link>
-						<g-link to="/istorija-kompanije/" class="btn btn--subtle hover-text"> Saznaj više o Forever karijeri </g-link>
+						<g-link to="/proizvodi/" class="btn btn--md btn--primary margin-right-xs@md margin-bottom-sm">Pogledaj sve proizvode </g-link>
+						<g-link to="/istorija-kompanije/" class="btn btn--md btn--subtle hover-text"> Saznaj više o Forever karijeri </g-link>
 					</div>
 				</div>
 			</div>
@@ -186,21 +186,21 @@
 					<a class="card-v11 col-4@md radius-lg" href="/napici/aloja-vera-gel/" style="background-image: url(../aloe-vera-gel.webp)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Forever Aloe Vera Gel</p>
+								<p class="color-white">Forever Aloe Vera Gel</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/preparati-za-higijenu/pasta-za-zube/" style="background-image: url(../pasta-za-zube.webp)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Pasta za zube</p>
+								<p class="color-white">Pasta za zube</p>
 							</div>
 						</div>
 					</a>
 					<a class="card-v11 col-4@md radius-lg display@md" href="/preparati-za-negu-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center text-md">
-								<p class="text-md color-white">Aloe First</p>
+								<p class="color-white">Aloe First</p>
 							</div>
 						</div>
 					</a>
@@ -220,7 +220,7 @@
 							</p>
 						</div>
 						<div class="flex flex-wrap flex-center gap-sm">
-							<a class="btn btn--primary" href="/proizvodi/">Saznaj više o Aloji</a>
+							<a class="btn btn--md btn--primary" href="/proizvodi/">Saznaj više o Aloji</a>
 						</div>
 					</div>
 				</div>
@@ -230,19 +230,19 @@
 			<div class="container max-width-adaptive-md">
 				<div class="grid">
 					<div class="col">
-						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/pocetna-zadnja-sekcija.png" alt="flp klijenti" />
+						<g-image class="block width-100%" :immediate="true" src="~/assets/img/pocetna-zadnja-sekcija.png" alt="flp klijenti" />
 					</div>
 				</div>
 			</div>
 		</section>
 
-		<div class="container max-width-adaptive-lg padding-y-xl">
+		<div class="container max-width-adaptive-md padding-y-xl">
 			<div class="radius-lg inner-glow shadow-xs padding-md padding-lg@md bg-secondary">
 				<div class="grid gap-md items-center">
 					<div class="col text-center">
 						<div class="text-component">
 							<h2 class="text-xl color-white">Inovativna rešenja</h2>
-							<p class="color-contrast-lower">Povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa. To je Forever Living</p>
+							<p class="color-bg-darker">Povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa. To je Forever Living</p>
 						</div>
 						<div class="flex padding-top-md justify-center@md">
 							<a href="/kontakt/" class="btn btn--primary"> Kontaktirajte nas</a>

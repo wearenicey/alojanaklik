@@ -14,7 +14,7 @@ Usage: codyhouse.co/license
 	--card-v11-btn-height: 50px; // arrow button height
 
 	@include breakpoint(md) {
-		--card-v11-height: 480px;
+		--card-v11-height: 420px;
 		--card-v11-btn-height: 70px;
 	}
 }
@@ -28,7 +28,7 @@ Usage: codyhouse.co/license
 
 	height: var(--card-v11-height);
 
-	background-color: var(--color-contrast-lower);
+	background-color: var(--color-primary);
 	background-size: cover;
 	background-repeat: no-repeat;
 
@@ -60,7 +60,7 @@ Usage: codyhouse.co/license
 	transform: translate(-50%, 0);
 	bottom: 5%;
 
-	background-color: #274529ab;
+	background-color: #274545ab;
 
 	color: var(--color-bg);
 	@include fontSmooth;

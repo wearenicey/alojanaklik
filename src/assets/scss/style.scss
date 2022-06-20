@@ -281,23 +281,30 @@
 .accordion-v2__panel {
 	font-weight: 600;
 	strong {
-		color: #2F3130 !important;
+		color: var(--color-contrast-higher) !important;
 	}
 }
 
 .black-text-one {
 	font-weight: 600;
 	strong {
-		color: #2F3130 !important;
+		color: var(--color-contrast-higher) !important;
 	}
 }
 
-@media (max-width: 920px) {
+.hide-on-mobile-image:nth-of-type(1n + 2) {
+	display: none;
+}
+.order-last {
+	order: 777;
+}
+
+@include breakpoint(md) {
 	.hide-on-mobile-image:nth-of-type(1n + 2) {
-		display: none;
+		display: block;
 	}
 	.order-last {
-		order: 999;
+		order: 1;
 	}
 }
 
@@ -328,7 +335,6 @@
 	}
 }
 
-
 .white-text-one {
 	// font-size: 24px;
 	// line-height: 32px;
@@ -357,19 +363,16 @@
 	}
 }
 @media (max-width: 1279px) {
-.translate {
-	--translate-x: -20%;
-	bottom: 20%;
-}
-
+	.translate {
+		--translate-x: -20%;
+		bottom: 20%;
+	}
 }
 
 .btn-contrast {
 	background: rgba(243, 244, 246, 0.12);
-
-
 }
 
 html {
-  scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
