@@ -1,31 +1,23 @@
 <template>
-  <Layout>
-    <div class="articles padding-top-xxl margin-bottom-xxl">
-      <div class="container max-width-adaptive-lg">
-        <div>
-          <transition-group class="projects" name="fade">
-            <CardItem
-              v-for="{ node } in loadedPosts"
-              :key="node.id"
-              :record="node"
-            />
-          </transition-group>
-        </div>
+	<Layout>
+		<div class="articles padding-top-xxl margin-bottom-xxl">
+			<div class="container max-width-adaptive-lg">
+				<div>
+					<transition-group class="projects" name="fade">
+						<CardItem v-for="{ node } in loadedPosts" :key="node.id" :record="node" />
+					</transition-group>
+				</div>
 
-        <div class="margin-y-lg text-center">
-          <button
-            class="btn btn--subtle"
-            v-if="showMoreEnabled"
-            @click="loadMore"
-          >
-            Prikazi vise
-          </button>
-        </div>
-      </div>
-    </div>
-  </Layout>
+				<div class="margin-y-lg text-center">
+					<button class="btn btn--subtle" v-if="showMoreEnabled" @click="loadMore">
+						Prikazi vise
+					</button>
+				</div>
+			</div>
+		</div>
+	</Layout>
 </template>
-<!--->GraphQl call to get all blog post with pagination <--->
+<!-- GraphQl call to get all blog post with pagination -->
 <page-query>
 query Posts ($page: Int) {
   entries: allPost (perPage: 5, page: $page) @paginate {
@@ -42,10 +34,8 @@ query Posts ($page: Int) {
       path
       image
       imageTwo {
-        
-      path     
-      alt
-    
+        path
+        alt
       }
       timeToRead
           featured
@@ -55,13 +45,9 @@ query Posts ($page: Int) {
           title
           path
         }
-     
       }
-        
     }
-
   }
-
 }
 </page-query>
 
@@ -71,55 +57,55 @@ import CardItem from "~/components/CardItem.vue";
 
 export default {
 	//call component
-  components: {
-    CardItem,
-  },
+	components: {
+		CardItem
+	},
 
-  data() {
-	//povratni novi objekti
-    return {
-      loadedPosts: [],
-      currentPage: 1,
-      showMoreEnabled: true,
-    };
-  },
+	data() {
+		//povratni novi objekti
+		return {
+			loadedPosts: [],
+			currentPage: 1,
+			showMoreEnabled: true
+		};
+	},
 
 	//poziva se sinhrono nakon kreiranja instance
-  created() {
-    this.loadedPosts.push(...this.$page.entries.edges);
-  },
-	
+	created() {
+		this.loadedPosts.push(...this.$page.entries.edges);
+	},
+
 	//pozivanje codyehouse scripti
-  mounted() {
-    let frontEnd = document.createElement("script");
-    frontEnd.setAttribute("src", "../main-header.js");
-    frontEnd.setAttribute("id", "main-header-js");
+	mounted() {
+		let frontEnd = document.createElement("script");
+		frontEnd.setAttribute("src", "../main-header.js");
+		frontEnd.setAttribute("id", "main-header-js");
 
-    document.body.appendChild(frontEnd);
-    // 👈 load the JS code once the component is mounted
-  },
-  destroyed() {
-    document.getElementById("main-header-js").remove();
+		document.body.appendChild(frontEnd);
+		// 👈 load the JS code once the component is mounted
+	},
+	destroyed() {
+		document.getElementById("main-header-js").remove();
 
-    // remove the JS code once the component has been destroyed
-  },
+		// remove the JS code once the component has been destroyed
+	},
 
-  methods: {
+	methods: {
 		// funkcija za ucitavanje load more posts
-    async loadMore() {
-      if (this.currentPage + 1 > this.$page.entries.pageInfo.totalPages) {
-        this.showMoreEnabled = false;
-      } else {
-        const { data } = await this.$fetch(`/blog/${this.currentPage + 1}`);
-        if (data.entries.edges.length) {
-          this.currentPage = data.entries.pageInfo.currentPage;
+		async loadMore() {
+			if (this.currentPage + 1 > this.$page.entries.pageInfo.totalPages) {
+				this.showMoreEnabled = false;
+			} else {
+				const { data } = await this.$fetch(`/blog/${this.currentPage + 1}`);
+				if (data.entries.edges.length) {
+					this.currentPage = data.entries.pageInfo.currentPage;
 
-          this.loadedPosts.push(...data.entries.edges);
-        } else {
-          this.showMoreEnabled = false;
-        }
-      }
-    },
-  },
+					this.loadedPosts.push(...data.entries.edges);
+				} else {
+					this.showMoreEnabled = false;
+				}
+			}
+		}
+	}
 };
 </script>
