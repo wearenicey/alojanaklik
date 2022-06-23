@@ -4,6 +4,7 @@
       <div class="container max-width-adaptive-lg">
         <div class="text-component text-center margin-bottom-xl">
           <h1>{{ $page.tag.title }}</h1>
+          <p>{{ $page.tag.tagsMeta }}</p>
         </div>
         <div class="grid gap-md">
           <div
@@ -58,7 +59,7 @@
   </Layout>
 </template>
 
-<!-->GraphQL upit za filtriranje po tagu bloga <-->
+<!-- GraphQL upit za filtriranje po tagu bloga <-->
 <page-query>
 query Tag ($id: ID!, $page: Int) {
   tag: tag (id: $id) {
@@ -76,6 +77,7 @@ query Tag ($id: ID!, $page: Int) {
             path
             excerpt
             image
+            tagsMeta
             tags {
               title
             }

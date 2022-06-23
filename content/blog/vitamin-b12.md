@@ -1,7 +1,6 @@
 ---
 title: Vitamin B12 i njegova uloga
-tags: aloe-vera
-category: Digital
+tags: Tag broj jedan
 excerpt: Da li ste osetili umor ili malaksalost duži vremenski period i za to ste pomislili da je posledica rada? Da li ste ikada proverili unos vitamina u organizam? Znate li značaj vitamina B12 za očuvanje zdravlja?
 created: 2021-10-16
 image: vitamin-b12-1.webp

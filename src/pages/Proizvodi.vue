@@ -1,11 +1,11 @@
 <template>
 	<Layout>
 		<section class="bg-secondary">
-			<div class="container max-width-adaptive-sm padding-top-xl">
-				<h1 class="text-xxxl color-white text-center letter-spacing-sm">Aloja proizvodi</h1>
+			<div class="container max-width-adaptive-lg padding-top-xl">
+				<h1 class="text-xxxl color-white text-center text-left@md letter-spacing-sm">Aloja proizvodi</h1>
 			</div>
 		</section>
-		<section class="products-gallery-v2 padding-bottom-lg padding-top-xxl bg-secondary">
+		<section class="products-gallery-v2 padding-bottom-lg padding-top-md bg-secondary">
 			<div class="container max-width-adaptive-lg">
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
@@ -46,7 +46,7 @@
 					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center text-md">
-								<p class="color-black">Pogledaj vise</p>
+								<p class="color-black">Više proizvoda</p>
 							</div>
 						</div>
 					</a>
@@ -94,7 +94,7 @@
 					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center text-md">
-								<p class="color-black">Pogledaj vise</p>
+								<p class="color-black">Više proizvoda</p>
 							</div>
 						</div>
 					</a>
@@ -142,7 +142,7 @@
 					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center text-md">
-								<p class="color-black">Pogledaj vise</p>
+								<p class="color-black">Više proizvoda</p>
 							</div>
 						</div>
 					</a>
@@ -190,7 +190,7 @@
 					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center text-md">
-								<p class="color-black">Pogledaj vise</p>
+								<p class="color-black">Više proizvoda</p>
 							</div>
 						</div>
 					</a>
@@ -239,7 +239,7 @@
 					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center text-md">
-								<p class="color-black">Pogledaj vise</p>
+								<p class="color-black">Više proizvoda</p>
 							</div>
 						</div>
 					</a>
@@ -286,7 +286,7 @@
 					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center text-md">
-								<p class="color-black">Pogledaj vise</p>
+								<p class="color-black">Više proizvoda</p>
 							</div>
 						</div>
 					</a>

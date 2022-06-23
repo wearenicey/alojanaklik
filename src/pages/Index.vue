@@ -35,20 +35,20 @@
 			</div>
 		</section>
 
-		<section class="position-relative bg-tertiary-light">
+		<section class="position-relative bg-tertiary-light padding-bottom-xl padding-bottom-0@lg">
 			<div class="container max-width-adaptive-sm">
 				<div class="text-center padding-top-xl padding-bottom-lg">
-				<div class="text-component">
+					<div class="text-component">
 						<h2>Forever Living benefiti</h2>
 						<p class="color-secondary">Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.</p>
 					</div>
 				</div>
 			</div>
 			<div class="container max-width-adaptive-lg">
-				<div class="grid gap-lg items-center">
-					<div class="col-3@md">
-						<div class="grid flex-column gap-lg flex-center">
-							<div class="col">
+				<div class="grid items-center">
+					<div class="col-6@md col-3@lg">
+						<div class="grid flex-column flex-center">
+							<div class="col margin-bottom-lg">
 								<div class="text-center text-left@md">
 									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-01.svg"></g-image>
 									<div class="text-component">
@@ -68,12 +68,12 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6@md order-last">
+					<div class="col-6@md order-lasT display@lg">
 						<g-image class="block width-100% height-100%" quality="100" :immediate="true" src="~/assets/img/forever-living-benefiti.png" alt="Forever Living" />
 					</div>
-					<div class="col-3@md">
-						<div class="grid flex-column gap-lg flex-center">
-							<div class="col">
+					<div class="col-6@md col-3@lg">
+						<div class="grid flex-column flex-center">
+							<div class="col margin-bottom-lg">
 								<div class="text-center text-left@md">
 									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-03.svg"></g-image>
 									<div class="text-component">
@@ -254,7 +254,6 @@
 	</Layout>
 </template>
 
-
 <script>
 export default {
 	metaInfo() {
@@ -265,13 +264,13 @@ export default {
 			meta: [
 				{
 					name: "description",
-					content: "Proizvodi od aloe vere koji pomažu u poboljšanju zdravlja i blagostanja. Besplatne informacije o proizvodima, ishrani i zdravlju. Kontaktirajte nas i ostvarite popuste.",
+					content: "Proizvodi od aloe vere koji pomažu u poboljšanju zdravlja i blagostanja. Besplatne informacije o proizvodima, ishrani i zdravlju. Kontaktirajte nas i ostvarite popuste."
 				},
 				{
 					name: "og:image",
-					content: "https://www.alojanaklik.rs/assets/static/pocetna-kartica-1.71307f6.c41812ecc77912f15e9cd0d465c2cdf6.jpg",
-				},
-			],
+					content: "https://www.alojanaklik.rs/assets/static/pocetna-kartica-1.71307f6.c41812ecc77912f15e9cd0d465c2cdf6.jpg"
+				}
+			]
 		};
 	},
 
@@ -294,7 +293,7 @@ export default {
 		document.getElementById("main-header-js").remove();
 
 		// remove the JS code once the component has been destroyed
-	},
+	}
 };
 </script>
 
