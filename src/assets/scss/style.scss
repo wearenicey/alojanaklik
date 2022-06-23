@@ -127,11 +127,11 @@
 
 .projects {
 	display: grid;
-	grid-template-columns: 1fr 1fr !important;
+	grid-template-columns: 1fr 1fr 1fr !important;
 	grid-gap: 4rem;
 }
 #story {
-	grid-column: auto / span 2 !important;
+	grid-column: auto / span 3 !important;
 }
 
 @media (min-width: 920px) {
@@ -139,7 +139,7 @@
 		grid-column: auto / span 1 !important;
 	}
 	#story:nth-child(1) {
-		grid-column: auto / span 2 !important;
+		grid-column: auto / span 3 !important;
 		display: grid;
 		grid-template-columns: 3fr 2fr;
 		grid-gap: var(--space-md);

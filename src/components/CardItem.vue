@@ -1,7 +1,7 @@
 <template>
 	<article class="story story--featured" id="story">
 		<a :href="record.path" class="story__img">
-			<figure class="media-wrapper media-wrapper--4:3">
+			<figure class="media-wrapper media-wrapper--16:9">
 				<g-image :src="require(`!!assets-loader!@img/${record.image}`)" :alt="record.title" />
 			</figure>
 		</a>

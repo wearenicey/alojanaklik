@@ -29,7 +29,7 @@
 
               <div class="padding-top-sm">
                 <div class="text-component">
-                  <h3>{{ post.node.title }}</h3>
+                  <h3 class="text-md">{{ post.node.title }}</h3>
                   <p>{{ post.node.excerpt }}</p>
                 </div>
                 <div>
