@@ -1,6 +1,6 @@
 ---
 title: Afte u ustima kao posledica nedostatka vitamina B
-tags: Tag broj jedan
+tags: Dodaci ishrani
 tagsMeta: Pozdrav brale Lorem ipsum
 excerpt: Pamtite li period kada ste imali bol u ustima kao dete? Da li ste znali od čega nastaju te male kvržice koje zadaju bol? A da li znate kako ih se jednostavno rešiti?
 created: 2021-10-15

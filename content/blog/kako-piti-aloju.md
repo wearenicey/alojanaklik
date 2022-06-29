@@ -1,6 +1,6 @@
 ---
 title: Kako piti aloju veru - benefiti magične biljke
-tags: Tag broj jedan
+tags: O aloji
 excerpt: Da li ste nekada probali da rešite zdravstveni problem pomoću lekovitih biljaka? Da li znate lekovita svojstva aloje?
 created: 2021-10-09
 image: aloe-vera-blog-1.webp
