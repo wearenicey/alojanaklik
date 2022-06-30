@@ -37,8 +37,9 @@
 								<li><a href="/pcelinji-proizvodi/" class="f-header__dropdown-link">Pčelinji proizvodi</a></li>
 							</ul>
 						</li>
-						<li class="f-header__item"><g-link to="/postanite-saradnik/" class="f-header__link">Postanite saradnik </g-link></li>
-						<li class="f-header__item"><g-link to="/istorija-kompanije/" class="f-header__link">Istorija kompanije </g-link></li>
+						<li class="f-header__item"><g-link to="/postanite-saradnik/" class="f-header__link">Postanite saradnik</g-link></li>
+						<li class="f-header__item"><g-link to="/istorija-kompanije/" class="f-header__link">Istorija kompanije</g-link></li>
+						<li class="f-header__item"><g-link to="/blog/" class="f-header__link">Blog </g-link></li>
 					</ul>
 
 					<ul class="f-header__list flex-grow flex-basis-0 justify-end@md">
