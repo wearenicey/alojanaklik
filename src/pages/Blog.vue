@@ -20,7 +20,7 @@
 <!-- GraphQl call to get all blog post with pagination -->
 <page-query>
 query Posts ($page: Int) {
-  entries: allPost (perPage: 5, page: $page) @paginate {
+  entries: allPost (perPage: 7, page: $page) @paginate {
      pageInfo {
       totalPages
       currentPage
