@@ -131,17 +131,43 @@ export default {
 	script: [
 		{
 			type: "application/ld+json",
-			json: {
-				"@context": "http://schema.org",
-				"@type": "BlogPosting",
-				description: 'Primer text',
-				datePublished: 'Primer text',
-				author: {
-					name: 'Primer text'
-				},
-				headline: 'Primer text',
-				image: imagePath
-			}
+			json:
+			 {
+			"@id": "schema:OnlineStore",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An eCommerce site.",
+      "rdfs:label": "Aloja na klik",
+      "rdfs:subClassOf": {
+        "@id": "schema:OnlineBusiness"
+      									},
+				}
+
+				{
+			"@context": "https://schema.org/",
+			"@type": "WebSite",
+			"name": "Aloja na klik",
+			"url": "https://alojanaklik.rs"
+				
+				}
+
+				{
+				"@context": "https://schema.org/",
+				"@type": "Organization",
+				"address": {
+							"@type": "PostalAddress",
+							"addressLocality": "Novi Sad",
+							"addressCountry": "Srbija",
+							"postalCode": "21000",
+							"streetAddress": "Novosadskog Sajma 20"
+									},
+				"email": "",
+				"name": "Aloja na klik",
+				"telephone": "+381637582723",							            
+    			"brand":{
+        				"@type":"Thing",
+        				"name":"Aloe Vera"
+                  }
+   			}
 		}
 	]
 };
