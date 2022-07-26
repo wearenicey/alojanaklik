@@ -103,7 +103,7 @@
 			</div>
 		</section>
 
-		<section class="feature-v2 padding-y-xxxl bg-accent-light">
+		<section class="feature-v2 padding-y-xxxl bg-primary">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-md">
 					<div class="col-4@md">
@@ -245,7 +245,7 @@
 
 			<div class="sticky-hero__content">
 				<div class="container max-width-md text-component text-center">
-					<h3 class="text-xxxxl color-primary-dark">Stvorimo tvoj izuzetan poslovni kutak uz Forever Living</h3>
+					<h3 class="text-xxxxl color-secondary">Stvorimo tvoj izuzetan poslovni kutak uz Forever Living</h3>
 				</div>
 			</div>
 		</section>
