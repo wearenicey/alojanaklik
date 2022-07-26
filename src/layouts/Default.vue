@@ -128,9 +128,11 @@ export default {
 				window.location.href = "https://www.alojanaklik.rs/contact/";
 		}
 	},
+
 	script: [
 		{
 			type: "application/ld+json",
+
 			json:
 			 {
 			"@id": "schema:OnlineStore",
@@ -139,17 +141,19 @@ export default {
       "rdfs:label": "Aloja na klik",
       "rdfs:subClassOf": {
         "@id": "schema:OnlineBusiness"
-      									},
-				}
+      									}
+				},
 
+			json:
 				{
 			"@context": "https://schema.org/",
 			"@type": "WebSite",
 			"name": "Aloja na klik",
 			"url": "https://alojanaklik.rs"
 				
-				}
+				},
 
+			json:
 				{
 				"@context": "https://schema.org/",
 				"@type": "Organization",
@@ -168,6 +172,8 @@ export default {
         				"name":"Aloe Vera"
                   }
    			}
+
+		
 		}
 	]
 };
