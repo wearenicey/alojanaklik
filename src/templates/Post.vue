@@ -32,24 +32,6 @@
 				<div class="text-component line-height-lg v-space-md" v-html="$page.post.content"></div>
 			</div>
 
-			<div class="container max-width-adaptive-sm">
-				<a class="banner" href="#0" aria-label="Shop Now">
-					<div class="grid flex-row-reverse@md">
-						<div class="col-6@md overflow-hidden" aria-hidden="true">
-							<div class="banner__figure width-100%" style="background-image: url(../../../app/assets/img/banner-img-1.jpg);"></div>
-						</div>
-
-						<div class="col-6@md">
-							<div class="text-component text-space-y-md height-100% flex flex-column padding-md padding-lg@md">
-								<h2>Kitchen</h2>
-								<p class="margin-top-sm margin-top-md@md">
-									<span class="banner__link"><i>Shop Now</i></span>
-								</p>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
 		</article>
 	</Layout>
 </template>
@@ -81,6 +63,65 @@
 
 <script>
 export default {
+
+	//meta desc dinamicni
+	metaInfo() {
+		return {
+			title: this.$page.post.title + " - Aloja Vera",
+			titleTemplate: this.$page.post.title + " - Aloja Vera",
+
+			meta: [
+				{ name: "description", content: this.$page.post.metaDesc },
+
+				{
+					key: "og:image",
+					property: "og:image",
+					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path,
+				},
+				{
+					key: "og:title",
+					name: "og:title",
+					content: this.$page.post.title + " - Aloja Vera",
+				},
+
+				{
+					key: "og:type",
+					name: "og:type",
+					content: "article",
+				},
+
+				{
+					key: "og:description",
+					name: "og:description",
+					content: this.$page.post.metaDesc,
+				},
+				{
+					key: "twitter:title",
+					name: "twitter:title",
+					content: this.$page.post.title + " - Aloja Vera",
+				},
+				{
+					key: "twitter:description",
+					name: "twitter:description",
+					content: this.$page.post.metaDesc,
+				},
+				{
+					key: "twitter:image",
+					property: "twitter:image",
+					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path,
+				},
+			],
+
+			// etc...
+		};
+	},
+	data: function () {
+		return {
+			api_url: "https://alojanaklik.rs/",
+			facebook: "http://www.facebook.rs/sharer/sharer.php?u=",
+		};
+	},
+
 	//CodyHouse javascript UI
 	mounted() {
 		let frontEnd = document.createElement("script");

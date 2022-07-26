@@ -56,7 +56,58 @@ query Posts ($page: Int) {
 import CardItem from "~/components/CardItem.vue";
 
 export default {
-	//call component
+	metaInfo() {
+		return {
+			title: this.$page.post.title + " - Forever Living proizvodi",
+			titleTemplate: this.$page.post.title + " - Forever Living proizvodi",
+
+			meta: [
+				{ name: "description", content: this.$page.post.metaDesc },
+
+				{
+					key: "og:image",
+					property: "og:image",
+					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path
+				},
+				{
+					key: "og:title",
+					name: "og:title",
+					content: this.$page.post.title + " - Forever Living proizvodi"
+				},
+
+				{
+					key: "og:type",
+					name: "og:type",
+					content: "article"
+				},
+
+				{
+					key: "og:description",
+					name: "og:description",
+					content: this.$page.post.metaDesc
+				},
+				{
+					key: "twitter:title",
+					name: "twitter:title",
+					content: this.$page.post.title + " - Forever Living proizvodi"
+				},
+				{
+					key: "twitter:description",
+					name: "twitter:description",
+					content: this.$page.post.metaDesc
+				},
+				{
+					key: "twitter:image",
+					property: "twitter:image",
+					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path
+				}
+			]
+
+			// etc...
+		};
+	},
+
+	// call component
 	components: {
 		CardItem
 	},

@@ -287,8 +287,8 @@ export default {
 	// meta deskripcija
 	metaInfo() {
 		return {
-			title: this.$page.event.pageTitle,
-			titleTemplate: this.$page.event.pageTitle,
+			title: this.$page.event.pageTitle + " - Forever Living proizvodi",
+			titleTemplate: this.$page.event.pageTitle + " - Forever Living proizvodi",
 			meta: [{ key: "description", name: "description", content: this.$page.event.metaDesc }]
 		};
 	},

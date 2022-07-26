@@ -11,6 +11,7 @@
     "@gridsome/source-airtable": "^0.2.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
+    "@gridsome/vue-remark": "^0.2.6",
     "@hrwg/vue-marked": "0.0.2",
     "assets-loader": "^0.5.2",
     "codyhouse-framework": "^2.9.2",

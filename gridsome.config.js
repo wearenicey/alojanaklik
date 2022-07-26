@@ -5,8 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-	siteName: "Forever Living Proizvodi | Aloja Vera",
-
+	siteName: "Forever Living Proizvodi - Aloja Vera",
 	siteUrl: "https://www.alojanaklik.rs/",
 
 	plugins: [
