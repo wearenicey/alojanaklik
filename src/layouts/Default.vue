@@ -127,11 +127,6 @@ export default {
 				// this will run when linking directly or after a refresh
 				window.location.href = "https://www.alojanaklik.rs/contact/";
 		}
-	},
-
-	metaInfo: {
-		script: [
-			{ innerHTML: '{ "@context": "http://schema.org" }', type: "application/ld+json" }]
 	}
 };
 </script>
