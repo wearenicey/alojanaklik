@@ -57,53 +57,20 @@ import CardItem from "~/components/CardItem.vue";
 
 export default {
 	metaInfo() {
+		// meta deskripcija
 		return {
-			title: this.$page.post.title + " - Forever Living proizvodi",
-			titleTemplate: this.$page.post.title + " - Forever Living proizvodi",
-
+			title: "Blog - Aloja Vera",
+			titleTemplate: "Blog - Aloja Vera",
 			meta: [
-				{ name: "description", content: this.$page.post.metaDesc },
-
 				{
-					key: "og:image",
-					property: "og:image",
-					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path
+					name: "description",
+					content: "Proizvodi od aloe vere koji pomažu u poboljšanju zdravlja i blagostanja. Besplatne informacije o proizvodima, ishrani i zdravlju. Kontaktirajte nas i ostvarite popuste."
 				},
 				{
-					key: "og:title",
-					name: "og:title",
-					content: this.$page.post.title + " - Forever Living proizvodi"
-				},
-
-				{
-					key: "og:type",
-					name: "og:type",
-					content: "article"
-				},
-
-				{
-					key: "og:description",
-					name: "og:description",
-					content: this.$page.post.metaDesc
-				},
-				{
-					key: "twitter:title",
-					name: "twitter:title",
-					content: this.$page.post.title + " - Forever Living proizvodi"
-				},
-				{
-					key: "twitter:description",
-					name: "twitter:description",
-					content: this.$page.post.metaDesc
-				},
-				{
-					key: "twitter:image",
-					property: "twitter:image",
-					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path
+					name: "og:image",
+					content: "https://www.alojanaklik.rs/assets/static/pocetna-kartica-1.71307f6.c41812ecc77912f15e9cd0d465c2cdf6.jpg"
 				}
 			]
-
-			// etc...
 		};
 	},
 

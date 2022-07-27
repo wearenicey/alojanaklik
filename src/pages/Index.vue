@@ -259,8 +259,8 @@ export default {
 	metaInfo() {
 		// meta deskripcija
 		return {
-			title: "Forever Living Proizvodi | Aloja Vera",
-			titleTemplate: "Forever Living Proizvodi | Aloja Vera",
+			title: "Forever Living Proizvodi - Aloja Vera",
+			titleTemplate: "Forever Living Proizvodi - Aloja Vera",
 			meta: [
 				{
 					name: "description",
