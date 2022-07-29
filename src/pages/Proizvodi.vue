@@ -44,7 +44,7 @@
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-3@md col-6 radius-lg bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
+					<a class="flex justify-center items-center col-3@md col-6 radius-lg bg-primary clickHover" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-black text-md">Klikni za više proizvoda</p>
@@ -92,7 +92,7 @@
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
+					<a class="flex justify-center items-center col-3@md radius-lg display@md bg-primary clickHover" href="/preparati-za-higijenu/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-black text-md">Klikni za više proizvoda</p>
@@ -119,28 +119,28 @@
 		<section class="bg-secondary">
 			<div class="container max-width-adaptive-lg padding-bottom-xxl">
 				<div class="grid gap-md">
-					<a class="card-v11 col-3@md radius-lg" href="/mrsavljenje/forever-therm/" style="background-image: url(../forever-therm.jpg)" aria-label="Link description">
+					<a class="card-v11 col-3@md radius-lg" href="/preparati-za-mrsavljenje/forever-therm/" style="background-image: url(../forever-therm.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
 								<p class="color-white">Forever Therm</p>
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-3@md radius-lg display@md" href="/mrsavljenje/protein-cokolada/" style="background-image: url(../protein-cokolada.jpg)" aria-label="Link description">
+					<a class="card-v11 col-3@md radius-lg display@md" href="/preparati-za-mrsavljenje/protein-cokolada/" style="background-image: url(../protein-cokolada.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
 								<p class="color-white">Protein Čokolada</p>
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-3@md radius-lg display@md" href="/mrsavljenje/protein-vanila/" style="background-image: url(../protein-vanila.jpg)" aria-label="Link description">
+					<a class="card-v11 col-3@md radius-lg display@md" href="/preparati-za-mrsavljenje/protein-vanila/" style="background-image: url(../protein-vanila.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
 								<p class="color-white">Protein Vanila</p>
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
+					<a class="flex justify-center items-center col-3@md radius-lg display@md bg-primary clickHover" href="/preparati-za-mrsavljenje/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-black text-md">Klikni za više proizvoda</p>
@@ -188,7 +188,7 @@
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
+					<a class="flex justify-center items-center col-3@md radius-lg display@md bg-primary clickHover" href="/napici/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-black text-md">Klikni za više proizvoda</p>
@@ -237,7 +237,7 @@
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
+					<a class="flex justify-center items-center col-3@md radius-lg display@md bg-primary clickHover" href="/preparati-za-negu-koze/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-black text-md">Klikni za više proizvoda</p>
@@ -285,7 +285,7 @@
 							</div>
 						</div>
 					</a>
-					<a class="card-v11 col-3@md radius-lg display@md bg-primary" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
+					<a class="flex justify-center items-center col-3@md radius-lg display@md bg-primary clickHover" href="/pcelinji-proizvodi/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-black text-md">Klikni za više proizvoda</p>
