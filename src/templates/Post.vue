@@ -104,7 +104,7 @@ export default {
 				{
 					key: "twitter:description",
 					name: "twitter:description",
-					content: this.$page.post.metaDesc,
+					content: this.$page.post.tagsMeta,
 				},
 				{
 					key: "twitter:image",
