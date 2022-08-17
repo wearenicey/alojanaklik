@@ -1,6 +1,7 @@
 ---
 title: Vitamin B12 i njegova uloga
 tags: Dodaci ishrani
+tagsMeta: Tekst o ulozi vitamina B12, kakve probleme možemo očekivati ako ga ne unosimo dovoljno, koja hrana sadrži vitamin B12 i koje prednosti dobijamo ako povećamo unos vitamina B12.
 excerpt: Da li ste osetili umor ili malaksalost duži vremenski period i za to ste pomislili da je posledica rada? Da li ste ikada proverili unos vitamina u organizam? Znate li značaj vitamina B12 za očuvanje zdravlja?
 created: 2021-10-16
 image: vitamin-b12-1.webp
@@ -13,7 +14,8 @@ featured: true
 
 **Vitamin B12 naziva se još i kobalamin** (cijanokobalamin) i pripada vitaminima koje organizam ne može sam da stvara. Pronađen je 1948 godine, rastvorljiv je u vodi i jedini sadrži kobalt. Nalazi se isključivo u namirnicama životinjskog porekla. U ljudskom organizmu smešten je uglavnom u jetri.Ukoliko se unese u većim količinama organizam će skladištiti u jetri.
 
-**Vitamin B12 ima višestruku ulogu u organizmu:**
+**Vitamin B12 ima višestruku ulogu u organizmu:**,
+
 1. Ima ključnu ulogu u stvaranju crvenih krvnih zrnaca; 
 2. Veoma je bitan za formiranje DNK;
 3. Važan je za metaboličke procese u organizmu i
@@ -27,6 +29,7 @@ Vitamin B12 omogućava pretvaranje hrane u gorivo, te na taj način podiže nivo
 
 
 Postoje određene grupacije ljudi koje mogu biti ugrožene nedostatkom vitamina B12 usled načina života ili određenih zdravstvenih problema. Tu spadaju:
+
 1. Starije osobe od 65 godina - organizam nije u mogućnosti da apsorbuje ovaj vitamin usled nedostatka lučenja enzima za varenje;
 2. Vegetarijanci - ne jedu namirnice koje sadrže mleko i jaja;
 3. Vegani - ne jedu namirnice životinjskog porekla;
@@ -44,7 +47,8 @@ Postoje određene grupacije ljudi koje mogu biti ugrožene nedostatkom vitamina 
 
 Blagi nedostatak B12 vitamina je vrlo česta pojava koja izaziva **malaksalost**, bledilo, **konstipaciju** (zatvor), nervozu, **gubitak apetita**, trnjenje ruku i nogu. Postoji veliki broj ljudi koji pate od nedostatka vitamina B12, a da toga nisu ni svesni. U dužem vremenskom periodu nedostatak vitamina B12 može da dovede do velikih mentalnih i fizičkih oboljenja.
 
-**Simptomi  nedostatka vitamina B12 su:**
+## Simptomi  nedostatka vitamina B12 su:
+
 1. Vrtoglavice praćene umorom;
 2. Bledilo i **malaksalost**;
 3. Problemi sa koncentracijom, kožom (dermatitis, ekcem i gljivice) i kosom;
@@ -60,6 +64,7 @@ Blagi nedostatak B12 vitamina je vrlo česta pojava koja izaziva **malaksalost**
 
 
 U **težim slučajevima** dolazi do pojave:
+
 1. **Perniciozne anemije** - javlja se u slučajevima težih oštećenja želuca, te ne postoji mogućnost apsorbovanja vitamina B12. Tada se on unosi isključivo intravenski, jer oralna primena nema zadovoljavajući efekat.
 2. **Srčanih oboljenja** - zbog nedostatka folne kiseline, dolazi do povišenih vrednosti homocisteina koji dovode do šloga, infarkta i drugih srčanih oboljenja. [Istraživanja su pokazala da dodavanje folne kiseline, vitamina B12 i probukola](https://pubmed.ncbi.nlm.nih.gov/23363713/) osnovnoj terapiji pacijenata sa hipertenzijom, značajno dovodi do pada homocisteina (Hcy) i asimetričnog dimetilarginina (ADMA) u plazmi. To za posledicu ima smanjenje hipertenzije, te vitamin B12 ima značajnu ulogu u prevenciji srčanih oboljenja.
 3. **Osteoporoze** - usled nedostatka B12 vitamina dolazi do teže sinteze kolagena koji je ključan u izgradnji gustine kostiju. Kao posledicu imamo češće prelome kostiju posebno kod osoba starijih od 65 godina. Takođe [ispitivanje pojave osteoporoze kod starijih žena  pokazuje da zavisi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4548174/) od nivoa homocisteina (Hcy) i metilmalonske kiseline (MMA) u plazmi, ali nikako od zajedničkog dejstva, već individualnog.
@@ -69,14 +74,15 @@ U **težim slučajevima** dolazi do pojave:
 ## Hrana koja sadrži B12 vitamin ##
 
 Vitamin B12 se nalazi isključivo u namirnicama životinjskog porekla. Najviše ga ima u mesu, mleku, jajima i plodovima mora. Prirodni izvori ovog vitamina su najviše:
-1. Crveno i belo meso (govedina, jagnjetina, ćuretina) - oko 186g bifteka sadrži 200% dnevnih potreba ovog vitamina;
-2. Iznutrice (džigerica i bubrezi) - oko 100g jetre sadži 1500% dnevnih potreba vitamina B12, a 100g bubrega oko 1300%. Goveđa jetra sadrži 60 μg po obroku, a pileća 18 μg;
-3. Riba (posebno morska) - jedna porcija lososa ima duplo veću količinu vitamina B12 od dnevno potrebne (4,8 μg). Vitamin B12 i omega 3 masne kiseline su odlične u očuvanju nervnog sistema čoveka;
-4. Sardine - oko 150 gr sardine sadrži duplo veću dnevnu dozu vitamina B12 od potrebne;
-5. Plodovi mora - školjke sadrže 84 μg po obroku, a kavijar 5,67 μg;
-6. Mleko - uključujući jogurt i sir sadrže oko 1 μg vitamina B12. Većina zamena za mleko: kokos, badem, soja ili zob su obogaćeni vitaminom B12 i sadže oko 1 μg;
-7. Žitarice - većina žitarica je obogaćena vitaminom B12, tako da u proseku po porciji sadrže oko 6 μg;
-8. Jaja - belance sadrži proteine, a žumance vitamin B12, A, D, cink i gvožđe.
+
+1. **Crveno i belo meso** (govedina, jagnjetina, ćuretina) - oko 186g bifteka sadrži 200% dnevnih potreba ovog vitamina;
+2. **Iznutrice** (džigerica i bubrezi) - oko 100g jetre sadži 1500% dnevnih potreba vitamina B12, a 100g bubrega oko 1300%. Goveđa jetra sadrži 60 μg po obroku, a pileća 18 μg;
+3. **Riba** (posebno morska) - jedna porcija lososa ima duplo veću količinu vitamina B12 od dnevno potrebne (4,8 μg). Vitamin B12 i omega 3 masne kiseline su odlične u očuvanju nervnog sistema čoveka;
+4. **Sardine** - oko 150 gr sardine sadrži duplo veću dnevnu dozu vitamina B12 od potrebne;
+5. **Plodovi mora** - školjke sadrže 84 μg po obroku, a kavijar 5,67 μg;
+6. **Mleko** - uključujući jogurt i sir sadrže oko 1 μg vitamina B12. Većina zamena za mleko: kokos, badem, soja ili zob su obogaćeni vitaminom B12 i sadže oko 1 μg;
+7. **Žitarice** - većina žitarica je obogaćena vitaminom B12, tako da u proseku po porciji sadrže oko 6 μg;
+8. **Jaja** - belance sadrži proteine, a žumance vitamin B12, A, D, cink i gvožđe.
 
 
 
@@ -89,6 +95,7 @@ Vitamin B12 se nalazi isključivo u namirnicama životinjskog porekla. Najviše 
 Vitamin B12 moguće je uneti u organizam preko hrane životinjskog porekla, putem suplemenata (tableta) ili intravenski injekcijom u slučaju težih oboljenja želuca i creva).
 
 **Benefiti koje donosi normalan dnevni unos vitamina B12 su:**
+
 1. Pomaže kod sprečavanje pojave defekata kod novorođenčadi;
 2. Utiče pozitivno u prevenciji anemije kroz stvaranje crvenih krvnih zrnaca (eritrocita);
 3. Povećava raspoloženje jer utiče na proizvodnju serotonina i dopamina i sprečava pojavu depresije;
@@ -112,6 +119,7 @@ Dnevne potrebe za vitaminom B12 variraju od pola, uzrasta, zdravstvenog stanja i
 Najefikasnije dejstvo vitamina B12 je kada se unese u organizam sublingvalno (pod jezik) ili intravenski.
 
 **Preporuka za dnevni unos vitamina B12** u μg(mikorograma) je:
+
 1. Odojčad do 6 meseci - 0,4 μg;
 2. Od 7 do 12 meseci - 0,5 μg;
 3. Od 1 do 3 godine - 0,9 μg;

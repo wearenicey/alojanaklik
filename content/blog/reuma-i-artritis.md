@@ -1,7 +1,7 @@
 ---
 title: Reuma i artritis. Koja je razlika?
 tags: Ishrana po bolestima
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Gubitak snage, bolovi u zglobovima... simptomi reume i artritisa, dijagnostika i načini lečenja.
 excerpt: Često se pitate šta je uzrok koji izaziva mišićnu slabost i gubitak energije.
 created: 2022-06-28
 image: reuma-i-artritis-slika1.jpg

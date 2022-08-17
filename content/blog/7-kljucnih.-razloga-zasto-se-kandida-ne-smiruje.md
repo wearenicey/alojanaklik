@@ -1,7 +1,7 @@
 ---
 title: 7 ključnih razloga zašto se kandida kod žene ne smiruje
 tags: Ishrana po bolestima
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: U kojim situacijama se kandida kod žena ponavlja? Uklonite uzrok ili naviku i smanjite verovatnoću ponovnog pojavljivanja infekcije.
 excerpt: Frustracija koju žena može da oseća zbog ovih nelagoda često je vodi ka odluci da ponovo upotrebi kandida nistatin tablete ili neki prirodni kandida lek, sve u nadi da će ovog puta delovati efikasnije.
 created: 2022-06-30
 image: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika1.jpg
@@ -20,7 +20,7 @@ Iritacija, svrab, crvenilo, otečenost i bol u predelu vagine samo  su neki simp
 
 Frustracija koju žena može da oseća zbog ovih nelagoda često je vodi ka odluci da ponovo upotrebi kandida nistatin tablete ili neki prirodni kandida lek, sve u nadi da će ovog puta delovati efikasnije. Možda hoće, a možda je vreme da se učine i neki dodatni koraci koji će voditi ka uspešnom i trajnom izlečenju.
 
-**Ponavljajuća infekcija -  pojašnjenje pojma**
+**Ponavljajuća infekcija - pojašnjenje pojma**
 
 U slučajevima kada test na kandidu potvrdi vaginalnu kandidijazu 4 i više puta godišnje, može se reći da je u pitanju [ponavljajuća infekcija](https://www.independentnurse.co.uk/clinical-article/treatment-of-persistent-thrush/63582/). 
 

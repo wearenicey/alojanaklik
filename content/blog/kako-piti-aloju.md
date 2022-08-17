@@ -1,6 +1,7 @@
 ---
 title: Kako piti aloju veru - benefiti magične biljke
 tags: O aloji
+tagsMeta: Zbog čega je aloja vera toliko korisna i u kako sve može da se koristi? Da li ima koristan efekat u slučaju tumora? Kratak opis aloje kao leka za određene poremećaje.
 excerpt: Da li ste nekada probali da rešite zdravstveni problem pomoću lekovitih biljaka? Da li znate lekovita svojstva aloje?
 created: 2021-10-09
 image: aloe-vera-blog-1.webp
@@ -79,7 +80,7 @@ Aloja vera gel sadrži 99,7% čistog gela iz lista aloje te omogućava sistemu z
 
 ![aloe vera](./images/aloe-vera-blog-2.webp)
 
-## Antioksidativna svojstva aloje koja mogu pomoći kod raka
+## Antioksidativna svojstva aloje koja mogu pomoći kod tumora
 
 Brojni hemijski i biološki agensi koji imaju dokazana kancerogena svojstva (kafa, nikotin, slobodni radikali, pesticidi, konzervansi) doprinose transformaciji zdrave ćelije u malignu. Da li će doći do te transformacije najviše zavisi od imuno sistema organizma. Postoje jasni naučni dokazi istočne medicine koja potvrđuje pozitivno dejstvo aloje na sprečavanje razvoja tumora, kao i jačanju imuno sistema i zdravih ćelija u organizmu. Analizom je ustanovljeno da aloja sadrži veliki broj ugljenihhidrata (polisaharida i oligosaharida) sa imunomodulatornim svojstvom. To znači da aloja direktno doprinosi stvaranju T ćelija koje su osnova imuno sistema čoveka.
 U slučaju hemoterapije, **aloja vera biljka** pomaže tako što sprečava oštećenja zdravih ćelija, naročito ćelija imunskog sistema. Dokazano je da aloja sadrži najmanje tri antitumorska sastojka emodin, lecitin i manozu. U slučaju lečenje kancera aloja vera biljka ima sledeća dejstva:

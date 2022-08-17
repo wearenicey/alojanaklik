@@ -1,7 +1,7 @@
 ---
 title: Kako se izboriti sa anksioznošću - 9 lakih načina i kada je potrebno posetiti lekara
-tags: Ishrana
-tagsMeta: Pozdrav brale Lorem ipsum
+tags: Rad na sebi
+tagsMeta: Kako ustanoviti kada imamo napad anksioznosti? Prepoznajte simptome i naučite kako da se ponašate i kako da pokušate da ublažite pojavu anksioznosti?
 excerpt: Okruženje u kojem živimo ne možemo mnogo menjati, sebe i svoj pogled na to okruženje i život kao takav možemo.
 created: 2022-07-02
 image: kako-se-izboriti-sa-anksioznoscu-slika1.jpg
@@ -20,9 +20,9 @@ Ovaj scenario poznat je velikoj većini današnjeg čovečanstva. Okruženje u k
 
 Pobeda u bilo kakvoj borbi odnosi se na savladavanje protivnika. Ako je naš protivnik **anksioznost, moramo biti sigurni da je poznajemo** kako bi smo je uspešno savladali. Kada spoznamo pojam anksioznosti i njene oblike, pronaći ćemo nama najpovoljniji način da se sa njom izborimo. 
 
-**Pojam anksioznosti i simptomi**
+## Pojam anksioznosti i simptomi
 
-Anksioznost je reakcija na stresnu situaciju i sasvim je **normalna, prirodna pojava**. Proživljava se kroz, na primer javne nastupe, intervjue za posao, putovanja u nepoznatu zemlju. 
+[Anksioznost](https://ubuntucentar.com/blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/) je reakcija na stresnu situaciju i sasvim je **normalna, prirodna pojava**. Proživljava se kroz, na primer javne nastupe, intervjue za posao, putovanja u nepoznatu zemlju. 
 
 Telesni **simptomi** anksioznosti koji se često javljaju su:
 

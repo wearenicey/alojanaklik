@@ -1,7 +1,7 @@
 ---
 title: Da li kandida utiče na vaš seksualni život
 tags: Zdravlje
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Na koji način kandida može da utiče na Vaš seksualni život? Šta mmožemo da učinimo kao prevenciju i kako tretirati kandidu?
 excerpt: U trenucima kada smo na polju ljubavi potpuno zadovoljni često se čini da više ništa u životu ne može da pođe naopako. Nažalost, može, ali to ne znači da ljubav ili seksualni život moraju biti ugroženi.
 created: 2022-07-01
 image: da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
@@ -39,7 +39,7 @@ Kandida kod muškaraca takođe nije retka pojava. Najčešći razlog nastanka ka
 
 Za davanje odgovora na pitanje **kako se rešiti kandide** zauvek, dobro je biti siguran da se zna šta je **kandida**, koji su **simptomi** vaginalne infekcije kandidom, kako postaviti **dijagnozu** i koji su **metodi lečenja** dostupni.
 
-**Šta je kandida?**
+## Šta je kandida?
 
 Kandida je gljivica koja živi svuda oko nas. Pogoduje joj topli, tamni i vlažni ambijent. Kada se vaginalna kandida razvije u prekomernom obimu, stvaraju se problemi. Ovaj proces može biti izazvan:
 
@@ -49,7 +49,7 @@ Kandida je gljivica koja živi svuda oko nas. Pogoduje joj topli, tamni i vlažn
 - Upotrebom hormonskih kontraceptivnih tableta;
 - Trudnoćom i drugim razlozima povišenog nivoa estrogena, odnosno hormonalnim disbalansom.
 
-**Simptomi vaginalne kandidijaze**
+## imptomi vaginalne kandidijaze
 
 
 Neki od simptoma vaginalne kandidijaze slični su simptomima bakterijske vaginoze. Ovo se naročito odnosi na žene mlađe dobi. U pitanju su:
@@ -75,7 +75,7 @@ Ukoliko se radi o gljivičnoj infekciji, utvrdiće se vrsta gljivica koja je iza
 
 Osim navedenih, postoje i alternativni metodi lečenja, koji mogu duže da potraju i za koje, bar za sad, ne postoji dovoljno studija koje bi im potvrdile efikasnost.
 
-**Da li se kandida prenosi polnim putem?**
+## Da li se kandida prenosi polnim putem?
 
 ![bol u stomaku zbog kandide](./images/da-li-kandida-utice-na-vas-seksualni-zivot-slika2.jpg)
 

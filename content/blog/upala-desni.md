@@ -1,7 +1,7 @@
 ---
 title: Upala desni i kako je ublažiti?
 tags: Dodaci ishrani
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Upaljene desni mogu da budu veoma bolne. Zašto dolazi do upale, kako se leči i kako možemo da je sprečimo.
 excerpt: Nedovoljna oralna higijena je jedan od uzroka koji može uticati na pojavu promena na desnima.
 created: 2022-06-25
 image: upala-desni-slika1.jpg
@@ -109,21 +109,3 @@ Kao i kod svakog oboljenja tako je i kod upale desni uvek bolje delovati prevent
 
 Preporuka je i izbegavanje slatkiša i obojenih sokova, a češća konzumacija zdravih namirnica bogatih vitaminima i mineralima. Najbolji način za održavanje usne duplje zdravom je odlazak kod stomatologa jednom u 6 meseci.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Naslovna fotografija: freepik.com

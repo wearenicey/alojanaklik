@@ -1,7 +1,7 @@
 ---
 title: Kako keto dijeta utiče na dijabetes
 tags: Ishrana
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Šta je keto dijeta? U čemu se sastoji? Koliko je bezbedna i koje su dobre i loše strane keto dijete? Koje osobe smeju da je sprovode?
 excerpt: Ukoliko se lekar slaže, pre prelaska na keto dijetu u celosti, postepeno smanjivanje unosa ugljenih hidrata može ukazati na to kojim tempom i na koji način organizam reaguje na date promene i time se može bolje pripremiti za samu dijetu.
 created: 2022-07-02
 image: keto-dijeta-dijabetes-slika1.jpg
@@ -24,7 +24,7 @@ Da li bi možda keto dijeta mogla biti od pomoći? Popularna je, mnogima je već
 Svaka osoba obolela od dijabetesa ima drugačije potrebe i svaka promena u stilu života različito utiče na ljude. Ukoliko se lekar slaže, pre prelaska na keto dijetu u celosti, postepeno smanjivanje unosa ugljenih hidrata može ukazati na to kojim tempom i na koji način organizam reaguje na date promene i time se može bolje pripremiti za samu dijetu.
 
 
-**Šta je keto dijeta?**
+## Šta je keto dijeta?
 
 Keto dijeta se bazira na veoma malom unosu namirnica bogatih ugljenim hidratima (manje od 50g dnevno, a idealno manje od 20g dnevno) i velikom unosu namirnica bogatih mastima, uz umereni unos proteina. 
 

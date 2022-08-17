@@ -1,20 +1,20 @@
 ---
 title: Anksiozni bol u grudima - simptomi i prirodni lekovi
 tags: Zdravlje
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Simptomi i opis anksioznog bola u grudima. Kako ga prepoznati i kada je neophodno pozvati pomoć? Prirodni lekovi i preparati.
 excerpt: Bol u grudima je čest simptom anksioznosti. Međutim, ovakav bol može biti uzrokovan i drugim faktorima, među kojima je najznačajniji srčani udar.
 created: 2022-07-01
 image: anksiozni-bol-u-grudima-slika1.jpg
 
 imageTwo:
   path: ./images/nervozna-creva.jpg
-  alt: "reuma i artritis"
+  alt: "anksiozni bol u grudima"
 image_caption: Photo by Josh Spires on Unsplash
 featured: true
 ---
 
 
-Bol u grudima je čest simptom anksioznosti. Međutim, ovakav bol može biti uzrokovan i drugim faktorima, među kojima je najznačajniji srčani udar.  
+Bol u grudima je čest simptom [anksioznosti](https://ubuntucentar.com/blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/). Međutim, ovakav bol može biti uzrokovan i drugim faktorima, među kojima je najznačajniji srčani udar.  
 
 Iako je teško utvrditi sa sigurnošću kada je u pitanju anksioznost, a kada srčani udar, neki propratni simptomi i detalji samog bola govore nam da li je, i kada, potrebno obratiti se lekaru.
 
@@ -56,7 +56,7 @@ Bol u grudima kod srčanog udara
 - Bol u grudima bude lociran u centralnom delu ili sa leve strane
 - Javlja se češće kod osoba muškog pola
 
-**Prirodni lekovi**
+## Prirodni lekovi
 
 Kada osoba anksioznost doživljava relativno često, organizam ne uspeva da se potpuno oporavi ili odmori od prethodnog anksioznog napada. 
 

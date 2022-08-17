@@ -10,7 +10,7 @@
 
 				<div class="margin-y-lg text-center">
 					<button class="btn btn--subtle" v-if="showMoreEnabled" @click="loadMore">
-						Prikazi vise
+						Prikaži više
 					</button>
 				</div>
 			</div>

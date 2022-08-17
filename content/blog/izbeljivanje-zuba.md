@@ -1,7 +1,7 @@
 ---
 title: Izbeljivanje zube kod kuće. Koliko je bezbedno?
 tags: Lična higijena
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Da li je neophodno posetiti stomatologa radi izbeljivanje zuba? Prirodni načini sa kojima možete doći do blistavog osmeha.
 excerpt: Često se pitate šta je uzrok koji izaziva mišićnu slabost i gubitak energije.
 created: 2022-06-28
 image: izbeljivanje-zuba-slika1.jpg
@@ -62,7 +62,7 @@ Pogodna je za celu porodicu, kao i za vegeterijance. Za najbolji efekat, prati z
 
 ![beli zubi](./images/izbeljivanje-zuba-slika3.jpg)
 
-Fotografija: Freepik
+*Fotografija: Freepik*
 
 **Izbeljivanje zuba korom banane**
 
@@ -102,7 +102,7 @@ Takodje, kurkuma je jedan od najjačih prirodnih antiseptika i učiniće dosta i
 
 ![izbeljivanje zube kurkumom](./images/izbeljivanje-zuba-slika4.jpg)
 
-Fotografija: Freepik
+*Fotografija: Freepik*
 
 Dobrim navikama do belih zuba 
 
@@ -117,4 +117,3 @@ Sa druge strane, postoje namirnice koje će nam pomoći u izbeljivanju zuba.
 Lepota i belina Vaših zuba zavisi isključivo od Vas samih. Održavajte zube i usta čistim, to je preduslov za blistav osmeh.
 
 
-Naslovna fotografija: Freepik

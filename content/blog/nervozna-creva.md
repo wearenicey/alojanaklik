@@ -1,7 +1,7 @@
 ---
 title: Nervozna creva - simptomi i lečenje
 tags: Dodaci ishrani
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Kako se prepoznaju simptomi nervoznih creva? Zašto se problem javlja i šta možete da preduzmete povodom problema sa nervoznim crevima?
 excerpt: Imate grčeve, zatvor ili dijareju? Gasovi Vam dodatno otežavaju situaciju i pitate se kada će to sve prestati.
 created: 2022-06-25
 image: nervozna-creva.jpg
@@ -23,7 +23,7 @@ Neki od ovih simptoma mogu ukazati da bolujete od **sindroma iritabilnog kolona*
 
 ![nervozna creva](./images/nervozna-creva-slika2.jpg)
 
-Fotografija: freepik.com
+*Fotografija: freepik.com*
 
 ## Iritabilni kolon
 
@@ -154,5 +154,3 @@ Vežbajte. Kombinujte mentalne i fizičke vežbe.
 Izbacite sve loše navike iz vaše svakodnevnice, ili bar većinu njih. Izdvojite vreme za druženje, oraspoložiće vas.
 
 Primenite ovo već od sutra. Vremenom će se raspoloženje popraviti, **stres** će nestati a sa njim i simptomi **sindroma nervoznih creva**. 
-
-Naslovna fotografija: freepik.com

@@ -1,7 +1,7 @@
 ---
 title: Početni priručnik za dijetu u slučaju kandide?
 tags: Dodaci ishrani
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Tekst o tome kako prepoznati da imate povećan nivo kandide, kako sprovoditi dijetu i koje još korake možete preduzeti u borbi protiv kandide.
 excerpt: Jedan od glavnih razloga nastanka prekomernog rasta kandide je ishrana bogata šećerima. Upravo zato, vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti taj proces.
 created: 2022-06-29
 image: pocetni-prirucnik-u-slucaju-kandide-slika1.jpg
@@ -167,6 +167,3 @@ Ako ste voljni da isprobate dijetu, osluškujte svoj organizam, pratite šta vam
 Kandida dijeta nije dijeta koja unosi dodatni stres u život. Proces izlečenja možete učiniti još mirnijim, a rezultate potpunijim, ako uz pravilnu ishranu počnete sa upotrebom adekvatnih suplemenata na prirodnoj bazi, ili biljnih čajeva namenjenih oslobađanju od kandide.
 
 Zašto čekati ponedeljak, kad se sa dijetom može krenuti već sada?
-
-
-Naslovna fotografija: Freepik

@@ -1,7 +1,7 @@
 ---
 title: 7 načina kako da razbijete prokrastinaciju
 tags: Rad na sebi
-tagsMeta: Pozdrav brale Lorem ipsum
+tagsMeta: Kratko uputstvo o tome na koji način promeniti navike i zaustaviti prokrastinaciju. Povećajte produktivnost i preobrazite se u novu osobu.
 excerpt: Uobičajeno je i opšte prihvaćena premisa da čovek ceo život uči, razvija se i napreduje, pa ipak svako od nas dođe do trenutka u životu kada se nalazi ušuškan u komfornoj zoni i sama pomisao izlaska iz nje može da stvori nelagodnost.
 created: 2022-06-30
 image: 7-nacina-kako-razbiti-prokrastinaciju-slika1.jpg
