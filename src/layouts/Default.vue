@@ -86,7 +86,7 @@
 							<g-link to="/blog/">Blog</g-link>
 						</li> -->
 						<li class="footer-v4__nav-item">
-							<g-link to="/contact/">Kontakt</g-link>
+							<g-link to="/kontakt/">Kontakt</g-link>
 						</li>
 					</ul>
 				</nav>
@@ -125,13 +125,8 @@ export default {
 		y() {
 			if (process.isClient)
 				// this will run when linking directly or after a refresh
-				window.location.href = "https://www.alojanaklik.rs/contact/";
+				window.location.href = "https://www.alojanaklik.rs/kontakt/";
 		}
-	},
-
-	metaInfo: {
-		script: [
-			{ innerHTML: '{ "@context": "http://schema.org" }', type: "application/ld+json" }]
 	}
 };
 </script>

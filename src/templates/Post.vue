@@ -18,7 +18,7 @@
 					<div class="author__content text-component v-space-xxs">
 						<p class="text-sm color-contrast-medium">
 							<time class="text-sm color-inherit" :datetime="$page.post.datetime">{{ $page.post.humanTime }}</time
-							>&mdash; {{ $page.post.timeToRead }} min
+							>&mdash; {{ $page.post.timeToRead }} min čitanja
 						</p>
 					</div>
 				</div>
@@ -43,6 +43,7 @@
       title
       image
       image_caption
+			tagsMeta
       excerpt
       imageTwo {
         path
@@ -71,7 +72,7 @@ export default {
 			titleTemplate: this.$page.post.title + " - Aloja Vera",
 
 			meta: [
-				{ name: "description", content: this.$page.post.metaDesc },
+				{ name: "description", content: this.$page.post.tagsMeta },
 
 				{
 					key: "og:image",
@@ -93,7 +94,7 @@ export default {
 				{
 					key: "og:description",
 					name: "og:description",
-					content: this.$page.post.metaDesc,
+					content: this.$page.post.tagsMeta,
 				},
 				{
 					key: "twitter:title",
@@ -103,7 +104,7 @@ export default {
 				{
 					key: "twitter:description",
 					name: "twitter:description",
-					content: this.$page.post.metaDesc,
+					content: this.$page.post.tagsMeta,
 				},
 				{
 					key: "twitter:image",
