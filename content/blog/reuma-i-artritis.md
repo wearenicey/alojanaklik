@@ -1,6 +1,6 @@
 ---
 title: Reuma i artritis. Koja je razlika?
-tags: Ishrana po bolestima
+tags: Zdravlje
 tagsMeta: Gubitak snage, bolovi u zglobovima... simptomi reume i artritisa, dijagnostika i načini lečenja.
 excerpt: Često se pitate šta je uzrok koji izaziva mišićnu slabost i gubitak energije.
 created: 2022-06-28
@@ -14,7 +14,6 @@ featured: true
 ---
 
 
-Reuma i Artritis ꟾ Koja je razlika?
 
 Bolovi u kolenu pri penjanju uz stepenice, bolovi u prstima kojima je nemoguće obavljati svakodnevne aktivnosti, otečeni zglobovi, sve to muči kako mlađu, tako i stariju populaciju.
 
@@ -173,7 +172,7 @@ Izbegavajte što više prženu i pečenu hranu. Barena hrana se preporučuje.
 
 Takođe, pored zdrave i raznovrsne ishrane preporuka je da se uzimaju određeni suplementi koji će ubrzati lečenje i samim tim doprineti da bol nestane.
 
-[Forever Move](https://flpshop.rs/dodaci-ishrani/11800/forever-move-esm-complex/360000954255/personal.html) i [Forever Freedom](https://flpshop.rs/napici/11619/forever-freedom/360000954255/personal.html) su najnoviji Foreverovi klinički ispitani preparati koji se koriste kao dodaci ishrani čijim ćete konzumiranjem i pravilnim korišćenjem  osetiti olakšanje pri kretanju i fleksibilnost pokreta. Forever Freedom sadrži materije koje pospešuju i održavaju bolji rad vezivnog tkiva i daje pokretljivost zglobova. Ima prijatan ukus narandže.  
+[Forever Move](https://flpshop.rs/dodaci-ishrani/11800/forever-move-esm-complex/360000954255/personal.html) i [Forever Freedom](https://flpshop.rs/napici/11619/forever-freedom/360000954255/personal.html) su najnoviji klinički ispitani preparati koji se koriste kao dodaci ishrani čijim ćete konzumiranjem i pravilnim korišćenjem  osetiti olakšanje pri kretanju i fleksibilnost pokreta. Forever Freedom sadrži materije koje pospešuju i održavaju bolji rad vezivnog tkiva i daje pokretljivost zglobova. Ima prijatan ukus narandže.  
 
 Jako je bitno imati svest o tome da ćete pravilnom ishranom i izbacivanjem loših navika iz Vašeg života bitno uticati na opšte stanje Vašeg organizma, a samim tim doprineti lečenju reumatskih oboljenja.
 

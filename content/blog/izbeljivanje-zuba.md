@@ -2,7 +2,7 @@
 title: Izbeljivanje zube kod kuće. Koliko je bezbedno?
 tags: Lična higijena
 tagsMeta: Da li je neophodno posetiti stomatologa radi izbeljivanje zuba? Prirodni načini sa kojima možete doći do blistavog osmeha.
-excerpt: Često se pitate šta je uzrok koji izaziva mišićnu slabost i gubitak energije.
+excerpt: Niste zadovoljni belinom svojih zuba i odlučni ste u nameri da povratite svoj blistav osmeh.
 created: 2022-06-28
 image: izbeljivanje-zuba-slika1.jpg
 
@@ -36,7 +36,7 @@ Konstantnim i dugotrajnim unosom nezdrave hrane, utičemo na zubnu gleđ, time s
 - Trakice predstavljaju preparat za izbeljivanje zuba u vidu tankih i lepljivih najlonskih folija, koje se koriste za uklanjanje žute boje sa površine zubne gleđi. 
 - Prozirne su, ne primećuju se tokom nošenja i ne smetaju pri korišćenju.
 - Glavni sastojak ovih trakica je gel koji se sastoji od vodonik peroksida (hidrogen), i nalazi se na unutrašnjoj strani trakica. 
-- [Kako rade ove trakice](https://www.healthline.com/health/dental-and-oral-health/best-teeth-whitening#about-strips)?
+- Kako rade ove [trakice](https://www.healthline.com/health/dental-and-oral-health/best-teeth-whitening#about-strips)?
 - Pod dejstvom toplote usne duplje, dolazi do razgradnje hidrogena na aktivni koseonik i vodu. Molekuli kiseonika ulaze u zubnu gleđ, potom, oksidacijom se stvaraju mehurići koji izbeljuju i spiraju flekice i mrlje sa zuba.
 - Za bolju efikasnost preporuka je da izvršite skidanje kamenca, uklanjanje naslaga i poliranje zuba kod stomatologa, pre samog korišćenja trakica za izbeljivanje zuba.
 
@@ -56,7 +56,7 @@ Pranje zuba je za većinu ljudi dosadan i naporan proces i to je glavni uzrok ne
 
 S obzirom da na tržištu postoji veliki broj različitih **pasta za izbeljivanje zuba**, jako je bitno izabrati kvalitetnu pastu čijom upotrebom ćemo postići željeni efekat. 
 
-U liniji **Forever** proizvoda, izdvojila se i najbolja pasta za izbeljivanje zuba koja postoji na našem tržištu, [Forever Bright Toothgel](https://flpshop.rs/licna-higijena/11668/forever-bright-toothgel/360000954255/personal.html), koja ne sadrži fluor, ima blagotvorno dejstvo na usnu duplju i ne oštećuje zubnu gleđ. Prijatnog je ukusa i mirisa peperminta, koji Vašim ustima daje svežinu i osećaj čistoće. Sadržaj  Aloja Vere i propolisa pomaže kod umirenja desni i sluzokože usne duplje, direktnim korišćenjem na bolno mesto. 
+U liniji **Forever** proizvoda, izdvojila se pasta za izbeljivanje zuba koja postoji na našem tržištu, [Forever Bright Toothgel](https://flpshop.rs/licna-higijena/11668/forever-bright-toothgel/360000954255/personal.html), koja ne sadrži fluor, ima blagotvorno dejstvo na usnu duplju i ne oštećuje zubnu gleđ. Prijatnog je ukusa i mirisa peperminta, koji Vašim ustima daje svežinu i osećaj čistoće. Sadržaj  Aloja Vere i propolisa pomaže kod umirenja desni i sluzokože usne duplje, direktnim korišćenjem na bolno mesto. 
 
 Pogodna je za celu porodicu, kao i za vegeterijance. Za najbolji efekat, prati zube ovom pastom nakon svakog obroka.
 

@@ -130,7 +130,7 @@ Najefikasnije dejstvo vitamina B12 je kada se unese u organizam sublingvalno (po
 8. Trudnice - 2,6 μg;
 9. Dojilje - 2,8 μg.
 
-Ukoliko imate neke od simptoma [nedostatka vitamina B12](https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html): **malaksalost, gubitak apetita, konstipaciju** (zatvor) ili imate problem sa želucem, pijete velike količine kafe, unosite alkohol, dugo vremena pijete lekove za regulisanje kiseline, prešli ste 65-tu godinu, vegan ste ili vegetarijanac, imali ste **operaciju creva** onda verovatno imate manjak vitamina B12. Važno je obratiti se svome lekaru i odraditi laboratorijske analize koje će potvrditi vaše sumnje. Najlakši i najefikasniji način regulisanja dnevnih potreba [vitamina B12](https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html) je putem hrane životinjskog porekla (meso, mleko, jaja, riba, jetra, žitarice) i [putem suplementa](https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html). 
+Ukoliko imate neke od simptoma nedostatka vitamina B12: **malaksalost, gubitak apetita, konstipaciju** (zatvor) ili imate problem sa želucem, pijete velike količine kafe, unosite alkohol, dugo vremena pijete lekove za regulisanje kiseline, prešli ste 65-tu godinu, vegan ste ili vegetarijanac, imali ste **operaciju creva** onda verovatno imate manjak vitamina B12. Važno je obratiti se svome lekaru i odraditi laboratorijske analize koje će potvrditi vaše sumnje. Najlakši i najefikasniji način regulisanja dnevnih potreba vitamina B12 je putem hrane životinjskog porekla (meso, mleko, jaja, riba, jetra, žitarice) i putem suplementa. 
 
 
 

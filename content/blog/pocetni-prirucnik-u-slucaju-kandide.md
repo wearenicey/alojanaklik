@@ -92,43 +92,63 @@ Na ovaj način eliminišu se supstance kojima se kandida „hrani“, pa se zaus
 
 **PROTEINI**
 
-**Dozvoljeni:** piletina, ćuretina, jaja, riba (losos, haringa, sardina, inćuni; **zabranjeni:** mesne prerađevine, svinjetina i riba iz ribnjaka.
+**Dozvoljeni:** piletina, ćuretina, jaja, riba (losos, haringa, sardina, inćuni; 
+
+**zabranjeni:** mesne prerađevine, svinjetina i riba iz ribnjaka.
 
 **MASNOĆE**
 
-**Dozvoljeni:** avokado, maslinovo, kokosovo, susamovo i laneno ulje; **zabranjeni:** margarin, svinjska mast, rafinisana ulja poput suncokretovog.
+**Dozvoljeni:** avokado, maslinovo, kokosovo, susamovo i laneno ulje; 
+
+**zabranjeni:** margarin, svinjska mast, rafinisana ulja poput suncokretovog.
 
 **ORAŠASTI PLODOVI I SEMENKE**
 
-**Dozvoljeni:** bademi, kokos, lešnici, suncokret, lan; **zabranjeni:** kikiriki, indijski orah, pekan i pistaći.
+**Dozvoljeni:** bademi, kokos, lešnici, suncokret, lan; 
+
+**zabranjeni:** kikiriki, indijski orah, pekan i pistaći.
 
 **POVRĆE**
 
-**Dozvoljeni:** brokoli, kelj, prokelj, luk, paradajz, kupus, celer, krastavac, beli luk, patlidžan, spanać, tikvice; **zabranjeni:** grašak, pasulj, krompir, kukuruz, batat.
+**Dozvoljeni:** brokoli, kelj, prokelj, luk, paradajz, kupus, celer, krastavac, beli luk, patlidžan, spanać, tikvice; 
+
+**zabranjeni:** grašak, pasulj, krompir, kukuruz, batat.
 
 **VOĆE**
 
-**Dozvoljeni:** limun, limeta, masline, bobičasto voće u umerenim količinama; **zabranjeni:** banane, urme, grožđe, mango i ostalo voće bogato šećerom.
+**Dozvoljeni:** limun, limeta, masline, bobičasto voće u umerenim količinama; 
+
+**zabranjeni:** banane, urme, grožđe, mango i ostalo voće bogato šećerom.
 
 **ŽITARICE I PSEUDOŽITARICE**
 
-**Dozvoljeni:** kinoa, ovsene mekinje, heljda, proso, pirinač, tef brašno; **zabranjeni:** pšenica, raž, spelta i ječam.
+**Dozvoljeni:** kinoa, ovsene mekinje, heljda, proso, pirinač, tef brašno; 
+
+**zabranjeni:** pšenica, raž, spelta i ječam.
 
 **MLEČNI PROIZVODI**
 
-**Dozvoljeni:** jogurt i kefir koji sadrže probiotike; **zabranjeni:** sir, mleko i pavlaka.
+**Dozvoljeni:** jogurt i kefir koji sadrže probiotike; 
+
+**zabranjeni:** sir, mleko i pavlaka.
 
 **ZASLAĐIVAČI**
 
-**Dozvoljeni:** stevia, erythritol i xylitol; **zabranjeni:** kukuruzni, javorov i sirup od trske, agava, melasa, med, šećer i aspartam.
+**Dozvoljeni:** stevia, erythritol i xylitol; 
+
+**zabranjeni:** kukuruzni, javorov i sirup od trske, agava, melasa, med, šećer i aspartam.
 
 **NAPICI**
 
-**Dozvoljeni:** voda, nezaslađeni biljni čajevi; **zabranjeni:** kafa, energetska pića, sokovi, vino, pivo.
+**Dozvoljeni:** voda, nezaslađeni biljni čajevi; 
+
+**zabranjeni:** kafa, energetska pića, sokovi, vino, pivo.
 
 **DODACI JELIMA**
 
-**Dozvoljeni:** biber, so, cimet, mirođija, đumbir, origano, paprika u prahu, ruzmarin, kurkuma, majčina dušica; **zabranjeni:** kečap, majonez, soja sos, sirće i ostali dodaci koji sadrže nepreporučene namirnice.
+**Dozvoljeni:** biber, so, cimet, mirođija, đumbir, origano, paprika u prahu, ruzmarin, kurkuma, majčina dušica; 
+
+**zabranjeni:** kečap, majonez, soja sos, sirće i ostali dodaci koji sadrže nepreporučene namirnice.
 
 Danas su na internetu dostupni [odlični recepti](https://www.thecandidadiet.com/recipe-type/lunch-dinner/) za anti kandida dijetu, ali ih uz malo mašte i volje možete i sami stvarati uživajući baš u onim namirnicama koje najviše volite ili su vam najdostupnije.
 

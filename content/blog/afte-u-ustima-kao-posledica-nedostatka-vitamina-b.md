@@ -1,6 +1,6 @@
 ---
 title: Afte u ustima kao posledica nedostatka vitamina B
-tags: Zdravlje
+tags: Ishrana po bolestima
 tagsMeta: Kratak tekst koji se odnosi na afte. Šta je uzrok, kako se razlikuju i kako ih prepoznati.
 excerpt: Afte u ustima su bolne lezije, odnosno ranice bele boje koje nastaju na sluzokoži usne duplje ili jeziku.
 created: 2022-08-16

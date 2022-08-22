@@ -95,15 +95,15 @@ Ako se teži što bržem i što efikasnijem izlečenju, najbolje je izbegavati o
 
 **Prevencija**
 
-Sad kad smo predstavili najbitnije činjenice u vezi kandide i vaginalne infekcije koju ona može izazvati, mere [prevencije](https://www.healthline.com/health/are-yeast-infections-contagious#prevention) prirodno nam se nameću kao deo stila života.
+Sad kad smo predstavili najbitnije činjenice u vezi kandide i vaginalne infekcije koju ona može izazvati, mere [prevencije](https://www.healthline.com/health/are-yeast-infections-contagious#prevention) prirodno nam se nameću kao deo stila života. Portebno je izbegavati sledeće:
 
-- Izbegavati tanga gaćice, tesan i nepamučni donji veš;
-- Izbegavati ispiranje vagine pumpicama ili direktno uperenim tuširanjem zbog rizika da se eliminišu korisne bakterije iz vagine koje bi sprečile prekomerni rast kandide;
-- Izbegavati parfemisane uloške, tampone i ostale proizvode za intimnu higijenu;
-- Izbegavati vruće kupke i pranje vagine sapunom neadekvatne ph vrednosti, a posle pranja dobro osušiti intimne delove čistim peškirom ili ubrusom;
-- Izbegavati uzimanje antibiotika ukoliko nisu zaista neophodni;
-- Izbegavati nošenje mokrih kupaćih kostima posle kupanja u bazenima, morima i sl., kao i znojavog donjeg veša posle fizičkih treninga;
-- Izbegavati prekomerni unos šećera i alkohola.
+- tanga gaćice, tesan i nepamučni donji veš;
+- ispiranje vagine pumpicama ili direktno uperenim tuširanjem zbog rizika da se eliminišu korisne bakterije iz vagine koje bi sprečile prekomerni rast kandide;
+- parfemisane uloške, tampone i ostale proizvode za intimnu higijenu;
+- vruće kupke i pranje vagine sapunom neadekvatne ph vrednosti, a posle pranja dobro osušiti intimne delove čistim peškirom ili ubrusom;
+- uzimanje antibiotika ukoliko nisu zaista neophodni;
+- nošenje mokrih kupaćih kostima posle kupanja u bazenima, morima i sl, kao i znojavog donjeg veša posle fizičkih treninga;
+- prekomerni unos šećera i alkohola.
 
 
 Ukoliko imate vaginalnu kandidijazu, a antimikotici vam ne pomažu i simptomi čak postaju gori, potrebno je ponovo se posavetovati sa lekarom, jer postoji šansa da uopšte nije u pitanju gljivična već bakterijska infekcija.

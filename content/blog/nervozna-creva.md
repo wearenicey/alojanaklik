@@ -15,7 +15,7 @@ featured: true
 
 
 
-U poslednje vreme primetili ste da imate problema sa stomakom. Imate grčeve, zatvor ili dijareju? Gasovi Vam dodatno otežavaju situaciju i pitate se kada će to sve prestati. Da li imate sve ove simptome ili samo neke od njih? 
+Da li imate sve ove simptome ili samo neke od njih? 
 
 Neki od ovih simptoma mogu ukazati da bolujete od **sindroma iritabilnog kolona**. Drugi naziv za ovo oboljenje je **sindrom nervoznih creva**.
 

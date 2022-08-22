@@ -1,8 +1,8 @@
 ---
 title: Dijabetes tip 2 - 10 načina kako da se spreči
-tags: Dijabetes
+tags: Zdravlje
 tagsMeta: Šta je dijabetes Tip 2? Tekst o tome kako prpoznati simptome i šta učiniti kako biste pomogli svomwe zdravlju? 
-excerpt: Termine dijabetes i dijabetes tip 2 vrlo često vezujemo za probleme modernog čoveka i ubrzanog načina života.
+excerpt: Da li znate na koje sve načine može da se umanji mogućnost nastanka dijabetesa?
 created: 2022-06-24
 image: dijabetes-tip-2-slika2.jpg
 

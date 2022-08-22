@@ -36,7 +36,7 @@ Koliko god oni bili neugodni, postoje relativno [laki načini](https://www.webmd
 
 ## 9 lakih načina kako da se izborite sa anksioznošću
 
-1. **Ustanovite šta je okidač**
+**Ustanovite šta je okidač**
 
 Prisetite se i napravite listu lokacija i vremena kada ste osećali anksioznost.
 
@@ -44,7 +44,7 @@ Sada pokušajte da uočite šta je to što se u tim situacijama ponavlja. Okida�
 
 Kada postanete svesni šta vas to čini anksioznim, pronaćićete vama **najzgodniji način da se sa tim situacijama ili ređe srećete ili bolje sebe pripremite** na njih i počnete da ih posmatrate iz jedne druge perspektive koja vas ne pogađa na taj način.  
 
-2. **Ograničite vreme koje ćete posvetiti problemima koji vas brinu**
+**Ograničite vreme koje ćete posvetiti problemima koji vas brinu**
 
 Odredite kojih pola sata u toku dana ćete da razmislite o tome šta vas brine i  odlučite šta ćete da postupite po tom pitanju.
 
@@ -52,13 +52,13 @@ Izbegavajte brige oko situacija koje se nisu desile i nemate kontrolu nad njihov
 
 A ostatak dana uživajte u svojim normalnim aktivnostima. Ukoliko počnete da razmišljate o brigama,  Ukoliko počnete da razmišljate o brigama , pljesnite rukama i glasno izgovorite reč STOP!
 
-3. **Promenite fokus** 
+**Promenite fokus** 
 
 Život jeste nepredvidiv i mi zaista ne možemo da kontrolišemo sve što se oko nas dešava. Umesto da brinete oko stvari koje se nisu ni desile, pokušajte da primenjujete praksu odavanja zahvalnosti za ono što imate. 
 
 Pred odlazak na spavanje zapišite, možda u formi dnevnika, na čemu ste sve zahvalni. Od krova nad glavom i punog stomaka, do ljubavi partnera i/ili dece, prijateljske pomoći, sunčanog vremena, zdravlja. Svaki dan ponešto napišite i videćete kako se vremenom menja perspektiva i stanje svesti.
 
-4. **Posvetite više vremena aktivnostima koje vam nisu stresne**
+**Posvetite više vremena aktivnostima koje vam nisu stresne**
 
 Ono što je kod jednog čoveka okidač za anksioznost, kod drugog može biti izvor za relaksaciju. Nakon što **ustanovite šta vas relaksira**, inicirajte to i sprovodite to češće. 
 
@@ -66,7 +66,7 @@ Bilo da je u pitanju druženje sa dragim ljudima, čitanje knjiga, hobi, meditac
 
 Organizujte svoje vreme i [izdvojte deo za aktivnosti koje relaksiraju](https://www.verywellmind.com/manage-your-anxiety-2584184). Jednostavno je: duži deo dana ćete uživati, a time se kraće stresirati.
 
-5. **Povežite se sa ljudima u sličnoj situaciji**
+**Povežite se sa ljudima u sličnoj situaciji**
 
 Bilo fizički ili virtualno na raspolaganju su vam različite [grupe podrške](https://www.helpguide.org/articles/anxiety/generalized-anxiety-disorder-gad.htm). 
 
@@ -74,7 +74,7 @@ Učestvovanjem u aktivnostima ovih grupa doživećete olakšanje shvativši da n
 
 Deljenjem sopstvenog iskustva možda ćete vi biti u prilici da nekoj trećoj osobi pomognete ili ćete im postati inspiracija, što opet dovodi do porasta nivoa satisfakcije i samopouzdanja. 
 
-6. **Negujte svoje telo fizičkom aktivnošću**
+**Negujte svoje telo fizičkom aktivnošću**
 
 Idealno, 3 puta nedeljno po 30 minuta bavite se sportskom aktivnošću prema izboru koji vama odgovara. 
 
@@ -86,7 +86,7 @@ Ako težite nekim mirnijim fizičkim aktivnostima, praktikujte jogu. Osobe kojim
 
 ![vežbanjem protiv anksiooznosti](./images/kako-se-izboriti-sa-anksioznoscu-slika2.jpg)
 
-7. **Obezbedite sebi dovoljno kvalitetnog sna**
+**Obezbedite sebi dovoljno kvalitetnog sna**
 
 Nedovoljno sna ili [poremećaji spavanja](https://www.stetoskop.info/savremena-medicina/poremecaj-spavanja) često mogu izazvati nervozu. 
 
@@ -96,7 +96,7 @@ Ako imate problem da utonete u san ili se budite tokom noći, možda možete raz
 
 Najbolje je stvoriti neku rutinu i svaki dan odlaziti na spavanje u isto vreme. Pojačavanje unosa [magnezijuma](https://www.healthline.com/nutrition/magnesium-and-sleep#TOC_TITLE_HDR_3) sat vremena pred odlazak na spavanje pomoći će u opuštanju tela i uma. Takođe određene aromaterapije, konkretno miris lavande mogu biti odličan saveznik kvalitetnom snu zbog svog relaksirajućeg dejstva. 
 
-8. **Ograničite nivo unosa kofeina i izbegavajte alkohol i duvan**
+**Ograničite nivo unosa kofeina i izbegavajte alkohol i duvan**
 
 Bilo da se zbog kofeina osećate energičnije ili zbog alkohola opuštenije, oba stimulansa mogu biti okidači za anksioznost. 
 
@@ -106,7 +106,7 @@ Kada se spomene kofein, pored kafe, tu se misli i na određene čajeve, čokolad
 
 Konzumiranje alkohola od strane osobe koja već ima problema sa anksioznošću nikako se ne preporučuje. [Alkohol utiče na proizvonju serotonina](https://www.healthline.com/health/alcohol-and-anxiety), tzv. hormona sreće. Kada dejstvo alkohola popušta, osećaj anksioznosti biva veći nego inače.
 
-9.  **Pravilna ishrana i hidratacija**
+**Pravilna ishrana i hidratacija**
 
 Redovna hidratacija i konzumiranje češćih, a količinski manjih obroka, uz ravnomerni raspored proteina, masti i ugljenih hidrata i unos svežeg voća i povrća, osnov je, pre svega, fizičkom zdravlju, ali i zdravlju vašeg nervnog sistema.
 
@@ -138,5 +138,5 @@ Fizička aktivnost može biti i polusatna šetnja pored reke ili praktikovanje j
 
 Ako često konzumirate takozvanu brzu hranu, gledajte da se oslobodite te navike. Visok procenat masti i ugljenih hidrata utiču na drastične fluktuacije nivoa šećera u krvi, koji kada postane veoma nizak podstiče stvaranje simptoma anksioznosti. Priprema zdrave hrane ne mora da zahteva puno vremena. Pregršt je recepata na internetu sa predlozima za zdrave obroke u vremenski ograničenim uslovima. Isprobajte neke i vidite koji vam odgovaraju. 
 
-Anksioznost je sveprisutna danas najviše zbog stila života koji vodimo i okruženja u kojem se nalazimo. Prvi možemo da menjamo. Pokušajmoi uneti zdravije opcije u život kako bi smo ubuduće živeli kvalitetnije i srećnije.
+Anksioznost je sveprisutna danas najviše zbog stila života koji vodimo i okruženja u kojem se nalazimo. Prvi možemo da menjamo. Pokušajmo uneti i zdravije opcije u život kako bi smo ubuduće živeli kvalitetnije i srećnije.
 
