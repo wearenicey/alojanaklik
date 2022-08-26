@@ -9,7 +9,8 @@ imageTwo:
   path: ./images/prirodni-tretmani-resavanja-kandide-slika1.jpg
   alt: "A colorful building against a blue sky background"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: koji-su-nejefektniji-prirodni-tretmani-da-se-resite-kandide
+featured: false
 ---
 
 Kada se ponovo javi osećaj svraba, nadutosti, glavobolje, lošeg raspoloženja, već i sama pomisao na neugodnosti terapije, još više urušava urušava raspoloženje. Raste sumnja i strepnja hoće li ovog puta uspeti? Osoba se pita ima li možda još neki lek iz apoteke koji nije probala, iako zna da nema. Osećaj frustracije i bespomoćnosti u ovim trenucima često izazivaju ljutnju, a onda i odlučnost da se nešto promeni i da se okrene i nekim drugačijim metodama i preparatima koji lečenje mogu upotpuniti i učiniti trajnije efikasnim.

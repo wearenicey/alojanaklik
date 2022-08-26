@@ -10,7 +10,8 @@ imageTwo:
   path: ./images/nervozna-creva.jpg
   alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: da-li-kandida-utice-na-vas-seksualni-zivot
+featured: false
 ---
 
 Možda ste i vi imali iskustva kada vam dan krene lepo, naspavani ste i orni za predstojeće poslovne zadatke. A onda jedna po jedna neugodna situacija krene da se dešava. 

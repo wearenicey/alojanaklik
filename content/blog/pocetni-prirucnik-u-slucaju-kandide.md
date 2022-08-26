@@ -10,7 +10,8 @@ imageTwo:
   path: ./images/nervozna-creva.jpg
   alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: pocetni-prirucnik-u-slucaju-kandide
+featured: false
 ---
 
 Osećaj umora, manjka energije i entuzijazma sve češći su nam dnevni pratioci. Pripisujemo ih promeni vremenskih uslova, dolasku proleća, ubrzanom tempu rada na poslu, brigama oko porodice i finansijskog stanja, opterećenošću očekivanjima koje ljudi imaju od nas.

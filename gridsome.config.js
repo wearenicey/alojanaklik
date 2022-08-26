@@ -65,7 +65,7 @@ module.exports = {
 			use: "@gridsome/source-filesystem",
 			options: {
 				typeName: "Post",
-				path: "./content/blog/**/*.md",
+				path: "./content/blog/*.md",
 				remark: {
 					autolinkHeadings: false
 				},
@@ -74,11 +74,11 @@ module.exports = {
 					tags: {
 						typeName: "Tag",
 						create: true
-					},
-					category: {
-						typeName: "Category",
-						create: true
 					}
+					// category: {
+					// 	typeName: "Category",
+					// 	create: true
+					// }
 				}
 			}
 		},

@@ -10,7 +10,8 @@ imageTwo:
   path: ./images/nervozna-creva.jpg
   alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje
+featured: false
 ---
 
 

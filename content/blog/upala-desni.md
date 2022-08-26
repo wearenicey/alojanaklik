@@ -10,7 +10,8 @@ imageTwo:
   path: ./images/nervozna-creva.jpg
   alt: "nervozna creva"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: upala-desni
+featured: false
 ---
 
 

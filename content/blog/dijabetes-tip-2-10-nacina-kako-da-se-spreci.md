@@ -10,7 +10,8 @@ imageTwo:
   path: ./images/slika-1.jpg
   alt: "dijabetes"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: dijabetes-tip-2-10-nacina-kako-da-se-spreci
+featured: false
 ---
 
 

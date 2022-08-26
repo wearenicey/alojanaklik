@@ -9,6 +9,7 @@ imageTwo:
   path: ./images/slika-1.jpg
   alt: "A colorful building against a blue sky background"
 image_caption: Photo by Josh Spires on Unsplash
+path: vitamin-b12
 featured: true
 ---
 

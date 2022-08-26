@@ -9,7 +9,8 @@ imageTwo:
   path: ./images/moderan-cv-slika1.jpg
   alt: "moderan cv"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: moderan-cv-ulaznica-za-vasu-karijeru
+featured: false
 ---
 
 Živimo u modernim vremenima. 

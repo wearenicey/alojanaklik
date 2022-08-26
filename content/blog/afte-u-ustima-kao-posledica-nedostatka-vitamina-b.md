@@ -9,7 +9,8 @@ imageTwo:
   path: ./images/afte-u-ustima-slika1.jpg
   alt: "afte u ustima"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: afte-u-ustima-kao-posledica-nedostatka-vitamina-b
+featured: false
 ---
 
 Pamtite li period kada ste imali bol u ustima kao dete? Da li ste znali od čega nastaju te male kvržice koje zadaju bol? A da li znate kako ih se jednostavno rešiti?

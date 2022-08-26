@@ -40,6 +40,7 @@
 <page-query>
   query Post ($path: String!) {
   post: post (path: $path) {
+		path
       title
       image
       image_caption

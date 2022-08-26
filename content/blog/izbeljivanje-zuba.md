@@ -10,7 +10,8 @@ imageTwo:
   path: ./images/nervozna-creva.jpg
   alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
+path: izbeljivanje-zuba
+featured: false
 ---
 
 Opušteno je veče, sedite sa prijateljicom u restoranu i neobavezno pričate o događajima od tog dana. U jednom momentu  se na vratima restorana pojavljuje atraktivna devojka, koja se razdragano osmehuje, a Vi u tom trenutku prvo primećujete njene prelepe **bele zube**. Oduševljeni ste prizorom i lepotom njenih zuba i pitate se: „Kako doći do tako lepog osmeha“?

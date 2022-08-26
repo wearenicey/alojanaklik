@@ -5,13 +5,12 @@ tagsMeta: Kako ustanoviti kada imamo napad anksioznosti? Prepoznajte simptome i 
 excerpt: Okruženje u kojem živimo ne možemo mnogo menjati, sebe i svoj pogled na to okruženje i život kao takav možemo.
 created: 2022-07-02
 image: kako-se-izboriti-sa-anksioznoscu-slika1.jpg
-
 imageTwo:
   path: ./images/nervozna-creva.jpg
   alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
-featured: true
-metaDesc: "Naše telo je pametnije od nas. Ako mu nešto nedostaje ono pošalje vrlo jasne i direktne signale kako bismo mi zadovoljili te potrebe."
+path: kako-se-izboriti-sa-anksioznoscu
+featured: false
 ---
 
 Dan prepun obaveza, problemi na poslu, gužve u saobraćaju, telefon maltene usijan od zvonjenja, godišnji odmor ponovo odložen zbog pandemije, leganje u krevet i buđenje sa brigama u mislima, razočaranja na svakom koraku. 
