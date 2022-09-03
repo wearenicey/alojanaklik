@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/blog/content-blog-*"
+  to = "/blog/*"
+  status = 301  
