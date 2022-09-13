@@ -1,5 +1,5 @@
 ---
-title: Kako piti aloju veru - benefiti magične biljke
+title: Kako piti aloju veru - benefiti magične biljke?
 tags: O aloji
 tagsMeta: Zbog čega je aloja vera toliko korisna i u kako sve može da se koristi? Da li ima koristan efekat u slučaju tumora? Kratak opis aloje kao leka za određene poremećaje.
 excerpt: Da li ste nekada probali da rešite zdravstveni problem pomoću lekovitih biljaka? Da li znate lekovita svojstva aloje?

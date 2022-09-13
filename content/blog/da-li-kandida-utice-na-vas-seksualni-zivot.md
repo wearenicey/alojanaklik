@@ -1,5 +1,5 @@
 ---
-title: Da li kandida utiče na vaš seksualni život
+title: Da li kandida utiče na vaš seksualni život?
 tags: Zdravlje
 tagsMeta: Na koji način kandida može da utiče na Vaš seksualni život? Šta mmožemo da učinimo kao prevenciju i kako tretirati kandidu?
 excerpt: U trenucima kada smo na polju ljubavi potpuno zadovoljni često se čini da više ništa u životu ne može da pođe naopako. Nažalost, može, ali to ne znači da ljubav ili seksualni život moraju biti ugroženi.

@@ -1,5 +1,5 @@
 ---
-title: Koji su najefektniji prirodni tretmani da se rešite kandide
+title: Koji su najefektniji prirodni tretmani da se rešite kandide?
 tags: Ishrana po bolestima
 tagsMeta: Tekst o prirodnim preparatima, proizvodima i metodama kojima možete da lečite kandidu. Jednostavni načini da pomognete sebi u borbi protiv kandide.
 excerpt: Na pitanje kako lečiti kandidu, deo odgovora leži pored nas, u našim domovima.
