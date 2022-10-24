@@ -1,7 +1,7 @@
 ---
 title: 7 zlatnih pravila koje primenjuju osobe sa dijabetesom
 tags: Ishrana po bolestima
-tagsMeta: Kratak tekst koji se odnosi na afte. Šta je uzrok, kako se razlikuju i kako ih prepoznati.
+tagsMeta: Kako možemo korigovati svoj život u slučaju da smo oboleli od dijabetesa.
 excerpt: Da li osobe obolele od dijabetesa mogu živeti jednako kvaliteno, kao potpuno zdrave osobe?
 created: 2022-09-13
 image: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg

@@ -1,7 +1,7 @@
 ---
 title: Bol u donjem delu stomaka
 tags: Zdravlje
-tagsMeta: Upaljene desni mogu da budu veoma bolne. Zašto dolazi do upale, kako se leči i kako možemo da je sprečimo.
+tagsMeta: Svi smo ponekad osetili bol u donjem delu stomaka. Kako se može ublažiti i kada treba pozvati lekara? 
 excerpt: Zašto se javlja bol u stomaku? Koliko je bol u stomaku opasan po život čoveka? Da li ljudi sa čestim bolovima u stomaku mogu kvalitetno živeti?
 created: 2022-08-22
 image: bol-u-donjem-delu-stomaka-slika1.jpg

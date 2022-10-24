@@ -2,7 +2,7 @@
 title: Tri vrste bola u grudima koje nisu opasne po život
 tags: Zdravlje
 tagsMeta: Kako da prepoznamo bolove u grudima koji vam ne mogu ugroziti život. Koji su to simptomi i uzroci.
-excerpt: Koje su to bezopasne vrste bola koje vam neće ugroziti život.
+excerpt: Koje su to bezopasne vrste bola u grudima koje vam neće ugroziti život.
 created: 2022-08-23
 image: 3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
 
