@@ -8,8 +8,8 @@ image: pocetni-prirucnik-u-slucaju-kandide-slika1.jpg
 
 imageTwo:
   path: ./images/nervozna-creva.jpg
-  alt: "reuma i artritis"
-image_caption: Photo by Josh Spires on Unsplash
+  alt: "kandida i ishrana"
+image_caption: Photo by Nataliya Vaitkevich
 path: pocetni-prirucnik-u-slucaju-kandide
 featured: false
 ---
