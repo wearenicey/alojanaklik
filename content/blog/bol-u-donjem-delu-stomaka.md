@@ -9,7 +9,7 @@ alt:
 
 imageTwo:
   path: /img/bol-u-donjem-delu-stomaka-slika1.jpg
-  alt: "nervozna creva"
+  alt: "promeni""nervozna creva"
 image_caption: Photo by Josh Spires on Unsplash
 path: bol-u-donjem-delu-stomaka
 featured: false

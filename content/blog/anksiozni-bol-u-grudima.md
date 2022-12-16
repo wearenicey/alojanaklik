@@ -9,7 +9,7 @@ alt:
 
 imageTwo:
   path: /img/nervozna-creva.jpg
-  alt: "anksiozni bol u grudima"
+  alt: "promeni""anksiozni bol u grudima"
 image_caption: Photo by Josh Spires on Unsplash
 path: anksiozni-bol-u-grudima
 featured: false

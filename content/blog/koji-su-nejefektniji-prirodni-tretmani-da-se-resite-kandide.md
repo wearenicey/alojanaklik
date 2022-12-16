@@ -9,7 +9,7 @@ alt:
 
 imageTwo:
   path: /img/prirodni-tretmani-resavanja-kandide-slika1.jpg
-  alt: "A colorful building against a blue sky background"
+  alt: "promeni""A colorful building against a blue sky background"
 image_caption: Photo by Josh Spires on Unsplash
 path: koji-su-nejefektniji-prirodni-tretmani-da-se-resite-kandide
 featured: false

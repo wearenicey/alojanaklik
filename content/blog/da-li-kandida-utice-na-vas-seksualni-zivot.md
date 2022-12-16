@@ -9,7 +9,7 @@ alt:
 
 imageTwo:
   path: /img/nervozna-creva.jpg
-  alt: "reuma i artritis"
+  alt: "promeni""reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
 path: da-li-kandida-utice-na-vas-seksualni-zivot
 featured: false

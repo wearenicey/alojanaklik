@@ -9,7 +9,7 @@ alt:
 
 imageTwo:
   path: /img/nervozna-creva.jpg
-  alt: "kandida i ishrana"
+  alt: "promeni""kandida i ishrana"
 image_caption: Photo by Nataliya Vaitkevich
 path: pocetni-prirucnik-u-slucaju-kandide
 featured: false
