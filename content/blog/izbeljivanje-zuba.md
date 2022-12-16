@@ -5,11 +5,11 @@ tagsMeta: Da li je neophodno posetiti stomatologa radi izbeljivanje zuba? Prirod
 excerpt: Niste zadovoljni belinom svojih zuba i odlučni ste u nameri da povratite svoj blistav osmeh.
 created: 2022-06-28
 image: izbeljivanje-zuba-slika1.jpg
-alt:
+alt: "promeni"
 
 imageTwo:
   path: /img/nervozna-creva.jpg
-  alt: "promeni""reuma i artritis"
+  alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
 path: izbeljivanje-zuba
 featured: false

@@ -5,11 +5,11 @@ tagsMeta: Šta je dijabetes Tip 2? Tekst o tome kako prpoznati simptome i šta u
 excerpt: Da li znate na koje sve načine može da se umanji mogućnost nastanka dijabetesa?
 created: 2022-06-24
 image: dijabetes-tip-2-slika2.jpg
-alt:
+alt: "promeni"
 
 imageTwo:
   path: /img/slika-1.jpg
-  alt: "promeni""dijabetes"
+  alt: "dijabetes"
 image_caption: Photo by Josh Spires on Unsplash
 path: dijabetes-tip-2-10-nacina-kako-da-se-spreci
 featured: false

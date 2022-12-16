@@ -9,7 +9,7 @@ alt: "promeni"
 
 imageTwo:
   path: /img/3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
-  alt: "promeni""anksiozni bol u grudima"
+  alt: "anksiozni bol u grudima"
 image_caption: Photo by Josh Spires on Unsplash
 path: 3-vrste-bola-u-grudima-koje-nisu-opasne-po-zivot
 featured: false

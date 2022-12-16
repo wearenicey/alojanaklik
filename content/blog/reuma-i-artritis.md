@@ -5,11 +5,11 @@ tagsMeta: Gubitak snage, bolovi u zglobovima... simptomi reume i artritisa, dija
 excerpt: Često se pitate šta je uzrok koji izaziva mišićnu slabost i gubitak energije.
 created: 2022-06-28
 image: reuma-i-artritis-slika1.jpg
-alt:
+alt: "promeni"
 
 imageTwo:
   path: /img/nervozna-creva.jpg
-  alt: "promeni""reuma i artritis"
+  alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
 path: reuma-i-artritis
 featured: false

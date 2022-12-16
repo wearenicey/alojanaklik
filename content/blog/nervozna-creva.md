@@ -5,11 +5,11 @@ tagsMeta: Kako se prepoznaju simptomi nervoznih creva? Zašto se problem javlja 
 excerpt: Imate grčeve, zatvor ili dijareju? Gasovi Vam dodatno otežavaju situaciju i pitate se kada će to sve prestati.
 created: 2022-06-25
 image: nervozna-creva.jpg
-alt:
+alt: "promeni"
 
 imageTwo:
   path: /img/nervozna-creva.jpg
-  alt: "promeni""nervozna creva"
+  alt: "nervozna creva"
 image_caption: Photo by Josh Spires on Unsplash
 path: nervozna-creva
 featured: false

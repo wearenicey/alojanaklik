@@ -5,11 +5,11 @@ tagsMeta: Upaljene desni mogu da budu veoma bolne. Zašto dolazi do upale, kako 
 excerpt: Nedovoljna oralna higijena je jedan od uzroka koji može uticati na pojavu promena na desnima.
 created: 2022-06-25
 image: upala-desni-slika1.jpg
-alt:
+alt: "promeni"
 
 imageTwo:
   path: /img/nervozna-creva.jpg
-  alt: "promeni""nervozna creva"
+  alt: "nervozna creva"
 image_caption: Photo by Josh Spires on Unsplash
 path: upala-desni
 featured: false

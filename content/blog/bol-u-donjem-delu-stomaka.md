@@ -5,11 +5,11 @@ tagsMeta: Svi smo ponekad osetili bol u donjem delu stomaka. Kako se može ubla�
 excerpt: Zašto se javlja bol u stomaku? Koliko je bol u stomaku opasan po život čoveka? Da li ljudi sa čestim bolovima u stomaku mogu kvalitetno živeti?
 created: 2022-08-22
 image: bol-u-donjem-delu-stomaka-slika1.jpg
-alt:
+alt: "promeni"
 
 imageTwo:
   path: /img/bol-u-donjem-delu-stomaka-slika1.jpg
-  alt: "promeni""nervozna creva"
+  alt: "nervozna creva"
 image_caption: Photo by Josh Spires on Unsplash
 path: bol-u-donjem-delu-stomaka
 featured: false
