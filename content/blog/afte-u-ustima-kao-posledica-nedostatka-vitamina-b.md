@@ -5,8 +5,10 @@ tagsMeta: Kratak tekst koji se odnosi na afte. Šta je uzrok, kako se razlikuju 
 excerpt: Afte u ustima su bolne lezije, odnosno ranice bele boje koje nastaju na sluzokoži usne duplje ili jeziku.
 created: 2022-08-16
 image: afte-u-ustima-slika1.jpg
+alt:
+
 imageTwo:
-  path: ./images/afte-u-ustima-slika1.jpg
+  path: /img/afte-u-ustima-slika1.jpg
   alt: "afte u ustima"
 image_caption: Photo by Josh Spires on Unsplash
 path: afte-u-ustima-kao-posledica-nedostatka-vitamina-b

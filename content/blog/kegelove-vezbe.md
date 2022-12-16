@@ -5,8 +5,10 @@ tagsMeta: Šta su kegelove vežbeI da li mogu da pomognu u slučaju problemi koj
 excerpt: Kada se pomenu Kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene.
 created: 2022-06-25
 image: kegelove-vezbe-slika3.jpg
+alt:
+
 imageTwo:
-  path: ./images/nervozna-creva.jpg
+  path: /img/nervozna-creva.jpg
   alt: "nervozna creva"
 image_caption: Photo by Josh Spires on Unsplash
 path: kegelove-vezbe

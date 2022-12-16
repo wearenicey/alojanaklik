@@ -25,7 +25,7 @@
 			</header>
 
 			<figure class="container max-width-md margin-bottom-lg">
-				<g-image :src="require(`!!assets-loader!@img/${$page.post.image}`)" class="width-100%"></g-image>
+				<g-image :src="require(`!!assets-loader!@img/${$page.post.image}`)" class="width-100%" :alt="$page.post.alt"></g-image>
 			</figure>
 
 			<div class="container max-width-adaptive-sm">
@@ -43,6 +43,7 @@
 		path
       title
       image
+			alt
       image_caption
 			tagsMeta
       excerpt

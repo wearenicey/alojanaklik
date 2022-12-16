@@ -5,8 +5,9 @@ tagsMeta: Insulinska rezistencija je sve učestalija pojava. Trebalo bi da upozn
 excerpt: Da li je insulinska rezistencija izlečiva? Zbog čega sve veći broj populacije oboljeva od ove nevidljive bolesti?
 created: 2022-10-06
 image: insulinska-rezistencija-slika1.jpg
+alt:
 imageTwo:
-  path: ./images/insulinska-rezistencija-slika1.jpg
+  path: /img/insulinska-rezistencija-slika1.jpg
   alt: "dijabetes tip 2"
 image_caption: Photo by Josh Spires on Unsplash
 path: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom

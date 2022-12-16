@@ -5,9 +5,10 @@ tagsMeta: Kako da prepoznamo bolove u grudima koji vam ne mogu ugroziti život. 
 excerpt: Koje su to bezopasne vrste bola u grudima koje vam neće ugroziti život.
 created: 2022-08-23
 image: 3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
+alt:
 
 imageTwo:
-  path: ./images/3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
+  path: /img/3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
   alt: "anksiozni bol u grudima"
 image_caption: Photo by Josh Spires on Unsplash
 path: 3-vrste-bola-u-grudima-koje-nisu-opasne-po-zivot
