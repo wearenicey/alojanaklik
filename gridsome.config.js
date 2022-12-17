@@ -19,13 +19,6 @@ module.exports = {
 		},
 
 		{
-			use: "@gridsome/plugin-sitemap",
-			options: {
-				exclude: ["/privacy", "/legal"]
-			}
-		},
-
-		{
 			use: "@gridsome/source-airtable",
 			options: {
 				// Add these to a .env file
