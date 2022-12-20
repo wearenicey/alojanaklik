@@ -8,7 +8,7 @@ image: pocetni-prirucnik-u-slucaju-kandide-slika1.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/nervozna-creva.jpg
+  path: /nervozna-creva.jpg
   alt: "kandida i ishrana"
 image_caption: Photo by Nataliya Vaitkevich
 path: pocetni-prirucnik-u-slucaju-kandide

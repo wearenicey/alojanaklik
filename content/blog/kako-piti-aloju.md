@@ -8,7 +8,7 @@ image: aloe-vera-blog-1.webp
 alt: "promeni"
 
 imageTwo:
-  path: /img/slika-1.jpg
+  path: /slika-1.jpg
   alt: "A colorful building against a blue sky background"
 image_caption: Photo by Josh Spires on Unsplash
 path: kako-piti-aloju

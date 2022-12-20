@@ -8,7 +8,7 @@ image: afte-u-ustima-slika1.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/afte-u-ustima-slika1.jpg
+  path: /afte-u-ustima-slika1.jpg
   alt: "afte u ustima"
 image_caption: Photo by Josh Spires on Unsplash
 path: afte-u-ustima-kao-posledica-nedostatka-vitamina-b

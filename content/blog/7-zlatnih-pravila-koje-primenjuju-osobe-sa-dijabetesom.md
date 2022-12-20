@@ -8,7 +8,7 @@ image: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg
+  path: /7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg
   alt: "dijabetes tip 2"
 image_caption: Photo by Josh Spires on Unsplash
 path: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom

@@ -8,7 +8,7 @@ image: mediteranska-dijeta-slika1.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/mediteranska-dijeta-slika1.jpg
+  path: /mediteranska-dijeta-slika1.jpg
   alt: "dijabetes"
 image_caption: Photo by Josh Spires on Unsplash
 path: mediteranska-dijeta

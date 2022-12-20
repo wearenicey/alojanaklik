@@ -8,7 +8,7 @@ image: keto-dijeta-dijabetes-slika1.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/nervozna-creva.jpg
+  path: /nervozna-creva.jpg
   alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
 path: kako-keto-dijeta-utice-na-dijabetes

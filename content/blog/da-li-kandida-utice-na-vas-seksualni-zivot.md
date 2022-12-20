@@ -8,7 +8,7 @@ image: da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/nervozna-creva.jpg
+  path: /nervozna-creva.jpg
   alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
 path: da-li-kandida-utice-na-vas-seksualni-zivot

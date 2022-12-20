@@ -8,7 +8,7 @@ image: dijabetes-tip-2-slika2.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/slika-1.jpg
+  path: /slika-1.jpg
   alt: "dijabetes"
 image_caption: Photo by Josh Spires on Unsplash
 path: dijabetes-tip-2-10-nacina-kako-da-se-spreci

@@ -8,7 +8,7 @@ image: insulinska-rezistencija-slika1.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/insulinska-rezistencija-slika1.jpg
+  path: /insulinska-rezistencija-slika1.jpg
   alt: "dijabetes tip 2"
 image_caption: Photo by Josh Spires on Unsplash
 path: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom

@@ -8,7 +8,7 @@ image: nervozna-creva.jpg
 alt: "promeni"
 
 imageTwo:
-  path: /img/nervozna-creva.jpg
+  path: /nervozna-creva.jpg
   alt: "nervozna creva"
 image_caption: Photo by Josh Spires on Unsplash
 path: nervozna-creva
