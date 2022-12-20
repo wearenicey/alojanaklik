@@ -5,10 +5,10 @@ tagsMeta: Zbog čega je aloja vera toliko korisna i u kako sve može da se koris
 excerpt: Da li ste nekada probali da rešite zdravstveni problem pomoću lekovitih biljaka? Da li znate lekovita svojstva aloje?
 created: 2021-10-09
 image: aloe-vera-blog-1.webp
-alt: "promeni"
+alt: "Kako piti aloju"
 
 imageTwo:
-  path: /slika-1.jpg
+  path: /kako-piti-aloju.jpg
   alt: "A colorful building against a blue sky background"
 image_caption: Photo by Josh Spires on Unsplash
 path: kako-piti-aloju
