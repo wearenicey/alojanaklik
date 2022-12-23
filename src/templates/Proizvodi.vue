@@ -287,8 +287,8 @@ export default {
 	// meta deskripcija
 	metaInfo() {
 		return {
-			title: this.$page.event.pageTitle + "| Aloja proizvodi",
-			titleTemplate: this.$page.event.pageTitle + "| Aloja proizvodi",
+			title: this.$page.event.pageTitle + " | Aloja proizvodi",
+			titleTemplate: this.$page.event.pageTitle + " | Aloja proizvodi",
 			meta: [{ key: "description", name: "description", content: this.$page.event.metaDesc }]
 		};
 	},
