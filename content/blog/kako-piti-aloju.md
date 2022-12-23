@@ -9,7 +9,7 @@ alt: "Kako piti aloju"
 
 imageTwo:
   path: /kako-piti-aloju.jpg
-  alt: "A colorful building against a blue sky background"
+  alt: "ispravna upotreba aloje"
 image_caption: Photo by Josh Spires on Unsplash
 path: kako-piti-aloju
 featured: false
@@ -81,7 +81,7 @@ Krema za sunčanje je idealna u borbi protiv visokog UV zračenja i štetnog uti
 Poznato je da aloja ima izvrsno dejstvo kad rešavanja želudačnih smetnji. Aloja sadži glikoproteine zvane aktin i sterol koji smanjuju upale i rane na sluznici želuca. S obzirom da sadrži enzime koji su neophodni za varenje veoma je efikasna za sprečavanje zatvora i detoksikaciju organizma. Aloja je poznata kao biljka koja ima protivbakterijsko dejstvo te je pogodna za suzbijanje helikobakterije, uzročnika gastritisa. Poznato je da je aloja alkalna po svom sastavu te je izvrsna u održavanju PH vrednosti želudačne kiseline. Reguliše kako višak, tako i manjak želudačne kiseline. Proizvod koji može zadovoljiti sve vaše potrebe po pitanju želudačnih smetnji je [aloe vera gel](https://flpshop.rs/napici/11837/forever-aloe-vera-gel/360000954255/personal.html).
 Aloja vera gel sadrži 99,7% čistog gela iz lista aloje te omogućava sistemu za varenje da apsorbuje sve hranljive sastojke iz hrane. Ujedno podstiče i stvaranje dobrih bakterija. Polisaharid acemanan podiže imunitet organizma. Ne sadrži konzervanse i pakovan je u ambalaži od materijala koji je 100% recikliran. Pije se 120 ml dnevno ukupno, podeljeno u 2 ili 3 doze. Nakon otvaranja čuva se u frižideru do 30 dana na temperaturi ne nižoj od 7°C.
 
-![aloe vera](./images/aloe-vera-blog-2.webp)
+![aloe vera biljka](./images/aloe-vera-blog-2.webp)
 
 ## Antioksidativna svojstva aloje koja mogu pomoći kod tumora
 

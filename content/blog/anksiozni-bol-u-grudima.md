@@ -5,11 +5,11 @@ tagsMeta: Simptomi i opis anksioznog bola u grudima. Kako ga prepoznati i kada j
 excerpt: Bol u grudima je čest simptom anksioznosti. Međutim, ovakav bol može biti uzrokovan i drugim faktorima, među kojima je najznačajniji srčani udar.
 created: 2022-07-01
 image: anksiozni-bol-u-grudima-slika1.jpg
-alt: "promeni"
+alt: "bol u grudima zbog napetosti"
 
 imageTwo:
-  path: /nervozna-creva.jpg
-  alt: "anksiozni bol u grudima"
+  path: /anksiozni-bol-u-grudima-slika1.jpg
+  alt: "nervoza i  bol u grudima"
 image_caption: Photo by Josh Spires on Unsplash
 path: anksiozni-bol-u-grudima
 featured: false

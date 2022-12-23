@@ -5,11 +5,11 @@ tagsMeta: Tekst o tome kako prepoznati da imate povećan nivo kandide, kako spro
 excerpt: Jedan od glavnih razloga nastanka prekomernog rasta kandide je ishrana bogata šećerima. Upravo zato, vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti taj proces.
 created: 2022-06-29
 image: pocetni-prirucnik-u-slucaju-kandide-slika1.jpg
-alt: "promeni"
+alt: "početna dijeta za kandidu"
 
 imageTwo:
-  path: /nervozna-creva.jpg
-  alt: "kandida i ishrana"
+  path: /pocetni-prirucnik-u-slucaju-kandide-slika1.jpg
+  alt: "kandida simptomi"
 image_caption: Photo by Nataliya Vaitkevich
 path: pocetni-prirucnik-u-slucaju-kandide
 featured: false
@@ -156,7 +156,7 @@ Danas su na internetu dostupni [odlični recepti](https://www.thecandidadiet.com
 
 **Pre same dijete – čišćenje organizma**
 
-![namirnice za dijetu](./images/pocetni-prirucnik-u-slucaju-kandide-slika3.jpg)
+![namirnice za kandidu](./images/pocetni-prirucnik-u-slucaju-kandide-slika3.jpg)
 
 Nije neophodno, ali pre otpočinjanja dijete, često se preporučuje takozvano **čišćenje organizma** od nakupljenih toksina (eng. Candida Cleanse). Postoji verovanje da ovaj detoks pomaže i kod oslobađanja stresa na digestivnom traktu. Kada se traži što bolja ishrana za kandidu u crevima, detoks bi mogao da bude ključ koji će značajno da poveća željenu učinkovitost.
 

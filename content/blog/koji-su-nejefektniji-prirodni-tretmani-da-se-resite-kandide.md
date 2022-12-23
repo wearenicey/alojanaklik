@@ -5,11 +5,11 @@ tagsMeta: Tekst o prirodnim preparatima, proizvodima i metodama kojima možete d
 excerpt: Na pitanje kako lečiti kandidu, deo odgovora leži pored nas, u našim domovima.
 created: 2022-07-27
 image: prirodni-tretmani-resavanja-kandide-slika1.jpg
-alt: "promeni"
+alt: "rešite se kandide na prirodan način"
 
 imageTwo:
   path: /prirodni-tretmani-resavanja-kandide-slika1.jpg
-  alt: "A colorful building against a blue sky background"
+  alt: "rešite se kandide"
 image_caption: Photo by Josh Spires on Unsplash
 path: koji-su-nejefektniji-prirodni-tretmani-da-se-resite-kandide
 featured: false
@@ -63,7 +63,7 @@ Uzimanje probiotika ili jogurta koji sadrže sojeve bakterija Lactobacillus acid
 
 7. **Vitamin C** pomaže jačanju imuniteta, a to je izuzetno značajno, jer slab imuni sistem može na prvom mestu biti osnovni krivac za nastanak infekcije kandidom. 
 
-![prirodni lek za kandidu](./images/prirodni-tretmani-resavanja-kandide-slika3.jpg)
+![prirodnim lekom pobedite kandidu](./images/prirodni-tretmani-resavanja-kandide-slika3.jpg)
 
 ## Prirodna terapija za infekciju kandidom u ustima i jednjaku
 
