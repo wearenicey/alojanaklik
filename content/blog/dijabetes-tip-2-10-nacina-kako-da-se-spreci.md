@@ -5,7 +5,7 @@ tagsMeta: Šta je dijabetes Tip 2? Tekst o tome kako prpoznati simptome i šta u
 excerpt: Da li znate na koje sve načine može da se umanji mogućnost nastanka dijabetesa?
 created: 2022-06-24
 image: dijabetes-tip-2-slika2.jpg
-alt: "promeni"
+alt: "dijabetes tip 2"
 
 imageTwo:
   path: /slika-1.jpg
@@ -19,7 +19,7 @@ featured: false
 
 Termine dijabetes i dijabetes tip 2 vrlo često vezujemo za probleme modernog čoveka i ubrzanog načina života, te smo sve česće upoznati sa posledicama istih. Tamo gde zdrava ishrana postaje luksuz, a brza hrana i velike količine šećera i ugljenih hidrata lako dostupna zamena za hranljive namirnice, gubimo polako kontrolu nad sopstvenim zdravljem.
 
-![dijabetes tip 2](./images/dijabetes-tip-2-slika1.jpg)
+![dijabetes kod savremenog čoveka](./images/dijabetes-tip-2-slika1.jpg)
 
 Dijabetes tip 2 nastaje kao rezultat nedovoljnog lučenja insulina, hormona koji proizvodi pankreas, a koji je ključan u procesu razgradjivanja šećera. Prekomerna količina šećera, odnosno glukoze u krvotoku, dovodi do različitih poremećaja [cirkulatornog, imunog i nervnog sistema](https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193).
 
@@ -94,7 +94,7 @@ Vraćamo se polako na jedan od glavnih načina prevencije nastanka dijabetesa, a
 
 I na samom kraju, da li je **dijabetes tip 2 izlečiv**?
 
-![dijabetes tip 2](./images/dijabetes-tip-2-slika3.jpg)
+![dijabetes i kako živeti sa njim](./images/dijabetes-tip-2-slika3.jpg)
 
 Pored svih istraživanja, objavljenih naučnih radova i miliona ispitanika koji žive sa dijabetesom i dijabetesom tipa 2, zaključeno je da još uvek [nemamo trajni lek](https://www.webmd.com/diabetes/guide/is-there-a-diabetes-cure) za ovu učestalu bolest današnjice. Dakle, na nama je da preduzmemo korake ka poboljšanju našeg kvaliteta života i da smanjimo faktore rizika koji nas mogu dovesti do povećanog šećera u krvi, insulinske rezistencije i na kraju, dijabetesa tip 2
 

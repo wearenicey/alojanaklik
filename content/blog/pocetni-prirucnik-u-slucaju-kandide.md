@@ -5,11 +5,11 @@ tagsMeta: Tekst o tome kako prepoznati da imate povećan nivo kandide, kako spro
 excerpt: Jedan od glavnih razloga nastanka prekomernog rasta kandide je ishrana bogata šećerima. Upravo zato, vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti taj proces.
 created: 2022-06-29
 image: pocetni-prirucnik-u-slucaju-kandide-slika1.jpg
-alt: "promeni"
+alt: "početna dijeta za kandidu"
 
 imageTwo:
   path: /nervozna-creva.jpg
-  alt: "kandida i ishrana"
+  alt: "kandida simptomi"
 image_caption: Photo by Nataliya Vaitkevich
 path: pocetni-prirucnik-u-slucaju-kandide
 featured: false

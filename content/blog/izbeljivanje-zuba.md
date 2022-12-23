@@ -5,11 +5,11 @@ tagsMeta: Da li je neophodno posetiti stomatologa radi izbeljivanje zuba? Prirod
 excerpt: Niste zadovoljni belinom svojih zuba i odlučni ste u nameri da povratite svoj blistav osmeh.
 created: 2022-06-28
 image: izbeljivanje-zuba-slika1.jpg
-alt: "promeni"
+alt: "beli zubi"
 
 imageTwo:
   path: /nervozna-creva.jpg
-  alt: "reuma i artritis"
+  alt: "beljenje zuba"
 image_caption: Photo by Josh Spires on Unsplash
 path: izbeljivanje-zuba
 featured: false
@@ -62,7 +62,7 @@ U liniji **Forever** proizvoda, izdvojila se pasta za izbeljivanje zuba koja pos
 
 Pogodna je za celu porodicu, kao i za vegeterijance. Za najbolji efekat, prati zube ovom pastom nakon svakog obroka.
 
-![beli zubi](./images/izbeljivanje-zuba-slika3.jpg)
+![lepi zubi](./images/izbeljivanje-zuba-slika3.jpg)
 
 *Fotografija: Freepik*
 
@@ -102,7 +102,7 @@ Takodje, kurkuma je jedan od najjačih prirodnih antiseptika i učiniće dosta i
 
 **Primena:** Navlaženu četkicu umočite u kurkumu i tako trljajte zube nekoliko minuta. Poželjno je da nakon toga ne ispirate odmah zube, sačekajte 5 minuta.
 
-![izbeljivanje zube kurkumom](./images/izbeljivanje-zuba-slika4.jpg)
+![izbeljivanje zuba kurkumom](./images/izbeljivanje-zuba-slika4.jpg)
 
 *Fotografija: Freepik*
 

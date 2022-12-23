@@ -5,11 +5,11 @@ tagsMeta: Kako se prepoznaju simptomi nervoznih creva? Zašto se problem javlja 
 excerpt: Imate grčeve, zatvor ili dijareju? Gasovi Vam dodatno otežavaju situaciju i pitate se kada će to sve prestati.
 created: 2022-06-25
 image: nervozna-creva.jpg
-alt: "promeni"
+alt: "nervozna creva"
 
 imageTwo:
   path: /nervozna-creva.jpg
-  alt: "nervozna creva"
+  alt: "problemi sa crevima"
 image_caption: Photo by Josh Spires on Unsplash
 path: nervozna-creva
 featured: false
@@ -23,7 +23,7 @@ Neki od ovih simptoma mogu ukazati da bolujete od **sindroma iritabilnog kolona*
 
 [Sindrom nervoznih creva je oboljenje koje može biti uobičajena pojava kod nekih ljudi](https://www.healthline.com/health/nervous-stomach). U ovakvo stanje se u medicini ne može dijagnostikovati, a potvrđuje se isključivanjem drugih bolesti. Ovo stanje može imati veze sa Vašim mentalnim zdravljem ili emocionalnim stanjem. Retko može upućivati na nešto ozbiljnije.
 
-![nervozna creva](./images/nervozna-creva-slika2.jpg)
+![bol usled problema sa varenjem](./images/nervozna-creva-slika2.jpg)
 
 *Fotografija: freepik.com*
 

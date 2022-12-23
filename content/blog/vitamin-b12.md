@@ -5,11 +5,11 @@ tagsMeta: Tekst o ulozi vitamina B12, kakve probleme možemo očekivati ako ga n
 excerpt: Da li ste osetili umor ili malaksalost duži vremenski period i za to ste pomislili da je posledica rada? Da li ste ikada proverili unos vitamina u organizam? Znate li značaj vitamina B12 za očuvanje zdravlja?
 created: 2021-10-16
 image: vitamin-b12-1.webp
-alt: "promeni"
+alt: "vitamin b 12"
 
 imageTwo:
   path: /slika-1.jpg
-  alt: "A colorful building against a blue sky background"
+  alt: "kompleks vitamina b"
 image_caption: Photo by Josh Spires on Unsplash
 path: vitamin-b12
 featured: true
@@ -89,7 +89,7 @@ Vitamin B12 se nalazi isključivo u namirnicama životinjskog porekla. Najviše 
 
 
 
-![vitaminb12](./images/vitamin-b12-2.webp)
+![vitamin b](./images/vitamin-b12-2.webp)
 
 
 

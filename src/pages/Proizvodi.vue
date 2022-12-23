@@ -44,7 +44,7 @@
 							</div>
 						</div>
 					</a>
-					<a class="flex justify-center items-center col-3@md col-6 radius-lg bg-primary clickHover" href="/dodaci-ishrani/supergreens/" aria-label="Link description">
+					<a class="flex justify-center items-center col-3@md col-6 radius-lg bg-primary clickHover" href="/dodaci-ishrani/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-black text-md">Klikni za više proizvoda</p>

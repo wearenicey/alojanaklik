@@ -9,7 +9,7 @@ alt: "Kako piti aloju"
 
 imageTwo:
   path: /kako-piti-aloju.jpg
-  alt: "A colorful building against a blue sky background"
+  alt: "ispravna upotreba aloje"
 image_caption: Photo by Josh Spires on Unsplash
 path: kako-piti-aloju
 featured: false
