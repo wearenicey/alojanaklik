@@ -51,7 +51,7 @@
 									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion" data-animation="on" data-multi-items="off" data-version="v2">
 										<li class="accordion-v2__item js-accordion__item b accordion-v2__item--is-open">
 											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
-												<span class="text-md">Karakteristike</span>
+												<h2 class="text-md">Karakteristike</h2>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
 													<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -68,7 +68,7 @@
 
 										<li class="accordion-v2__item js-accordion__item">
 											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
-												<span class="text-md">Namena</span>
+												<h2 class="text-md">Namena</h2>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
 													<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -85,7 +85,7 @@
 
 										<li class="accordion-v2__item js-accordion__item">
 											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
-												<span class="text-md">Sastojci</span>
+												<h2 class="text-md">Sastojci</h2>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
 													<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -102,7 +102,7 @@
 
 										<li class="accordion-v2__item js-accordion__item">
 											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
-												<span class="text-md">Napomene</span>
+												<h2 class="text-md">Napomene</h2>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
 													<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -118,7 +118,7 @@
 										</li>
 										<li class="accordion-v2__item js-accordion__item">
 											<button class="bg-quaternary-light color-secondary-dark reset accordion-v2__header padding-y-md padding-x-md js-tab-focus" type="button">
-												<span class="text-md">Upotreba</span>
+												<h2 class="text-md">Upotreba</h2>
 
 												<svg class="icon accordion-v2__icon-arrow no-js:is-hidden" viewBox="0 0 20 20">
 													<g class="icon__group" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -287,8 +287,8 @@ export default {
 	// meta deskripcija
 	metaInfo() {
 		return {
-			title: this.$page.event.pageTitle + " - Forever Living proizvodi",
-			titleTemplate: this.$page.event.pageTitle + " - Forever Living proizvodi",
+			title: this.$page.event.pageTitle + "| Aloja proizvodi",
+			titleTemplate: this.$page.event.pageTitle + "| Aloja proizvodi",
 			meta: [{ key: "description", name: "description", content: this.$page.event.metaDesc }]
 		};
 	},

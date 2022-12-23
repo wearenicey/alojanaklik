@@ -74,8 +74,8 @@ export default {
 	// meta deskripcija
 	metaInfo() {
 		return {
-			title: this.$page.category.pageTitle + " - Forever Living proizvodi",
-			titleTemplate: this.$page.category.pageTitle + " - Forever Living proizvodi",
+			title: this.$page.category.pageTitle + " | Aloja proizvodi",
+			titleTemplate: this.$page.category.pageTitle + "| Aloja proizvodi",
 			meta: [{ key: "description", name: "description", content: this.$page.category.metaDesc }],
 		};
 	},
