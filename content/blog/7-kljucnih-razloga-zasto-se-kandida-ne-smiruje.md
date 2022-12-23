@@ -5,11 +5,11 @@ tagsMeta: U kojim situacijama se kandida kod žena ponavlja? Uklonite uzrok ili 
 excerpt: Frustracija koju žena može da oseća zbog ovih nelagoda često je vodi ka odluci da ponovo upotrebi kandida nistatin tablete ili neki prirodni kandida lek, sve u nadi da će ovog puta delovati efikasnije.
 created: 2022-06-30
 image: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika1.jpg
-alt: "bol u stomaku zbog kandide"
+alt: "promeni"
 
 imageTwo:
-  path: /-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika1.jpg
-  alt: "lečenje kandide"
+  path: /nervozna-creva.jpg
+  alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
 path: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje
 featured: false

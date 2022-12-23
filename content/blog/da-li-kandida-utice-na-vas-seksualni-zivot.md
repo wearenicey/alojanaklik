@@ -5,11 +5,11 @@ tagsMeta: Na koji način kandida može da utiče na Vaš seksualni život? Šta 
 excerpt: U trenucima kada smo na polju ljubavi potpuno zadovoljni često se čini da više ništa u životu ne može da pođe naopako. Nažalost, može, ali to ne znači da ljubav ili seksualni život moraju biti ugroženi.
 created: 2022-07-01
 image: da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
-alt: "kandida i seks"
+alt: "promeni"
 
 imageTwo:
-  path: /da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
-  alt: "seks kandida"
+  path: /nervozna-creva.jpg
+  alt: "reuma i artritis"
 image_caption: Photo by Josh Spires on Unsplash
 path: da-li-kandida-utice-na-vas-seksualni-zivot
 featured: false

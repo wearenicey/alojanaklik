@@ -1,4 +1,23 @@
 [[redirects]]
+  from = "http://alojanaklik.rs/"
+  to = "/"
+  status = 301  
+
+
+[[redirects]]
+  from = "http://www.alojanaklik.rs/"
+  to = "/"
+  status = 301
+
+
+
+[[redirects]]
+  from = "https://www.alojanaklik.rs/"
+  to = "/"
+  status = 301
+
+
+[[redirects]]
   from = "/blog/content-blog-*"
   to = "/blog/*"
   status = 301  
