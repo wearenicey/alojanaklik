@@ -5,11 +5,11 @@ tagsMeta: Tekst o ulozi vitamina B12, kakve probleme možemo očekivati ako ga n
 excerpt: Da li ste osetili umor ili malaksalost duži vremenski period i za to ste pomislili da je posledica rada? Da li ste ikada proverili unos vitamina u organizam? Znate li značaj vitamina B12 za očuvanje zdravlja?
 created: 2021-10-16
 image: vitamin-b12-1.webp
-alt: "vitamin b 12"
+alt: "vitamin b12 u hrani"
 
 imageTwo:
-  path: /slika-1.jpg
-  alt: "kompleks vitamina b"
+  path: /vitamin-b12-1.jpg
+  alt: "vitamin b12 "
 image_caption: Photo by Josh Spires on Unsplash
 path: vitamin-b12
 featured: true
@@ -50,6 +50,8 @@ Postoje određene grupacije ljudi koje mogu biti ugrožene nedostatkom vitamina 
 
 Blagi nedostatak B12 vitamina je vrlo česta pojava koja izaziva **malaksalost**, bledilo, **konstipaciju** (zatvor), nervozu, **gubitak apetita**, trnjenje ruku i nogu. Postoji veliki broj ljudi koji pate od nedostatka vitamina B12, a da toga nisu ni svesni. U dužem vremenskom periodu nedostatak vitamina B12 može da dovede do velikih mentalnih i fizičkih oboljenja.
 
+![nedostatak vitamina b12](./images/simptomi-nedostatka-vitamina-b12.webp)
+
 ## Simptomi  nedostatka vitamina B12 su:
 
 1. Vrtoglavice praćene umorom;
@@ -89,7 +91,7 @@ Vitamin B12 se nalazi isključivo u namirnicama životinjskog porekla. Najviše 
 
 
 
-![vitamin b](./images/vitamin-b12-2.webp)
+![b12 vitamin u hrani](./images/vitamin-b12-2.webp)
 
 
 

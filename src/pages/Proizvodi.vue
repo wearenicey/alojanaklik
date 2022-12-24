@@ -264,7 +264,7 @@
 		<section class="bg-secondary-dark">
 			<div class="container max-width-adaptive-lg padding-bottom-xxl">
 				<div class="grid gap-md padding-bottom-md">
-					<a class="card-v11 col-3@md radius-lg" href="#0" style="background-image: url(../pcelinj-polen.jpg)" aria-label="Link description">
+					<a class="card-v11 col-3@md radius-lg" href="/pcelinji-proizvodi/pcelinji-polen/" style="background-image: url(../pcelinj-polen.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
 								<p class="color-white margin-bottom-xxs">Pčelinji polen</p>
@@ -301,16 +301,16 @@
 <script>
 export default {
 	metaInfo: {
-		title: "Jačanje imuniteta",
+		title: "Aloja proizvodi",
 		meta: [
 			{
 				name: "title",
-				content: "Jačanje imuniteta | Proizvodi na bazi aloje vere "
+				content: "Aloja proizvodi "
 			},
 			{
 				key: "description",
 				name: "description",
-				content: "Ojačajte svoj imuni sistem korišćenjem proizvoda na bazi aloje vere. Poboljšajte odbrambeni sistem svog tela za bolju zaštitu od bolesti. Naručite i platite pouzećem!"
+				content: "Ojačajte svoj imuni sistem korišćenjem proizvoda na bazi aloje vere. Poboljšajte opšte zdravstveno stanje svoga tela. Naručite i platite pouzećem!"
 			}
 		]
 	},

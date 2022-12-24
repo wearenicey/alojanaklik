@@ -64,7 +64,7 @@ export default {
 			meta: [
 				{
 					name: "description",
-					content: "Proizvodi od aloe vere koji pomažu u poboljšanju zdravlja i blagostanja. Besplatne informacije o proizvodima, ishrani i zdravlju. Kontaktirajte nas i ostvarite popuste."
+					content: "Korisni tekstovi o proizvodima od aloje vere. Članci u kojima ćete naći informacije o ishrani, zdravlju i našim proizvodima. Kontaktirajte nas i ostvarite popuste."
 				},
 				{
 					name: "og:image",

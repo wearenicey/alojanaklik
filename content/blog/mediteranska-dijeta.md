@@ -5,7 +5,7 @@ tagsMeta: Mediteranska dijeta. Pravila, šta je zabranjeno, a šta dozvoljeno i 
 excerpt: Izvorno poreklo je sa ostrva Krita. Spada u najprihvatljiviji dijete za mršavljenje u svetu, zbog dugoročno zdravih efekata po zdravlje.
 created: 2022-10-06
 image: mediteranska-dijeta-slika1.jpg
-alt: "dijeta na mediteranski način"
+alt: "mediteranska dijeta"
 
 imageTwo:
   path: /mediteranska-dijeta-slika1.jpg
@@ -37,7 +37,7 @@ Osnovno pravilo mediteranske dijete je usmeren ka minimalnim restrikcijama u odn
 
 [Oldways](https://oldwayspt.org/resources/oldways-mediterranean-diet-pyramid) u saradnji sa [Harward School of Public Health](https://www.hsph.harvard.edu/) i [Svetskom zdravstvenom organizacijom](https://www.who.int/) konstruisali su piramidu mediteranske ishrane.
 
-![mediteranska dijeta](./images/mediteranska-dijeta-slika2.jpg)
+![mediteranska dijeta jelovnik](./images/mediteranska-dijeta-slika2.jpg)
 
 ## Preporučene namirnice u mediteranskoj dijeti koje su dostupne na našem podneblju:
 

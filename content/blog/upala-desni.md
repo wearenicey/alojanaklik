@@ -8,8 +8,8 @@ image: upala-desni-slika1.jpg
 alt: "upala desni"
 
 imageTwo:
-  path: /nervozna-creva.jpg
-  alt: "upaljene desni"
+  path: /upala-desni-slika1.jpg
+  alt: "upala desni prirodni lek"
 image_caption: Photo by Josh Spires on Unsplash
 path: upala-desni
 featured: false
@@ -26,7 +26,7 @@ Upala desni predstavlja **blago oboljenje** desni i mnogi ga zanemaruju jer i ne
 
 Ukoliko se ovo oboljenje zanemaruje i ne leči na vreme može izazvati druge, veće probleme. Prema [Američkom stomatološkom udruženju](https://www.healthline.com/health/gingivitis#types-of-infections), upala desni često može biti uzrok gubitka zuba. Prema jednom istraživanju, Amerikanci su tokom 2017. godine potrošili 129 milijardi dolara na stomatološke usluge.
 
-![stomatolog](./images/upala-desni-slika2.jpg)
+![upala desni lečenje](./images/upala-desni-slika2.jpg)
 
 Fotografija: unsplash.com
 

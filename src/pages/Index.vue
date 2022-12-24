@@ -5,7 +5,7 @@
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
 						<div class="text-component">
-							<h1 class="text-xxl">Otkrijte posao kojim se možete ponositi</h1>
+							<h1 class="text-xxl">Forever living - proizvodi kojima se možete ponositi</h1>
 							<p class="text-md color-contrast-medium">
 								Putovanje od hiljadu koraka započinje prvim. Forever je na ovom putu više od 40 godina, a mi tek počinjemo. Radite od kuće i uživajte u fleksibilnosti postavljanja sopstvenog radnog vremena.
 							</p>
@@ -40,7 +40,7 @@
 				<div class="text-center padding-top-xl padding-bottom-lg">
 					<div class="text-component">
 						<h2>Forever Living benefiti</h2>
-						<p class="color-secondary">Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.</p>
+						<!-- <p class="color-secondary">Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.</p> -->
 					</div>
 				</div>
 			</div>
@@ -175,7 +175,7 @@
 					</div>
 					<div class="padding-top-md padding-top-0@md text-center">
 						<g-link to="/proizvodi/" class="btn btn--md btn--primary margin-right-xs@md margin-bottom-sm">Pogledaj sve proizvode </g-link>
-						<g-link to="/istorija-kompanije/" class="btn btn--md btn--subtle hover-text"> Saznaj više o Forever karijeri </g-link>
+						<!-- <g-link to="/istorija-kompanije/" class="btn btn--md btn--subtle hover-text"> Saznaj više o Forever karijeri </g-link> -->
 					</div>
 				</div>
 			</div>
@@ -220,7 +220,7 @@
 							</p>
 						</div>
 						<div class="flex flex-wrap flex-center gap-sm">
-							<a class="btn btn--md btn--primary" href="/proizvodi/">Saznaj više o Aloji</a>
+							<a class="btn btn--md btn--primary" href="/istorija-kompanije/">Saznajte više o Aloji</a>
 						</div>
 					</div>
 				</div>
@@ -264,7 +264,7 @@ export default {
 			meta: [
 				{
 					name: "description",
-					content: "Proizvodi od aloe vere koji pomažu u poboljšanju zdravlja i blagostanja. Besplatne informacije o proizvodima, ishrani i zdravlju. Kontaktirajte nas i ostvarite popuste."
+					content: "Proizvodi od aloe vere koji pomažu u poboljšanju zdravlja, imuniteta i opšteg stanja. Besplatne informacije o proizvodima i popusti."
 				},
 				{
 					name: "og:image",

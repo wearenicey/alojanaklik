@@ -28,8 +28,8 @@
 									<h2>Rex Maughan</h2>
 
 									<p>
-										Rex Maughan je osnivač kompanije Forever Living Products. <br /><br />
-										1978. godine pozvao je bliske prijatelje i porodicu na svoj prvi sastanak u Tempe, državi Arizona, gde je predstavio revolucionarnu ideju:<span class="text-bold">
+										Osnivač kompanije Forever Living Products je Rex Maughan. <br /><br />
+										1978. godine pozvao je bliske prijatelje i porodicu na svoj prvi sastanak u Tempe u Arizoni, gde je predstavio revolucionarnu ideju:<span class="text-bold">
 											Ponuditi samo proizvode koji dokazano promovišu wellness i zdrav život.</span
 										>
 										Na tim sastancima ljudi su mogli da ih sami isprobaju kako bi znali šta je najbolje za njihov životni stil!
@@ -65,7 +65,7 @@
 								</div>
 
 								<div class="text-component">
-									<p>Novi objekat površine 275.000 kvadratnih metara otvoren je u maju 2006. godine.Instaliran prilagođeni sistem upravljanja zalihama koji maksimizira efikasnost od prijema do proizvodnje do prodaje i otpreme</p>
+									<p>Novi objekat površine 275.000 kvadratnih metara otvoren je u maju 2006. godine. Instaliran je prilagođeni sistem upravljanja zalihama koji maksimizira efikasnost od prijema i proizvodnje do prodaje i otpreme.</p>
 									<figure class="text-component__block">
 										<g-image class="block width-100%" src="~/assets/img/istorija-kamion.webp" alt="Image description" />
 									</figure>
@@ -74,8 +74,8 @@
 							<div class="v-timeline__item bg padding-md radius-md shadow-xs">
 								<div class="text-component">
 									<p>
-										Implementirani su sistemi upravljanja kvalitetom ISO 9000 i sistem upravljanja zaštitom životne sredine ISO 14001 koji su od 2006. godine smanjili čvrsti otpad za više od 13 miliona kg i dramatično smanjili nivo emisije
-										ugljenika.
+										Implementirani su sistemi upravljanja kvalitetom ISO 9000 i sistem upravljanja zaštitom životne sredine ISO 14001 koji su od 2006. godine smanjili čvrsti otpad za više od 13 miliona kg i smanjili nivo emisije
+										štetnih materija.
 									</p>
 								</div>
 							</div>
@@ -93,8 +93,8 @@
 
 								<div class="text-component">
 									<p>
-										Od 2009. do 2010. godine zasađeno je ukupno 1.800 hektara novih polja aloje. Kao rezultat ove investicije, udvostručio se kapacitet za preradu lišća aloe vere.Do kraja 2011. godine kapacitet obrade je bio 1.359.000 kg
-										lišća aloe vere nedeljno samo na Dominikanskim poljima aloe
+										Od 2009. do 2010. godine zasađeno je ukupno 1.800 hektara novih polja aloje. Kao rezultat ove investicije, udvostručio se kapacitet za preradu lišća aloe vere. Do kraja 2011. godine kapacitet obrade bio je 1.359.000 kg
+										lišća aloe vere nedeljno samo na Dominikanskim poljima.
 									</p>
 									<figure class="text-component__block">
 										<g-image class="block width-100%" src="~/assets/img/istorija-aloe.webp" alt="Image description" />
@@ -113,12 +113,12 @@
 									<time class="v-timeline__date-value" datetime="2020-05-17T00:00">2010. godina</time>
 								</div>
 								<div class="text-component">
-									<p>30.240.000 litara proizvoda na bazi aloe vere proizvedenih 2010. godine duž nove linije za flaširanje pića koja može napuniti više od 300 boca u minuti, što omogućava da punjenje preko 400.000 boca dnevno.</p>
+									<p>30.240.000 litara proizvoda na bazi aloe vere proizvedenih 2010. godine duž nove linije za flaširanje pića koja može napuniti više od 300 boca u minuti, odnosno preko 400.000 boca dnevno.</p>
 								</div>
 							</div>
 							<div class="v-timeline__item bg padding-md radius-md shadow-xs">
 								<div class="text-component">
-									<p>Samo u 2010. godini, Forever je proizveo preko 101.925.000 kg aloe vere.</p>
+									<p>Samo u 2010. godini, kompanija Forever proizvela je preko 101.925.000 kg aloe vere.</p>
 									<figure class="text-component__block">
 										<g-image class="block width-100%" src="~/assets/img/istorija-proizvodnja.webp" alt="Image description" />
 									</figure>
@@ -133,13 +133,13 @@
 						<div class="v-timeline__items-group">
 							<div class="v-timeline__item bg padding-md radius-md shadow-xs">
 								<div class="v-timeline__date margin-bottom-sm">
-									<time class="v-timeline__date-value" datetime="2020-06-01T00:00">2021. GODINA </time>
+									<time class="v-timeline__date-value" datetime="2020-06-01T00:00">2022. GODINA </time>
 								</div>
 
 								<div class="text-component">
 									<p>
-										Danas Forever kompanija je vredna više milijardi dolara, koja posluje u preko 160 zemalja, povezana je sa najvećim svetskim proizvođačem i distributerom Aloe Vere. Iz svog međunarodnog sedišta smeštenog u Scottsdale-u u
-										državi Arizona, Rex Maughan, osnivač, predsednik i izvršni direktor, rukovodi operacijama širom sveta
+										Danas Forever kompanija je vredna više milijardi dolara, koja posluje u preko 160 zemalja, povezana je sa najvećim svetskim proizvođačem i distributerom Aloe Vere. Iz međunarodnog sedišta smeštenog u Scottsdale-u u
+										državi Arizona, rukovodi se operacijama širom sveta.
 									</p>
 									<figure class="text-component__block">
 										<g-image class="block width-100%" src="~/assets/img/aloe-imperija.webp" alt="Image description" />
@@ -157,8 +157,29 @@
 
 <script>
 export default {
+
+	metaInfo() {
+		// meta deskripcija
+		return {
+			title: "Istorija kompanije Forever Living",
+			titleTemplate: "Istorija kompanije Forever Living",
+			meta: [
+				{
+					name: "description",
+					content: "Kratka istorija kompanije Forever Living sa nekim od ključnih trenutaka tokom putovanja od ideje čoveka po imenu Rex Maughan do multinacionalne kompanije."
+				},
+				{
+					name: "og:image",
+					content: "https://www.alojanaklik.rs/assets/static/pocetna-kartica-1.71307f6.c41812ecc77912f15e9cd0d465c2cdf6.jpg"
+				}
+			]
+		};
+	},
+
+
 	// pozivanje codyhouse javascript ui
 	mounted() {
+	
 		let verticalOne = document.createElement("script");
 		verticalOne.setAttribute("src", "../vertical-timeline.js");
 		verticalOne.setAttribute("id", "vertical-timeline-js");

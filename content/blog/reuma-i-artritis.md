@@ -1,15 +1,15 @@
 ---
-title: Reuma i artritis. Koja je razlika?
+title: Artritis i reuma. Koja je razlika?
 tags: Zdravlje
 tagsMeta: Gubitak snage, bolovi u zglobovima... simptomi reume i artritisa, dijagnostika i načini lečenja.
 excerpt: Često se pitate šta je uzrok koji izaziva mišićnu slabost i gubitak energije.
 created: 2022-06-28
 image: reuma-i-artritis-slika1.jpg
-alt: "reuma"
+alt: "artritis"
 
 imageTwo:
-  path: /nervozna-creva.jpg
-  alt: "artritis"
+  path: /reuma-i-artritis-slika1.jpg
+  alt: "reuma"
 image_caption: Photo by Josh Spires on Unsplash
 path: reuma-i-artritis
 featured: false
@@ -38,7 +38,7 @@ U Evropi, 60% od ukupnog broja ljudi kod kojih je dijagnostikovan neki oblik reu
 
 Najčešće se javlja kod starijih osoba, ali se takođe može pojaviti i kod osoba koje opterećuju svoje zglobove. To su osobe sa prekomernom težinom ili profesionalni sportisti.
 
-![bol zbog reume](./images/reuma-i-artritis-slika2.jpg)
+![artritis simptomi](./images/reuma-i-artritis-slika2.jpg)
 
 Fotografija: Adobe Stock
 
@@ -143,7 +143,7 @@ Vežbanje je veoma bitno za očuvanje pokretljivosti zglobova i kondicije i treb
 
 Takođe, jako je bitno održavati normalnu telesnu težinu jer se time smanjuje pritisak na zglobove.
 
- ![reuma i fizička aktivnost](./images/reuma-i-artritis-slika3.jpg)
+ ![lek za reumu](./images/reuma-i-artritis-slika3.jpg)
 
 Fotografija: Adobe Stock
 

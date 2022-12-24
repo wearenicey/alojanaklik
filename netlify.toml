@@ -10,3 +10,9 @@
   from = "/contact/"
   to = "/kontakt/"
   status = 301  
+
+
+[[redirects]]
+  from = "/about/"
+  to = "/istorija-kompanije/"
+  status = 301  

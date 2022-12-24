@@ -19,7 +19,7 @@
 						</a>
 					</div>
 
-					<ul class="f-header__list flex-grow flex-basis-0 justify-center@md">
+					<!-- <ul class="f-header__list flex-grow flex-basis-0 justify-center@md">
 						<li class="f-header__item">
 							<g-link to="/proizvodi/" class="f-header__link">
 								<span>Proizvodi</span>
@@ -40,7 +40,7 @@
 						<li class="f-header__item"><g-link to="/postanite-saradnik/" class="f-header__link">Postanite saradnik</g-link></li>
 						<li class="f-header__item"><g-link to="/istorija-kompanije/" class="f-header__link">Istorija kompanije</g-link></li>
 						<li class="f-header__item"><g-link to="/blog/" class="f-header__link">Blog </g-link></li>
-					</ul>
+					</ul> -->
 
 					<ul class="f-header__list flex-grow flex-basis-0 justify-end@md">
 						<li class="f-header__item"><a href="/kontakt/" class="f-header__btn btn btn--primary">Kontakt</a></li>
@@ -55,8 +55,8 @@
 			<div class="container max-width-lg">
 				<nav class="footer-v4__nav">
 					<ul class="footer-v4__nav-list text-center">
-						<li class="footer-v4__nav-item">
-							<g-link to="/proizvodi/"> Proizvodi</g-link>
+						<!-- <li class="footer-v4__nav-item">
+							<g-link to="/proizvodi/">Proizvodi</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/dodaci-ishrani/">Dodaci ishrani</g-link>
@@ -75,9 +75,12 @@
 						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/pcelinji-proizvodi/">Pčelinji proizvodi</g-link>
-						</li>
+						</li> -->
 						<li class="footer-v4__nav-item">
 							<g-link to="/postanite-saradnik/">Postanite saradnik</g-link>
+						</li>
+						<li class="footer-v4__nav-item">
+							<g-link to="/blog/">Blog</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/istorija-kompanije/">Istorija kompanije</g-link>
