@@ -43,7 +43,7 @@ Pogađa oba pola podjednako, ali u poslednje vreme sve više i decu. U svetu ima
 - Nizak nivo HDL (dobar holesterol).
 
 
-![pravila kod insulinske rezistencije](./images/insulinska-rezistencija-slika2.jpg)
+![insulinska rezistencija simptomi](./images/insulinska-rezistencija-slika2.jpg)
 
 
 ## Lečenje insulinske rezistencije - ishrana

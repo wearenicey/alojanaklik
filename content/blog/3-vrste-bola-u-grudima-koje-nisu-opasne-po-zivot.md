@@ -5,11 +5,11 @@ tagsMeta: Kako da prepoznamo bolove u grudima koji vam ne mogu ugroziti život. 
 excerpt: Koje su to bezopasne vrste bola u grudima koje vam neće ugroziti život.
 created: 2022-08-23
 image: 3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
-alt: "bol u grudima"
+alt: "istovremeni bol u leđima i grudima"
 
 imageTwo:
   path: /3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
-  alt: "anksiozni bol u grudima"
+  alt: "bol u grudima sa vele strane"
 image_caption: Photo by Josh Spires on Unsplash
 path: 3-vrste-bola-u-grudima-koje-nisu-opasne-po-zivot
 featured: false
@@ -52,7 +52,7 @@ Na osnovu lokaliteta , intenziteta i učestalosti bola, kao i pratećih simptoma
 3. **Želudačna kila** – takođe dovodi do refluksa i gorušice koja se proteže duž čitavog grudnog koša, a često izaziva i **bol u leđima i grudima**. Otvor na dijafragmi je širi od želuca, te želudac može da se pri podizanju tereta, ležanju ili savijanju pomeri ka grudnom košu i izazove simptome kao kod [angine pektoris](https://euromedic.rs/pregledi/specijalisticki-pregledi/kardiologija/kardiologija-angina-pektoris/) (bol u grudima, nesvesticu, znojenje i lupanje srca). Veoma je karakterističan bol u desnoj plećki i grudnom košu istovremeno. [Leči](https://euromedic.rs/pregledi/specijalisticki-pregledi/gastroenterologija/gastroenteroloska-hirurgija-kila-hernia/) se isključivo hirurškim putem. 
 4. **Gastritis ili čir na želucu** – takođe može izazvati bol od stomaka ka grudnom košu. Može se manifestovati kao **tup bol u grudima** i kao bol u leđima i grudima. Takođe nadutost i gasovi posebno ispod levog rebarnog luka mogu da izazovu bol u grudima. Upala žučne kese, pankreasa ili jednjaka  izazvaće neki vid bola u grudima. Leči se promenom navika u ishrani. [Preporuka](https://poliklinikahuman.rs/gastritis-bolest-koja-se-ne-sme-ignorisati/) je jesti češće, ali manje obroke, koristiti antacide (lekove za smanjenje želudačne kiselina), izbegavati masna, začinjena jela, kafu, alkohol i  gazirana pića. 
 
-![bol u grudima usled problema sa varenjem](./images/3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika2.jpg)
+![bol u jednjaku i grudima](./images/3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika2.jpg)
 
 **Bol u grudima koji nastaje usled stresa, pritiska i emocionalne nestabilnosti**
 

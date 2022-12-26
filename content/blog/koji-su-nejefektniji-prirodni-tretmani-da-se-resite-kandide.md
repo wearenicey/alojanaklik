@@ -5,7 +5,7 @@ tagsMeta: Tekst o prirodnim preparatima, proizvodima i metodama kojima možete d
 excerpt: Na pitanje kako lečiti kandidu, deo odgovora leži pored nas, u našim domovima.
 created: 2022-07-27
 image: prirodni-tretmani-resavanja-kandide-slika1.jpg
-alt: "rešite se kandide na prirodan način"
+alt: "lek protiv kandide"
 
 imageTwo:
   path: /prirodni-tretmani-resavanja-kandide-slika1.jpg
@@ -47,7 +47,7 @@ Prema nekim izvorima, dve najčešće greške koje ljudi prave koristeći prirod
 [Studije](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC90807/) dokazuju da su masne kiseline koje sadrži kokosovo ulje prirodni antimikotici i to upravo pomaže kod problema sa Candida Albicans, gljivicom koja najčešće izaziva vaginalne infekcije.
 Organsko kokosovo ulje možete  nanositi direktno na područje oko vagine
 
-![prirodni lek za kandidu](./images/prirodni-tretmani-resavanja-kandide-slika2.jpg)
+![lečenje kandide u crevima](./images/prirodni-tretmani-resavanja-kandide-slika2.jpg)
 
 3. **Borna kiselina** može pomoći izlečenju vaginalne kandidijaze, ali je neophodno znati da se nikako ne sme uzimati oralno, niti ukoliko je koža ispucala ili na drugi način oštećena. 
 
@@ -63,7 +63,7 @@ Uzimanje probiotika ili jogurta koji sadrže sojeve bakterija Lactobacillus acid
 
 7. **Vitamin C** pomaže jačanju imuniteta, a to je izuzetno značajno, jer slab imuni sistem može na prvom mestu biti osnovni krivac za nastanak infekcije kandidom. 
 
-![prirodni tretmani za kandidu](./images/prirodni-tretmani-resavanja-kandide-slika3.jpg)
+![lek za kandidu](./images/prirodni-tretmani-resavanja-kandide-slika3.jpg)
 
 ## Prirodna terapija za infekciju kandidom u ustima i jednjaku
 

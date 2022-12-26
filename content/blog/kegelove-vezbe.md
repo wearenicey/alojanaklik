@@ -8,8 +8,8 @@ image: kegelove-vezbe-slika3.jpg
 alt: "kegelove vežbe"
 
 imageTwo:
-  path: /nervozna-creva.jpg
-  alt: "egelove vežbe i erekcija"
+  path: /kegelove-vezbe-slika3.jpg
+  alt: "egelove vežbe za muškarce"
 image_caption: Photo by Josh Spires on Unsplash
 path: kegelove-vezbe
 featured: false

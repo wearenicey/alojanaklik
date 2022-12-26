@@ -5,10 +5,10 @@ tagsMeta: U kojim situacijama se kandida kod žena ponavlja? Uklonite uzrok ili 
 excerpt: Frustracija koju žena može da oseća zbog ovih nelagoda često je vodi ka odluci da ponovo upotrebi kandida nistatin tablete ili neki prirodni kandida lek, sve u nadi da će ovog puta delovati efikasnije.
 created: 2022-06-30
 image: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika1.jpg
-alt: "bol u stomaku zbog kandide"
+alt: "kandida simptomi kod žena"
 
 imageTwo:
-  path: /nervozna-creva.jpg
+  path: /7-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika1.jpg
   alt: "lečenje kandide"
 image_caption: Photo by Josh Spires on Unsplash
 path: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje
@@ -55,7 +55,7 @@ Kao nastavak na prethodni razlog dolazimo do **dužine i načina primene terapij
 
 Neke **životne navike** razlog su nastanka i ponovnog vraćanja infekcije kandidom. Tu ubrajamo stres, pušenje, nošenje tesne odeće i odeće od poliestera, tanga gaćica, parfimisanih dnevnih uložaka, korišćenje parfema za vaginu, boravak u vlažnim kupaćim kostimima, nedovoljno brisanje i sušenje intimnih delova posle kupanja, režim ishrane sa velikim unosom šećera i alkohonih pića. Kandida raste u toplim,  tamnim i vlažnim okruženjima, a vagina je upravo idealno mesto za nju. 
 
-![problemi zbog kandide](./images/7-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika2.jpg)
+![kandida kod žena](./images/7-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika2.jpg)
 
 ## Lečenje kandide
 

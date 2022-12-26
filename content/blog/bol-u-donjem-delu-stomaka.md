@@ -5,11 +5,11 @@ tagsMeta: Svi smo ponekad osetili bol u donjem delu stomaka. Kako se može ubla�
 excerpt: Zašto se javlja bol u stomaku? Koliko je bol u stomaku opasan po život čoveka? Da li ljudi sa čestim bolovima u stomaku mogu kvalitetno živeti?
 created: 2022-08-22
 image: bol-u-donjem-delu-stomaka-slika1.jpg
-alt: "donji deo stomaka i bolovi"
+alt: "bol u donjem delu stomaka"
 
 imageTwo:
   path: /bol-u-donjem-delu-stomaka-slika1.jpg
-  alt: "nervozna creva"
+  alt: "bol u donjem delu stomaka"
 image_caption: Photo by Josh Spires on Unsplash
 path: bol-u-donjem-delu-stomaka
 featured: false
@@ -60,7 +60,7 @@ Ukoliko se jave problemi sa peskom u bubrezima ili sitnim kamenjem, urogenitalni
 Veoma dobar dodatak ishrani koji pomaže u poboljšanju stanja celokupnog organizma je Aloja, biljka koja sadrži mnogo vitamina, minerala i snažne antioksidante, te blagotvorno deluje na opšte zdravlje ljudi. Posebno kod bolova i urinarnih infekcija se izdvaja [Aloja gel sa brusnicom](https://flpshop.rs/napici/12507/forever-aloe-berry-nectar/360000954255/personal.html).
 
 
-![bol u donjem delu stomaka](./images/bol-u-donjem-delu-stomaka-slika2.jpg)
+![bol u donjem delu stomaka sa desne strane](./images/bol-u-donjem-delu-stomaka-slika2.jpg)
 
 ## Ostali uzroci bola u donjem delu stomaka
 

@@ -5,10 +5,10 @@ tagsMeta: Da li je neophodno posetiti stomatologa radi izbeljivanje zuba? Prirod
 excerpt: Niste zadovoljni belinom svojih zuba i odlučni ste u nameri da povratite svoj blistav osmeh.
 created: 2022-06-28
 image: izbeljivanje-zuba-slika1.jpg
-alt: "beli zubi"
+alt: "izbeljivanje zuba"
 
 imageTwo:
-  path: /nervozna-creva.jpg
+  path: /izbeljivanje-zuba-slika1.jpg
   alt: "beljenje zuba"
 image_caption: Photo by Josh Spires on Unsplash
 path: izbeljivanje-zuba
@@ -42,7 +42,7 @@ Konstantnim i dugotrajnim unosom nezdrave hrane, utičemo na zubnu gleđ, time s
 - Pod dejstvom toplote usne duplje, dolazi do razgradnje hidrogena na aktivni koseonik i vodu. Molekuli kiseonika ulaze u zubnu gleđ, potom, oksidacijom se stvaraju mehurići koji izbeljuju i spiraju flekice i mrlje sa zuba.
 - Za bolju efikasnost preporuka je da izvršite skidanje kamenca, uklanjanje naslaga i poliranje zuba kod stomatologa, pre samog korišćenja trakica za izbeljivanje zuba.
 
-![izbeljivanje zuba](./images/izbeljivanje-zuba-slika2.jpg)
+![trakice za izbeljivanje zuba](./images/izbeljivanje-zuba-slika2.jpg)
 
 Fotografija: Adobe Stock
 
@@ -62,7 +62,7 @@ U liniji **Forever** proizvoda, izdvojila se pasta za izbeljivanje zuba koja pos
 
 Pogodna je za celu porodicu, kao i za vegeterijance. Za najbolji efekat, prati zube ovom pastom nakon svakog obroka.
 
-![lepi zubi](./images/izbeljivanje-zuba-slika3.jpg)
+![pasta za izbeljivanje zuba](./images/izbeljivanje-zuba-slika3.jpg)
 
 *Fotografija: Freepik*
 
@@ -102,7 +102,7 @@ Takodje, kurkuma je jedan od najjačih prirodnih antiseptika i učiniće dosta i
 
 **Primena:** Navlaženu četkicu umočite u kurkumu i tako trljajte zube nekoliko minuta. Poželjno je da nakon toga ne ispirate odmah zube, sačekajte 5 minuta.
 
-![izbeljivanje zuba kurkumom](./images/izbeljivanje-zuba-slika4.jpg)
+![izbeljivanje zuba kod kuće](./images/izbeljivanje-zuba-slika4.jpg)
 
 *Fotografija: Freepik*
 

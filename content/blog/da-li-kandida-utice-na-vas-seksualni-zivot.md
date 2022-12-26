@@ -5,11 +5,11 @@ tagsMeta: Na koji način kandida može da utiče na Vaš seksualni život? Šta 
 excerpt: U trenucima kada smo na polju ljubavi potpuno zadovoljni često se čini da više ništa u životu ne može da pođe naopako. Nažalost, može, ali to ne znači da ljubav ili seksualni život moraju biti ugroženi.
 created: 2022-07-01
 image: da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
-alt: "kandida i seks"
+alt: "kandida kod muškarca"
 
 imageTwo:
-  path: /nervozna-creva.jpg
-  alt: "seks i kandida"
+  path: /da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
+  alt: "kandida u vagini"
 image_caption: Photo by Josh Spires on Unsplash
 path: da-li-kandida-utice-na-vas-seksualni-zivot
 featured: false
@@ -79,7 +79,7 @@ Osim navedenih, postoje i alternativni metodi lečenja, koji mogu duže da potra
 
 ## Da li se kandida prenosi polnim putem?
 
-![bol u stomaku zbog kandide](./images/da-li-kandida-utice-na-vas-seksualni-zivot-slika2.jpg)
+![vaginalna kandida](./images/da-li-kandida-utice-na-vas-seksualni-zivot-slika2.jpg)
 
 
 Da. Postoji mogućnost da se prenese. Prema [nekim izvorima](https://www.healthline.com/health/can-you-have-sex-with-a-yeast-infection#transmission), ukoliko ne koriste kondom, oko 15% muškaraca biva [inficirano](https://www.mayoclinic.org/male-yeast-infection/expert-answers/faq-20058464) posle odnosa sa ženom koja ima dijagnozu vaginalne kandidijaze.

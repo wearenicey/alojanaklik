@@ -5,11 +5,11 @@ tagsMeta: Simptomi i opis anksioznog bola u grudima. Kako ga prepoznati i kada j
 excerpt: Bol u grudima je čest simptom anksioznosti. Međutim, ovakav bol može biti uzrokovan i drugim faktorima, među kojima je najznačajniji srčani udar.
 created: 2022-07-01
 image: anksiozni-bol-u-grudima-slika1.jpg
-alt: "bol u grudima zbog napetosti"
+alt: "bol u grudima"
 
 imageTwo:
-  path: /nervozna-creva.jpg
-  alt: "nervoza i  bol u grudima"
+  path: /nksiozni-bol-u-grudima-slika1.jpg
+  alt: "bol u grudima od stresa"
 image_caption: Photo by Josh Spires on Unsplash
 path: anksiozni-bol-u-grudima
 featured: false
@@ -93,7 +93,7 @@ Koristi se u obliku ulja, čaja, kapsula ili tableta. Deluje povoljno na razne t
 
 Prema navodima [Nacionalnog centra za komplementarno i integrativno zdravlje iz SAD](https://www.nccih.nih.gov/health/kava), kava kava ima određena pozitivna dejstva na smanjivanje anksioznosti, ali su ustanovljena i neka njena negativna dejstva na jetru, te se oprez u korišćenju kava kave posebno naglašava.
 
-![prirodni lekovi bol u grudima](./images/anksiozni-bol-u-grudima-slika2.jpg)
+![lek za bol u grudima](./images/anksiozni-bol-u-grudima-slika2.jpg)
 
 **Promene u životnom stilu**
 

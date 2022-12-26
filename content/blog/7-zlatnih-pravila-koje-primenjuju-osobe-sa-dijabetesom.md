@@ -5,11 +5,11 @@ tagsMeta: Kako možemo korigovati svoj život u slučaju da smo oboleli od dijab
 excerpt: Da li osobe obolele od dijabetesa mogu živeti jednako kvaliteno, kao potpuno zdrave osobe?
 created: 2022-09-13
 image: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg
-alt: "pravila ishrane kod dijabetesa"
+alt: "dijabetes tip 2"
 
 imageTwo:
   path: /7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg
-  alt: "dijabetes tip 2"
+  alt: "dijabetes"
 image_caption: Photo by Josh Spires on Unsplash
 path: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom
 featured: false
@@ -53,7 +53,7 @@ Najbitnije su aerobne *vežbe umerenog intenziteta od 150 minuta* nedeljno ili o
 
 **Medikamentna terapija je obavezna i bezbolna**
 
-Kod [dijabetesa TIP 1](https://www.labomedica.net/dijabetes/) se primenjuje isključivo insulin i to:
+Kod [dijabetes tip 1](https://www.labomedica.net/dijabetes/) se primenjuje isključivo insulin i to:
 
 1. Intezivirana konvencijalna terapija (IKIT) kroz 3 ili 4 dnevne doze.
 2. Kontinuirana subkutana insulinska infuzija (KSII) uz pomoć spoljne portabilne insulinske pumpe.

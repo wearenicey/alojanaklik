@@ -5,10 +5,10 @@ tagsMeta: Šta je keto dijeta? U čemu se sastoji? Koliko je bezbedna i koje su 
 excerpt: Ukoliko se lekar slaže, pre prelaska na keto dijetu u celosti, postepeno smanjivanje unosa ugljenih hidrata može ukazati na to kojim tempom i na koji način organizam reaguje na date promene i time se može bolje pripremiti za samu dijetu.
 created: 2022-07-02
 image: keto-dijeta-dijabetes-slika1.jpg
-alt: "dijabetes i keto dijeta"
+alt: "keto dijeta jelovnik"
 
 imageTwo:
-  path: /nervozna-creva.jpg
+  path: /keto-dijeta-dijabetes-slika1.jpg
   alt: "dijeta"
 image_caption: Photo by Josh Spires on Unsplash
 path: kako-keto-dijeta-utice-na-dijabetes
@@ -107,7 +107,7 @@ Ishrana osoba koje imaju dijabetes svakako zahteva određena prilagođavanja. Me
 
 Keto dijetom gube se kilogrami, ali se gube i masne naslage. Šećer se i inače nikako ne savetuje osobama dijabetičarima, a u keto dijeti se svodi na minimalne količine. Neke osobe sa stanjem dijabetesa tipa 2 i primenom keto dijete uspešno su uspeli da dovedu stanje organizma do smanjene potrebe za lekovima. U Srbiji je prema [određenim podacima](https://www.zdravlje.gov.rs/vest/342459/srbija-medju-retkim-zemljama-koje-imaju-registar-za-dijabetes.php) preko 700.000 odraslih ljudi obolelo od dijabetesa. Nažalost, nemamo tačan podatak koliki broj od njih ima povišen indeks telesne mase (BMI), ali veruje se da nije mali. Keto dijeta može biti odličan saveznik kako u borbi sa viškom kilograma, tako i u borbi sa samim dijabetesom.
 
-![keto dijeta](./images/keto-dijeta-dijabetes-slika3.jpg)
+![keto dijeta za dijabetičare](./images/keto-dijeta-dijabetes-slika3.jpg)
 
 Ovim tekstom su predstavljeni isključivo opšti podaci koji ni u kom slučaju ne daju medicinske savete ili uputstva. 
 

@@ -9,7 +9,7 @@ alt: "nervozna creva"
 
 imageTwo:
   path: /nervozna-creva.jpg
-  alt: "problemi sa crevima"
+  alt: "sindrom nervoznih creva"
 image_caption: Photo by Josh Spires on Unsplash
 path: nervozna-creva
 featured: false
@@ -23,7 +23,7 @@ Neki od ovih simptoma mogu ukazati da bolujete od **sindroma iritabilnog kolona*
 
 [Sindrom nervoznih creva je oboljenje koje može biti uobičajena pojava kod nekih ljudi](https://www.healthline.com/health/nervous-stomach). U ovakvo stanje se u medicini ne može dijagnostikovati, a potvrđuje se isključivanjem drugih bolesti. Ovo stanje može imati veze sa Vašim mentalnim zdravljem ili emocionalnim stanjem. Retko može upućivati na nešto ozbiljnije.
 
-![nervozna creva i gasovi](./images/nervozna-creva-slika2.jpg)
+![sindrom nervoznih creva](./images/nervozna-creva-slika2.jpg)
 
 *Fotografija: freepik.com*
 
@@ -68,7 +68,7 @@ Ukoliko ste nervozni u dužem vremenskom periodu moguće je i da će Vaša creva
 
 Creva i mozak su povezani nervom koji se zove vagus, to je jedan od najvećih nerava u telu. Preko ovog nerva mozak šalje signale u creva, i kada je osoba pod stresom ili anksiozna dolazi do nepravilnosti u radu creva i povećava se digestivna razdražljivost.
 
-![nervozna creva simptomi](./images/nervozna-creva-slika3.jpg)
+![nervozna creva i gasovi](./images/nervozna-creva-slika3.jpg)
 
 Fotografija: unsplash.com
 

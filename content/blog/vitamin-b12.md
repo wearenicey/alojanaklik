@@ -5,11 +5,11 @@ tagsMeta: Tekst o ulozi vitamina B12, kakve probleme možemo očekivati ako ga n
 excerpt: Da li ste osetili umor ili malaksalost duži vremenski period i za to ste pomislili da je posledica rada? Da li ste ikada proverili unos vitamina u organizam? Znate li značaj vitamina B12 za očuvanje zdravlja?
 created: 2021-10-16
 image: vitamin-b12-1.webp
-alt: "vitamin b12 u hrani"
+alt: "vitamin b12"
 
 imageTwo:
   path: /vitamin-b12-1.jpg
-  alt: "vitamin b12 "
+  alt: "vitamin b12"
 image_caption: Photo by Josh Spires on Unsplash
 path: vitamin-b12
 featured: true
