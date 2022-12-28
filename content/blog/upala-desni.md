@@ -102,7 +102,7 @@ Pored čaja od žalfije za ublažavanje simptoma upale desni preporučuje se i u
 
 ## Prirodna pasta za zube
 
-Veoma cenjena **pasta za upalu desni** na našem tržištu je pasta [FOREVER BRIGHT® TOOTHGEL](http://localhost:8080/preparati-za-higijenu/pasta-za-zube/), proizvod kompanije Forever. Prednost ove paste je što sadrži samo **prirodne sastojke** koji deluju umirujuće na vaše desni i sluzokožu usta, što izbeljuje zube bez oštećivanja zubne gleđi i **ne sadrži fluor**. Prirodna aroma peperminta i spearminta osvežiće Vaš dah i daće Vam osećaj čistoće usne duplje. Pogodna je za celu porodicu.
+Veoma cenjena **pasta za upalu desni** na našem tržištu je pasta [FOREVER BRIGHT® TOOTHGEL](https://flpshop.rs/licna-higijena/11668/forever-bright-toothgel/360000954255/personal.html), proizvod kompanije Forever. Prednost ove paste je što sadrži samo **prirodne sastojke** koji deluju umirujuće na vaše desni i sluzokožu usta, što izbeljuje zube bez oštećivanja zubne gleđi i **ne sadrži fluor**. Prirodna aroma peperminta i spearminta osvežiće Vaš dah i daće Vam osećaj čistoće usne duplje. Pogodna je za celu porodicu.
 
 **Zdravim navikama do zdravih desni**
 
