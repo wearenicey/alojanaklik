@@ -16,3 +16,17 @@
   from = "/about/"
   to = "/istorija-kompanije/"
   status = 301  
+
+
+[[redirects]]
+  from = "/blog/2/"
+  to = "/blog/"
+  status = 301  
+
+
+[[redirects]]
+  from = "/blog/3/"
+  to = "/blog/"
+  status = 301  
+
+  
