@@ -130,6 +130,17 @@ module.exports = {
 							priority: 0.7,
 							lastmod: '2021-12-25',
 						},
+						'/tag/': {
+							changefreq: 'weekly',
+							priority: 0.5,
+							lastmod: '2021-12-25',
+						},
+						'/tag/*': {
+							changefreq: 'weekly',
+							priority: 0.5,
+							lastmod: '2021-12-25',
+						},
+
 					
 				}
 			}
