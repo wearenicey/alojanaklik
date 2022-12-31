@@ -45,6 +45,11 @@ module.exports = {
 							priority: 0.7,
 							lastmod: '2021-12-22',
 						},
+						'/postanite-saradnik/': {
+							changefreq: 'weekly',
+							priority: 0.7,
+							lastmod: '2021-12-22',
+						},
 						'/blog/': {
 							changefreq: 'weekly',
 							priority: 0.8,
