@@ -70,12 +70,12 @@ module.exports = {
 							priority: 0.7,
 							lastmod: '2021-12-25',
 						},
-						'/mrsavljenje/': {
+						'/preparati-za-mrsavljenje/': {
 							changefreq: 'weekly',
 							priority: 0.8,
 							lastmod: '2021-12-25',
 						},
-						'/mrsavljenje/*': {
+						'/preparati-za-mrsavljenje/*': {
 							changefreq: 'weekly',
 							priority: 0.7,
 							lastmod: '2021-12-25',
