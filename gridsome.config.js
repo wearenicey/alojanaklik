@@ -19,6 +19,16 @@ module.exports = {
 		},
 
 		{
+			use: '@gridsome/plugin-sitemap',
+			options: {
+				exclude: ['/404', '/blog/2', '/blog/3'],
+				config: {
+					
+				}
+			}
+		},
+
+		{
 			use: "@gridsome/source-airtable",
 			options: {
 				// Add these to a .env file
