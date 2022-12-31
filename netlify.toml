@@ -8,25 +8,25 @@
 
 [[redirects]]
   from = "/contact/"
-  to = "/kontakt/"
+  to = "/kontakt/:splat"
   status = 301  
 
 
 [[redirects]]
   from = "/about/"
-  to = "/istorija-kompanije/"
+  to = "/istorija-kompanije/:splat"
   status = 301  
 
 
 [[redirects]]
   from = "/blog/2/"
-  to = "/blog/"
+  to = "/blog/:splat"
   status = 301  
 
 
 [[redirects]]
   from = "/blog/3/"
-  to = "/blog/"
+  to = "/blog/:splat"
   status = 301  
 
   

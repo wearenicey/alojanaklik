@@ -6,7 +6,7 @@
 
 module.exports = {
 	siteName: "Forever Living Proizvodi - Aloja Vera",
-	siteUrl: "https://www.alojanaklik.rs/",
+	siteUrl: "https://alojanaklik.rs/",
 
 	plugins: [
 		{
