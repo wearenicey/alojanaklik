@@ -21,7 +21,7 @@ module.exports = {
 		{
 			use: '@gridsome/plugin-sitemap',
 			options: {
-				exclude: ['/404', '/blog/2', '/blog/3'],
+				exclude: ['/404/'],
 				config: {
 
 					
