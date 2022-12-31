@@ -29,6 +29,123 @@ module.exports = {
 						priority: 1.0,
 						lastmod: '2021-12-25',
 					},
+					'/proizvodi/': {
+						changefreq: 'weekly',
+						priority: 0.9,
+						lastmod: '2021-12-25',
+					},
+					'/istorija-kompanije/': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+			
+					'/postanite-saradnik/': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+
+					'/kontakt/': {
+						changefreq: 'weekly',
+						priority: 0.6,
+						lastmod: '2021-12-25',
+					},
+
+					'/blog/': {
+						changefreq: 'weekly',
+						priority: 0.8,
+						lastmod: '2021-12-25',
+					},
+					'/blog/*': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+
+					
+					'/preparati-za-negu-koze/': {
+						changefreq: 'weekly',
+						priority: 0.8,
+						lastmod: '2021-12-25',
+					},
+					'/preparati-za-negu-koze/*': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+
+
+					'/dodaci-ishrani/': {
+						changefreq: 'weekly',
+						priority: 0.8,
+						lastmod: '2021-12-25',
+					},
+					'/dodaci-ishrani/*': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+
+
+					'/mrsavljenje/': {
+						changefreq: 'weekly',
+						priority: 0.8,
+						lastmod: '2021-12-25',
+					},
+					'/mrsavljenje/*': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+
+
+					'/preparati-za-mrsavljenje/': {
+						changefreq: 'weekly',
+						priority: 0.8,
+						lastmod: '2021-12-25',
+					},
+					'/preparati-za-mrsavljenje/*': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+
+
+					'/mapici/': {
+						changefreq: 'weekly',
+						priority: 0.8,
+						lastmod: '2021-12-25',
+					},
+					'/mapici/*': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+
+
+					'/preparati-za-higijenu/': {
+						changefreq: 'weekly',
+						priority: 0.8,
+						lastmod: '2021-12-25',
+					},
+					'/preparati-za-higijenu/*': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
+
+				
+					'/pcelinji-proizvodi/': {
+						changefreq: 'weekly',
+						priority: 0.8,
+						lastmod: '2021-12-25',
+					},
+					'/pcelinji-proizvodi/*': {
+						changefreq: 'weekly',
+						priority: 0.7,
+						lastmod: '2021-12-25',
+					},
 			
 					
 				}
