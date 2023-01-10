@@ -121,28 +121,28 @@
 		<section class="bg-secondary">
 			<div class="container max-width-adaptive-lg padding-bottom-xxl">
 				<div class="grid gap-sm padding-bottom-md">
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-mrsavljenje/forever-therm/" style="background-image: url(../forever-therm.jpg)" aria-label="Link description">
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/mrsavljenje/forever-therm/" style="background-image: url(../forever-therm.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
 								<p class="color-white">Forever Therm</p>
 							</div>
 						</div>
 					</g-link>
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-mrsavljenje/protein-cokolada/" style="background-image: url(../protein-cokolada.jpg)" aria-label="Link description">
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/mrsavljenje/protein-cokolada/" style="background-image: url(../protein-cokolada.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
 								<p class="color-white">Protein Čokolada</p>
 							</div>
 						</div>
 					</g-link>
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-mrsavljenje/protein-vanila/" style="background-image: url(../protein-vanila.jpg)" aria-label="Link description">
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/mrsavljenje/protein-vanila/" style="background-image: url(../protein-vanila.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
 								<p class="color-white">Protein Vanila</p>
 							</div>
 						</div>
 					</g-link>
-					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/preparati-za-mrsavljenje/" aria-label="Link description">
+					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/mrsavljenje/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-primary text-md">Klikni za više proizvoda</p>
