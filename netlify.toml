@@ -29,4 +29,8 @@
   to = "/blog/"
   status = 301  
 
-  
+
+[[redirects]]
+  from = "/preparati-za-mrsavljenje/*"
+  to = "/mrsavljenje/*"
+  status = 301    
