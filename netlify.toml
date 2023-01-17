@@ -31,6 +31,6 @@
 
 
 [[redirects]]
-  from = "/preparati-za-mrsavljenje/"
+  from = "/preparati-za-mrsavljenje/*"
   to = "/mrsavljenje/"
   status = 301    
