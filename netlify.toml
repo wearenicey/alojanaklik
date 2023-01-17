@@ -32,5 +32,5 @@
 
 [[redirects]]
   from = "/preparati-za-mrsavljenje/*"
-  to = "/mrsavljenje/"
+  to = "/mrsavljenje/:splat"
   status = 301    
