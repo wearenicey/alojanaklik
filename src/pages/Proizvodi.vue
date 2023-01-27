@@ -50,7 +50,7 @@
 					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/dodaci-ishrani/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
-								<p class="color-primary text-md">Klikni za više proizvoda</p>
+								<p class="color-primary text-md">Kliknite za više proizvoda</p>
 							</div>
 						</div>
 					</g-link>
@@ -99,7 +99,7 @@
 					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/preparati-za-higijenu/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
-								<p class="color-primary text-md">Klikni za više proizvoda</p>
+								<p class="color-primary text-md">Kliknite za više proizvoda</p>
 							</div>
 						</div>
 					</g-link>
@@ -145,7 +145,7 @@
 					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/mrsavljenje/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
-								<p class="color-primary text-md">Klikni za više proizvoda</p>
+								<p class="color-primary text-md">Kliknite za više proizvoda</p>
 							</div>
 						</div>
 					</g-link>
@@ -191,7 +191,7 @@
 					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/napici/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
-								<p class="color-primary text-md">Klikni za više proizvoda</p>
+								<p class="color-primary text-md">Kliknite za više proizvoda</p>
 							</div>
 						</div>
 					</g-link>
@@ -237,7 +237,7 @@
 					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/preparati-za-negu-koze/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
-								<p class="color-primary text-md">Klikni za više proizvoda</p>
+								<p class="color-primary text-md">Kliknite za više proizvoda</p>
 							</div>
 						</div>
 					</g-link>
@@ -283,7 +283,7 @@
 					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/pcelinji-proizvodi/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
-								<p class="color-primary text-md">Klikni za više proizvoda</p>
+								<p class="color-primary text-md">Kliknite za više proizvoda</p>
 							</div>
 						</div>
 					</g-link>

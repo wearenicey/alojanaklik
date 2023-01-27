@@ -32,9 +32,9 @@
 								</div>
 
 								<div class="flex flex-wrap gap-md js-product-v3__cta items-center">
-									<a :href="$page.event.cta" class="btn btn--primary flex-grow justify-between btn--md">
-										Kupi {{ $page.event.ctaText }}
-										<span> <g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span>
+									<a :href="$page.event.cta" class="btn btn--primary flex-grow center-between btn--md">
+										Kupite 
+										<!-- <span><g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
 									</a>
 									<div>
 										<g-image class="margin-right-xs display@md" src="~/assets/img/logo-futer.png"></g-image>
@@ -139,7 +139,7 @@
 							<div class="product-v3__cta-clone hide@md js-product-v3__cta-clone" aria-hidden="true">
 								<div class="container max-width-adaptive-lg">
 									<div class="flex flex-wrap gap-md">
-										<a :href="$page.event.cta" class="btn btn--primary flex-grow"> Kupi {{ $page.event.title }} </a>
+										<a :href="$page.event.cta" class="btn btn--primary flex-grow"> Kupite {{ $page.event.title }} </a>
 									</div>
 								</div>
 							</div>
@@ -191,7 +191,7 @@
 
 							<div class="">
 								<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
-									<a :href="$page.event.cta" class="flex flex-grow btn btn--primary btn--md">Kupi {{ $page.event.ctaText }}</a>
+									<a :href="$page.event.cta" class="flex flex-grow btn btn--primary btn--md"> Kupite </a>
 								</div>
 							</div>
 						</div>
@@ -226,9 +226,9 @@
 							</div>
 
 							<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-								<a :href="$page.event.cta" class="btn btn--primary flex-grow justify-between@lg justify-center btn--md">
-									Kupi {{ $page.event.ctaText }}
-									<span> <g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span>
+								<a :href="$page.event.cta" class="btn btn--primary flex-grow center-between@lg justify-center btn--md">
+									Kupite 
+								<!--	<span> <g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
 								</a>
 								<g-image class="" src="~/assets/img/logo-futer.png"></g-image>
 							</div>

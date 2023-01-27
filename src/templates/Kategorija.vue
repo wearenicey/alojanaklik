@@ -9,8 +9,9 @@
 							{{ $page.category.opisKategorije }}
 						</p>
 						<a href="#targetId" class="btn btn-contrast js-smooth-scroll color-white border border-2 border-contrast-low border-opacity-50%" data-duration="300"
-							>Saznaj vise <span class="margin-left-sm"> <g-image class="flex items-center" src="~/assets/img/strelicaa.svg"></g-image></span
-						></a>
+							>Saznajte vise 
+							<!-- <span class="margin-left-sm"> <g-image class="flex items-center" src="~/assets/img/strelicaa.svg"></g-image></span> -->
+					</a>
 					</div>
 				</div>
 			</div>
@@ -32,8 +33,9 @@
 
 								<div class="margin-top-sm">
 									<a class="btn btn--primary btn--sm flex flex-grow" :href="category.path"
-										>Saznaj vise <span> <g-image class="margin-left-sm flex items-center" src="~/assets/img/strelica.svg"></g-image></span
-									></a>
+										>Saznajte vise 
+										<!--<span> <g-image class="margin-left-sm flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
+								</a>
 								</div>
 							</div>
 						</a>

@@ -15,7 +15,7 @@
 							<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
 								<a href="/proizvodi/" class="btn btn--primary btn--md shadow-md display@md flex-grow justify-between btn--md@lg">
 									Upoznajte se sa proizvodima
-									<span><g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span>
+									<!-- <span><g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span> -->
 								</a>
 								<a href="/proizvodi/" class="btn btn--primary shadow-md hide@md flex-grow justify-between btn--md@lg">
 									Upoznajte se sa proizvodima
@@ -174,7 +174,7 @@
 						</div>
 					</div>
 					<div class="padding-top-md padding-top-0@md text-center">
-						<g-link to="/proizvodi/" class="btn btn--md btn--primary margin-right-xs@md margin-bottom-sm">Pogledaj sve proizvode </g-link>
+						<g-link to="/proizvodi/" class="btn btn--md btn--primary margin-right-xs@md margin-bottom-sm">Pogledajte sve proizvode </g-link>
 						<!-- <g-link to="/istorija-kompanije/" class="btn btn--md btn--subtle hover-text"> Saznaj više o Forever karijeri </g-link> -->
 					</div>
 				</div>

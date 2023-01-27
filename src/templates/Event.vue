@@ -42,7 +42,7 @@
                           >Naruči proizvod</a
                         >
                         <a :href="$page.event.link" class="color-inherit"
-                          >Saznaj više</a
+                          >Saznajte više</a
                         >
                       </div>
                     </div>
