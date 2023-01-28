@@ -1,70 +1,97 @@
 ---
-title: Izbeljivanje zube kod kuće. Koliko je bezbedno?
+title: Kako sprečiti i povratiti belinu zuba.
 tags: Lična higijena
-tagsMeta: Da li je neophodno posetiti stomatologa radi izbeljivanje zuba? Prirodni načini sa kojima možete doći do blistavog osmeha.
-excerpt: Niste zadovoljni belinom svojih zuba i odlučni ste u nameri da povratite svoj blistav osmeh.
+tagsMeta: Želite da održite svoje zube bele i sprečite mrlje? Saznajte o najčešćim uzrocima bojenja zuba i kako to sprečiti. Od hrane i pića do životnih navika, saznajte šta možete da uradite da održite svetao i zdrav osmeh.
+excerpt: Izbeljivanje zuba. Da li je neophodno posetiti stomatologa ili dobar rezultat možete postići i kod kuće?
 created: 2022-06-28
 image: izbeljivanje-zuba-slika1.jpg
 alt: "izbeljivanje zuba"
 
 imageTwo:
   path: /izbeljivanje-zuba-slika1.jpg
-  alt: "beljenje zuba"
+  alt: "beljenje zuba kod kuće"
 image_caption: Photo by Josh Spires on Unsplash
 path: izbeljivanje-zuba
 featured: false
 ---
 
-Opušteno je veče, sedite sa prijateljicom u restoranu i neobavezno pričate o događajima od tog dana. U jednom momentu  se na vratima restorana pojavljuje atraktivna devojka, koja se razdragano osmehuje, a Vi u tom trenutku prvo primećujete njene prelepe **bele zube**. Oduševljeni ste prizorom i lepotom njenih zuba i pitate se: „Kako doći do tako lepog osmeha“?
+Oduševljeni ste prizorom i belinom zuba osobe koju ste upravo upoznali i pitate se: „Kako doći do tako lepog osmeha“? Izbeljivanje zuba je uobičajena briga mnogih ljudi, jer blistav i zdrav osmeh može u velikoj meri poboljšati nečije samopouzdanje i izgled. Međutim, razumevanje uzroka koji dovode do promene boje zuba i načina na koji to možemo usporiti ili sprečiti je ključno za održavanje belog i zdravog osmeha. 
 
-Niste zadovoljni belinom svojih zuba i odlučni ste u nameri da povratite svoj blistav osmeh. 
+Da li je neophodno posetiti stomatologa ili dobar rezultat **izbeljivanja zuba** možete postići i kod kuće? Odgovor je potvrdan, postoji više načina da dođete do blistavo belih zuba.
 
-Postoji više načina da dođete do blistavo belih zuba.
+## Zašto zubi menjaju boju?
 
-Da li je neophodno posetiti stomatologa ili dobar rezultat **izbeljivanja zuba** možete postići i kod kuće?
+Osobe koje imaju bele zube, imaju jaku zubnu gleđ, koja je neoštećena. Zubna gleđ je supstanca od koje zavisi boja Vaših zuba. Ispod zubne gleđi nalazi se dentin, koji je braon boje. 
 
-## Izbeljivanje zuba
+Najpre, upoznajmo nekoliko uobičajenih uzroka bojenja zuba. Najčešći su:
 
-Koliko ste puta do sada čuli: “Zašto su mi ovako žuti zubi kada ih redovno perem” ili mozda pomislili: “Zašto ja nemam ovako bele zube”? Zašto nekome zubi brže žute, a nekome ne? Na sva ta pitanja mi ćemo Vam dati odgovor.
+**Hrana i piće:** Konzumiranje određene hrane i pića kao što su kafa, čaj, crno vino i tamno obojeno voće i povrće može dovesti do mrlja na zubima. Konstantnim i dugotrajnim unosom nezdrave hrane, utičemo na zubnu gleđ tako da se ona tanji i oštećuje.
 
-Neizbežno je da tokom godina zubi žute, ali niz preduzetih radnji može usporiti taj proces. Konzumiranjem hrane koja postepeno utiče na boju zubne gleđi je najveći razlog zašto zubi žute. 
+**Pušenje i upotreba duvana:** katran i nikotin u cigaretama i drugim duvanskim proizvodima mogu izazvati promenu boje zuba.
 
-Osobe koje imaju bele zube, imaju jaku **zubnu gleđ**, koja je neoštećenja. **Zubna gleđ** je supstanca od koje zavisi boja Vaših zuba. Ispod zubne gleđi nalazi se **dentin**, koji je braon boje. 
+**Lekovi:** Određeni lekovi mogu dovesti do promene boje zuba, uključujući antibiotike, antihistaminike i lekove za krvni pritisak.
 
-Konstantnim i dugotrajnim unosom nezdrave hrane, utičemo na zubnu gleđ, time se ona tanji i oštećuje. Što je veći stepen oštećenja, to je izraženija žuta i tamnija boja koju zubima daje **dentin**. Hrana i piće koji utiči na zubnu gleđ, a time i na boju zuba, jesu: kafa, crno vino, slatkiši, gazirani napici, obojeni napici itd. Takođe, pušenje je jedan od uzročnika tamnijih zuba.
+**Starenje:** Kako starimo, gleđ na našim zubima se može istrošiti, otkrivajući tamniji dentin ispod.
 
-**Trakice za izbeljivanje zuba**
+ Neizbežno je da tokom godina zubi postaju tamniji, ali niz preduzetih radnji može usporiti taj proces. 
 
-- Trakice predstavljaju preparat za izbeljivanje zuba u vidu tankih i lepljivih najlonskih folija, koje se koriste za uklanjanje žute boje sa površine zubne gleđi. 
-- Prozirne su, ne primećuju se tokom nošenja i ne smetaju pri korišćenju.
-- Glavni sastojak ovih trakica je gel koji se sastoji od vodonik peroksida (hidrogen), i nalazi se na unutrašnjoj strani trakica. 
-- Kako rade ove [trakice](https://www.healthline.com/health/dental-and-oral-health/best-teeth-whitening#about-strips)?
-- Pod dejstvom toplote usne duplje, dolazi do razgradnje hidrogena na aktivni koseonik i vodu. Molekuli kiseonika ulaze u zubnu gleđ, potom, oksidacijom se stvaraju mehurići koji izbeljuju i spiraju flekice i mrlje sa zuba.
-- Za bolju efikasnost preporuka je da izvršite skidanje kamenca, uklanjanje naslaga i poliranje zuba kod stomatologa, pre samog korišćenja trakica za izbeljivanje zuba.
 
-![trakice za izbeljivanje zuba](./images/izbeljivanje-zuba-slika2.jpg)
-
-Fotografija: Adobe Stock
-
-**Napomena:** Koršćenje ovih trakica je uglavnom bezbedno za upotrebu ukoliko sledite uputstvo na pakovanju. Neželjeni efekti su mogući ukoliko ih koristite češće nego što je propisano ili ako ih ostavite duže od preporučenog vremena na zubima. 
-
-**Najčešći neželjeni efekti** su iritacija desni i nelagodnost izazvana preosetljivošću zuba. Drugi mogući neželjeni efekti su: erozija plombi, oštećenje proteza, promena u gleđi kao i povećana hrapavost zuba.
-
-**Pasta za izbeljivanje zuba**
-
-Održavanje higijene zuba i usne duplje se podrazumeva ako želimo da idemo zdrave i blistavo bele zube. Najmanje dva puta u toku dana perite zube, a preporuka je svaki put nakon obroka. 
-
-Pranje zuba je za većinu ljudi dosadan i naporan proces i to je glavni uzrok nedovoljne higijene zuba. Upotreba **paste za izbeljivanje zuba** može imati i psihološki efekat i dodatno uticati na Vas i Vašu upornost u nameri da postignete najbolji rezultat.   
-
-S obzirom da na tržištu postoji veliki broj različitih **pasta za izbeljivanje zuba**, jako je bitno izabrati kvalitetnu pastu čijom upotrebom ćemo postići željeni efekat. 
-
-U liniji **Forever** proizvoda, izdvojila se pasta za izbeljivanje zuba koja postoji na našem tržištu, [Forever Bright Toothgel](https://flpshop.rs/licna-higijena/11668/forever-bright-toothgel/360000954255/personal.html), koja ne sadrži fluor, ima blagotvorno dejstvo na usnu duplju i ne oštećuje zubnu gleđ. Prijatnog je ukusa i mirisa peperminta, koji Vašim ustima daje svežinu i osećaj čistoće. Sadržaj  Aloja Vere i propolisa pomaže kod umirenja desni i sluzokože usne duplje, direktnim korišćenjem na bolno mesto. 
-
-Pogodna je za celu porodicu, kao i za vegeterijance. Za najbolji efekat, prati zube ovom pastom nakon svakog obroka.
+## Prevencija očuvanja bele boje zuba
 
 ![pasta za izbeljivanje zuba](./images/izbeljivanje-zuba-slika3.jpg)
 
-*Fotografija: Freepik*
+Fotografija: Adobe Stock
+
+Na sreću, postoji nekoliko stvari koje možete učiniti da sprečite ili smanjite mrlje na zubima:
+
+**Redovno četkajte i koristite konac:** četkanje i čišćenje zuba koncem dva puta dnevno može pomoći u uklanjanju plaka i površinskih mrlja.
+
+**Koristite pastu za zube za izbeljivanje:** paste za izbeljivanje mogu pomoći u uklanjanju površinskih mrlja i ulepšavanju vašeg osmeha. Na našem tržištu, izdvojila se pasta za izbeljivanje zuba, [Forever Bright Toothgel](https://flpshop.rs/licna-higijena/11668/forever-bright-toothgel/360000954255/personal.html), koja ne sadrži fluor, ima blagotvorno dejstvo na usnu duplju i ne oštećuje zubnu gleđ. Prijatnog je ukusa i mirisa peperminta, koji Vašim ustima daje svežinu i osećaj čistoće. Takođe, Aloja Vera i propolis umiruju desni i sluzokožu usne duplje, direktnim nanošenjem paste na bolno mesto. 
+
+Pogodna je za celu porodicu, kao i za vegeterijance. Za najbolji efekat, prati zube ovom pastom nakon svakog obroka.
+
+**Izbegavajte ili ograničite bojenje hrane i pića:** Pokušajte da ograničite potrošnju mrlje hrane i pića kao što su kafa, čaj i crno vino.
+
+**Prestanite da pušite ili koristite duvanske proizvode:** Prestanak pušenja ili upotreba duvanskih proizvoda može u velikoj meri smanjiti rizik od bojenja zuba.
+
+**Redovno posećujte svog stomatologa:** Redovni pregledi i čišćenje kod zubara mogu pomoći u uklanjanju površinskih mrlja i održavanju zdravih zuba.
+
+
+
+
+## Izbeljivanje zuba hemijskim sredstvima
+
+Ako već imate zube koji su počeli da gube belu boju, postoji nekoliko opcija lečenja koje će vam pomoći da ulepšate vaš osmeh, uključujući:
+
+**Izbeljivanje zuba kod stomatologa**
+
+Profesionalne tretmane za izbeljivanje zuba može obaviti i vaš stomatolog. U ovom tekstu nećemo se zadržavati na tim metodama.
+
+**Izbeljivanje zuba upotrebom trakica**
+
+Postoje takozvane [Trakice za izbeljivanje zuba](https://www.healthline.com/health/dental-and-oral-health/best-teeth-whitening#about-strips), preparat za izbeljivanje zuba u vidu tankih i lepljivih najlonskih folija, koje se koriste za uklanjanje žute boje sa površine zubne gleđi.
+- Prozirne su, ne primećuju se tokom nošenja i ne smetaju pri korišćenju.
+- Glavni sastojak ovih trakica je gel koji se sastoji od vodonik peroksida (hidrogen), i nalazi se na unutrašnjoj strani trakica.
+- Kako rade ove trakice?
+- Pod dejstvom toplote usne duplje, dolazi do razgradnje hidrogena na aktivni koseonik i vodu. Molekuli kiseonika ulaze u zubnu gleđ, potom, oksidacijom se stvaraju mehurići koji izbeljuju i spiraju flekice i mrlje sa zuba.
+- Za bolju efikasnost preporuka je da izvršite skidanje kamenca, uklanjanje naslaga i poliranje zuba kod stomatologa, pre samog korišćenja trakica za izbeljivanje zuba.
+
+**Napomena:** Koršćenje ovih trakica je uglavnom bezbedno za upotrebu ukoliko sledite uputstvo na pakovanju. **Neželjeni efekti** su mogući ukoliko ih koristite češće nego što je propisano ili ako ih ostavite duže od preporučenog vremena na zubima.
+Najčešći neželjeni efekti su iritacija desni i nelagodnost izazvana preosetljivošću zuba. Drugi mogući neželjeni efekti su: erozija plombi, oštećenje proteza, promena u gleđi kao i povećana hrapavost zuba.
+
+
+**Furniri**
+
+Furniri su tanke, prilagođene školjke koje pokrivaju prednji deo vaših zuba. Mogu se koristiti za prikrivanje mrlja i promene boje.
+
+**Lepljenje**
+
+Lepljenje je postupak u kome se na zube nanosi smola boje zuba kako bi se poboljšao izgled obojenih ili obezbojenih zuba.
+
+
+
+
+## Izbeljivanje zuba kod kuće
 
 **Izbeljivanje zuba korom banane**
 
@@ -76,11 +103,10 @@ S obzirom da je ovaj tretman potpuno prirodan i da nema neželjene efekte, može
 
 **Izbeljivanje zuba uz pomoć jagoda**
 
-Jagode sadrže [maličnu kiselinu](https://dentalvortex.rs/2021/01/kako-izbeliti-zube-prirodnim-putem/) i to je razlog zbog kojeg one mogu biti od koristi u izbeljivanju zuba. Zajedno sa jagodom, za bolji efekat, koristi se i **soda bikarbona**.
+Jagode sadrže maličnu kiselinu i to je razlog zbog kojeg one mogu biti od koristi u izbeljivanju zuba. Zajedno sa jagodom, za bolji efekat, malična kiselina  korisi se u kombinaciji sa **sodom bikarbonom**.
 
 **Primena:** Izgnječenoj jagodi dodajte kašičicu sode bikarbone i mešajte dok ne dobijete ujednačenu masu. Nakon toga, dobijenu smesu stavite na četkicu za zube i trljajte zube 5 minuta.
 
-Malična kiselina u kombinaciji sa sodom bikarbonom pomaže u uklanjanju fleka i mrlja sa zuba.
 
 **Napomena:** Zbog mogućnosti pojave neželjenih efekata, ovaj metod izbeljivanja zuba primenjivati najviše jednom nedeljno.
 
@@ -106,16 +132,16 @@ Takodje, kurkuma je jedan od najjačih prirodnih antiseptika i učiniće dosta i
 
 *Fotografija: Freepik*
 
-Dobrim navikama do belih zuba 
 
-Postoje namirnice koje treba izbegavati što je više moguće ukoliko želite da imate lepe i bele zube.
-
-Na prvom mestu treba **izbegavati slatkiše i gazirane sokove** jer oni oštećuju zubnu gleđ. Takođe, **ostavite pušenje**, umanjeno konzumirajte **obojene sokove**, **crno vino** i **kafu**.
-
-Sa druge strane, postoje namirnice koje će nam pomoći u izbeljivanju zuba.
+## Namirnice koje će nam pomoći u izbeljivanju zuba.
 
 **Hrskovo voće** i povrće kao što su **jabuke**, **krastavac**, **celer** i **šargarepa**, pored toga što će učiniti dobre stvari za opšte stanje organizma, učiniće i Vaše zube beljim jer ćete njihovim konzumiranjem sa lakoćom skinuti mrlje i nečistoće.
 
-Lepota i belina Vaših zuba zavisi isključivo od Vas samih. Održavajte zube i usta čistim, to je preduslov za blistav osmeh.
+
+ U zaključku, razumevanje uzroka bojenja zuba i načina na koji to sprečiti je ključno za održavanje belog i zdravog osmeha. Praćenjem dobre oralne higijene, izbegavanjem ili ograničavanjem bojenja hrane i pića i redovnim posetama stomatologu, možete znatno smanjiti rizik od mrljanja zuba i poboljšati ukupan izgled svog osmeha. Ako već imate bojenje zuba, postoji nekoliko opcija lečenja koje će vam pomoći da osvetlite vaš osmeh, tako da ne oklevajte da razgovarate sa svojim stomatologom o vašim mogućnostima. 
+Takođe, oko nas postoje raznorazne namirnice kojima možemo da saniramo ili usporimo pojavu mrlja na zubima.
+
+Dakle, lepota i belina Vaših zuba zavisi gotovo isključivo od Vas samih. Održavajte zube i usta čistim, to je preduslov za blistav osmeh.
+
 
 
