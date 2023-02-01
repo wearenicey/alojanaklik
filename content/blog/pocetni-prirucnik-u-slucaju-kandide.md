@@ -1,9 +1,9 @@
 ---
-title: Početni priručnik za dijetu u slučaju kandide?
+title: Dijeta u slučaju kandide?
 tags: Dodaci ishrani
-tagsMeta: Tekst o tome kako prepoznati da imate povećan nivo kandide, kako sprovoditi dijetu i koje još korake možete preduzeti u borbi protiv kandide.
-excerpt: Jedan od glavnih razloga nastanka prekomernog rasta kandide je ishrana bogata šećerima. Upravo zato, vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti taj proces.
-created: 2022-06-29
+tagsMeta: Naučite kako da efikasno očistite svoje telo od prekomernog rasta kandide pomoću jednostavnog plana ishrane korak po korak. Recite zbogom simptomima i poboljšajte zdravlje.
+excerpt: Vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti proces prekomernog rasta kandide.
+created: 2023-02-01
 image: pocetni-prirucnik-u-slucaju-kandide-slika1.jpg
 alt: "kandida ishrana"
 
@@ -15,177 +15,60 @@ path: pocetni-prirucnik-u-slucaju-kandide
 featured: false
 ---
 
-Osećaj umora, manjka energije i entuzijazma sve češći su nam dnevni pratioci. Pripisujemo ih promeni vremenskih uslova, dolasku proleća, ubrzanom tempu rada na poslu, brigama oko porodice i finansijskog stanja, opterećenošću očekivanjima koje ljudi imaju od nas.
+Jedan od glavnih razloga nastanka prekomernog rasta kandide je ishrana bogata šećerima. Upravo zato, vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti taj proces.
+Prekomerni rast kandide je uobičajen problem koji može izazvati širok spektar simptoma, od problema sa varenjem do osipa na koži ili čak anksioznost i depresiju. Ako sumnjate da imate prekomerni rast kandide, važno je preduzeti korake da rešite problem i vratite svoje telo u ravnotežu. Jedan od najefikasnijih načina da se to uradi jeste i [dijeta]( https://candidaspecialists.com/anti-candida-diet/) za čišćenje kandide.
 
-Vreme prolazi, ali umor ne. On prerasta u hronični, dok se javljaju i nove tegobe poput nadutosti, otežanog varenja, ili svraba kože, zatim česte promene raspoloženja, pa čak i mučnina.
+## Uzroci prekomernog rasta kandide
 
-Zabrinutost i strah, najverovatnije će nas naterati da ove iritirajuće probleme više ne ignorišemo, već da ih lečimo. Međutim, slabe su šanse da lečenje svakog simptoma pojedinačno donese željeni rezultat. Sasvim je moguće da za iza svih pomenutih simptoma stoji jedan uzročnik - prekomerni rast kandide. 
+Kandida je vrsta kvasca koja je prirodno prisutna u telu, ali kada preraste, može izazvati razne probleme. Postoji nekoliko faktora koji mogu doprineti prekomernom rastu kandide, uključujući:
 
+**Upotreba antibiotika**: Antibiotici mogu poremetiti ravnotežu bakterija u crevima, što dovodi do veoma velikog povećanja broja bakterije kandide.
 
-Jedan od glavnih razloga nastanka prekomernog rasta kandide je ishrana bogata šećerima. Upravo zato, vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti taj proces. 
+**Hormonski disbalans**: veća je verovatnoća da će kandida nabujati tokom hormonskih promena, kao što je tokom trudnoće ili menopauze.
 
-Kandida ishrana ogleda se kroz smanjeni unos šećera, alkohola i namirnica koje sadrže kvasac, kao i povećan unos povrća, nemasnih proteina i zdravih masnoća. Ovakva ishrana za kandidu potpomaže ponovno uspostavljanje balansa crevne flore, a samim tim i zdravije funkcionisanje celokupnog organizma.
+**Loša ishrana**: Ishrana bogata rafinisanim šećerima i prerađenom hranom može doprineti prekomernom rastu kandide.
 
-Adekvatna ishrana kod kandide, pored terapije lekovima i eventualno dodatnog unosa vitamina i minerala, može da bude ključni faktor ozdravljenja.
+**Stres**: Stres može oslabiti imuni sistem i otežati telu da kontroliše rast kandide.
 
-Dijeta je bezbedna, jednostavna, vremenski ograničena, a višestruko učinkovita. Nalazi se pod nazivima [„kandida dijeta“](https://www.thecandidadiet.com/), [„anti kandida dijeta“](https://candidaspecialists.com/anti-candida-diet/), „dijeta za kandidu“ i slično.
+## Simptomi kandidijaze:
 
-**Šta je kandida i šta je kandidijaza?**
-
-Kandida je gljivica koja se uobičajeno nalazi na našoj koži, noktima na nogama, u crevima, ustima, vagini, anusu. Postoji preko 150 vrsta kandida i većina njih nije štetna sama po sebi.
-
-Tek oko 15 vrsta kandide mogu dovesti do kandidijaze, infekcije kandidom nastale njenim prekomernim rastom.
-
-**Simptomi kandidijaze**
-
-- Nadimanje, konstipacija ili dijareja;
-- Svrab kože;
-- Česte urinarne infekcije;
-- Mučnina;
-- Hronični umor;
-- Svrab, crvenilo i beličast vaginalni sekret kod žena;
-- Anksioznost ili depresija;
-- Glavobolje, nervoza, promene raspoloženja;
-- Bolovi u mišićima i zglobovima;
+- Nadimanje, konstipacija ili dijareja
+- Svrab kože
+- Česte urinarne infekcije
+- Mučnina
+- Hronični umor
+- Svrab, crvenilo i beličast vaginalni sekret kod žena
+- Anksioznost ili depresija
+- Glavobolje, nervoza, promene raspoloženja
+- Bolovi u mišićima i zglobovima
 - Bele naslage na jeziku i usnoj duplji
 
-Osim navedenih, postoji čitav [spektar simptoma](https://www.kandida.rs/candida-kandida-simptomi/) koji mogu ukazivati na prekomerni rast kandide i dobro je ne zanemarivati ih pri konsultacijama sa lekarom. 
+Osim navedenih, postoji čitav [spektar simptoma]( https://www.kandida.rs/candida-kandida-simptomi/) koji mogu ukazivati na prekomerni rast kandide i dobro je ne zanemarivati ih pri konsultacijama sa lekarom.
+Kandidijaza se najčešće ne ispoljava na isti način ili na istom području kod dve različite individue. Osim toga, neki simptomi prekomernog rasta kandide podudaraju se sa simptomima drugih tegoba ili bolesti organizma, te je postavljanje tačne dijagnoze time otežano. Zato je pre uzimanja bilo kakve terapije potrebno utvrditi tačan uzrok simptoma i tek tada ih tretirati.
 
-Kandidijaza se najčešće ne ispoljava na isti način ili na istom području kod dve različite individue. Osim toga, neki simptomi prekomernog rasta kandide podudaraju se sa simptomima drugih tegoba ili bolesti organizma, te je postavljanje tačne dijagnoze time otežano. Zato je pre uzimanja bilo kakve terapije potrebno utvrditi **tačan uzrok simptoma** i tek tada ih tretirati.  
 
-**Zašto i kada dolazi prekomernog rasta kandide?**
+## Medicinski tretman kandide
+Iako postoji veliki broj lekova koji se mogu koristiti za lečenje prekomernog rasta kandide, pristup ishrani je često najefikasniji. To je zato što ishrana sa malo šećera i visokim sadržajem zdravih masti, proteina i povrća bez skroba može pomoći u izgladnjivanju kandide i uspostavljanju ravnoteže bakterija u crevima.
 
-Najčešće su u pitanju sledeći **uzročnici**:
+## Dijeta za kandidu
+Ključ uspešne dijete za čišćenje kandide jeste izbegavanje hrane koja hrani kandidu i umesto toga fokusiranje na hranu koja podržava rast korisnih bakterija.  Kandida ishrana ogleda se kroz smanjeni unos šećera, alkohola i namirnica koje sadrže kvasac, kao i povećan unos povrća, nemasnih proteina i zdravih masnoća. Ovo uključuje:
 
-- Upotreba antibiotika;
-- Slab imuni sistem;
-- Prekomerna konzumacija namirnica bogatih rafinisanim šećerima;
-- Prekomerna konzumacija alkoholnih pića;
-- Visok nivo stresa;
-- Hormonalni disbalans i visok nivo estrogena;
-- Dijabetes.
+**Izbegavanje šećera**: Ovo uključuje rafinisane šećere, kao i prirodne zaslađivače poput meda i javorovog sirupa. Umesto njih možete koristiti steviu ili ksilitol.
 
-Kod nekih osoba lečenje kandide bez dijete može biti sasvim uspešno.
+**Izbegavanje rafinisanih ugljenih hidrata**: Ovo uključuje belo brašno, beli pirinač i testeninu.
 
-Mnogi, pak pribegavaju i dijeti, kako zbog njenog pozitivnog uticaja na lečenje kandidijaze, tako i zbog celokupnog pozitivnog delovanja na organizam.
+Jedite puno **povrća bez skroba**: To uključuje lisnato povrće, brokoli, karfiol, paradjaz, celer, krastavac, patlidžan, tikvice i špargle.
 
-![kandida simptomi kod žena](./images/pocetni-prirucnik-u-slucaju-kandide-slika2.jpg)
+**Jedite zdrave masti**: Ovo uključuje kokosovo ulje, maslinovo ulje i avokado.
 
-**Dijeta – Opšte napomene**
+**Jedite fermentisanu hranu**: To uključuje jogurt, kefir ili kiseli kupus.
 
-Cilj dijete je ublažavanje simptoma infekcije kandidom, bilo da je u pitanju kandida u crevima, ustima, vagini ili se radi o bilo kom drugom obliku kandidijaze.
+Pored gore navedenog, važno je da se uverite da unosite dovoljno **proteina** (piletina, ćuretina, jaja, riba) i  kako biste podržali rast korisnih bakterija. 
 
-Ne postoji dovoljno naučnih dokaza o njenoj učinkovitosti. Ipak [pojedine studije](https://pubmed.ncbi.nlm.nih.gov/30166063/) donose nam pokazatelje njenog pozitivnog uticaja na borbu protiv kandide.
+Od **napitaka** dozvoljeni su voda i nezaslađeni čajevi.
 
-Ono u čemu se i nauka, ali i zagovornici ove dijete slažu jeste da dijeta nije štetna i da donosi višestruke koristi za organizam uopšte. Bazira se na konzumaciji namirnica koje su potrebne za zdrav rad organizma.
+Takođe, danas su na internetu dostupni odlični [recepti za anti kandida dijetu]( https://www.thecandidadiet.com/recipe-type/lunch-dinner/), ali ih uz malo mašte i volje možete i sami spremiti uživajući baš u onim namirnicama koje najviše volite ili su vam najdostupnije.
 
-Pre otpočinjanja dijete najbolje je posavetovati se sa lekarom.
+**Zaključak**
 
-„Kandida dijeta“ ili „Anti kandida dijeta“ ima ograničeno trajanje od 4 do 6 meseci. Ovo je neko opšte pravilo. U zavisnosti od težine slučaja, dijeta može da se drži i kraći, ali i duži vremenski period od navedenog.
-
-Dijeta se zasniva na izbacivanju svih oblika šećera, žitarica koje sadrže gluten i namirnica koje sadrže kvasac, kao i određenih mlečnih proizvoda, alkohola i veštačkih zaslađivača. Preporučuju se nemasno meso, povrće sa nižim sadržajem skroba, voće sa nižim sadržajem šećera i tzv. zdrave masnoće. 
-
-Na ovaj način eliminišu se supstance kojima se kandida „hrani“, pa se zaustavlja i njen prekomerni rast, odnosno infekcije koje on izaziva.
-
-## Anti kandida dijeta jelovnik
-
-[**Dozvoljene namirnice i namirnice koje treba izbegavati**](https://www.healthline.com/nutrition/candida-diet#foods-to-avoid)
-
-
-**PROTEINI**
-
-**Dozvoljeni:** piletina, ćuretina, jaja, riba (losos, haringa, sardina, inćuni; 
-
-**zabranjeni:** mesne prerađevine, svinjetina i riba iz ribnjaka.
-
-**MASNOĆE**
-
-**Dozvoljeni:** avokado, maslinovo, kokosovo, susamovo i laneno ulje; 
-
-**zabranjeni:** margarin, svinjska mast, rafinisana ulja poput suncokretovog.
-
-**ORAŠASTI PLODOVI I SEMENKE**
-
-**Dozvoljeni:** bademi, kokos, lešnici, suncokret, lan; 
-
-**zabranjeni:** kikiriki, indijski orah, pekan i pistaći.
-
-**POVRĆE**
-
-**Dozvoljeni:** brokoli, kelj, prokelj, luk, paradajz, kupus, celer, krastavac, beli luk, patlidžan, spanać, tikvice; 
-
-**zabranjeni:** grašak, pasulj, krompir, kukuruz, batat.
-
-**VOĆE**
-
-**Dozvoljeni:** limun, limeta, masline, bobičasto voće u umerenim količinama; 
-
-**zabranjeni:** banane, urme, grožđe, mango i ostalo voće bogato šećerom.
-
-**ŽITARICE I PSEUDOŽITARICE**
-
-**Dozvoljeni:** kinoa, ovsene mekinje, heljda, proso, pirinač, tef brašno; 
-
-**zabranjeni:** pšenica, raž, spelta i ječam.
-
-**MLEČNI PROIZVODI**
-
-**Dozvoljeni:** jogurt i kefir koji sadrže probiotike; 
-
-**zabranjeni:** sir, mleko i pavlaka.
-
-**ZASLAĐIVAČI**
-
-**Dozvoljeni:** stevia, erythritol i xylitol; 
-
-**zabranjeni:** kukuruzni, javorov i sirup od trske, agava, melasa, med, šećer i aspartam.
-
-**NAPICI**
-
-**Dozvoljeni:** voda, nezaslađeni biljni čajevi; 
-
-**zabranjeni:** kafa, energetska pića, sokovi, vino, pivo.
-
-**DODACI JELIMA**
-
-**Dozvoljeni:** biber, so, cimet, mirođija, đumbir, origano, paprika u prahu, ruzmarin, kurkuma, majčina dušica; 
-
-**zabranjeni:** kečap, majonez, soja sos, sirće i ostali dodaci koji sadrže nepreporučene namirnice.
-
-Danas su na internetu dostupni [odlični recepti](https://www.thecandidadiet.com/recipe-type/lunch-dinner/) za anti kandida dijetu, ali ih uz malo mašte i volje možete i sami stvarati uživajući baš u onim namirnicama koje najviše volite ili su vam najdostupnije.
-
-**Pre same dijete – čišćenje organizma**
-
-![ishrana kod kandide](./images/pocetni-prirucnik-u-slucaju-kandide-slika3.jpg)
-
-Nije neophodno, ali pre otpočinjanja dijete, često se preporučuje takozvano **čišćenje organizma** od nakupljenih toksina (eng. Candida Cleanse). Postoji verovanje da ovaj detoks pomaže i kod oslobađanja stresa na digestivnom traktu. Kada se traži što bolja ishrana za kandidu u crevima, detoks bi mogao da bude ključ koji će značajno da poveća željenu učinkovitost.
-
-Iako se ne smatra da postoji dovoljno naučnih studija koje bi ove tvrdnje podkrepile, ne osporava se verovatnoća da će osoba lakše da se prilagodi novom režimu ishrane nakon sprovedenog čišćenja organizma.
-
-Uobičajeni načini čišćenja su:
-
-- Ispijanje tečnosti, poput vode sa limunom, supe od kostiju, odnosno bujona;
-- Konzumiranje povrća svežeg ili spremljenog na pari uz male količine proteina.
-
-Na ovaj način „očistićete“ creva i izbaciti velike količine kandide i njenih toksičnih nusproizvoda.
-
-Čišćenje organizma ne bi trebalo da traje duže od dva do tri dana. Imajte u vidu da su umor, glavobolje, promene raspoloženja i nesanica česti pratioci čišćenja organizma.
-
-**Dodatne prednosti dijete**
-
-Kandida dijeta iskustva su različita. Ono što je zajedničko svima jeste da ishrana bez rafinisanih šećera i belog brašna, bez brze hrane i nezdravih masnoća organizmu donosi višestruku dobrobit:
-
-- Dovodi do mršavljenja;
-- Dobra je za očuvanje zdravlja kardio-vaskularnog sistema;
-- Pomaže pravilnom radu digestivnog trakta;
-- Utiče na smanjenje upalnih procesa u organizmu;
-- Pomaže kod gojaznosti, dijabetesa, visokog pritiska i srčanih problema;
-- Utiče na bolje opšte psihičko stanje individue.
-
-Kandida ishrana ne broji kalorije, ne izgladnjuje organizam niti dovodi do bilo kakvih drugih neželjenih efekata.
-
-Ako ste voljni da isprobate dijetu, osluškujte svoj organizam, pratite šta vam prija i koje promene doživljavate. Ne dozvolite da vam ishrana postane jednolična, već pronađite recepte sa namirnicama koje volite i uživajte u jelima.
-
-Kandida dijeta nije dijeta koja unosi dodatni stres u život. Proces izlečenja možete učiniti još mirnijim, a rezultate potpunijim, ako uz pravilnu ishranu počnete sa upotrebom adekvatnih suplemenata na prirodnoj bazi, ili biljnih čajeva namenjenih oslobađanju od kandide.
-
-Zašto čekati ponedeljak, kad se sa dijetom može krenuti već sada?
+Prekomerni rast kandide može biti frustrirajući i iscrpljujući problem, ali ako pratite dijetu za čišćenje kandide, možete uspostaviti ravnotežu u svom telu i ublažiti simptome. Izbegavajući hranu koja hrani kandidu i umesto toga fokusirajući se na hranu koja podržava rast korisnih bakterija, možete preuzeti kontrolu nad svojim zdravljem i osećati se bolje za kratko vreme.
