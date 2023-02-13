@@ -63,7 +63,7 @@ Lečenjem bolesti koje mogu uzrokovati ovaj problem, možemo postići efekat pob
 
 ## Možemo li vratiti potenciju?
 
-U zavisnosti od uzroka koji dovode do impotencije, postoje različiti načini lečenja. Za dobru potenciju je najbitniji dovoljan priliv krvi i prokrvljenost krvnih sudova penisa.Uz pomoć određenih [suplemenata koje možemo koristiti kao dodatak ishrani](http://localhost:8080/dodaci-ishrani/multi-maka/), i primenom određenih vežbi možemo uticati na ovaj zdravstveni problem
+U zavisnosti od uzroka koji dovode do impotencije, postoje različiti načini lečenja. Za dobru potenciju je najbitniji dovoljan priliv krvi i prokrvljenost krvnih sudova penisa.Uz pomoć određenih [suplemenata koje možemo koristiti kao dodatak ishrani](https://flpshop.rs/dodaci-ishrani/11638/forever-multi-maca/360000954255/personal.html), i primenom određenih vežbi možemo uticati na ovaj zdravstveni problem
 
 ## Kegelove vežbe, iz muškog ugla, kako tačno?
 
