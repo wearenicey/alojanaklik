@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-		<section class="position-relative padding-top-xl padding-bottom-xxl bg-quaternary" style="z-index: 1">
+		<section class="position-relative padding-top-xl padding-bottom-xxl bg-quaternary-light" style="z-index: 1">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
@@ -13,7 +13,7 @@
 
 						<div class="">
 							<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
-								<a href="/proizvodi/" class="btn btn--primary btn--md shadow-md display@md flex-grow justify-between btn--md@lg">
+								<a href="/proizvodi/" class="btn btn--primary btn--md display@md flex-grow justify-between btn--md@lg">
 									Upoznajte se sa proizvodima
 									<!-- <span><g-image class="margin-left-md flex flex-center radius-bottom-left" src="~/assets/img/strelica.svg"></g-image></span> -->
 								</a>

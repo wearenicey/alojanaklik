@@ -32,8 +32,8 @@
 								</div>
 
 								<div class="flex flex-wrap gap-md js-product-v3__cta items-center">
-									<a :href="$page.event.cta" class="btn btn--primary flex-grow center-between btn--md">
-										Kupite 
+									<a :href="$page.event.cta" class="kupiteCTA btn btn--primary flex-grow center-between btn--md">
+										Kupite danas
 										<!-- <span><g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
 									</a>
 									<div>
@@ -139,7 +139,7 @@
 							<div class="product-v3__cta-clone hide@md js-product-v3__cta-clone" aria-hidden="true">
 								<div class="container max-width-adaptive-lg">
 									<div class="flex flex-wrap gap-md">
-										<a :href="$page.event.cta" class="btn btn--primary flex-grow"> Kupite {{ $page.event.title }} </a>
+										<a :href="$page.event.cta" class="btn btn--primary flex-grow">Kupite danas</a>
 									</div>
 								</div>
 							</div>
@@ -148,40 +148,79 @@
 				</div>
 			</section>
 
-			<div class="container max-width-adaptive-lg bg-white padding-y-xl">
-				<div class="grid gap-xl items-center">
-					<div class="col-6@md col-4@lg">
-						<div class="flex flex-column gap-sm">
-							<g-image class="block width-100% radius-lg" :src="$page.event.utisciSlike[0].url" />
-						</div>
+			<section>
+				<div class="container max-width-adaptive-lg padding-y-xl">
+					<div class="margin-bottom-lg">
+						<h1 class="text-center">Čujte to od naših kupaca.</h1>
 					</div>
-					<div class="col-6@md col-8@lg">
-						<div class="flex flex-column gap-sm">
-							<div class="rating rating--read-only js-rating js-rating--read-only">
-								<p class="hide">
-									The rating of this product is
-									<span class="rating__value js-rating__value">5</span> out of 5
-								</p>
 
-								<div class="rating__control rating__control--is-hidden js-rating__control">
-									<svg width="24" height="24" viewBox="0 0 24 24">
-										<polygon points="12 1.489 15.09 7.751 22 8.755 17 13.629 18.18 20.511 12 17.261 5.82 20.511 7 13.629 2 8.755 8.91 7.751 12 1.489" fill="#FEC84B" />
-									</svg>
-								</div>
-							</div>
-							<div class="">
-								<h2 class="font-light font-secondary">{{ $page.event.utisciText }}</h2>
-								<p class="text-bold color-black line margin-top-md margin-bottom-xxxs">
-									{{ $page.event.utisciIme }}
-								</p>
-								<p class="color-contrast-medium">
-									{{ $page.event.utisciZanimajnje }}
-								</p>
-							</div>
+					<div class="grid gap-sm">
+						<div class="bg-contrast-lower bg-opacity-30% radius-md padding-md flex@md flex-column@md col-4@md">
+							<svg class="icon icon--xl color-bg-darker margin-bottom-xxs" aria-hidden="true" width="64" height="64" viewBox="0 0 64 64">
+								<polygon points="2 36 17 2 26 2 15 36 26 36 26 62 2 62 2 36" />
+								<polygon points="38 36 53 2 62 2 51 36 62 36 62 62 38 62 38 36" />
+							</svg>
+
+							<blockquote class="line-height-md margin-bottom-md">
+								Koristim Forever Living proizvode već nekoliko meseci i osećam se neverovatno. Kvalitet je izvanredan i rezultati su vidljivi. Preporučujem ih svakome ko želi da se oseća zdravo i snažno.
+							</blockquote>
+
+							<footer class="flex flex-wrap items-center margin-top-auto@md">
+								<figure class="flex-shrink-0 margin-right-xxs" aria-hidden="true">
+									<g-image class="block width-lg height-lg radius-50% border border-2 border-bg" src="~/assets/img/slicica-1.png" alt="Emily Ewing" />
+								</figure>
+
+								<cite class="text-sm">
+									<strong>Željko Babić</strong>
+									<span class="block color-contrast-medium margin-top-xxxxs"></span>
+								</cite>
+							</footer>
+						</div>
+
+						<div class="bg-contrast-lower bg-opacity-30% radius-md padding-md flex@md flex-column@md col-4@md">
+							<svg class="icon icon--xl color-bg-darker margin-bottom-xxs" aria-hidden="true" width="64" height="64" viewBox="0 0 64 64">
+								<polygon points="2 36 17 2 26 2 15 36 26 36 26 62 2 62 2 36" />
+								<polygon points="38 36 53 2 62 2 51 36 62 36 62 62 38 62 38 36" />
+							</svg>
+
+							<blockquote class="line-height-md margin-bottom-md"> Kao atletičar, jako je važno da se brinem o svom zdravlju. Forever Living proizvodi su mi pomogli da održim zdrav životni stil i da se osećam snažno svaki dan. Preporučujem ih svima koji žele da žive zdravo i aktivno.</blockquote>
+
+							<footer class="flex flex-wrap items-center margin-top-auto@md">
+								<figure class="flex-shrink-0 margin-right-xxs" aria-hidden="true">
+									<g-image class="block width-lg height-lg radius-50% border border-2 border-bg" src="~/assets/img/slicica-2.png" alt="James Powell" />
+								</figure>
+
+								<cite class="text-sm">
+									<strong>Janko Laketić</strong>
+									<span class="block color-contrast-medium margin-top-xxxxs"></span>
+								</cite>
+							</footer>
+						</div>
+
+						<div class="bg-contrast-lower bg-opacity-30% radius-md padding-md flex@md flex-column@md col-4@md">
+							<svg class="icon icon--xl color-bg-darker margin-bottom-xxs" aria-hidden="true" width="64" height="64" viewBox="0 0 64 64">
+								<polygon points="2 36 17 2 26 2 15 36 26 36 26 62 2 62 2 36" />
+								<polygon points="38 36 53 2 62 2 51 36 62 36 62 62 38 62 38 36" />
+							</svg>
+
+							<blockquote class="line-height-md margin-bottom-md">
+								Oduševljena sam sa Forever Living proizvodima! U samo nekoliko nedelja, primetila sam razliku u svom opštem zdravstvenom stanju i samopouzdanju. Proizvodi su prirodni i sigurni, a ja ih često preporučujem svojim prijateljima i porodici.
+							</blockquote>
+
+							<footer class="flex flex-wrap items-center margin-top-auto@md">
+								<figure class="flex-shrink-0 margin-right-xxs" aria-hidden="true">
+									<g-image class="block width-lg height-lg radius-50% border border-2 border-bg" src="~/assets/img/slicica-3.png" alt="Olivia Gribben" />
+								</figure>
+
+								<cite class="text-sm">
+									<strong>Mirjana Tot</strong>
+									<span class="block color-contrast-medium margin-top-xxxxs"></span>
+								</cite>
+							</footer>
 						</div>
 					</div>
 				</div>
-			</div>
+			</section>
 
 			<section class="position-relative z-index-1 padding-y-xl bg-secondary">
 				<div class="container max-width-adaptive-lg">
@@ -191,7 +230,7 @@
 
 							<div class="">
 								<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
-									<a :href="$page.event.cta" class="flex flex-grow btn btn--primary btn--md"> Kupite </a>
+									<a :href="$page.event.cta" class="flex flex-grow btn btn--primary btn--md">Kupite danas</a>
 								</div>
 							</div>
 						</div>
@@ -226,9 +265,9 @@
 							</div>
 
 							<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-								<a :href="$page.event.cta" class="btn btn--primary flex-grow center-between@lg justify-center btn--md">
-									Kupite 
-								<!--	<span> <g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
+								<a :href="$page.event.cta" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+									Kupite danas
+									<!--	<span> <g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
 								</a>
 								<g-image class="" src="~/assets/img/logo-futer.png"></g-image>
 							</div>
