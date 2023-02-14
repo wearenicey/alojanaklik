@@ -16,6 +16,9 @@ featured: false
 ---
 
 
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
+
 **Bol se definiše** kao neprijatan senzorni i emocionalni doživljaj koji se odnosi na stvarno ili oštećenje organa u abdomenu. 
 
 Bol može biti: funkcionalan ili patološki. Za funkcionalan bol karakteristično je da se javlja oko pupka i da je praćen grčevima, nadutošću i probadanjem. Bol traje kratko, ali se ponavlja. Ne zahteva intervenciju lekara. Za patološki bol karakterističan je oštar bol koji se ponavlja, praćen je često temperaturom, povraćanjem i dijarejom.
@@ -94,9 +97,5 @@ Ukoliko se bol u donjem delu stomaka ponavlja u toku 24 sata, veoma je oštar, p
 Bolovi u donjem delu stomaka zahtevaju detaljniju lekarski analizu, jer mogu se odnositi i na neke ozbiljne bolesti, naročito ako traju jedan izvestan period ili ako se ponavljaju. Neke tegobe su sasvim bezazlene i mogu se ukloniti savesnijim pristupom zdravlju, uzimanjem adekvatnih čajeva (kod ginekoloških problema), mineralne vode (kod uroloških tegoba) i adekvatnijom ishranom (kod želudačnih tegoba). Lekarska preporuka je da svaki bol treba ispitati, zato što sam bol po prirodi nije normalno stanje, jer otežava ili totalno blokira funkcionisanje ljudi. Među najbolje prirodne preparate koji doprinose poboljšanju zdravlja je aloja. Preparati sa alojom sadrže dosta vitamina, antioksidanasa i enzima, te doprinose: regulisanju varenja, rešavanju urinarnih infekcija, odlična je za dijabetičare jer monosaharidi u potpunosti prelaze u ćelije. Sadrži dosta minerala: kalijum, magnezijum, natrijum, cink, hrom i bakar, te je odlična za anemiju, rad srca, nervni sistem i urogenitalne probleme.
 
 
-
-
-
-
-
-
+  </div>
+</div>

@@ -15,7 +15,8 @@ slug: nervozna-creva
 featured: false
 ---
 
-
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
 
 Da li imate sve ove simptome ili samo neke od njih? 
 
@@ -156,3 +157,6 @@ Vežbajte. Kombinujte mentalne i fizičke vežbe.
 Izbacite sve loše navike iz vaše svakodnevnice, ili bar većinu njih. Izdvojite vreme za druženje, oraspoložiće vas.
 
 Primenite ovo već od sutra. Vremenom će se raspoloženje popraviti, **stres** će nestati a sa njim i simptomi **sindroma nervoznih creva**. 
+
+  </div>
+</div>

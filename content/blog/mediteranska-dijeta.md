@@ -15,6 +15,8 @@ slug: mediteranska-dijeta
 featured: false
 ---
 
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
 
 
 Stiže još jedno vrelo leto i ljudi jednostavno ne znaju koju destinaciju da posete? Agencije nude ekskluzivne aranžmane za Grčku, Kipar, Maroko, Italiju i Španiju. Taj miris mora, maslina i južnog voća podseća na vreme kada su ljudi bili bezbrižni i srećni. Sada je isto to vreme, ali se oseća nesigurnost i umor. Kad se pogledaju u ogledalu ljudi shvate da kilogrami ne moraju i ne smeju  biti uzrok ničije nesigurnosti i nesreće. Upravo ove ponuđene destinacije nude najraznovrsnija i najzdravija  jela koja Vam mogu omogućiti čak i na godišnjem odmoru da smršate.
@@ -102,15 +104,5 @@ Najčešći kozumenti ove dijete su osobe koje bore sa većim viškom kilograma 
 Više od 50% ispitanih lekara preporučuje ovu dijetu, kako iz zdravstvenih, tako i estetskih razloga. [Naučnici sa instituta u Grčkoj](https://www.brzadijeta.com/mediteranska-dijeta/) došli su do zaključka da deca čije su majke u trudnoći bile na mediteranskoj ishrani oboljevaju 4 puta manje od astme i raznih alergija. Bez obzira na broj viška kilograma ovom dijetom ćete ih sigurno skinuti. Jedino što je potrebno je strpljenje. Kilogrami skinuti ovom dijetom se teško vraćaju, a ujedno poboljšavate zdravlje celokupnog organizma. Sve su ovo razlozi zbog kojih je mediteranska dijeta dugi niz godina ubedljivo najpopularnija u svetu.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+  </div>
+</div>

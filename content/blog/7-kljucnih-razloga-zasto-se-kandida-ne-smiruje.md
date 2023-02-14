@@ -16,6 +16,9 @@ featured: false
 ---
 
 
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
+
 75% žena bar jednom u životu iskusi stanje vaginalne kandidijaze. 
 
 Iritacija, svrab, crvenilo, otečenost i bol u predelu vagine samo  su neki simptomi kandide. 
@@ -91,3 +94,5 @@ Prirodni preparati koji se savetuju u borbi protiv kandide, ukoliko se pravilno 
 Kao i za svaki proces, i za oslobađanje od kandide potrebno je vreme, ali poznavanjem uzroka nastanka infekcije, adekvatnim terapijama i upotrebom prirodnih preparata, uloženo vreme postaće investicija koja će se višestruko isplatiti u vidu fizičkog i psihičkog zdravlja i zadovoljstva.
 
 
+  </div>
+</div>

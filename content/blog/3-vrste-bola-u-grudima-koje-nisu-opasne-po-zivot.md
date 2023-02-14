@@ -16,6 +16,9 @@ featured: false
 ---
 
 
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
+
 Verovatno ste primetili da živimo u vremenu gde bi neki ljudi taj period okarakterisali kao period gubitka iskonskih, ljudskih vrednosti kao što su: čast, poštenje, ljubav ili iskrenost. Veoma često čujete da je za neke ljude potpuno normalno zarad reputacije, karijere ili novca posramiti drugog čoveka, ugroziti mu dostojanstvo, čast i zadovoljiti sujetu. Da li je duševni bol jači od fizičkog? Skoro pa uvek jeste! Ne postoji fizička merna jedinica za duševni bol, mada je on uzrok nekih fizičkih bolova i oboljenja nekih organa (srca, nerava, želuca).  
 
 **Bol je individualno, subjektivno i neprijatno osećanje** koje nastaje usled predstojećih oštećenja tkiva, trenutnih oštećenja tkiva ili psiholoških uzroka. Karakterističan je za sve bolesti i povrede.
@@ -69,19 +72,5 @@ Svi ovi simptomi, na prvi pogled, ukazuju na srčane tegobe. Oni mogu biti vrlo 
 
 Ukoliko imate hroničan bol u grudima, tup bol u grudima, bol u leđima i grudima ili jak bol u grudima, konstantan od par sekundi do nekoliko dana ili nedelja, koji se vremenom povećava zbog nadraženosti receptora za bol, tada se smatra da pacijent nije životno ugrožen, ali je potrebno da zatraži lekarsku pomoć. Ukoliko se prvi put javi bol u grudima koji traje od 5 minuta do 20 minuta uz bilo koji od sledećih simptoma: vrtoglavica, mučnina, lupanje srca, opšta slabost, bitno je po preporuci lekara pozvati Hitnu pomoć, koja će uraditi sva ispitivanja neophodna za uspostavljanje tačne dijagnoze.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  </div>
+</div>

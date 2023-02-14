@@ -16,6 +16,8 @@ featured: false
 ---
 
 
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
 
 Termine dijabetes i dijabetes tip 2 vrlo često vezujemo za probleme modernog čoveka i ubrzanog načina života, te smo sve česće upoznati sa posledicama istih. Tamo gde zdrava ishrana postaje luksuz, a brza hrana i velike količine šećera i ugljenih hidrata lako dostupna zamena za hranljive namirnice, gubimo polako kontrolu nad sopstvenim zdravljem.
 
@@ -98,8 +100,5 @@ I na samom kraju, da li je **dijabetes tip 2 izlečiv**?
 
 Pored svih istraživanja, objavljenih naučnih radova i miliona ispitanika koji žive sa dijabetesom i dijabetesom tipa 2, zaključeno je da još uvek [nemamo trajni lek](https://www.webmd.com/diabetes/guide/is-there-a-diabetes-cure) za ovu učestalu bolest današnjice. Dakle, na nama je da preduzmemo korake ka poboljšanju našeg kvaliteta života i da smanjimo faktore rizika koji nas mogu dovesti do povećanog šećera u krvi, insulinske rezistencije i na kraju, dijabetesa tip 2
 
-
-
-
-
-
+  </div>
+</div>

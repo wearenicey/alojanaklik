@@ -15,6 +15,10 @@ slug: kako-keto-dijeta-utice-na-dijabetes
 featured: false
 ---
 
+
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
+
 U ovim modernim vremenima interneta, mobilnih telefona i aplikacija, online porudžbina i dostava na kućnu adresu čini se da je mnogo toga olakšano, da se ima više vremena za neke druge obaveze ili razonode. Jeste li se nekada zapitali da li je moguće da ste samo vi večito u tolikoj žurbi? Kao da dan nije dovoljno dugačak. Sve češće se dešava da se nema vremena za kuvanje ručka, a još manje za okupljanje porodice oko stola i laganom uživanju u kvalitetnom obroku.
 
 Još je teži scenario kada je osoba dijabetičar, dobija na kilogramima, a iz dana u dan se neuspešno bori sa izazovom one preukusne čokolade. Čokolade koju svaki dan kupi i pojede, iako je svesna da joj ne čini dobro po zdravlje. Iako zna da će ponovo prolaziti kroz razgovor sa doktorkom i trpeti možda prekoran pogled ili slušati lekcije koje je odavno naučila. Iako zna da će se možda ponovo menjati terapija lekovima. 
@@ -112,4 +116,5 @@ Keto dijetom gube se kilogrami, ali se gube i masne naslage. Šećer se i inače
 Ovim tekstom su predstavljeni isključivo opšti podaci koji ni u kom slučaju ne daju medicinske savete ili uputstva. 
 
 
-
+  </div>
+</div>

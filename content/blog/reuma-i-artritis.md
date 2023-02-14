@@ -16,6 +16,8 @@ featured: false
 ---
 
 
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
 
 Bolovi u kolenu pri penjanju uz stepenice, bolovi u prstima kojima je nemoguće obavljati svakodnevne aktivnosti, otečeni zglobovi, sve to muči kako mlađu, tako i stariju populaciju.
 
@@ -180,3 +182,5 @@ Jako je bitno imati svest o tome da ćete pravilnom ishranom i izbacivanjem loš
 
 Naslovna fotografija: Adobe Stock
 
+  </div>
+</div>

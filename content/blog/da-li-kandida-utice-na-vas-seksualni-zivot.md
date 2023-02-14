@@ -15,6 +15,10 @@ slug: da-li-kandida-utice-na-vas-seksualni-zivot
 featured: false
 ---
 
+
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
+
 Možda ste i vi imali iskustva kada vam dan krene lepo, naspavani ste i orni za predstojeće poslovne zadatke. A onda jedna po jedna neugodna situacija krene da se dešava. 
 
 Nekada je u pitanju auto koji neće da upali, pa žurite na autobus, nekada kiša koja iznenadno počinje da pada, nekada dobijate poziv da je sastanak premešten za jutro i shvatate da nemate vremena za finale pripreme koje ste planirali za to pre podne.
@@ -117,16 +121,5 @@ Od izuzetnog je značaja da sa za tegobe izazvane kandidom krene sa terapijom š
 Imajući u vidu da pomenuta dijeta osim na kandidu, donosi benefite i po pitanju boljeg raspoloženja i energičnosti, seksualni život dobija šansu da bude bolji nego pre infekcije. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+  </div>
+</div>

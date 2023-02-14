@@ -15,6 +15,8 @@ slug: upala-desni
 featured: false
 ---
 
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
 
 **Desni** ili **gingiva** su deo sluzokože koje prekrivaju jedan deo usne duplje. Desni obavijaju zubni vrat sve do udubljenja u gornjoj i donjoj vilici u kojima su smešteni zubi. Obično su svetlo roze boje.
 
@@ -111,3 +113,5 @@ Kao i kod svakog oboljenja tako je i kod upale desni uvek bolje delovati prevent
 
 Preporuka je i izbegavanje slatkiša i obojenih sokova, a češća konzumacija zdravih namirnica bogatih vitaminima i mineralima. Najbolji način za održavanje usne duplje zdravom je odlazak kod stomatologa jednom u 6 meseci.
 
+  </div>
+</div>

@@ -15,6 +15,10 @@ slug: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom
 featured: false
 ---
 
+
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
+
 Verovatno ste mnogo puta čuli da su zdrava deca krupna i rumena. Živelo se u uverenju da je sreća kada se ima hrane u izobilju. Još veća sreća u porodici je vladala kada bi dete samo tražilo da jede u bilo koje doba dana, te se odrasli nisu mnogo trudili i gubili vreme da ga nahrane. Ako bi takvo dete odbilo da pojede neki slatkiš ili jelo odmah bi se posumnjalo na bolest, te bi sledilo merenje temperature, zagledanje da li je bledo ili pospano. Nikada niko nije govorio o organizmu kao hramu tela, uma i duha. Nakon 20 godina takvog života, to dete, sada već odrasla osoba se suočava sa nizom problema poput: prejedanja, zavisnost od slatkiša i višak telesne mase. To se još uvek u ranim 20-im godinama ne smatra problemom. Mnogi se  ljudi čude kada se odjednom suoče sa dijabetesom, verujući da se bolest pojavila odjednom.  
 
 Da li osobe obolele od dijabetesa (dijabetes melitus) mogu živeti jednako kvalitetno, kao potpuno zdrave osobe? Šta je to što im olakšava život? Šta je dijabetes?
@@ -116,4 +120,5 @@ Nedovoljno sna utiče na porast stresa i kortizola, a on na rast šećera u krvi
 Prema preporuci endokrinologa kada se utvrdi dijabetes bitno je raskrstiti sa starim životnim navikama: prejedenje, preskakanje obroka, uzimanje masne hrane, slatkiša i grickalica. Važno je promeniti navike ishrane, organizovati tako dan da obavezno imate vremena za 5 obroka i neku fizičku aktivnost. Ne zaboraviti uzeti lekarsku terapiju i naravno otići na vreme na spavanje, pre ponoći. Omogućite svom organizmu da se odmori, tako što ćete odspavati najmanje 7h u toku noći. Iako mislite da ste oboleli od preteške bolesti, Vama će najviše pomoći korekcija ishrane, lekarska terapija u život bez stresa. Naravno, neophodno je pratiti dodatna uputstva Vašeg lekara i obavljati redovne lekarske kontrole.
 
 
-
+  </div>
+</div>

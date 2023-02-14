@@ -15,6 +15,10 @@ slug: kako-piti-aloju
 featured: false
 ---
 
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
+
+
 Svakodnevno sedenje po više sati dovodi Vas u situaciju da se neredovno hranite ili se često prejedate. Neadekvatna ishrana bez vitamina i minerala vremenom oštećuje kožu i kosu. Instant rešenja su svuda oko nas - kupićete neki hemijski preparat...
 
 Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to ste rešili privremeno lekovima, antacidima. Šta posle, ako lekovi više ne pomažu? U našoj okolini postoje veoma moćne biljke, poput aloje koje mogu pomoći kod svakodnevnih problema sa varenjem, UV zračenjem, hidratacijom kože, pa čak i uslučaju najtežih bolesti.
@@ -105,3 +109,7 @@ U slučaju hemoterapije, **aloja vera biljka** pomaže tako što sprečava ošte
 5. Šećere (monosaharde i polisaharide) i biljne hormone - koji su važni i efikasni u borbi protiv akni, ožiljaka i bora.
 
 Ukoliko postoje bilo kakve smetnje sa probavnim traktom (zatvor, gorušica, helikobakterija), sa suvom kožom ili ste osoba čija koža lako izgori na suncu, [aloja vera sok](https://flpshop.rs/napici/11837/forever-aloe-vera-gel/360000954255/personal.html) može pomoći u rešavanju navedenih problema. Veoma je važno konsultovati se sa svojim lekarom koji će odrediti adekvatnu terapiju, a [aloja vera gel](https://flpshop.rs/nega-koze/11694/aloe-vera-gelly/360000954255/personal.html) ili [aloja vera losion](https://flpshop.rs/nega-koze/12541/aloe-sunscreen/360000954255/personal.html) mogu samo ubrzati rešavanje zdravstvenih problema. **Aloja vera biljka** se naziva magičnom biljkom upravo zbog mogućnosti izlečenja i najtežih bolesti poput kancera zbog sadžaja preko 240 hranljivih sastojaka.
+
+
+  </div>
+</div>

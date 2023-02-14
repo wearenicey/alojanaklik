@@ -15,6 +15,10 @@ slug: izbeljivanje-zuba
 featured: false
 ---
 
+
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
+
 Oduševljeni ste prizorom i belinom zuba osobe koju ste upravo upoznali i pitate se: „Kako doći do tako lepog osmeha?“ Izbeljivanje zuba je uobičajena briga mnogih ljudi, jer blistav i zdrav osmeh može u velikoj meri poboljšati nečije samopouzdanje i izgled. Međutim, razumevanje uzroka koji dovode do promene boje zuba i načina na koji to možemo usporiti ili sprečiti je ključno za održavanje belog i zdravog osmeha. 
 
 Da li je neophodno posetiti stomatologa ili dobar rezultat **izbeljivanja zuba** možete postići i kod kuće? Odgovor je potvrdan, postoji više načina da dođete do blistavo belih zuba.
@@ -144,5 +148,5 @@ Takođe, oko nas postoje raznorazne namirnice kojima možemo da saniramo ili usp
 
 Dakle, lepota i belina Vaših zuba zavisi gotovo isključivo od Vas samih. Održavajte zube i usta čistim, to je preduslov za blistav osmeh.
 
-
-
+  </div>
+</div>
