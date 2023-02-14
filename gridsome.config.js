@@ -19,123 +19,114 @@ module.exports = {
 		},
 
 		{
-			use: '@gridsome/plugin-sitemap',
+			use: "@gridsome/plugin-sitemap",
 			options: {
-				exclude: ['/404', '/blog/2', '/blog/3'],
+				exclude: ["/404", "/blog/2", "/blog/3"],
 				config: {
-
-					'/': {
-						changefreq: 'weekly',
+					"/": {
+						changefreq: "weekly",
 						priority: 1.0,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/proizvodi/': {
-						changefreq: 'weekly',
+					"/proizvodi/": {
+						changefreq: "weekly",
 						priority: 0.9,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/istorija-kompanije/': {
-						changefreq: 'weekly',
+					"/istorija-kompanije/": {
+						changefreq: "weekly",
 						priority: 0.7,
-						lastmod: '2021-12-25',
-					},
-			
-					'/postanite-saradnik/': {
-						changefreq: 'weekly',
-						priority: 0.7,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
 
-					'/kontakt/': {
-						changefreq: 'weekly',
+					"/postanite-saradnik/": {
+						changefreq: "weekly",
+						priority: 0.7,
+						lastmod: "2021-12-25"
+					},
+
+					"/kontakt/": {
+						changefreq: "weekly",
 						priority: 0.6,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
 
-					'/blog/': {
-						changefreq: 'weekly',
+					"/blog/": {
+						changefreq: "weekly",
 						priority: 0.8,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/blog/*': {
-						changefreq: 'weekly',
+					"/blog/*": {
+						changefreq: "weekly",
 						priority: 0.7,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
 
-					
-					'/preparati-za-negu-koze/': {
-						changefreq: 'weekly',
+					"/preparati-za-negu-koze/": {
+						changefreq: "weekly",
 						priority: 0.8,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/preparati-za-negu-koze/*': {
-						changefreq: 'weekly',
+					"/preparati-za-negu-koze/*": {
+						changefreq: "weekly",
 						priority: 0.7,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
 
-
-					'/dodaci-ishrani/': {
-						changefreq: 'weekly',
+					"/dodaci-ishrani/": {
+						changefreq: "weekly",
 						priority: 0.8,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/dodaci-ishrani/*': {
-						changefreq: 'weekly',
+					"/dodaci-ishrani/*": {
+						changefreq: "weekly",
 						priority: 0.7,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
 
-
-					'/mrsavljenje/': {
-						changefreq: 'weekly',
+					"/mrsavljenje/": {
+						changefreq: "weekly",
 						priority: 0.8,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/mrsavljenje/*': {
-						changefreq: 'weekly',
+					"/mrsavljenje/*": {
+						changefreq: "weekly",
 						priority: 0.7,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
 
-			
-					'/mapici/': {
-						changefreq: 'weekly',
+					"/mapici/": {
+						changefreq: "weekly",
 						priority: 0.8,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/mapici/*': {
-						changefreq: 'weekly',
+					"/mapici/*": {
+						changefreq: "weekly",
 						priority: 0.7,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
 
-
-					'/preparati-za-higijenu/': {
-						changefreq: 'weekly',
+					"/preparati-za-higijenu/": {
+						changefreq: "weekly",
 						priority: 0.8,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/preparati-za-higijenu/*': {
-						changefreq: 'weekly',
+					"/preparati-za-higijenu/*": {
+						changefreq: "weekly",
 						priority: 0.7,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
 
-				
-					'/pcelinji-proizvodi/': {
-						changefreq: 'weekly',
+					"/pcelinji-proizvodi/": {
+						changefreq: "weekly",
 						priority: 0.8,
-						lastmod: '2021-12-25',
+						lastmod: "2021-12-25"
 					},
-					'/pcelinji-proizvodi/*': {
-						changefreq: 'weekly',
+					"/pcelinji-proizvodi/*": {
+						changefreq: "weekly",
 						priority: 0.7,
-						lastmod: '2021-12-25',
-					},
-			
-					
+						lastmod: "2021-12-25"
+					}
 				}
 			}
 		},
@@ -176,24 +167,41 @@ module.exports = {
 			}
 		},
 
+		// {
+		// 	use: "@gridsome/source-filesystem",
+		// 	options: {
+		// 		typeName: "Post",
+		// 		path: "./content/blog/*.md",
+		// 		remark: {
+		// 			autolinkHeadings: false
+		// 		},
+
+		// 		refs: {
+		// 			tags: {
+		// 				typeName: "Tag",
+		// 				create: true
+		// 			}
+		// 			// category: {
+		// 			// 	typeName: "Category",
+		// 			// 	create: true
+		// 			// }
+		// 		}
+		// 	}
+		// },
+
 		{
-			use: "@gridsome/source-filesystem",
+			use: "@gridsome/vue-remark",
 			options: {
 				typeName: "Post",
-				path: "./content/blog/*.md",
-				remark: {
-					autolinkHeadings: false
-				},
-
+				baseDir: "./content/blog",
+				route: "/blog/:slug",
+				template: "./src/templates/Post.vue",
+				plugins: [["gridsome-plugin-remark-shiki", { theme: "nord", skipInline: true }]],
 				refs: {
 					tags: {
 						typeName: "Tag",
 						create: true
 					}
-					// category: {
-					// 	typeName: "Category",
-					// 	create: true
-					// }
 				}
 			}
 		},
@@ -209,9 +217,6 @@ module.exports = {
 	],
 
 	templates: {
-		Post: "/blog/:path",
-		Tag: "/tag/:id",
-
 		Proizvodi: "/:kategorija/:path",
 		Kategorija: [
 			{

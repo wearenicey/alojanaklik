@@ -11,7 +11,7 @@ imageTwo:
   path: /da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
   alt: "kandida u vagini"
 image_caption: Photo by Josh Spires on Unsplash
-path: da-li-kandida-utice-na-vas-seksualni-zivot
+slug: da-li-kandida-utice-na-vas-seksualni-zivot
 featured: false
 ---
 

@@ -11,7 +11,7 @@ imageTwo:
   path: /izbeljivanje-zuba-slika1.jpg
   alt: "beljenje zuba kod kuće"
 image_caption: Photo by Josh Spires on Unsplash
-path: izbeljivanje-zuba
+slug: izbeljivanje-zuba
 featured: false
 ---
 

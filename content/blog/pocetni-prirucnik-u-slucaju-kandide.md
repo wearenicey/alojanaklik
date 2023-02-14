@@ -11,7 +11,7 @@ imageTwo:
   path: /pocetni-prirucnik-u-slucaju-kandide-slika1.jpg
   alt: "kandida ishrana"
 image_caption: Photo by Nataliya Vaitkevich
-path: pocetni-prirucnik-u-slucaju-kandide
+slug: pocetni-prirucnik-u-slucaju-kandide
 featured: false
 ---
 

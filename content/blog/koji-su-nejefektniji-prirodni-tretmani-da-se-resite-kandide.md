@@ -11,7 +11,7 @@ imageTwo:
   path: /prirodni-tretmani-resavanja-kandide-slika1.jpg
   alt: "prirodni lekovi protiv kandide"
 image_caption: Photo by Josh Spires on Unsplash
-path: koji-su-nejefektniji-prirodni-tretmani-da-se-resite-kandide
+slug: koji-su-nejefektniji-prirodni-tretmani-da-se-resite-kandide
 featured: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Kegelove vežbe i da li su samo dobre za erekciju?
 tags: Zdravlje muškarca
-tagsMeta: Šta su kegelove vežbeI da li mogu da pomognu u slučaju problemi koji se javljaju u seksualnom životu muškarca? Na koji način se sprovode i šta možemo da očekujemo?
+tagsMeta: Šta su kegelove vežbe i da li mogu da pomognu u slučaju problemi koji se javljaju u seksualnom životu muškarca? Na koji način se sprovode i šta možemo da očekujemo?
 excerpt: Kada se pomenu Kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene.
 created: 2022-06-25
 image: kegelove-vezbe-slika3.jpg
@@ -11,10 +11,14 @@ imageTwo:
   path: /kegelove-vezbe-slika3.jpg
   alt: "egelove vežbe za muškarce"
 image_caption: Photo by Josh Spires on Unsplash
-path: kegelove-vezbe
+slug: kegelove-vezbe
 featured: false
 ---
 
+
+
+<div class="container max-width-adaptive-sm">
+	<div class="text-component line-height-lg v-space-md">
 
 Kada se pomenu Kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene. Svakoj  ženi je bar jednom u životu preporučeno od strane ginekologa da radi Kegelove vežbe za jačanja mišića karličnog dna, koji uobičajeno biva oslabljen u toku trudnoće, nakon porođaja, starenjem ili uvećanjem telesne mase.
 
@@ -65,6 +69,49 @@ Lečenjem bolesti koje mogu uzrokovati ovaj problem, možemo postići efekat pob
 
 U zavisnosti od uzroka koji dovode do impotencije, postoje različiti načini lečenja. Za dobru potenciju je najbitniji dovoljan priliv krvi i prokrvljenost krvnih sudova penisa.Uz pomoć određenih [suplemenata koje možemo koristiti kao dodatak ishrani](https://flpshop.rs/dodaci-ishrani/11638/forever-multi-maca/360000954255/personal.html), i primenom određenih vežbi možemo uticati na ovaj zdravstveni problem
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/Kupi_Forever_Living_Forever_Multi-Maca_Dietary_Supplement_60.jpg"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Peruanska maka - Multi Maca</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Afrodizijak
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Stimuliše plodnost
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Smanjuje otok i upalu prostate
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Smanjuje neurološke tegobe
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="#" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 ## Kegelove vežbe, iz muškog ugla, kako tačno?
 
 Jedan od načina da otklonite ove zdravstvene probleme je vežbanje mišića karličnog dna, primenom Kegelovih vežbi.
@@ -91,4 +138,53 @@ Kako bi ste brže napredovali, možete kombinovati varijante Kegelovih vežbi, t
 
 U sledećem [video snimku](https://youtu.be/bri4R37uBUg) možete pogledati ove vežbe.
 
+  </div>
+</div>
 
+<div class="container max-width-adaptive-lg padding-y-lg padding-x-md radius-lg margin-y-lg bg-white">
+	<div class="grid gap-lg">
+		<div class="col-5@md">
+			<g-image class="" src="~/assets/img/Kupi_Forever_Living_Forever_Multi-Maca_Dietary_Supplement_60.jpg"></g-image>
+		</div>
+		<div class="col-7@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="color-primary text-bold text-md margin-bottom-0">
+					<p>Dodaci ishrani</p>
+				</div>
+				<div class="">
+					<h2>Peruanska maka - Multi Maca</h2>
+				</div>
+				<div class="">
+					<p class="text-lg color-accent font-primary text-normal">4.633,43 RSD</p>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center">
+						<g-image class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Afrodizijak
+					</div>
+          <div class="flex items-center">
+						<g-image class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Stimuliše plodnost
+					</div>
+          <div class="flex items-center">
+						<g-image class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Smanjuje otok i upalu prostate
+					</div>
+          <div class="flex items-center">
+						<g-image class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Smanjuje neurološke tegobe
+					</div>
+				</div>
+				<div>
+					<p class="color-black text-sm">Korišćenjem proizvoda Forever Supergreens živećete opuštenije i zdravije. Na siguran način pomažete sebi i svom organizmu</p>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="#" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>

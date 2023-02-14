@@ -11,7 +11,7 @@ imageTwo:
   path: /7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg
   alt: "dijabetes"
 image_caption: Photo by Josh Spires on Unsplash
-path: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom
+slug: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom
 featured: false
 ---
 

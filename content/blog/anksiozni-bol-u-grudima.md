@@ -11,7 +11,7 @@ imageTwo:
   path: /nksiozni-bol-u-grudima-slika1.jpg
   alt: "bol u grudima od stresa"
 image_caption: Photo by Josh Spires on Unsplash
-path: anksiozni-bol-u-grudima
+slug: anksiozni-bol-u-grudima
 featured: false
 ---
 

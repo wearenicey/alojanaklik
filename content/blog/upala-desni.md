@@ -11,7 +11,7 @@ imageTwo:
   path: /upala-desni-slika1.jpg
   alt: "upala desni prirodni lek"
 image_caption: Photo by Josh Spires on Unsplash
-path: upala-desni
+slug: upala-desni
 featured: false
 ---
 

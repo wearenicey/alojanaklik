@@ -11,7 +11,7 @@ imageTwo:
   path: /afte-u-ustima-slika1.jpg
   alt: "afte na jeziku"
 image_caption: Photo by Josh Spires on Unsplash
-path: afte-u-ustima-kao-posledica-nedostatka-vitamina-b
+slug: afte-u-ustima-kao-posledica-nedostatka-vitamina-b
 featured: false
 ---
 

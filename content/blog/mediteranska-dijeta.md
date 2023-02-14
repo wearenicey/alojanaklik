@@ -11,7 +11,7 @@ imageTwo:
   path: /mediteranska-dijeta-slika1.jpg
   alt: "dijeta mediteran"
 image_caption: Photo by Josh Spires on Unsplash
-path: mediteranska-dijeta
+slug: mediteranska-dijeta
 featured: false
 ---
 

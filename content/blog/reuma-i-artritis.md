@@ -11,7 +11,7 @@ imageTwo:
   path: /reuma-i-artritis-slika1.jpg
   alt: "reuma"
 image_caption: Photo by Josh Spires on Unsplash
-path: reuma-i-artritis
+slug: reuma-i-artritis
 featured: false
 ---
 

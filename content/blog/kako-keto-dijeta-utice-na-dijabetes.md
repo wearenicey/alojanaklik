@@ -11,7 +11,7 @@ imageTwo:
   path: /keto-dijeta-dijabetes-slika1.jpg
   alt: "dijeta"
 image_caption: Photo by Josh Spires on Unsplash
-path: kako-keto-dijeta-utice-na-dijabetes
+slug: kako-keto-dijeta-utice-na-dijabetes
 featured: false
 ---
 

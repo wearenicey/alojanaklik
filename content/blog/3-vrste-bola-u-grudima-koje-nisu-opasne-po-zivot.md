@@ -11,7 +11,7 @@ imageTwo:
   path: /3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
   alt: "bol u grudima sa vele strane"
 image_caption: Photo by Josh Spires on Unsplash
-path: 3-vrste-bola-u-grudima-koje-nisu-opasne-po-zivot
+slug: 3-vrste-bola-u-grudima-koje-nisu-opasne-po-zivot
 featured: false
 ---
 

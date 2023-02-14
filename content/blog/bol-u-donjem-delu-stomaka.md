@@ -11,7 +11,7 @@ imageTwo:
   path: /bol-u-donjem-delu-stomaka-slika1.jpg
   alt: "bol u donjem delu stomaka"
 image_caption: Photo by Josh Spires on Unsplash
-path: bol-u-donjem-delu-stomaka
+slug: bol-u-donjem-delu-stomaka
 featured: false
 ---
 

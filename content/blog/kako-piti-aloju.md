@@ -11,7 +11,7 @@ imageTwo:
   path: /kako-piti-aloju.jpg
   alt: "aloe vera sok"
 image_caption: Photo by Josh Spires on Unsplash
-path: kako-piti-aloju
+slug: kako-piti-aloju
 featured: false
 ---
 

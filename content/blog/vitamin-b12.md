@@ -11,7 +11,7 @@ imageTwo:
   path: /vitamin-b12-1.jpg
   alt: "vitamin b12"
 image_caption: Photo by Josh Spires on Unsplash
-path: vitamin-b12
+slug: vitamin-b12
 featured: true
 ---
 

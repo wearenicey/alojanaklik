@@ -11,7 +11,7 @@ imageTwo:
   path: /nervozna-creva.jpg
   alt: "sindrom nervoznih creva"
 image_caption: Photo by Josh Spires on Unsplash
-path: nervozna-creva
+slug: nervozna-creva
 featured: false
 ---
 

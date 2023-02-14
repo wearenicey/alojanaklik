@@ -21,13 +21,13 @@
 <page-query>
 query Posts ($page: Int) {
   entries: allPost (perPage: 7, page: $page) @paginate {
-     pageInfo {
-      totalPages
-      currentPage
-      isLast
-    }
-    edges {
-    node {
+    	pageInfo {
+      	totalPages
+      	currentPage
+      	isLast
+    	}
+			edges {
+			node {
       id
       title
       excerpt
@@ -37,16 +37,14 @@ query Posts ($page: Int) {
         path
         alt
       }
-      timeToRead
-          featured
-          humanTime: created(format: "DD MMM YYYY")
-          datetime: created
-        tags {
+    	featured
+    	humanTime: created(format: "DD MMM YYYY")
+    	datetime: created
+    	tags {
           title
-          path
-        }
-      }
-    }
+    		}
+			}
+		}
   }
 }
 </page-query>

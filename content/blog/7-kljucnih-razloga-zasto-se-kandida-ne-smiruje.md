@@ -11,7 +11,7 @@ imageTwo:
   path: /7-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika1.jpg
   alt: "lečenje kandide"
 image_caption: Photo by Josh Spires on Unsplash
-path: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje
+slug: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje
 featured: false
 ---
 

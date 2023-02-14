@@ -16,10 +16,10 @@
 
 				<div class="flex justify-center">
 					<div class="author__content text-component v-space-xxs">
-						<p class="text-sm color-contrast-medium">
+						<!-- <p class="text-sm color-contrast-medium">
 							<time class="text-sm color-inherit" :datetime="$page.post.datetime">{{ $page.post.humanTime }}</time
 							>&mdash; {{ $page.post.timeToRead }} min čitanja
-						</p>
+						</p> -->
 					</div>
 				</div>
 			</header>
@@ -28,10 +28,11 @@
 				<g-image :src="require(`!!assets-loader!@img/${$page.post.image}`)" class="width-100%" :alt="$page.post.alt"></g-image>
 			</figure>
 
-			<div class="container max-width-adaptive-sm">
-				<div class="text-component line-height-lg v-space-md" v-html="$page.post.content"></div>
+			<div class="container max-width-adaptive-xl">
+				<div class="">
+					<VueRemarkContent />
+				</div>
 			</div>
-
 		</article>
 	</Layout>
 </template>
@@ -54,19 +55,12 @@
       content
       humanTime : created(format:"DD MMMM YYYY")
       datetime : created(format:"ddd MMM DD YYYY hh:mm:ss")
-
-      timeToRead
-      tags {
-        id
-        title
-      }
     }
   }
 </page-query>
 
 <script>
 export default {
-
 	//meta desc dinamicni
 	metaInfo() {
 		return {
@@ -79,49 +73,49 @@ export default {
 				{
 					key: "og:image",
 					property: "og:image",
-					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path,
+					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path
 				},
 				{
 					key: "og:title",
 					name: "og:title",
-					content: this.$page.post.title + " - Aloja Vera",
+					content: this.$page.post.title + " - Aloja Vera"
 				},
 
 				{
 					key: "og:type",
 					name: "og:type",
-					content: "article",
+					content: "article"
 				},
 
 				{
 					key: "og:description",
 					name: "og:description",
-					content: this.$page.post.tagsMeta,
+					content: this.$page.post.tagsMeta
 				},
 				{
 					key: "twitter:title",
 					name: "twitter:title",
-					content: this.$page.post.title + " - Aloja Vera",
+					content: this.$page.post.title + " - Aloja Vera"
 				},
 				{
 					key: "twitter:description",
 					name: "twitter:description",
-					content: this.$page.post.tagsMeta,
+					content: this.$page.post.tagsMeta
 				},
 				{
 					key: "twitter:image",
 					property: "twitter:image",
-					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path,
-				},
-			],
+					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path
+				}
+			]
 
 			// etc...
 		};
 	},
-	data: function () {
+	data: function() {
 		return {
 			api_url: "https://alojanaklik.rs/",
-			facebook: "http://www.facebook.rs/sharer/sharer.php?u=",
+			facebook: "http://www.facebook.rs/sharer/sharer.php?u="
 		};
 	},
 

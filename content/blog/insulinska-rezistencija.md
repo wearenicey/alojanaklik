@@ -11,7 +11,7 @@ imageTwo:
   path: /insulinska-rezistencija-slika1.jpg
   alt: "dijabetes tip 2"
 image_caption: Photo by Josh Spires on Unsplash
-path: insulinska-rezistencija
+slug: insulinska-rezistencija
 featured: false
 ---
 
