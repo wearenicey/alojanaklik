@@ -133,6 +133,49 @@ Tretmani uključuju:
 
 Jedan od lekova koji se primenjuje u lečenju ove bolesti je [metotreksat](https://www.reumatologija.rs/bolesti/reumatoidni-artritis/). Ovaj lek smanjuje upalu i usporava napredovanje bolesti.
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_move.jpg" alt="prirodni lek za reumu"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Move</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Smanjuje bol u zglobovima
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  Čini hrskavicu zdravom
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Poboljšava fleksibilnost zglobova
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Ubrzava oporavak
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11800/forever-move-esm-complex/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 Kod pacijenata kod kojih uzimanje ovog leka ne doprinosi dovoljno u lečenju bolesti, preporuka lekara je da se uzimaju i drugi lekovi, s tim da se ne prekida uzimanje metroteksata.
 
 
@@ -178,9 +221,54 @@ Takođe, pored zdrave i raznovrsne ishrane preporuka je da se uzimaju određeni 
 
 [Forever Move](https://flpshop.rs/dodaci-ishrani/11800/forever-move-esm-complex/360000954255/personal.html) i [Forever Freedom](https://flpshop.rs/napici/11619/forever-freedom/360000954255/personal.html) su najnoviji klinički ispitani preparati koji se koriste kao dodaci ishrani čijim ćete konzumiranjem i pravilnim korišćenjem  osetiti olakšanje pri kretanju i fleksibilnost pokreta. Forever Freedom sadrži materije koje pospešuju i održavaju bolji rad vezivnog tkiva i daje pokretljivost zglobova. Ima prijatan ukus narandže.  
 
+
+
 Jako je bitno imati svest o tome da ćete pravilnom ishranom i izbacivanjem loših navika iz Vašeg života bitno uticati na opšte stanje Vašeg organizma, a samim tim doprineti lečenju reumatskih oboljenja.
 
-Naslovna fotografija: Adobe Stock
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_freedom.webp" alt="prirodni lek za artritis"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Freedom</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Proizvod koji daje brze efekte
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  Veoma je značajan u produkciji kolagena
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Obiluje vitaminom C
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Trajno rešava problem
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11800/forever-move-esm-complex/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
+Naslovna fotografija: Adobe Stock 
 
   </div>
 </div>

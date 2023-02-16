@@ -5,7 +5,7 @@ tagsMeta: Zbog čega je aloja vera toliko korisna i u kako sve može da se koris
 excerpt: Da li ste nekada probali da rešite zdravstveni problem pomoću lekovitih biljaka? Da li znate lekovita svojstva aloje?
 created: 2021-10-09
 image: aloe-vera-blog-1.webp
-alt: "aloja vera biljka"
+alt: "aloja vera"
 
 imageTwo:
   path: /kako-piti-aloju.jpg
@@ -23,7 +23,7 @@ Svakodnevno sedenje po više sati dovodi Vas u situaciju da se neredovno hranite
 
 Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to ste rešili privremeno lekovima, antacidima. Šta posle, ako lekovi više ne pomažu? U našoj okolini postoje veoma moćne biljke, poput aloje koje mogu pomoći kod svakodnevnih problema sa varenjem, UV zračenjem, hidratacijom kože, pa čak i uslučaju najtežih bolesti.
 
-![aloe vera biljka](./images/aloe-vera-blog-3.webp)
+![aloe vera](./images/aloe-vera-blog-3.webp)
 
 ## Aloja vera biljka se koristi vekovima
 
@@ -49,7 +49,7 @@ Iz Novog Zaveta imamo podatak da je melasa iz aloje i mirte prelivena na telo Is
 - Da održava stalnu svežinu vazduha - otporna je na duvanski dim
 - I kao ukrasno bilje ima dekorativnu funkciju.
 
-- **Aloja vera sok** - sadrži preko 240 hranljivih sastojaka i bogat je izvor vitamina (A, B1, B2, B3, B5, B6, B12, C), minerala (kalcijum, natrijum, bakar, cink, hrom, mangan, kalijum, magnezijum, gvožđe), antioksidanasa, aminokiselina (od toga 8 esencijalnih), antikinona, enzima, saponina i lignina.
+**Aloja vera sok** - sadrži preko 240 hranljivih sastojaka i bogat je izvor vitamina (A, B1, B2, B3, B5, B6, B12, C), minerala (kalcijum, natrijum, bakar, cink, hrom, mangan, kalijum, magnezijum, gvožđe), antioksidanasa, aminokiselina (od toga 8 esencijalnih), antikinona, enzima, saponina i lignina.
 
 Sok od aloje vera pomaže kod:
 
@@ -64,15 +64,15 @@ Sok od aloje vera pomaže kod:
 9.  Ublažavanja simptoma astme i alergije
 10. Poboljšanja imuniteta.
 
-- **Aloja vera gel** se nalazi u unutrašnjosti lista aloje. Zbog svoje gustine veoma je povoljan za spravljanje maski za lice, tinktura za opekotine, losiona za kosu, krema za sunčanje, krema za zarastanje rana i raznih kožnih bolesti.
+**Aloja vera gel** se nalazi u unutrašnjosti lista aloje. Zbog svoje gustine veoma je povoljan za spravljanje maski za lice, tinktura za opekotine, losiona za kosu, krema za sunčanje, krema za zarastanje rana i raznih kožnih bolesti.
 
-- **Aloja sprej za grlo i nos** je veoma atraktivan proizvod u vremenu gripa, epidemija i pandemija, te je veoma efikasno sredstvo za suzbijanje bakterija i gljivica. Zbog svog antiseptičkog dejstva veoma je efikasan za smirivanje upala (grla, nosa, ždrela, usne šupljine ili desni).
+**Aloja sprej za grlo i nos** je veoma atraktivan proizvod u vremenu gripa, epidemija i pandemija, te je veoma efikasno sredstvo za suzbijanje bakterija i gljivica. Zbog svog antiseptičkog dejstva veoma je efikasan za smirivanje upala (grla, nosa, ždrela, usne šupljine ili desni).
 
-- **Aloja vera za lice** - kreme su veoma efikasne u hidriranju ispucale i dehidrirane kože. Pomažu održavanju mekoće i elastičnosti. Deluje antibakterijski i protivupalno.
+**Aloja vera za lice** - kreme su veoma efikasne u hidriranju ispucale i dehidrirane kože. Pomažu održavanju mekoće i elastičnosti. Deluje antibakterijski i protivupalno.
 
 ## Aloja vera u kozmetici - gel i krema za sunčanje
 
-**Aloja vera biljka** u kozmetici ima široku primenu zbog sadržaja lekovitih i hranljivih sastojaka aloje (minerala, vitamina, enzima, aminokiselina, saponina, lignina i polifenola). Aloja spada u grupu kaktusa koja sadži u velikoj meri vodu (oko 99%) te samim tim je izvrsna za **održavanje hidratacije**. To čini kožu zategnutijom i svežom. Naziva se još i “eliksirom mladosti”. Zbog antioksidativnog svojstva, krema na bazi aloje je veoma efikasno sredstvo **protiv starenja kože**. Zbog visokog sadžaja polisaharida **idealna je za masnu kožu** jer je koža brzo upija. Protivupalno dejstvo aloje svrstava ove kreme u najefikasnije u borbi protiv akni. Idealna krema za rešavanje problema hidratacije, iritacije, zarastanje rana, ekcema, psorijaze ili uboda je aloja [vera gel](https://flpshop.rs/nega-koze/11694/aloe-vera-gelly/360000954255/personal.html).
+**Aloja vera biljka** u kozmetici ima široku primenu zbog sadržaja lekovitih i hranljivih sastojaka aloje (minerala, vitamina, enzima, aminokiselina, saponina, lignina i polifenola). Aloja spada u grupu kaktusa koja sadži u velikoj meri vodu (oko 99%) te samim tim je izvrsna za **održavanje hidratacije**. To čini kožu zategnutijom i svežom. Naziva se još i “eliksirom mladosti”. Zbog antioksidativnog svojstva, krema na bazi aloje je veoma efikasno sredstvo **protiv starenja kože**. Zbog visokog sadžaja polisaharida **idealna je za masnu kožu** jer je koža brzo upija. Protivupalno dejstvo aloje svrstava ove kreme u najefikasnije u borbi protiv akni. Idealna krema za rešavanje problema hidratacije, iritacije, zarastanje rana, ekcema, psorijaze ili uboda je [aloja vera gel](https://flpshop.rs/nega-koze/11694/aloe-vera-gelly/360000954255/personal.html).
 
 Upotrebljva se čak i kod tretmana kose, kod bojenja i trajne ondulacije. Koža ga u potpunosti upija te ne ostavlja tragove na odeći. Veoma je praktičnog pakovanja te je pogodan u priboru za prvu pomoć.
 
@@ -82,7 +82,7 @@ Krema za sunčanje je idealna u borbi protiv visokog UV zračenja i štetnog uti
 
 ## Uloga aloje kod rešavanja želudačnih smetnji - žgaravica i probavne smetnje
 
-Poznato je da aloja ima izvrsno dejstvo kad rešavanja želudačnih smetnji. Aloja sadži glikoproteine zvane aktin i sterol koji smanjuju upale i rane na sluznici želuca. S obzirom da sadrži enzime koji su neophodni za varenje veoma je efikasna za sprečavanje zatvora i detoksikaciju organizma. Aloja je poznata kao biljka koja ima protivbakterijsko dejstvo te je pogodna za suzbijanje helikobakterije, uzročnika gastritisa. Poznato je da je aloja alkalna po svom sastavu te je izvrsna u održavanju PH vrednosti želudačne kiseline. Reguliše kako višak, tako i manjak želudačne kiseline. Proizvod koji može zadovoljiti sve vaše potrebe po pitanju želudačnih smetnji je [aloe vera gel](https://flpshop.rs/napici/11837/forever-aloe-vera-gel/360000954255/personal.html).
+Poznato je da aloja ima izvrsno dejstvo kad rešavanja želudačnih smetnji. Aloja sadži glikoproteine zvane aktin i sterol koji smanjuju upale i rane na sluznici želuca. S obzirom da sadrži enzime koji su neophodni za varenje veoma je efikasna za sprečavanje zatvora i detoksikaciju organizma. Aloja je poznata kao biljka koja ima protivbakterijsko dejstvo te je pogodna za suzbijanje helikobakterije, uzročnika gastritisa. Poznato je da je aloja alkalna po svom sastavu te je izvrsna u održavanju PH vrednosti želudačne kiseline. Reguliše kako višak, tako i manjak želudačne kiseline. Proizvod koji može zadovoljiti sve vaše potrebe po pitanju želudačnih smetnji je [napitak](https://flpshop.rs/napici/11837/forever-aloe-vera-gel/360000954255/personal.html) od gela aloje.
 Aloja vera gel sadrži 99,7% čistog gela iz lista aloje te omogućava sistemu za varenje da apsorbuje sve hranljive sastojke iz hrane. Ujedno podstiče i stvaranje dobrih bakterija. Polisaharid acemanan podiže imunitet organizma. Ne sadrži konzervanse i pakovan je u ambalaži od materijala koji je 100% recikliran. Pije se 120 ml dnevno ukupno, podeljeno u 2 ili 3 doze. Nakon otvaranja čuva se u frižideru do 30 dana na temperaturi ne nižoj od 7°C.
 
 ![aloe vera gel](./images/aloe-vera-blog-2.webp)

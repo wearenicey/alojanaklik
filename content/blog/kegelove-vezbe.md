@@ -176,7 +176,7 @@ U sledećem [video snimku](https://youtu.be/bri4R37uBUg) možete pogledati ove v
 					</div>
 				</div>
 				<div>
-					<p class="color-black text-sm">Korišćenjem proizvoda Forever Supergreens živećete opuštenije i zdravije. Na siguran način pomažete sebi i svom organizmu</p>
+					<p class="color-black">Korišćenjem proizvoda Forever Supergreens živećete opuštenije i zdravije. Na siguran način pomažete sebi i svom organizmu</p>
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
