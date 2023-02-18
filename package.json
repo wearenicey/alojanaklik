@@ -6,6 +6,10 @@
     "explore": "gridsome explore",
     "build": "gridsome build"
   },
+  "engines": {
+    "node": "12.22.7",
+    "npm": "6.14.15"
+  },
   "dependencies": {
     "@gridsome/plugin-sitemap": "^0.4.0",
     "@gridsome/source-airtable": "^0.2.0",
