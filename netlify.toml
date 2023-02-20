@@ -1,36 +1,34 @@
-
-
 [[redirects]]
   from = "/blog/content-blog-*"
   to = "/blog/*"
-  status = 301  
+  status = 301
 
 
 [[redirects]]
   from = "/contact/"
   to = "/kontakt/"
-  status = 301  
+  status = 301
 
 
 [[redirects]]
   from = "/about/"
   to = "/istorija-kompanije/"
-  status = 301  
+  status = 301
 
 
 [[redirects]]
   from = "/blog/2/"
   to = "/blog/"
-  status = 301  
+  status = 301
 
 
 [[redirects]]
   from = "/blog/3/"
   to = "/blog/"
-  status = 301  
+  status = 301
 
 
 [[redirects]]
   from = "/preparati-za-mrsavljenje/*"
   to = "/mrsavljenje/:splat"
-  status = 301    
+  status = 301
