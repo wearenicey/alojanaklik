@@ -5,7 +5,7 @@ tagsMeta: Šta su kegelove vežbe i da li mogu da pomognu u slučaju problemi ko
 excerpt: Kada se pomenu Kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene.
 created: 2022-06-25
 image: kegelove-vezbe-slika3.jpg
-alt: "kegelove vežbe"
+alt: "kegelove vežbe za muškarce"
 
 imageTwo:
   path: /kegelove-vezbe-slika3.jpg
@@ -74,7 +74,7 @@ U zavisnosti od uzroka koji dovode do impotencije, postoje različiti načini le
 <div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
-			<g-image class="" src="~/assets/img/Kupi_Forever_Living_Forever_Multi-Maca_Dietary_Supplement_60.jpg"></g-image>
+			<g-image class="" src="~/assets/img/Kupi_Forever_Living_Forever_Multi-Maca_Dietary_Supplement_60.jpg" alt="erekcija lek"></g-image>
 		</div>
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
@@ -135,8 +135,6 @@ Za što efikasnije izvođenje Kegelovih vežbi, trebate da stisnete mišić i za
 Najbitnije je da pravilno dišete i da Vam ostatak tela bude opušten i miran, a ne napet i zategnut. Ove vežbe možete raditi u sedećem i ležećem položaju.
 
 Kako bi ste brže napredovali, možete kombinovati varijante Kegelovih vežbi, tako što ćete brzo stiskati i opuštati mišiće, a sve to nekoliko puta za redom. Probajte i veoma polako da ih stiskate.
-
-U sledećem [video snimku](https://youtu.be/bri4R37uBUg) možete pogledati ove vežbe.
 
   </div>
 </div>

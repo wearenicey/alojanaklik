@@ -1,5 +1,5 @@
 ---
-title: Dijeta u slučaju kandide?
+title: Najbolja dijeta za kandidu?
 tags: Dodaci ishrani
 tagsMeta: Naučite kako da efikasno očistite svoje telo od prekomernog rasta kandide pomoću jednostavnog plana ishrane korak po korak. Recite zbogom simptomima i poboljšajte zdravlje.
 excerpt: Vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti proces prekomernog rasta kandide.
@@ -54,6 +54,8 @@ Kandidijaza se najčešće ne ispoljava na isti način ili na istom području ko
 ## Medicinski tretman kandide
 Iako postoji veliki broj lekova koji se mogu koristiti za lečenje prekomernog rasta kandide, pristup ishrani je često najefikasniji. To je zato što ishrana sa malo šećera i visokim sadržajem zdravih masti, proteina i povrća bez skroba može pomoći u izgladnjivanju kandide i uspostavljanju ravnoteže bakterija u crevima.
 
+![simptomi kandide u crevima](./images/probiotik.jpg)
+
 ## Dijeta za kandidu
 Ključ uspešne dijete za čišćenje kandide jeste izbegavanje hrane koja hrani kandidu i umesto toga fokusiranje na hranu koja podržava rast korisnih bakterija.  Kandida ishrana ogleda se kroz smanjeni unos šećera, alkohola i namirnica koje sadrže kvasac, kao i povećan unos povrća, nemasnih proteina i zdravih masnoća. Ovo uključuje:
 
@@ -72,6 +74,49 @@ Pored gore navedenog, važno je da se uverite da unosite dovoljno **proteina** (
 Od **napitaka** dozvoljeni su voda i nezaslađeni čajevi.
 
 Takođe, danas su na internetu dostupni odlični [recepti za anti kandida dijetu]( https://www.thecandidadiet.com/recipe-type/lunch-dinner/), ali ih uz malo mašte i volje možete i sami spremiti uživajući baš u onim namirnicama koje najviše volite ili su vam najdostupnije.
+
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_active_pro_b.jpeg" alt="najbolji probiotik za kandidu"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Probiotik Forever Active Pro-B</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Za zdrav sistem za varenje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  10 milijardi korisnih bakterija
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Poboljšava imunitet
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Podstiče varenje i ubrzava metabolizam
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11842/forever-active-pro-b/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
 
 **Zaključak**
 

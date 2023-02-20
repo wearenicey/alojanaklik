@@ -5,11 +5,11 @@ tagsMeta: Na koji način kandida može da utiče na Vaš seksualni život? Šta 
 excerpt: U trenucima kada smo na polju ljubavi potpuno zadovoljni često se čini da više ništa u životu ne može da pođe naopako. Nažalost, može, ali to ne znači da ljubav ili seksualni život moraju biti ugroženi.
 created: 2022-07-01
 image: da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
-alt: "kandida kod muškarca"
+alt: "vaginalna kandida"
 
 imageTwo:
   path: /da-li-kandida-utice-na-vas-seksualni-zivot-slika3.jpg
-  alt: "kandida u vagini"
+  alt: "vaginalna kandida"
 image_caption: Photo by Josh Spires on Unsplash
 slug: da-li-kandida-utice-na-vas-seksualni-zivot
 featured: false
@@ -51,7 +51,7 @@ Prekomerni rast kandide može izazvati razne intimne probleme, uključujući:
 - Polno prenosive infekcije
 
 
-![kandida i seksualni život](./images/da-li-kandida-utice-na-vas-seksualni-zivot-slika1.jpg)
+![kandida kod muškaraca](./images/kandida_sex_nik_shuliahin_unsplash.webp)
 
 
 
@@ -89,7 +89,7 @@ Prekomerni rast kandide može se dijagnostikovati različitim testovima, uključ
 Ukoliko se radi o gljivičnoj infekciji, utvrdiće se vrsta gljivica koja je izazivač (najčešća je Kandida Albikans, lat. Candida Albicans), što će lekaru biti od značaja prilikom izbora najefikasnijeg tretmana lečenja.
 
 
-![vaginalna kandida](./images/da-li-kandida-utice-na-vas-seksualni-zivot-slika2.jpg)
+![tablete za kandidu](./images/da-li-kandida-utice-na-vas-seksualni-zivot-slika2.jpg)
 
 
 ## Lečenje prekomernog rasta kandide
@@ -135,7 +135,7 @@ Postoji nekoliko koraka koje možete preduzeti da [sprečite](https://www.health
 <div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
-			<g-image class="" src="~/assets/img/forever_daily.jpg" alt="prevencija kandide"></g-image>
+			<g-image class="" src="~/assets/img/forever_daily.jpg" alt="jedna tableta protiv kandide"></g-image>
 		</div>
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">

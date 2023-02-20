@@ -4,12 +4,12 @@ tags: Zdravlje
 tagsMeta: Gubitak snage, bolovi u zglobovima... simptomi reume i artritisa, dijagnostika i načini lečenja.
 excerpt: Često se pitate šta je uzrok koji izaziva mišićnu slabost i gubitak energije.
 created: 2022-06-28
-image: reuma-i-artritis-slika1.jpg
+image: reuma_storyset_freepik.webp
 alt: "artritis"
 
 imageTwo:
-  path: /reuma-i-artritis-slika1.jpg
-  alt: "reuma"
+  path: /reuma_storyset_freepik.webp
+  alt: "artritis"
 image_caption: Photo by Josh Spires on Unsplash
 slug: reuma-i-artritis
 featured: false
@@ -99,7 +99,7 @@ Još uvek se najčešće koriste tehnike snimanja, kao što su:
 
 Na osnovu ovih testova snimanja može se ustanoviti da li je došlo do oštećenja zglobova i koliki je stepen oštećenja.
 
-**Najčešći simptomi kod reumatoidnog artritisa**
+## Simptomi reumatoidnog artritisa
 
 Reumatoidni artritis je hronična bolest koju najčešće karakterišu bolovi u zglobovima. Ovi bolovi se javljaju u određenim periodima, ali postoje i periodi kad potpuno nestanu.
 
@@ -115,7 +115,7 @@ Neki od uobičajenih simptoma su:
 
 Simptomi ove bolesti mogu varirati od blagih do teških. Važno je ne zanemarivati ove simptome, jer ako se bolest otkrije u ranoj fazi, pomoćiće i Vama, a i lekaru u lečenju bolesti.
 
-**Lečenje reumatoidnog artritisa**
+## Lečenje reumatoidnog artritisa
 
 Smatra se da se reumatoidni artritis ne može izlečiti i da ne postoji lek, ali se isto tako može reći da se njegovo delovanje može usporiti i ublažiti kod lakših slučajeva odnosno simptoma, dok se kod težih slučajeva preporučuje operacija.
 
@@ -138,7 +138,7 @@ Jedan od lekova koji se primenjuje u lečenju ove bolesti je [metotreksat](https
 <div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
-			<g-image class="" src="~/assets/img/forever_move.jpg" alt="prirodni lek za reumu"></g-image>
+			<g-image class="" src="~/assets/img/forever_move.jpg" alt="reuma"></g-image>
 		</div> 
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">

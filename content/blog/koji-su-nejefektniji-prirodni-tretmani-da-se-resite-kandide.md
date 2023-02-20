@@ -1,15 +1,15 @@
 ---
-title: Koji su najefektniji prirodni tretmani da se rešite kandide?
+title: Najefektniji prirodni tretmani da se rešite kandide.
 tags: Ishrana po bolestima
 tagsMeta: Tekst o prirodnim preparatima, proizvodima i metodama kojima možete da lečite kandidu. Jednostavni načini da pomognete sebi u borbi protiv kandide.
 excerpt: Na pitanje kako lečiti kandidu, deo odgovora leži pored nas, u našim domovima.
 created: 2022-07-27
 image: prirodni-tretmani-resavanja-kandide-slika1.jpg
-alt: "lek protiv kandide"
+alt: "kako se rešiti kandide zauvek"
 
 imageTwo:
   path: /prirodni-tretmani-resavanja-kandide-slika1.jpg
-  alt: "prirodni lekovi protiv kandide"
+  alt: "kako se rešiti kandide zauvek"
 image_caption: Photo by Josh Spires on Unsplash
 slug: koji-su-nejefektniji-prirodni-tretmani-da-se-resite-kandide
 featured: false
@@ -35,7 +35,7 @@ Prema nekim izvorima, dve najčešće greške koje ljudi prave koristeći prirod
 
 ## Prirodna terapija za vaginalnu infekciju kandidom
 
-1.	**Ozonirano maslinovo ulje** je jedna od prirodnih terapija koja je dublje podržana i kroz [studije](https://pubmed.ncbi.nlm.nih.gov/27548492/). Upotrebljava se na [sledeći način](https://candidaspecialists.com/vaginal-yeast-infection/?data1=symptoms#relief):
+**1. Ozonirano maslinovo ulje** je jedna od prirodnih terapija koja je dublje podržana i kroz [studije](https://pubmed.ncbi.nlm.nih.gov/27548492/). Upotrebljava se na [sledeći način](https://candidaspecialists.com/vaginal-yeast-infection/?data1=symptoms#relief):
 
 - 1-2 kašičice ozoniranog maslinovog ulja staviti u čistu posudu dok ne postane tečno
 - Natopiti higijenski tampon ovim uljem
@@ -45,28 +45,27 @@ Prema nekim izvorima, dve najčešće greške koje ljudi prave koristeći prirod
 - Ako se terapija dobro podnosi i nema nikakvih iritacija, terapiju nastaviti nakon 24 sata i postepeno za 1-2 sata produžavati vreme zadržavanja tampona u vagini, a najduže na celu noć
 - Terapiju završiti nakon 7 dana
 
-2. **Kokosovo ulje**:
-
-[Studije](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC90807/) dokazuju da su masne kiseline koje sadrži kokosovo ulje prirodni antimikotici i to upravo pomaže kod problema sa Candida Albicans, gljivicom koja najčešće izaziva vaginalne infekcije.
+**2. Kokosovo ulje** je kroz [studije](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC90807/) dokazano kao izvor masnih kiselina koje su prirodni antimikotici i to upravo pomaže kod problema sa Candida Albicans, gljivicom koja najčešće izaziva vaginalne infekcije.
 Organsko kokosovo ulje možete  nanositi direktno na područje oko vagine
 
-![lečenje kandide u crevima](./images/prirodni-tretmani-resavanja-kandide-slika2.jpg)
+![kandida vaginalna](./images/kokosovo_ulje_master1305_freepik.webp)
 
-3. **Borna kiselina** može pomoći izlečenju vaginalne kandidijaze, ali je neophodno znati da se nikako ne sme uzimati oralno, niti ukoliko je koža ispucala ili na drugi način oštećena. 
+**3. Borna kiselina** može pomoći izlečenju vaginalne kandidijaze, ali je neophodno znati da se nikako ne sme uzimati oralno, niti ukoliko je koža ispucala ili na drugi način oštećena. 
 
 Takođe, za osobe sa osetljivom kožom ovo možda nije najbolja opcija za terapiju.
 
-4. **Probiotici** pomažu kod stvaranja balansa bakterija i gljivica u telu. 
+
+**4. Probiotici** pomažu kod stvaranja balansa bakterija i gljivica u telu. 
 
 Uzimanje probiotika ili jogurta koji sadrže sojeve bakterija Lactobacillus acidophilus može pomoći i u lečenju vaginalne infekcije kandidom.
 
-5. **Jabukovo sirće** pomaže kod svih oblika kandidijaze. Potrebno je sipati oko pola šolje jabukovog sirćeta u mlaku vodu u kadi i ležati u njoj oko 20 minuta. Kiselina iz jabukovog sirćeta pomaže u eliminisanju štetnih mikroorganizama, uključujući gljivice. Takođe je dobro koristiti ga i u ishrani.
+**5. Jabukovo sirće**  pomaže kod svih oblika kandidijaze. Potrebno je sipati oko pola šolje jabukovog sirćeta u mlaku vodu u kadi i ležati u njoj oko 20 minuta. Kiselina iz jabukovog sirćeta pomaže u eliminisanju štetnih mikroorganizama, uključujući gljivice. Takođe je dobro koristiti ga i u ishrani.
 
-6. **Beli luk** kao lek protiv kandide odavno je poznat u narodu. Njegova aktivna komponenta koja mu daje aromu i ukus ima dokazana antibakterijska, antivirusna i antifungalna svojstva. Najbolje je konzumirati ga u svežem stanju. 
+**6. Beli luk** kao lek protiv kandide odavno je poznat u narodu. Njegova aktivna komponenta koja mu daje aromu i ukus ima dokazana antibakterijska, antivirusna i antifungalna svojstva. Najbolje je konzumirati ga u svežem stanju.
+   
+**7. Vitamin C** pomaže jačanju imuniteta, a to je izuzetno značajno, jer slab imuni sistem može na prvom mestu biti osnovni krivac za nastanak infekcije kandidom. 
 
-7. **Vitamin C** pomaže jačanju imuniteta, a to je izuzetno značajno, jer slab imuni sistem može na prvom mestu biti osnovni krivac za nastanak infekcije kandidom. 
-
-![lek za kandidu](./images/prirodni-tretmani-resavanja-kandide-slika3.jpg)
+![ishrana kod kandide](./images/vitamin_c_wirestock_freepik.webp)
 
 ## Prirodna terapija za infekciju kandidom u ustima i jednjaku
 
@@ -84,6 +83,49 @@ Nakon završetka terapije stara četkica za zube se obavezno zamenjuje novom, a 
 
 Kandida u jednjaku simptomi - najčešće su to bele naslage u delu jednjaka ka usnoj duplji i zato ispiranje usta i grla navedenim rastvorima može pomoći čišćenju kandide i iz područja jednjaka.
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_garlic_thyme.png" alt="tableta protiv nabujale kandide"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Beli luk i timijan - Forever Garlic-Thyme</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Antibiotsko delovanje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Pozitivno deluje na srce i krvne sudove
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Deluje povoljno na sistem za varenje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Utiče na poboljšanje stanja disajnih organa
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11631/forever-garlic-thyme/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 ## Prirodna terapija kod kandide u crevima
 
 Najbolji prirodni lek za kandidu u crevima jeste dijeta. Za slučaj kada je kandida u crevima, ishrana treba da se bazira na izbegavanju šećera, namirnica koje sadrže gluten, povrća sa visokim sadržajem skroba, alkohola, mleka i sireva, veštačkih zaslađivača, kao i namirnica koje sadrže kvasac. 
@@ -91,6 +133,7 @@ Najbolji prirodni lek za kandidu u crevima jeste dijeta. Za slučaj kada je kand
 Od pomoći su dodatni unos probiotika, jabukovog sirćeta i vitamina C.
 
 Kandida u stolici kod dece i odraslih može biti izazvana inflamatornim bolestima creva, imunopresivnim lekovima ili antibioticima i u slučaju njene pojave najbolje je obratiti se lekaru koji će prepisati adekvatnu terapiju antimikoticima i prekinuti ili promeniti terapiju antibioticima, ukoliko su oni izazivači prekomernog rasta kandide.
+
 
 ## Prirodna terapija kod kandide na koži
 
