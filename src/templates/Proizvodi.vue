@@ -6,9 +6,9 @@
 					<div class="grid gap-lg">
 						<div class="col-6@md col-6@lg">
 							<div class="flex flex-column gap-sm">
-								<div class="hide-on-mobile-image" v-for="(category, index) in $page.event.imageUrl" :key="category.id">
-									<g-image class="block width-100% radius-lg" :src="category" />
-								</div>
+								<figure class="hide-on-mobile-image" v-for="(file, index) in $page.event.image" :key="file.id">
+									<g-image class="block width-100% radius-lg" :src="file.url" />
+								</figure>
 							</div>
 						</div>
 
@@ -183,9 +183,7 @@
 								<polygon points="38 36 53 2 62 2 51 36 62 36 62 62 38 62 38 36" />
 							</svg>
 
-							<blockquote class="line-height-md margin-bottom-md">
-								Kao atletičar, jako je važno da se brinem o svom zdravlju. Forever Living proizvodi su mi pomogli da održim zdrav životni stil i da se osećam snažno svaki dan. Preporučujem ih svima koji žele da žive zdravo i aktivno.
-							</blockquote>
+							<blockquote class="line-height-md margin-bottom-md"> Kao atletičar, jako je važno da se brinem o svom zdravlju. Forever Living proizvodi su mi pomogli da održim zdrav životni stil i da se osećam snažno svaki dan. Preporučujem ih svima koji žele da žive zdravo i aktivno.</blockquote>
 
 							<footer class="flex flex-wrap items-center margin-top-auto@md">
 								<figure class="flex-shrink-0 margin-right-xxs" aria-hidden="true">
@@ -206,8 +204,7 @@
 							</svg>
 
 							<blockquote class="line-height-md margin-bottom-md">
-								Oduševljena sam sa Forever Living proizvodima! U samo nekoliko nedelja, primetila sam razliku u svom opštem zdravstvenom stanju i samopouzdanju. Proizvodi su prirodni i sigurni, a ja ih često preporučujem svojim prijateljima
-								i porodici.
+								Oduševljena sam sa Forever Living proizvodima! U samo nekoliko nedelja, primetila sam razliku u svom opštem zdravstvenom stanju i samopouzdanju. Proizvodi su prirodni i sigurni, a ja ih često preporučujem svojim prijateljima i porodici.
 							</blockquote>
 
 							<footer class="flex flex-wrap items-center margin-top-auto@md">
@@ -313,10 +310,9 @@
         cena
 				opisDva
 				category {
-      		ime
-    		}
+      	ime
+    }
         nabrajanje
-				imageUrl
         image {
           url
         }
