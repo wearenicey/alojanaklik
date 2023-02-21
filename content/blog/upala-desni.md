@@ -9,7 +9,7 @@ alt: "upala desni"
 
 imageTwo:
   path: /upala-desni-slika1.jpg
-  alt: "upala desni prirodni lek"
+  alt: "upala desni"
 image_caption: Photo by Josh Spires on Unsplash
 slug: upala-desni
 featured: false
@@ -106,12 +106,51 @@ Pored čaja od žalfije za ublažavanje simptoma upale desni preporučuje se i u
 
 Veoma cenjena **pasta za upalu desni** na našem tržištu je pasta [FOREVER BRIGHT® TOOTHGEL](https://flpshop.rs/licna-higijena/11668/forever-bright-toothgel/360000954255/personal.html), proizvod kompanije Forever. Prednost ove paste je što sadrži samo **prirodne sastojke** koji deluju umirujuće na vaše desni i sluzokožu usta, što izbeljuje zube bez oštećivanja zubne gleđi i **ne sadrži fluor**. Prirodna aroma peperminta i spearminta osvežiće Vaš dah i daće Vam osećaj čistoće usne duplje. Pogodna je za celu porodicu.
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/toothgel.webp" alt="upala desni lečenje"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Bright Toothgel</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Visokokvalitetna pasta
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  Bez veštačkih boja
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Optimalna formula
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11668/forever-bright-toothgel/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 **Zdravim navikama do zdravih desni**
 
 
-Kao i kod svakog oboljenja tako je i kod upale desni uvek bolje delovati preventivno nego kasnije sprovoditi lečenje. Redovnom i pravilnom oralnom higijenom smanjićete mogućnost pojave upale desni. Za pravilnu oralnu higijenu jako je bitan izbor kako četkice tako i paste za zube. 
+Kao i kod svakog oboljenja tako je i kod upale desni uvek bolje delovati preventivno nego kasnije sprovoditi lečenje. Redovnom i pravilnom oralnom higijenom smanjićete mogućnost pojave upale desni. Za pravilnu oralnu higijenu veoma je bitan izbor kako četkice tako i paste za zube. 
 
-Preporuka je i izbegavanje slatkiša i obojenih sokova, a češća konzumacija zdravih namirnica bogatih vitaminima i mineralima. Najbolji način za održavanje usne duplje zdravom je odlazak kod stomatologa jednom u 6 meseci.
+Preporuka je i izbegavanje slatkiša i obojenih sokova, te konzumacija zdravih namirnica bogatih vitaminima i mineralima. Najbolji način za održavanje usne duplje zdravom jeste odlazak kod stomatologa jednom u 6 meseci.
 
   </div>
 </div>

@@ -9,7 +9,7 @@ alt: "nervozna creva"
 
 imageTwo:
   path: /nervozna-creva.jpg
-  alt: "sindrom nervoznih creva"
+  alt: "nervozna creva"
 image_caption: Photo by Josh Spires on Unsplash
 slug: nervozna-creva
 featured: false
@@ -24,11 +24,13 @@ Neki od ovih simptoma mogu ukazati da bolujete od **sindroma iritabilnog kolona*
 
 [Sindrom nervoznih creva je oboljenje koje može biti uobičajena pojava kod nekih ljudi](https://www.healthline.com/health/nervous-stomach). U ovakvo stanje se u medicini ne može dijagnostikovati, a potvrđuje se isključivanjem drugih bolesti. Ovo stanje može imati veze sa Vašim mentalnim zdravljem ili emocionalnim stanjem. Retko može upućivati na nešto ozbiljnije.
 
-![sindrom nervoznih creva](./images/nervozna-creva-slika2.jpg)
+![nervozna creva simptomi](./images/nervozna-creva-slika2.jpg)
 
 *Fotografija: freepik.com*
 
 ## Iritabilni kolon
+
+Dijagnoza iritabilnog debelog creva može biti izazovna, jer ne postoji poseban test za to. Lekari se obično oslanjaju na prisustvo određenih simptoma i odsustvo drugih uslova da bi postavili dijagnozu.
 
 **Iritabilni kolon** je najčešće gastroenterološko oboljenje. Manifestuje se bolom u stomaku, grčevima, nadutošću, zatvorom ili dijarejom. Ovi simptomi dolaze i odlaze i mogu trajati danima, nedeljama ili mesecima. 
 
@@ -69,9 +71,9 @@ Ukoliko ste nervozni u dužem vremenskom periodu moguće je i da će Vaša creva
 
 Creva i mozak su povezani nervom koji se zove vagus, to je jedan od najvećih nerava u telu. Preko ovog nerva mozak šalje signale u creva, i kada je osoba pod stresom ili anksiozna dolazi do nepravilnosti u radu creva i povećava se digestivna razdražljivost.
 
-![nervozna creva i gasovi](./images/nervozna-creva-slika3.jpg)
+![lek za nervozna creva](./images/lek_za_nervozna_creva.jpg)
 
-Fotografija: unsplash.com
+Fotografija: freepik.com
 
 Ako često imate probleme sa nervoznim crevima, prvo što bi trebali da uradite kako bi se Vaše stanje poboljšalo, jeste da se pozabavite svojim mentalnim stanjem i da što je više moguće smanjite nivo stresa. **Stres i nervoza su glavni uzrok ovog oboljenja**.
 
@@ -90,9 +92,10 @@ Najčešći uzroci koji dovode do stresa kod ljudi su:
 
 ## Lek za nervozna creva
 
-Na početku, važno je istaći da ne postoji jedan, univerzalni lek za lečenje sindroma nervoznih creva. Kao za svako oboljenje, i za ovo je potrebno doći do dijagnoze, uraditi sve potrebne laboratorijske analize i preglede. Ovo je jako bitno jer se na ovaj način eliminiše mogućnost postojanja nekih drugih bolesti.
+Na početku, važno je istaći da ne postoji jedan, univerzalni lek za lečenje sindroma nervoznih creva. Kao za svako oboljenje, i za ovo je potrebno doći do dijagnoze, uraditi sve potrebne laboratorijske analize i preglede. Ovo je jako bitno jer se na ovaj način eliminiše mogućnost postojanja nekih drugih bolesti. 
 
-Ovo je oboljenje koje se može lečiti sa više uspeha u zavisnosti od saradnje pacijenta i lekara i upornosti i predanosti obolele osobe.
+Ovo je oboljenje koje se može lečiti sa više uspeha u zavisnosti od saradnje pacijenta i lekara i upornosti i predanosti obolele osobe. Za lečenje nervoznih creva postoje različiti tretmani i promene načina života koji mogu pomoći.
+
 
 Od lekova koji se koriste u terapiji koriste se **laksativi**, ukoliko pacijent ima zatvor ili **spazmolitici** ukoliko pacijent ima problema sa grčevima.
 
@@ -105,6 +108,50 @@ Korišćenjem ovog preparata ćete značajno doprineti poboljšanju ovog zdravst
 Razgovor sa psihijatrom Vam može pomoći da probleme shvatite na drugačiji način. Takođe, pomoći će Vam da nađete načine za bolje suočavanje sa stresom. Učiniće da, problem koji Vam je izazivao stres, više ne izgleda tako opasno po Vas.
 
 U najtežim slučajevima terapija u lečenju ovog zdravstvenog oboljenja podrazumeva korišćenje **sedativa i antidepresiva**.
+
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_active_pro_b.jpeg" alt="probiotik za nervozna creva"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Probiotik Forever Active Pro-B</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Za zdrav sistem za varenje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  10 milijardi korisnih bakterija
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Poboljšava imunitet
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Podstiče varenje i ubrzava metabolizam
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11842/forever-active-pro-b/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 
 ## Prirodni lekovi u lečenju nervoznih creva
 

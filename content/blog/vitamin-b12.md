@@ -4,11 +4,11 @@ tags: Dodaci ishrani
 tagsMeta: Tekst o ulozi vitamina B12, kakve probleme možemo očekivati ako ga ne unosimo dovoljno, koja hrana sadrži vitamin B12 i koje prednosti dobijamo ako povećamo unos vitamina B12.
 excerpt: Da li ste osetili umor ili malaksalost duži vremenski period i za to ste pomislili da je posledica rada? Da li ste ikada proverili unos vitamina u organizam? Znate li značaj vitamina B12 za očuvanje zdravlja?
 created: 2021-10-16
-image: vitamin-b12-1.webp
+image: b12.webp
 alt: "vitamin b12"
 
 imageTwo:
-  path: /vitamin-b12-1.jpg
+  path: /b12.jpg
   alt: "vitamin b12"
 image_caption: Photo by Josh Spires on Unsplash
 slug: vitamin-b12
@@ -95,7 +95,7 @@ Vitamin B12 se nalazi isključivo u namirnicama životinjskog porekla. Najviše 
 
 
 
-![b12 vitamin u hrani](./images/vitamin-b12-2.webp)
+![b12 vitamin u hrani](./images/vitamin-b12-1.webp)
 
 
 
@@ -119,7 +119,48 @@ Vitamin B12 moguće je uneti u organizam preko hrane životinjskog porekla, pute
 Ukoliko imate problem sa unosom vitamina B12, niste ljubitelj mesa, mleka i jaja ili ste jednostavno vegan, imate neki zdravstveni problem, proizvod koji vam može pomoći samo sa 1 tabletom dnevno je [forever B12 plus](https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html).
 Veoma je efikasan kod održavanja normalnog nivo vitamina B12 i folne kiseline, održavanja trudnoće i poboljšanja metalnog i fizičkog zdravlja. 
 
+<br>
 
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/b12_plus.webp" alt="najbolji vitamin b12"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever B12 Plus</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Sprečava pojavu anemiju
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  Ojačava nervne ćelije
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Pomaže kod očuvanja trudnoće
+					</div>
+           <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Podiže nivo energije
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11635/forever-b12-plus/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
 
 ## Koliko je potrebno dnevno uneti vitamina B12? ##
 
