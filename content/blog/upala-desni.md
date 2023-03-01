@@ -111,7 +111,7 @@ Veoma cenjena **pasta za upalu desni** na našem tržištu je pasta [FOREVER BRI
 <div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
-			<g-image class="" src="~/assets/img/toothgel.webp" alt="upala desni lečenje"></g-image>
+			<g-image class="" src="~/assets/img/forever_toothgel.webp" alt="upala desni lečenje"></g-image>
 		</div> 
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">

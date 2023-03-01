@@ -8,10 +8,7 @@
 						<p class="color-white max-width-adaptive-sm">
 							{{ $page.category.opisKategorije }}
 						</p>
-						<a href="#targetId" class="btn btn-contrast js-smooth-scroll color-white border border-2 border-contrast-low border-opacity-50%" data-duration="300"
-							>Saznajte vise 
-							<!-- <span class="margin-left-sm"> <g-image class="flex items-center" src="~/assets/img/strelicaa.svg"></g-image></span> -->
-					</a>
+						<a href="#targetId" class="btn btn-contrast js-smooth-scroll color-white border border-2 border-contrast-low border-opacity-50%" data-duration="300">Saznajte vise </a>
 					</div>
 				</div>
 			</div>
@@ -19,10 +16,10 @@
 		<section>
 			<div id="targetId" class="container max-width-adaptive-lg padding-top-xl">
 				<div class="grid gap-md">
-					<div class="card col-4@md col-6" v-for="(category, index) in $page.category.aloja" :key="category.id">
+					<div class="card col-4@md col-6" v-for="(category, index) in $page.category.aloja">
 						<a class="text-decoration-none" :href="category.path">
 							<figure class="card__img padding-x-md@md padding-top-md@md padding-x-sm padding-top-sm">
-								<g-image class="radius-lg" :src="category.image[0].url" alt="Card preview img" />
+								<g-image class="radius-lg" :src="require(`@/assets/img/` + category.imageUrl[0])" />
 							</figure>
 
 							<div class="card__content">
@@ -33,9 +30,9 @@
 
 								<div class="margin-top-sm">
 									<a class="btn btn--primary btn--sm flex flex-grow" :href="category.path"
-										>Saznajte vise 
+										>Saznajte vise
 										<!--<span> <g-image class="margin-left-sm flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
-								</a>
+									</a>
 								</div>
 							</div>
 						</a>
@@ -51,24 +48,25 @@
 	query Kategorija ($id: ID!) {
 	category: kategorija(id: $id) {
 
-				pageTitle
-				metaDesc
-				id
-        ime
-        opisKategorije
-        slikaKategorije{
-          url
-        }
-        aloja {
-          ctaText
-          path
-          cena
-          image{
-            url
-          }
+		pageTitle
+		metaDesc
+		id
+    ime
+    opisKategorije
+    slikaKategorije{
+      url
+    }
+    aloja {
+			imageUrl
+      ctaText
+      path
+      cena
+      image{
+        url
+      }
+		}
 	}
-	}
-	}
+}
 
 </page-query>
 <script>
@@ -78,7 +76,7 @@ export default {
 		return {
 			title: this.$page.category.pageTitle + " | Aloja proizvodi",
 			titleTemplate: this.$page.category.pageTitle + " | Aloja proizvodi",
-			meta: [{ key: "description", name: "description", content: this.$page.category.metaDesc }],
+			meta: [{ key: "description", name: "description", content: this.$page.category.metaDesc }]
 		};
 	},
 	mounted() {
@@ -91,6 +89,6 @@ export default {
 	},
 	destroyed() {
 		document.getElementById("main-header-js").remove();
-	},
+	}
 };
 </script>
