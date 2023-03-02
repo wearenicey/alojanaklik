@@ -318,9 +318,6 @@
         nabrajanje
 				imageUrl
 				alt
-        image {
-          url
-        }
 
 		}
 	}
