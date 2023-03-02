@@ -61,6 +61,9 @@
       ctaText
       path
       cena
+      image{
+        url
+      }
 		}
 	}
 }

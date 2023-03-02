@@ -318,7 +318,9 @@
         nabrajanje
 				imageUrl
 				alt
-
+        image {
+          url
+        }
 		}
 	}
 		</page-query>
