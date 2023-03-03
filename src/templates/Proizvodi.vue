@@ -239,7 +239,7 @@
 						</div>
 
 						<div class="col-7@md">
-							<g-image class="block width-100% radius-lg" :src="$page.event.opisSlika[0].url" />
+							<g-image class="block width-100% radius-lg" src="@/assets/img/contents.png" alt="forever mozaik" />
 						</div>
 					</div>
 				</div>
@@ -247,7 +247,7 @@
 				<div class="container max-width-adaptive-lg padding-y-lg padding-x-md radius-lg margin-y-xxl bg-white">
 					<div class="grid gap-lg">
 						<div class="col-5@md">
-							<g-image class="block width-100% height-100% radius-lg" :src="$page.event.image[0].url" />
+							<g-image class="block width-100% radius-lg" :src="require(`@/assets/img/` + $page.event.imageUrl[0] )" />
 						</div>
 
 						<div class="col-7@md">
