@@ -37,12 +37,12 @@ Jedinstveni odgovor na ova pitanja nije realan. Nekada je u pitanju jedan razlog
 
 Kandida iskustva žena govore da razlog često leži u **uzroku nastanka** prve, a onda i svih narednih infekcija. 
 
-- Ako je infekcija nastala posle ili tokom upotrebe **antibiotika** koji “očiste” organizam i od loših, ali i od dobrih bakterija, potrebno je razmotriti sa lekarom neophodnost njihove dalje upotrebe i početi sa korišćenjem probiotika. 
+- Ako je infekcija nastala posle ili tokom upotrebe **antibiotika** koji “očiste” organizam i od loših, ali i od dobrih bakterija poremetila se ravnoteža u broju bakterija u našem organizmu. U tom slučaju, potrebno je razmotriti sa lekarom neophodnost njihove dalje upotrebe i početi sa korišćenjem probiotika. 
 - Probiotik za kandidu, odnosno bakterije koje on sadrži, predstavlja prepreku njenom prekomernom rastu. Probiotik obnavlja crevnu floru i dovodi do jačanja imuniteta;
 - Uzrok mogu biti i drugi **lekovi** koji slabe imuni sistem, poput onih iz grupe kortikosteroida ili primena hemioterapije. U ovim slučajevima najbolje je posavetovati se sa lekarom koji lek za kandidu može da se koristi;
 - Ako je uzrok **dijabetes** ili hiperglikemija, potrebno je sa lekarom razmotriti prelazak na dijetu sa smanjenim unosom ugljenih hidrata i eventualno uskladiti terapiju lekovima;
 - Uzrok ponavljajuće infekcije kandidom može biti i [slab imuni sistem](https://www.medicalnewstoday.com/articles/yeast-infection-wont-go-away) izazvan stanjima poput gripa, boginja, hepatitisa, ali i još ozbiljnijim stanjima poput nekih oblika kancera, infekcije HIV, Teškom kombinovanom imunodeficijencijom, Autoimunom poliendokrinopatija-kandidijaza-ektodermalnom distrofijom ili Sindromom povišenog IgE (urođeni poremećaj funkcije imunog sistema);
-- **Stres** je čest uzrok raznih bolesti današnjice, pa i kandidijaze, a osim lekova za umirivanje, terapija kroz razgovore sa stručnim licem, meditacija, fizička aktivnost i druge promene stila života mogu biti od pomoći za smanjivanje nivoa stresa;
+- **Stres** je čest uzrok raznih bolesti današnjice, pa i kandidijaze, zato što povećava želju za unošenjem šećera u organizam. Osim lekova za umirivanje, terapija kroz razgovore sa stručnim licem, meditacija, fizička aktivnost i druge promene stila života mogu biti od pomoći za smanjivanje nivoa stresa;
 - Hormonalni disbalans, konkretno **povišen nivo estrogena** (kod trudnica ili kod žena koje koriste kontraceptivne pilule) može dovesti do stanja kandidijaze. Ako je hormonalni disbalans razlog njenog vraćanja, kada se hormoni ponovo dovedu u balans, infekcija kandidom rešiće se efikasno i u relativno kratkom roku
 - **Ping-pong efekat** je čest uzrok ponovljenih sipmtoma kandidijaze. Oba partnera moraju da se leče od simptoma ako se ne koristi kondom kao zaštita.
 
@@ -92,6 +92,49 @@ Bitno je znati da kandida koja se ne smiruje **ima načina da se zaustavi**!
 Prirodni preparati koji se savetuju u borbi protiv kandide, ukoliko se pravilno primenjuju, nemaju neželjene efekte i tu nema bojazni da će se napraviti greška. Da li će to biti samo promena kada je u pitanju ishrana kod kandide, uvođenje probiotika, možda upotreba kokosovog ulja, belog luka, neki čaj protiv kandide, ili kombinacija navedenih i mnogih drugih tretmana, izbor je na vama.
 
 Kao i za svaki proces, i za oslobađanje od kandide potrebno je vreme, ali poznavanjem uzroka nastanka infekcije, adekvatnim terapijama i upotrebom prirodnih preparata, uloženo vreme postaće investicija koja će se višestruko isplatiti u vidu fizičkog i psihičkog zdravlja i zadovoljstva.
+
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_garlic_thyme.png" alt="tableta protiv nabujale kandide"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Beli luk i timijan - Forever Garlic-Thyme</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Antibiotsko delovanje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Pozitivno deluje na srce i krvne sudove
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Deluje povoljno na sistem za varenje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Utiče na poboljšanje stanja disajnih organa
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11631/forever-garlic-thyme/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
 
 
   </div>

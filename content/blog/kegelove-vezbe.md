@@ -153,7 +153,7 @@ Kako bi ste brže napredovali, možete kombinovati varijante Kegelovih vežbi, t
 					<h2>Peruanska maka - Multi Maca</h2>
 				</div>
 				<div class="">
-					<p class="text-lg color-accent font-primary text-normal">4.633,43 RSD</p>
+					<p class="text-lg color-accent font-primary text-normal">4.865.78 RSD</p>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center">

@@ -4,11 +4,11 @@ tags: Dijabetes
 tagsMeta: Insulinska rezistencija je sve učestalija pojava. Trebalo bi da upoznamo taj poremećaj da bismo asprečili da se razvije u dijabetes.
 excerpt: Da li je insulinska rezistencija izlečiva? Zbog čega sve veći broj populacije oboljeva od ove nevidljive bolesti?
 created: 2022-10-06
-image: insulinska-rezistencija-slika1.jpg
+image: insulinska_rezistencija.webp
 alt: "insulinska rezistencija"
 
 imageTwo:
-  path: /insulinska-rezistencija-slika1.jpg
+  path: /insulinska_rezistencija.webp
   alt: "dijabetes tip 2"
 image_caption: Photo by Josh Spires on Unsplash
 slug: insulinska-rezistencija
@@ -94,7 +94,52 @@ Kako smanjiti insulinsku rezistenciju? Najbolja reč koja opisuje insulinsku rez
 Umerenost u hrani, piću, fizičkoj aktivnosti i spavanju, uz održavanje BMI (INDEKS TELESNE MASE) od 19 do 25 uz unos namirnica niskog glikemijskog sastava jedini je i pravi put do zdravog organizma, prema  mišljenju endokrinologa. Insulinska rezistencija je samo trenutno stanje, nikako bolest!
 
 
-[VIDEO](https://www.youtube.com/watch?v=mSyZ1mgBMfw)
+<!-- [VIDEO](https://www.youtube.com/watch?v=mSyZ1mgBMfw) -->
+
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_garcinia_plus.webp" alt="tableta insulinska rezistencija"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Garcinia Plus</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Podiže nivo energije
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  Smanjuje umor
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Održava nivo glukoze u krvi
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Reguliše apetit
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11656/forever-garcinia-plus/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
+
 
 
   </div>
