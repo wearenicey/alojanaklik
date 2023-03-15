@@ -151,7 +151,7 @@
 			<section>
 				<div class="container max-width-adaptive-lg padding-y-xl">
 					<div class="margin-bottom-lg">
-						<h1 class="text-center">Čujte to od naših kupaca.</h1>
+						<h2 class="text-center">Čujte to od naših kupaca.</h2>
 					</div>
 
 					<div class="grid gap-sm">
