@@ -4,11 +4,11 @@
 			<div class="padding-y-xl items-center">
 				<div class="container max-width-adaptive-lg">
 					<div class="text-component padding-top-sm">
-						<h1 class="color-white">{{ $page.category.ime }}</h1>
-						<p class="color-white max-width-adaptive-sm">
+						<h1 class="color-black">{{ $page.category.ime }}</h1>
+						<p class="color-black max-width-adaptive-sm">
 							{{ $page.category.opisKategorije }}
 						</p>
-						<a href="#targetId" class="btn btn-contrast js-smooth-scroll color-white border border-2 border-contrast-low border-opacity-50%" data-duration="300">Saznajte vise </a>
+						<a href="#targetId" class="btn btn-contrast js-smooth-scroll color-black border border-2 border-contrast-low border-opacity-50%" data-duration="300">Saznajte više </a>
 					</div>
 				</div>
 			</div>
