@@ -1,14 +1,13 @@
 <template>
 	<Layout>
-		<section class="bg-cover bg-center bg-no-repeat" v-bind:style="{ backgroundImage: 'url(' + $page.category.slikaKategorije[0].url + ')' }">
-			<div class="padding-y-xl items-center">
+		<section class="bg-cover bg-center bg-no-repeat">
+			<div class="padding-top-xl padding-bottom-md items-center">
 				<div class="container max-width-adaptive-lg">
 					<div class="text-component padding-top-sm">
-						<h1 class="color-white">{{ $page.category.ime }}</h1>
-						<p class="color-white max-width-adaptive-sm">
+						<h1>{{ $page.category.ime }}</h1>
+						<p class="max-width-adaptive-sm">
 							{{ $page.category.opisKategorije }}
 						</p>
-						<a href="#targetId" class="btn btn-contrast js-smooth-scroll color-white border border-2 border-contrast-low border-opacity-50%" data-duration="300">Saznajte više </a>
 					</div>
 				</div>
 			</div>
