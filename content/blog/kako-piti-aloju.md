@@ -4,11 +4,11 @@ tags: O aloji
 tagsMeta: Zbog čega je aloja vera toliko korisna i u kako sve može da se koristi? Da li ima koristan efekat u slučaju tumora? Kratak opis aloje kao leka za određene poremećaje.
 excerpt: Da li ste nekada probali da rešite zdravstveni problem pomoću lekovitih biljaka? Da li znate lekovita svojstva aloje?
 created: 2021-10-09
-image: aloe-vera-blog-1.webp
+image: aloe-vera-blog-2.webp
 alt: "aloja vera"
 
 imageTwo:
-  path: /kako-piti-aloju.jpg
+  path: /aloe-vera-blog-2.jpg
   alt: "aloe vera sok"
 image_caption: Photo by Josh Spires on Unsplash
 slug: kako-piti-aloju
@@ -23,7 +23,7 @@ Svakodnevno sedenje po više sati dovodi Vas u situaciju da se neredovno hranite
 
 Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to ste rešili privremeno lekovima, antacidima. Šta posle, ako lekovi više ne pomažu? U našoj okolini postoje veoma moćne biljke, poput aloje koje mogu pomoći kod svakodnevnih problema sa varenjem, UV zračenjem, hidratacijom kože, pa čak i uslučaju najtežih bolesti.
 
-![aloe vera](./images/aloe-vera-blog-3.webp)
+
 
 ## Aloja vera biljka se koristi vekovima
 
@@ -31,6 +31,10 @@ Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to st
 
 Mnogi naučnici, filozofi, lekari i istoričari su pisali o čudotvornim dejstvima ove biljke. Hipokrat je pisao o aloji kao leku koji leči tumore, dizenteriju i stomačne tegobe. Kleopatra je smatrala da je aloja vera biljka ta koja je činila lepšom, posebno je isticala **aloja vera gel**, a faraoni su verovali da aloja doprinosi dugom životu.
 Iz Novog Zaveta imamo podatak da je melasa iz aloje i mirte prelivena na telo Isusa Hrista. Maje su se mazale po licu kako bi bile lepše, a Kristofer Kolumbo nikada nije krenuo na put bez ove čudotvorne biljke. Indijanci su je koristili čak protiv ujeda zmije.
+
+Aloe vera gel ima brojne zdravstvene prednosti, međutim, važno je znati kako pravilno konzumirati gel aloe vere da biste maksimizirali njegove prednosti. U ovom vodiču ćemo pokriti sve što treba da znate o tome kako da pijete gel aloe vere, uključujući prednosti, različite metode konzumiranja i potencijalne rizike.
+
+![aloe vera gel](./images/kako-piti-aloju-3.webp)
 
 ## Aloja u raznim oblicima
 
@@ -78,6 +82,8 @@ Upotrebljva se čak i kod tretmana kose, kod bojenja i trajne ondulacije. Koža 
 
 Zbog sve većeg štetnog uticaja sunčevog zračenja koža je izložena ubrzanom starenju, te postaje suva, meka i opuštena. U slučaju opekotina javlja se crvenilo, a u težim slučajevima plikovi. Sve to isušuje kožu i stvara površinske rane u slučaju pucanja plikova, te koža deluje neugledno i zapušteno. [Losion za sunčanje](https://flpshop.rs/nega-koze/12541/aloe-sunscreen/360000954255/personal.html) na bazi aloje je izvrstan za rešavanje svih ovih problema.
 
+![aloe vera](./images/kako-piti-aloju-2.webp)
+
 Krema za sunčanje je idealna u borbi protiv visokog UV zračenja i štetnog uticaja vetra. Losion je na bazi gela od aloje koji je lako razmaziv i omogućava održavanje prirodne hidratacije kože. Krema za sunčanje sadrži zaštitni faktor 30, te je pogodna za celu porodicu, kako za odrasle tako i za decu. Ovaj losion je vodootporan i pogodan za dugotrajno očuvanje boje kože.
 
 ## Uloga aloje kod rešavanja želudačnih smetnji - žgaravica i probavne smetnje
@@ -85,7 +91,7 @@ Krema za sunčanje je idealna u borbi protiv visokog UV zračenja i štetnog uti
 Poznato je da aloja ima izvrsno dejstvo kad rešavanja želudačnih smetnji. Aloja sadži glikoproteine zvane aktin i sterol koji smanjuju upale i rane na sluznici želuca. S obzirom da sadrži enzime koji su neophodni za varenje veoma je efikasna za sprečavanje zatvora i detoksikaciju organizma. Aloja je poznata kao biljka koja ima protivbakterijsko dejstvo te je pogodna za suzbijanje helikobakterije, uzročnika gastritisa. Poznato je da je aloja alkalna po svom sastavu te je izvrsna u održavanju PH vrednosti želudačne kiseline. Reguliše kako višak, tako i manjak želudačne kiseline. Proizvod koji može zadovoljiti sve vaše potrebe po pitanju želudačnih smetnji je [napitak](https://flpshop.rs/napici/11837/forever-aloe-vera-gel/360000954255/personal.html) od gela aloje.
 Aloja vera gel sadrži 99,7% čistog gela iz lista aloje te omogućava sistemu za varenje da apsorbuje sve hranljive sastojke iz hrane. Ujedno podstiče i stvaranje dobrih bakterija. Polisaharid acemanan podiže imunitet organizma. Ne sadrži konzervanse i pakovan je u ambalaži od materijala koji je 100% recikliran. Pije se 120 ml dnevno ukupno, podeljeno u 2 ili 3 doze. Nakon otvaranja čuva se u frižideru do 30 dana na temperaturi ne nižoj od 7°C.
 
-![aloe vera gel](./images/aloe-vera-blog-2.webp)
+
 
 ## Antioksidativna svojstva aloje koja mogu pomoći kod tumora
 
@@ -110,6 +116,56 @@ U slučaju hemoterapije, **aloja vera biljka** pomaže tako što sprečava ošte
 
 Ukoliko postoje bilo kakve smetnje sa probavnim traktom (zatvor, gorušica, helikobakterija), sa suvom kožom ili ste osoba čija koža lako izgori na suncu, [aloja vera sok](https://flpshop.rs/napici/11837/forever-aloe-vera-gel/360000954255/personal.html) može pomoći u rešavanju navedenih problema. Veoma je važno konsultovati se sa svojim lekarom koji će odrediti adekvatnu terapiju, a [aloja vera gel](https://flpshop.rs/nega-koze/11694/aloe-vera-gelly/360000954255/personal.html) ili [aloja vera losion](https://flpshop.rs/nega-koze/12541/aloe-sunscreen/360000954255/personal.html) mogu samo ubrzati rešavanje zdravstvenih problema. **Aloja vera biljka** se naziva magičnom biljkom upravo zbog mogućnosti izlečenja i najtežih bolesti poput kancera zbog sadžaja preko 240 hranljivih sastojaka.
 
+## Mere opreza kada pijete gel od aloe vere
+
+Iako je gel aloe vere generalno bezbedan za konzumiranje, važno je preduzeti neke mere predostrožnosti. Evo nekoliko stvari koje treba imati na umu:
+
+Uvek birajte visokokvalitetni gel aloe vere iz renomiranih izvora.
+
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_aloe_vera_gel.webp" alt="aloja vera napitak"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Aloja vera gel</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Pozitivno utiče na imuni sistem
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Poboljšava varenje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Deluje protivupalno i antikancerogeno
+					</div>
+           <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Čisti organizam
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11837/forever-aloe-vera-gel/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
+*Fotografija: Freepik*
 
   </div>
 </div>

@@ -114,7 +114,7 @@
 					</div>
 
 					<div class="col-7@md">
-						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/contents.png" alt="Forever Living" />
+						<g-image class="block width-100% r" :immediate="true" src="~/assets/img/join_forever.jpg" alt="Forever Living" />
 					</div>
 				</div>
 			</div>

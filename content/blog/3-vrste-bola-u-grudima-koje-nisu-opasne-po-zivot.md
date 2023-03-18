@@ -40,7 +40,7 @@ Na osnovu lokaliteta , intenziteta i učestalosti bola, kao i pratećih simptoma
 
 **Bol u grudima usled oštećenja koštano - nervnog sistema**
 
-**Grudni koš je satkan od brojnih koštanih i zglobnih struktura**, povezan hrskavicama, mišićima i ligamentima. Kada se pojavi bol, on se javlja pri pokretu ili pri udahu. Obično se javlja u stanju mirovanja ili nakon neke fizičke aktivnosti. Ovde razlikujemo nekoliko uzroka:
+Grudni koš je satkan od brojnih koštanih i zglobnih struktura, povezan hrskavicama, mišićima i ligamentima. Kada se pojavi bol, on se javlja pri pokretu ili pri udahu. Obično se javlja u stanju mirovanja ili nakon neke fizičke aktivnosti. Ovde razlikujemo nekoliko uzroka:
 
 1. **Kostohondritis** (upala zida grudnog koša) – je upala hrskavice koja se nalazi u grudnom košu, pogađa četvrti, peti i šesti par rebara. **Bol se prostire od grudnog koša prema stomaku i leđima**. Odražava se kao bol u levoj strani grudi pri dodiru i jakog je intenziteta. Manifestuje se kao oštar bol u grudima pri disanju, kašljanju, promeni položaja tela ili podignute ruke iznad glave. [Leči](https://krenizdravo.dnevnik.hr/zdravlje/bolesti-zdravlje/kostohondritis-uzroci-simptomi-lijecenje-i-tietzeov-sindrom) se mirovanjem, fizikalnom terapijom, terapijskim ultrazvukom i lekovima protiv bolova.
 2. **Medjurebarni bolovi** – probadanje između rebara usled naglih i nepravilnih pokreta. Bolovi su jaki , probadajući traju do nekoliko sekundi , retko se ponavljaju, ne šire se po drugim delovima tela. Manifestuje se kao **bol u levoj ili desnoj strani grudnog koša**. [Leči](https://bol.rs/medjurebarna-interkostalna-neuralgija/) se obično analgeticima i antidepresivima, a veoma retko hirurškim intervencijama koje daju vremenski ograničen efekat u otklanjanju bola.
@@ -70,7 +70,54 @@ Usled brzog načina života, nezdravih navika u ishrani i spavanju nastaju brojn
 
 Svi ovi simptomi, na prvi pogled, ukazuju na srčane tegobe. Oni mogu biti vrlo retki ili učestali. Ukoliko se lekarskim pregledom ustanovi da tegobe nisu organske prirode, dijagnostikuje se napad panike, depresije ili anksioznog stanja (strepnje ili bojazni). U tom slučaju je preko potrebno razgovarati sa psihologom ili psihijatrom. **Napad panike ne može da dovede do srčanih oštećenja**, ali dugotrajan stres i anksioznost mogu uticati na povišen pritisak i pojačane srčane tegobe.
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_cardiohealth.webp" alt="zdravo srce"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever CardioHealth - Za vaše zdravo srce</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Čuva srce
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Čisti krvne sudove
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Poboljšava rad kardiovaskularnog sistema
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Sprečava nastanak arterioskleroze
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11643/forever-cardiohealth/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 Ukoliko imate hroničan bol u grudima, tup bol u grudima, bol u leđima i grudima ili jak bol u grudima, konstantan od par sekundi do nekoliko dana ili nedelja, koji se vremenom povećava zbog nadraženosti receptora za bol, tada se smatra da pacijent nije životno ugrožen, ali je potrebno da zatraži lekarsku pomoć. Ukoliko se prvi put javi bol u grudima koji traje od 5 minuta do 20 minuta uz bilo koji od sledećih simptoma: vrtoglavica, mučnina, lupanje srca, opšta slabost, bitno je po preporuci lekara pozvati Hitnu pomoć, koja će uraditi sva ispitivanja neophodna za uspostavljanje tačne dijagnoze.
+
+<br>
+
+*Fotografije: Freepik, Unsplash, Pixabay*
 
   </div>
 </div>

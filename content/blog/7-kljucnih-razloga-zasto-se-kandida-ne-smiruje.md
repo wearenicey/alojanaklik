@@ -103,7 +103,7 @@ Kao i za svaki proces, i za oslobađanje od kandide potrebno je vreme, ali pozna
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Beli luk i timijan - Forever Garlic-Thyme</h2>
+					<h2 class="text-lg">Forever Garlic-Thyme je prirodni antiobiotk</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
@@ -112,11 +112,11 @@ Kao i za svaki proces, i za oslobađanje od kandide potrebno je vreme, ali pozna
 					</div>
           <div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Pozitivno deluje na srce i krvne sudove
+							Deluje povoljno na sistem za varenje
 					</div>
           <div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Deluje povoljno na sistem za varenje
+							Pozitivno deluje na srce i krvne sudove
 					</div>
           <div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
@@ -136,6 +136,8 @@ Kao i za svaki proces, i za oslobađanje od kandide potrebno je vreme, ali pozna
 
 <br>
 
+
+*Fotografije: Freepik, Unsplash, Pixabay*
 
   </div>
 </div>

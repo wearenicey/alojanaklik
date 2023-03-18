@@ -129,7 +129,7 @@ Veoma je efikasan kod održavanja normalnog nivo vitamina B12 i folne kiseline, 
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Forever B12 Plus</h2>
+					<h2 class="text-lg">Forever B12 Plus ima višestruko delovanje</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
@@ -182,7 +182,8 @@ Najefikasnije dejstvo vitamina B12 je kada se unese u organizam sublingvalno (po
 
 Ukoliko imate neke od simptoma nedostatka vitamina B12: **malaksalost, gubitak apetita, konstipaciju** (zatvor) ili imate problem sa želucem, pijete velike količine kafe, unosite alkohol, dugo vremena pijete lekove za regulisanje kiseline, prešli ste 65-tu godinu, vegan ste ili vegetarijanac, imali ste **operaciju creva** onda verovatno imate manjak vitamina B12. Važno je obratiti se svome lekaru i odraditi laboratorijske analize koje će potvrditi vaše sumnje. Najlakši i najefikasniji način regulisanja dnevnih potreba vitamina B12 je putem hrane životinjskog porekla (meso, mleko, jaja, riba, jetra, žitarice) i putem suplementa. 
 
-
+<br>
+*Fotografije: Freepik, Unsplash, Pixabay*
 
   </div>
 </div>

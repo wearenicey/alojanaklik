@@ -155,6 +155,9 @@ Njihova upotreba ne predstavlja udar na kućni budžet, s obzirom da mnoge od nj
 
 A kada se konačno dođe do željenih rezultata oslobađanja infekcije kandidom, sasvim je verovatno da će se uočiti dodatni benefiti u vidu boljeg raspoloženja, smanjenog umora i osećaja lakoće u obavljanju dnevnih aktivnosti.
 
+<br>
+*Fotografije: Freepik, Unsplash, Pixabay*
+
 
   </div>
 </div>

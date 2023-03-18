@@ -47,7 +47,7 @@ Pogađa oba pola podjednako, ali u poslednje vreme sve više i decu. U svetu ima
 - Nizak nivo HDL (dobar holesterol).
 
 
-![insulinska rezistencija simptomi](./images/insulinska-rezistencija-slika2.jpg)
+![insulinska rezistencija simptomi](./images/insulinska_rezistencija_2.webp)
 
 
 ## Lečenje insulinske rezistencije - ishrana
@@ -79,11 +79,13 @@ Lečenje insulinske rezistencije zahteva promenu životnih navika:
 ## Preporuka lekara - kako pobediti insulinsku rezistenciju?
 
 
-![insulinska rezistencija ishrana](./images/insulinska-rezistencija-slika3.jpg)
+
 
 
 
 Kako smanjiti insulinsku rezistenciju? Najbolja reč koja opisuje insulinsku rezistenciju je umerenost. Umerenost može pomoći potpunom izlečenju od ovog poremećaja u vremenskom periodu od 3 do 8 meseci. U suprotnom vodi u dijabetes tip2. 
+
+![insulinska rezistencija ishrana](./images/insulinska_rezistencija_3.webp)
 
 **Preporuke [endokriloga](https://www.rts.rs/page/stories/sr/story/125/drustvo/2694222/insulinska-rezistencija--poremecaj-koji-preti-dijabetesom.html) su:**
 
@@ -106,12 +108,12 @@ Umerenost u hrani, piću, fizičkoj aktivnosti i spavanju, uz održavanje BMI (I
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Forever Garcinia Plus</h2>
+					<h2 class="text-lg">Forever Garcinia Plus pomaže vašem organizmu</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Podiže nivo energije
+						Održava nivo glukoze u krvi
 					</div>
           <div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
@@ -119,7 +121,7 @@ Umerenost u hrani, piću, fizičkoj aktivnosti i spavanju, uz održavanje BMI (I
 					</div>
           <div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Održava nivo glukoze u krvi
+				    Podiže nivo energije
 					</div>
           <div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
@@ -138,6 +140,9 @@ Umerenost u hrani, piću, fizičkoj aktivnosti i spavanju, uz održavanje BMI (I
 </div>
 
 <br>
+
+
+*Fotografije: Freepik, Unsplash, Pixabay*
 
 
 

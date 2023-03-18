@@ -119,7 +119,7 @@ U najtežim slučajevima terapija u lečenju ovog zdravstvenog oboljenja podrazu
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Probiotik Forever Active Pro-B</h2>
+					<h2 class="text-lg">Forever Active Pro-B Probiotik</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
@@ -204,6 +204,9 @@ Vežbajte. Kombinujte mentalne i fizičke vežbe.
 Izbacite sve loše navike iz vaše svakodnevnice, ili bar većinu njih. Izdvojite vreme za druženje, oraspoložiće vas.
 
 Primenite ovo već od sutra. Vremenom će se raspoloženje popraviti, **stres** će nestati a sa njim i simptomi **sindroma nervoznih creva**. 
+
+<br>
+*Fotografije: Freepik, Unsplash, Pixabay*
 
   </div>
 </div>

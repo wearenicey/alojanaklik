@@ -1,5 +1,5 @@
 ---
-title: Prirodni načini za izbeljivanje zuba.
+title: Prirodni načini za izbeljivanje zuba. Kako do sjajnijeg osmeha?
 tags: Lična higijena
 tagsMeta: Želite da održite svoje zube bele i sprečite mrlje? Saznajte sve o najčešćim uzrocima bojenja zuba i kako to sprečiti. Od hrane i pića do životnih navika, saznajte šta možete da uradite da održite svetao i zdrav osmeh.
 excerpt: Izbeljivanje zuba? Da li je neophodno posetiti stomatologa ili dobar rezultat možete postići i kod kuće?
@@ -19,7 +19,7 @@ featured: false
 <div class="container max-width-adaptive-sm">
 	<div class="text-component line-height-lg v-space-md">
 
-Oduševljeni ste prizorom i belinom zuba osobe koju ste upravo upoznali i pitate se: „Kako doći do tako lepog osmeha?“ Izbeljivanje zuba je uobičajena briga mnogih ljudi, jer blistav i zdrav osmeh može u velikoj meri poboljšati nečije samopouzdanje i izgled. Međutim, razumevanje uzroka koji dovode do promene boje zuba i načina na koji to možemo usporiti ili sprečiti je ključno za održavanje belog i zdravog osmeha. 
+Oduševljeni ste prizorom i belinom zuba osobe koju ste upravo upoznali i pitate se: „Kako doći do tako lepog osmeha?“  Da li ste umorni od skrivanja zuba na fotografijama ili od potpunog izbegavanja osmeha? Ako jeste, niste sami. Izbeljivanje zuba je uobičajena briga mnogih ljudi, jer blistav i zdrav osmeh može u velikoj meri poboljšati nečije samopouzdanje i izgled. Milioni ljudi širom sveta bore se sa obezbojenim zubima. Razumevanje uzroka koji dovode do promene boje zuba i načina na koji to možemo usporiti ili sprečiti je ključno za održavanje belog i zdravog osmeha. 
 
 Da li je neophodno posetiti stomatologa ili dobar rezultat **izbeljivanja zuba** možete postići i kod kuće? Odgovor je potvrdan, postoji više načina da dođete do blistavo belih zuba.
 
@@ -136,7 +136,9 @@ Takodje, kurkuma je jedan od najjačih prirodnih antiseptika i učiniće dosta i
 
 ![izbeljivanje zuba kod kuće](./images/izbeljivanje-zuba-slika4.jpg)
 
-*Fotografija: Freepik*
+
+
+
 
 
 ## Namirnice koje će nam pomoći u izbeljivanju zuba.
@@ -146,7 +148,48 @@ Takodje, kurkuma je jedan od najjačih prirodnih antiseptika i učiniće dosta i
 U zaključku, razumevanje uzroka bojenja zuba i načina na koji to sprečiti je ključno za održavanje belog i zdravog osmeha. Praćenjem dobre oralne higijene, izbegavanjem ili ograničavanjem bojenja hrane i pića i redovnim posetama stomatologu, možete znatno smanjiti rizik od promene boje zuba i poboljšati ukupan izgled svog osmeha. Ako već imate obojenost zuba, postoji nekoliko opcija lečenja koje će vam pomoći da osvetlite vaš osmeh, tako da ne oklevajte da razgovarate sa svojim stomatologom o vašim mogućnostima. 
 Takođe, oko nas postoje raznorazne namirnice kojima možemo da saniramo ili usporimo pojavu mrlja na zubima.
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_toothgel.webp" alt="jednostavno izbeljivanje zuba"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Bright Toothgel za sjajan osmeh</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Visokokvalitetna pasta
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  Bez veštačkih boja
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Optimalna formula
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11668/forever-bright-toothgel/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 Dakle, lepota i belina Vaših zuba zavisi gotovo isključivo od Vas samih. Održavajte zube i usta čistim, to je preduslov za blistav osmeh.
+
+*Fotografije: Freepik*
 
   </div>
 </div>

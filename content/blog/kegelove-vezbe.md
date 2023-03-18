@@ -74,7 +74,7 @@ U zavisnosti od uzroka koji dovode do impotencije, postoje različiti načini le
 <div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
-			<g-image class="" src="~/assets/img/Kupi_Forever_Living_Forever_Multi-Maca_Dietary_Supplement_60.jpg" alt="erekcija lek"></g-image>
+			<g-image class="" src="~/assets/img/Kupi_Forever_Living_Forever_Multi-Maca_Dietary_Supplement_60.jpg" alt="erekcija prirodni lek"></g-image>
 		</div>
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
@@ -136,53 +136,9 @@ Najbitnije je da pravilno dišete i da Vam ostatak tela bude opušten i miran, a
 
 Kako bi ste brže napredovali, možete kombinovati varijante Kegelovih vežbi, tako što ćete brzo stiskati i opuštati mišiće, a sve to nekoliko puta za redom. Probajte i veoma polako da ih stiskate.
 
+
+*Fotografije: Freepik, Unsplash, Pixabay*
+
   </div>
 </div>
 
-<div class="container max-width-adaptive-lg padding-y-lg padding-x-md radius-lg margin-y-lg bg-white">
-	<div class="grid gap-lg">
-		<div class="col-5@md">
-			<g-image class="" src="~/assets/img/Kupi_Forever_Living_Forever_Multi-Maca_Dietary_Supplement_60.jpg"></g-image>
-		</div>
-		<div class="col-7@md">
-			<div class="flex flex-wrap gap-sm items-center">
-				<div class="color-primary text-bold text-md margin-bottom-0">
-					<p>Dodaci ishrani</p>
-				</div>
-				<div class="">
-					<h2>Peruanska maka - Multi Maca</h2>
-				</div>
-				<div class="">
-					<p class="text-lg color-accent font-primary text-normal">4.865.78 RSD</p>
-				</div>
-        <div class="grid margin-bottom-lg gap-xxs">
-					<div class="flex items-center">
-						<g-image class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Afrodizijak
-					</div>
-          <div class="flex items-center">
-						<g-image class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Stimuliše plodnost
-					</div>
-          <div class="flex items-center">
-						<g-image class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Smanjuje otok i upalu prostate
-					</div>
-          <div class="flex items-center">
-						<g-image class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Smanjuje neurološke tegobe
-					</div>
-				</div>
-				<div>
-					<p class="color-black">Korišćenjem proizvoda Forever Supergreens živećete opuštenije i zdravije. Na siguran način pomažete sebi i svom organizmu</p>
-				</div>
-			</div>
-			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/dodaci-ishrani/11638/forever-multi-maca/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
-					Kupite danas
-				</a>
-				<g-image class="" src="~/assets/img/logo-futer.png"></g-image>
-			</div>
-		</div>
-	</div>
-</div>

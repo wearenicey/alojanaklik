@@ -45,6 +45,49 @@ Uzroci bola u donjem delu stomaka su brojni:
 7. **Divertikulitis** - odnosi se na male vrećice koje nastaju na zidovima debelog creva usled pritiska. Može doći do upale i krvarenja, a obično prolazi bez simptoma. Utvrđuje se kolonoskopijom, a rešava se hirurškim putem.
 8. **Sindrom razdražljivih creva** - iritabilni kolon je funkcionalni poremećaj tankog i debelog creva, koji dovodi ili do zatvora ili dijareje. Simptomi su: bol u donjem delu stomaka, nadutost, sluz u stolici i osećaj da creva nisu dovoljno ispražnjena.
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_fiber.webp" alt="vlakna u ishrani"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Fiber - Vlakna u ishrani</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Doprinosi očuvanju zdravlja organa za varenje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Izaziva osećaj sitosti
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Blagotvorno deluje na ceo organizam
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Jača imunitet
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11651/forever-fiber/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 
 ## Uzrok bola u donjem delu stomaka usled bubrežnih tegoba
 
@@ -95,6 +138,10 @@ Ukoliko se u dužem vremenskom periodu javlja gubitak apetita i telesne mase, gr
 Ukoliko se bol u donjem delu stomaka ponavlja u toku 24 sata, veoma je oštar, praćen mučninom, povraćanjem, žutilom oko očiju, dijarejom ili krvavom stolicom, otežanim disanjem i temperaturom obavezno je pozvati lekara ili otići u hitnu pomoć što je pre moguće.
 
 Bolovi u donjem delu stomaka zahtevaju detaljniju lekarski analizu, jer mogu se odnositi i na neke ozbiljne bolesti, naročito ako traju jedan izvestan period ili ako se ponavljaju. Neke tegobe su sasvim bezazlene i mogu se ukloniti savesnijim pristupom zdravlju, uzimanjem adekvatnih čajeva (kod ginekoloških problema), mineralne vode (kod uroloških tegoba) i adekvatnijom ishranom (kod želudačnih tegoba). Lekarska preporuka je da svaki bol treba ispitati, zato što sam bol po prirodi nije normalno stanje, jer otežava ili totalno blokira funkcionisanje ljudi. Među najbolje prirodne preparate koji doprinose poboljšanju zdravlja je aloja. Preparati sa alojom sadrže dosta vitamina, antioksidanasa i enzima, te doprinose: regulisanju varenja, rešavanju urinarnih infekcija, odlična je za dijabetičare jer monosaharidi u potpunosti prelaze u ćelije. Sadrži dosta minerala: kalijum, magnezijum, natrijum, cink, hrom i bakar, te je odlična za anemiju, rad srca, nervni sistem i urogenitalne probleme.
+
+<br>
+
+*Fotografije: Freepik, Unsplash, Pixabay*
 
 
   </div>

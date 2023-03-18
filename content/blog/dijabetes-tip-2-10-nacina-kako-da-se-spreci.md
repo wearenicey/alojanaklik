@@ -4,11 +4,11 @@ tags: Zdravlje
 tagsMeta: Šta je dijabetes Tip 2? Tekst o tome kako prpoznati simptome i šta učiniti kako biste pomogli svomwe zdravlju? 
 excerpt: Da li znate na koje sve načine može da se umanji mogućnost nastanka dijabetesa?
 created: 2022-06-24
-image: dijabetes-tip-2-slika2.jpg
+image: dijabetes_tip_2_1.webp
 alt: "dijabetes tip 2"
 
 imageTwo:
-  path: /slika-1.jpg
+  path: /dijabetes_tip_2_1.webp
   alt: "dijabetes tip 2"
 image_caption: Photo by Josh Spires on Unsplash
 slug: dijabetes-tip-2-10-nacina-kako-da-se-spreci
@@ -21,7 +21,7 @@ featured: false
 
 Termine dijabetes i dijabetes tip 2 vrlo često vezujemo za probleme modernog čoveka i ubrzanog načina života, te smo sve česće upoznati sa posledicama istih. Tamo gde zdrava ishrana postaje luksuz, a brza hrana i velike količine šećera i ugljenih hidrata lako dostupna zamena za hranljive namirnice, gubimo polako kontrolu nad sopstvenim zdravljem.
 
-![dijabetes tip 2 ishrana](./images/dijabetes-tip-2-slika1.jpg)
+
 
 Dijabetes tip 2 nastaje kao rezultat nedovoljnog lučenja insulina, hormona koji proizvodi pankreas, a koji je ključan u procesu razgradjivanja šećera. Prekomerna količina šećera, odnosno glukoze u krvotoku, dovodi do različitih poremećaja [cirkulatornog, imunog i nervnog sistema](https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193).
 
@@ -43,6 +43,8 @@ Najčešći [dijabetes tipa 2 simptomi](https://www.mayoclinic.org/diseases-cond
 - Tamni pečati na koži, najčešće u predelu vrata i ispod pazuha
 
 Nakon što smo se upoznali sa simptomima bolesti, šta je ono što zaista možemo da učinimo kako bismo je sprečili ili kako bismo sebi olakšali svakodnevnicu? 
+
+![dijabetes tip 2 ishrana](./images/dijabetes_tip_2_2.webp)
 
 U nastavku ćemo se upoznati sa **10 načina za prevenciju dijabetesa tip 2**:
 
@@ -74,6 +76,8 @@ Opšte je poznato da pušenje izaziva čitav niz zdravstvenih problema i bolesti
 
 Da bi se sprečila pojava dijabetesa tipa 2, potrebno je preći na režim ishrane koji sadrži dovoljnu količinu namirnica bogatih vlaknima i vitaminima, kao i obilje [mononezasićenh i polinezasićenih masnih kiselina](https://www.healthline.com/health/type-2-diabetes/best-meal-plans). Te namirnice su svakako voće (jabuke, pomorandže, breskve, kruške), povrće (brokoli, karfiol, španat, krastavci), integralne žitarice (ovas, kinoa, integralni pirinač), proteini (živinsko meso bez kože, morski plodovi) kao i zdrave masti (avokado, maslinovo i laneno ulje).
 
+![prirodni lek za dijabetes tip 2](./images/dijabetes-tip-2-slika3.jpg)
+
 7. **Suplementi i prirodni lekovi za dijabetes**
 
 To su najčešće minerali poput hroma, magnezijuma i vanadijuma koji igraju važnu ulogu u podizanju nivoa insulina u organizmu, kao i u regulaciji metabolizma glukoze. **Fields of Greens** je suplement zasnovan na prirodnoj bazi sastojaka, koji obiluje hranjivim materijama i mineralima neophodnim za uspostavljanje prirodnog balansa antioksidansa u našem organizmu. **Fields of Greens** sačinjava specijalna kombinacija [mlade ječmene i pšenične trave, alfa-alfe i paprike u prahu](https://flpshop.rs/dodaci-ishrani/11632/fields-of-greens/360000954255/personal.html), koji za cilj imaju očuvanje zdravog krvotoka i probave. 
@@ -96,9 +100,56 @@ Vraćamo se polako na jedan od glavnih načina prevencije nastanka dijabetesa, a
 
 I na samom kraju, da li je **dijabetes tip 2 izlečiv**?
 
-![prirodni lek za dijabetes tip 2](./images/dijabetes-tip-2-slika3.jpg)
+
+
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_aloe_blossom_herbal_tea.webp" alt="insulinska rezistencija čaj"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Aloe Blossom Herbal Tea - Čaj za dijabetičare</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Reguliše nivo šećera u krvi
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Detoksikuje organizam
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Niskokaloričan
+					</div>
+           <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Bez kofeina
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11620/aloe-blossom-herbal-tea/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
 
 Pored svih istraživanja, objavljenih naučnih radova i miliona ispitanika koji žive sa dijabetesom i dijabetesom tipa 2, zaključeno je da još uvek [nemamo trajni lek](https://www.webmd.com/diabetes/guide/is-there-a-diabetes-cure) za ovu učestalu bolest današnjice. Dakle, na nama je da preduzmemo korake ka poboljšanju našeg kvaliteta života i da smanjimo faktore rizika koji nas mogu dovesti do povećanog šećera u krvi, insulinske rezistencije i na kraju, dijabetesa tip 2
+
+<br>
+
+*Fotogradije: Freepik, Unsplash*
 
   </div>
 </div>

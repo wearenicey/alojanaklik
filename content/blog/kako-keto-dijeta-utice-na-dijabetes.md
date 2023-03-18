@@ -23,7 +23,7 @@ U ovim modernim vremenima interneta, mobilnih telefona i aplikacija, online poru
 
 Još je teži scenario kada je osoba dijabetičar, dobija na kilogramima, a iz dana u dan se neuspešno bori sa izazovom one preukusne čokolade. Čokolade koju svaki dan kupi i pojede, iako je svesna da joj ne čini dobro po zdravlje. Iako zna da će ponovo prolaziti kroz razgovor sa doktorkom i trpeti možda prekoran pogled ili slušati lekcije koje je odavno naučila. Iako zna da će se možda ponovo menjati terapija lekovima. 
 
-Dokle tako? Ima li nekog lakšeg načina da se promeni ovaj ciklus?
+Ima li nekog lakšeg načina da se promeni ovaj ciklus?
 
 Da li bi možda keto dijeta mogla biti od pomoći? Popularna je, mnogima je već pomogla u skidanju suvišnih kilograma i zdravlju uopšte, samo je pitanje koliko je dobra za osobe sa dijabetesom?
 
@@ -69,7 +69,7 @@ Uticaj keto dijete na organizam ne ogleda se isključivo u mršavljenju. Sledi p
 - Mučnina i povraćanje
 - Nizak nivo šećera 
 
-Generalno govoreći, [keto dijetu bi trebalo da izbegavaju](https://www.everydayhealth.com/diet-nutrition/ketogenic-diet/what-are-benefits-risks-keto-diet/) osobe sa poremećajima u ishrani, osobe kojima je eliminisana žučna kesa, osobe sa bubrežnim oboljenjima, oboljenjima pankreasa i tiroidne žlezde, kao i osobe koje imaju dijabetes tipa 1. 
+Generalno govoreći, [keto dijetu bi trebalo da izbegavaju](https://www.everydayhealth.com/diet-nutrition/ketogenic-diet/what-are-benefits-risks-keto-diet/) osobe sa poremećajima u ishrani, osobe kojima je eliminisana žučna kesa, osobe sa bubrežnim oboljenjima, oboljenjima pankreasa i tiroidne žlezde, kao i **osobe koje imaju dijabetes tipa 1**. 
 
 ![keto dijeta](./images/keto-dijeta-dijabetes-slika2.jpg)
 
@@ -111,10 +111,58 @@ Ishrana osoba koje imaju dijabetes svakako zahteva određena prilagođavanja. Me
 
 Keto dijetom gube se kilogrami, ali se gube i masne naslage. Šećer se i inače nikako ne savetuje osobama dijabetičarima, a u keto dijeti se svodi na minimalne količine. Neke osobe sa stanjem dijabetesa tipa 2 i primenom keto dijete uspešno su uspeli da dovedu stanje organizma do smanjene potrebe za lekovima. U Srbiji je prema [određenim podacima](https://www.zdravlje.gov.rs/vest/342459/srbija-medju-retkim-zemljama-koje-imaju-registar-za-dijabetes.php) preko 700.000 odraslih ljudi obolelo od dijabetesa. Nažalost, nemamo tačan podatak koliki broj od njih ima povišen indeks telesne mase (BMI), ali veruje se da nije mali. Keto dijeta može biti odličan saveznik kako u borbi sa viškom kilograma, tako i u borbi sa samim dijabetesom.
 
-![keto dijeta za dijabetičare](./images/keto-dijeta-dijabetes-slika3.jpg)
+
+
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_garcinia_plus.webp" alt="keto dijeta suplementi"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Garcinia Plus - Suplement za dijabetičare</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Podiže nivo energije
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Smanjuje umor
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Održava nivo glukoze u krvi
+					</div>
+           <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Reguliše apetit
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11656/forever-garcinia-plus/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
+<br>
 
 Ovim tekstom su predstavljeni isključivo opšti podaci koji ni u kom slučaju ne daju medicinske savete ili uputstva. 
 
+<br>
+
+*Fotografije: Freepik, Unsplash, Pixabay*
 
   </div>
 </div>

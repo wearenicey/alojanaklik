@@ -21,9 +21,17 @@ featured: false
 
 Verovatno ste mnogo puta čuli da su zdrava deca krupna i rumena. Živelo se u uverenju da je sreća kada se ima hrane u izobilju. Još veća sreća u porodici je vladala kada bi dete samo tražilo da jede u bilo koje doba dana, te se odrasli nisu mnogo trudili i gubili vreme da ga nahrane. Ako bi takvo dete odbilo da pojede neki slatkiš ili jelo odmah bi se posumnjalo na bolest, te bi sledilo merenje temperature, zagledanje da li je bledo ili pospano. Nikada niko nije govorio o organizmu kao hramu tela, uma i duha. Nakon 20 godina takvog života, to dete, sada već odrasla osoba se suočava sa nizom problema poput: prejedanja, zavisnost od slatkiša i višak telesne mase. To se još uvek u ranim 20-im godinama ne smatra problemom. Mnogi se  ljudi čude kada se odjednom suoče sa dijabetesom, verujući da se bolest pojavila odjednom.  
 
-Da li osobe obolele od dijabetesa (dijabetes melitus) mogu živeti jednako kvalitetno, kao potpuno zdrave osobe? Šta je to što im olakšava život? Šta je dijabetes?
+## Da li osobe obolele od dijabetesa (dijabetes melitus) mogu živeti jednako kvalitetno, kao potpuno zdrave osobe?
+
+Život sa dijabetesom može biti izazovan, ali poštujući određena pravila, ljudi sa dijabetesom mogu da žive zdrav i ispunjen život. U ovom članku ćemo govoriti upravo o pravilima kojih bi trebalo da se pridržavaju ljudi sa dijabetesom.
+
+
+## Šta je dijabetes?
 
 Dijabetes je bolest koja nastaje zbog nedovoljno lučenja insulina, koji se stvara u gušterači.
+
+
+
 
 Kod obolelih od dijabetesa postoji mogućnost kako naglog porasta (hiperglikemija), tako i pada ([hipoglikemija](http://www.vma.mod.gov.rs/sr-lat/lekarski-saveti/dijabetes)) glukoze u krvi. Postoje određena pravila kojih osobe obolele od dijabetesa moraju da se pridržavaju da bi održali adekvatan nivo šećera u krvi (7,0 mmol/l).
 
@@ -52,6 +60,7 @@ Preporuka je 3 puta nedeljno vežbati po pola sata, a posebno se preporučuju tr
 6. Povećanje snage;
 7. Smanjenje potrebe za lekovima.
 
+![lek dijabetes tip 2](./images/7_zlatnih_pravila_dijabetes_2.webp)
 
 Najbitnije su aerobne *vežbe umerenog intenziteta od 150 minuta* nedeljno ili oko 20 minuta dnevno uz maksimalno povećanje pulsa od 60% u odnosu na bazalni.
 
@@ -114,11 +123,57 @@ Odmor i san su veoma bitni u kontroli glikemije, naročito noćni san od 22 čas
 
 Nedovoljno sna utiče na porast stresa i kortizola, a on na rast šećera u krvi. [Profesor Šahrad Taheri](https://zena.blic.rs/zdravlje/hronicni-manjak-sna-utice-i-na-pojavu-i-razvoj-dijabetesa-i-gojaznosti/xpvb3kt) iz Katara ukazuje da nedostatak sna može biti uzrok gojaznosti i pojave dijabetesa tipa 2.
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_aloe_blossom_herbal_tea.webp" alt="čaj za dijabetes"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Aloe Blossom Herbal Tea - Čaj za dijabetičare</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Reguliše nivo šećera u krvi
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Detoksikuje organizam
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Niskokaloričan
+					</div>
+           <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Bez kofeina
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11620/aloe-blossom-herbal-tea/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
 
 ## Dijabetes je stil života
 
 Prema preporuci endokrinologa kada se utvrdi dijabetes bitno je raskrstiti sa starim životnim navikama: prejedenje, preskakanje obroka, uzimanje masne hrane, slatkiša i grickalica. Važno je promeniti navike ishrane, organizovati tako dan da obavezno imate vremena za 5 obroka i neku fizičku aktivnost. Ne zaboraviti uzeti lekarsku terapiju i naravno otići na vreme na spavanje, pre ponoći. Omogućite svom organizmu da se odmori, tako što ćete odspavati najmanje 7h u toku noći. Iako mislite da ste oboleli od preteške bolesti, Vama će najviše pomoći korekcija ishrane, lekarska terapija u život bez stresa. Naravno, neophodno je pratiti dodatna uputstva Vašeg lekara i obavljati redovne lekarske kontrole.
 
+<br>
+
+*Foografije: Unsplash, Freepik, Pixabay*
 
   </div>
 </div>

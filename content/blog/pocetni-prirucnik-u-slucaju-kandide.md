@@ -85,7 +85,7 @@ Takođe, danas su na internetu dostupni odlični [recepti za anti kandida dijetu
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Probiotik Forever Active Pro-B</h2>
+					<h2 class="text-lg">Forever Active Pro-B Probiotik</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
@@ -121,6 +121,9 @@ Takođe, danas su na internetu dostupni odlični [recepti za anti kandida dijetu
 **Zaključak**
 
 Prekomerni rast kandide može biti frustrirajući i iscrpljujući problem, ali ako pratite dijetu za čišćenje kandide, možete uspostaviti ravnotežu u svom telu i ublažiti simptome. Izbegavajući hranu koja hrani kandidu i umesto toga fokusirajući se na hranu koja podržava rast korisnih bakterija, možete preuzeti kontrolu nad svojim zdravljem i osećati se bolje za kratko vreme.
+
+<br>
+*Fotografije: Freepik, Unsplash, Pixabay*
 
   </div>
 </div>

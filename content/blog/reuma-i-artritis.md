@@ -235,7 +235,7 @@ Jako je bitno imati svest o tome da ćete pravilnom ishranom i izbacivanjem loš
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Forever Freedom</h2>
+					<h2 class="text-lg">Forever Freedom - Sloboda za vaše zglobove</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">

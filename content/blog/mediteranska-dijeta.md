@@ -21,9 +21,11 @@ featured: false
 
 Stiže još jedno vrelo leto i ljudi jednostavno ne znaju koju destinaciju da posete? Agencije nude ekskluzivne aranžmane za Grčku, Kipar, Maroko, Italiju i Španiju. Taj miris mora, maslina i južnog voća podseća na vreme kada su ljudi bili bezbrižni i srećni. Sada je isto to vreme, ali se oseća nesigurnost i umor. Kad se pogledaju u ogledalu ljudi shvate da kilogrami ne moraju i ne smeju  biti uzrok ničije nesigurnosti i nesreće. Upravo ove ponuđene destinacije nude najraznovrsnija i najzdravija  jela koja Vam mogu omogućiti čak i na godišnjem odmoru da smršate.
 
-**Mediteranska ishrana** je ishrana zastupljena u priobalnom Sredozemlju, svojstvena je za Grčku, Italiju, Španiju, Kipar, Portugal, Maroko i Dalmaciju. Izvorno poreklo je sa ostrva Krita. Spada u najprihvatljiviji dijete za mršavljenje u svetu, zbog dugoročno zdravih efekata po zdravlje. 
+**Mediteranska ishrana** je ishrana zastupljena u priobalnom Sredozemlju, svojstvena je za Grčku, Italiju, Španiju, Kipar, Portugal, Maroko i Dalmaciju. Izvorno poreklo je sa ostrva Krita. Spada u najprihvatljiviji dijete za mršavljenje u svetu, zbog dugoročno zdravih efekata po zdravlje. Naglašava celu, minimalno obrađenu hranu i zdrave masti poput maslinovog ulja, orašastih plodova i ribe. Takođe uključuje umerene količine mlečnih proizvoda, nemasnih proteina i voća i povrća.
 
 Ljudi često pribegavaju izgladnjivanju da bi smršali, a onda shvate da to ima samo kontra efekat. Kratkoročno posmatrano, ljudi samo izgube vodu iz organizma i par kilograma koji se brzo vrate. Tako se bespotrebno iscrpe i fizički i psihički. Dugoročno, gladovanje ili autofagija mogu znatno poboljšati opšte zdravlje ljudi. Osećaj gladi ponekad zavara čoveka. Veoma često je to lažan osećaj, te se javlja potreba za slatkišima ili slanom hranom. Nekada je dosada uzrok nepotrebnog unošenja hrane i gojaznosti.
+
+Ako tražite zdrav i ukusan način da poboljšate svoje opšte zdravlje, mediteranska dijeta bi mogla biti upravo ono što vam treba. Sa svojim naglaskom na svežu, celovitu hranu i zdrave masti, pokazalo se da ovaj plan ishrane smanjuje rizik od hroničnih bolesti, promoviše gubitak težine i poboljšava mentalno zdravlje.
 
 Prvi put o ovoj dijeti za mršavljenje i ishrani govori [dr. Ancel Keys](https://www.brzadijeta.com/mediteranska-dijeta/) posle Drugog Svetskog rata, pri proučavanju uticaja gladi na čoveka. Takođe je ustanovio da smanjen unos jaja, crvenog mesa i mlečnih proizvoda znatno smanjuje oboljevanje ljudi od kardiovaskularne bolesti.
 
@@ -32,8 +34,27 @@ Mediteranska dijeta podrazumeva unos **tri grupe namirnica**:
 - Nedeljni unos ribe, živinskog mesa i jaja, pasulja i mlečnih proizvoda;
 - Povremeni unos crvenog mesa i vina.
 
+## Prednosti mediteranske dijete
 
-Osnovno pravilo mediteranske dijete je usmeren ka minimalnim restrikcijama u odnosu na unos količine namirnica.
+[Istraživanja](https://www.everydayhealth.com/mediterranean-diet/scientific-health-benefits-mediterranean-diet/) su pokazala da pridržavanje mediteranske dijete može imati brojne prednosti za vaše zdravlje, uključujući:
+
+- **Smanjenje rizika od srčanih bolesti**
+
+Mediteranska ishrana je bogata namirnicama koje su zdrave za srce kao što su voće, povrće, integralne žitarice i riba. Ove namirnice su bogate hranljivim sastojcima poput vlakana, antioksidanata i omega-3 masnih kiselina, koje mogu pomoći u smanjenju upale i poboljšanju zdravlja srca.
+
+- **Poboljšanje funkcije mozga**
+
+Mediteranska ishrana je povezana sa poboljšanim kognitivnim funkcijama i smanjenim rizikom od Alchajmerove bolesti. Zdrave masti u ovom planu ishrane, kao što su maslinovo ulje i orasi, mogu pomoći u zaštiti moždanih ćelija i poboljšanju pamćenja i učenja.
+
+- **Promovisanje gubitka težine**
+
+Mediteranska dijeta nije strog plan sa ograničenim unosom kalorija, ali naglašava cjelovitu hranu koja je zasitna i zadovoljavajuća. Ovo može pomoći da se smanji prejedanje i podstakne gubitak težine na duži rok.
+
+- **Smanjenje rizika od dijabetesa**
+
+Sprovođenje mediteranske dijete može pomoći u poboljšanju osetljivosti na insulin i smanjenju rizika od razvoja dijabetesa tipa 2.
+
+
 
 ## Osnovni principi mediteranske ishrane su jednostavni
 
@@ -100,8 +121,54 @@ Osnovno pravilo mediteranske dijete je usmeren ka minimalnim restrikcijama u odn
 
 Najčešći kozumenti ove dijete su osobe koje bore sa većim viškom kilograma duže vreme, osobe koje žele da žive zdravim načinom života, osobe koje se leče ili radi preventive od kardiovaskularnih bolest, osobe koje vole jednostavne obroke.
 
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_lean.webp" alt="dijeta suplementi"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Lean pomaže Vašoj dijeti</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Smanjuje nivo masnoće
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Podstiče bolje varenje
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Ubrzava metabolizam
+					</div>
+           <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Poboljšava opšte zdravstveno stanje organizma
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11658/forever-lean/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
+
                 
 Više od 50% ispitanih lekara preporučuje ovu dijetu, kako iz zdravstvenih, tako i estetskih razloga. [Naučnici sa instituta u Grčkoj](https://www.brzadijeta.com/mediteranska-dijeta/) došli su do zaključka da deca čije su majke u trudnoći bile na mediteranskoj ishrani oboljevaju 4 puta manje od astme i raznih alergija. Bez obzira na broj viška kilograma ovom dijetom ćete ih sigurno skinuti. Jedino što je potrebno je strpljenje. Kilogrami skinuti ovom dijetom se teško vraćaju, a ujedno poboljšavate zdravlje celokupnog organizma. Sve su ovo razlozi zbog kojih je mediteranska dijeta dugi niz godina ubedljivo najpopularnija u svetu.
+
+<br>
+*Fotografije: Freepik, Unsplash, Pixabay*
 
 
   </div>

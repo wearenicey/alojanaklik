@@ -18,7 +18,7 @@ featured: false
 <div class="container max-width-adaptive-sm">
 	<div class="text-component line-height-lg v-space-md">
 
-Bol u grudima je čest simptom [anksioznosti](https://ubuntucentar.com/blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/). Međutim, ovakav bol može biti uzrokovan i drugim faktorima, među kojima je najznačajniji srčani udar.  
+Bol u grudima je čest simptom [anksioznosti](https://ubuntucentar.com/blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/) i uzrokovan je ili pogoršan anksioznošću ili panikom.  Međutim, ovakav bol može da potiče i usled drugih faktora, među kojima je najznačajniji srčani udar.  
 
 Iako je teško utvrditi sa sigurnošću kada je u pitanju anksioznost, a kada srčani udar, neki propratni simptomi i detalji samog bola govore nam da li je, i kada, potrebno obratiti se lekaru.
 
@@ -60,7 +60,7 @@ Bol u grudima kod srčanog udara
 - Bol u grudima bude lociran u centralnom delu ili sa leve strane
 - Javlja se češće kod osoba muškog pola
 
-## Prirodni lekovi
+## Prirodni lekovi za anksiozni bol u grudima
 
 Kada osoba anksioznost doživljava relativno često, organizam ne uspeva da se potpuno oporavi ili odmori od prethodnog anksioznog napada. 
 
@@ -95,7 +95,50 @@ Koristi se u obliku ulja, čaja, kapsula ili tableta. Deluje povoljno na razne t
 
 Prema navodima [Nacionalnog centra za komplementarno i integrativno zdravlje iz SAD](https://www.nccih.nih.gov/health/kava), kava kava ima određena pozitivna dejstva na smanjivanje anksioznosti, ali su ustanovljena i neka njena negativna dejstva na jetru, te se oprez u korišćenju kava kave posebno naglašava.
 
-![lek za bol u grudima](./images/anksiozni-bol-u-grudima-slika2.jpg)
+
+
+<br>
+
+<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_bee_pollen.webp" alt="polen"></g-image>
+		</div> 
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Forever Bee Polen - Prirodni sedativ</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Prirodni sedativ
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Antioksidant
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						Uništava viruse i bakterije
+					</div>
+           <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Blagotvorno deluje na organizam
+					</div>
+        </div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11653/forever-bee-pollen/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
+
+<br>
 
 **Promene u životnom stilu**
 
@@ -111,6 +154,8 @@ Osim najčešće preporučivanih psihoterapija, promene u stilu života mogu sma
 - Redovni sistematski pregledi – daju uvid u stanje organizma (dešava se da organizmu nedostaju neki vitamini (B-12) ili minerali (Magnezijum) koji su značajan faktor u regulaciji raspoloženja) 
 - Hobi – poboljšava volju i podiže satisfakciju
 
+![lek za bol u grudima](./images/anksiozni-bol-u-grudima-slika2.jpg)
+
 Lečenje simptoma anksioznog bola u grudima zahteva jedan određen vremenski period. Poboljšanje stanja ne ogleda se kroz jednu jasnu uzlaznu liniju već kroz krivulju punu uspona i padova, a koji na kraju  omoguaćvaju da se ustanovi najbolja terapija za datu osobu. 
 
 Od izuzetnog je značaja praćenje okolnosti u kojima se osoba nalazi i tok misli koje su prethodile anksioznim napadima i bolovima u grudima. Anksioznost, osećaj nesigurnosti i stres nisu nužno negativne emocije, a naročito nisu pokazatelji sposobnosti osobe da se izbori sa problemom s kojim se suočava. 
@@ -122,6 +167,13 @@ One su često samo signal upozorenja da se mora promeniti pogled na okolnosti ko
 Uz eventualnu terapiju propisanu od strane lekara, preporučuje se pojačavanje unosa vitamina, svežeg voća i povrća i prirodnih čajeva poput kamilice, redovno vežbanje, primena tehnika opuštanja i upotreba biljnih preparata namenjenih umirivanju organizma. 
 
 Osoba koja je zdrava i sigurna u sebe gledaće na probleme kao na izazove i rešavaće ih sa relativnom lakoćom. 
+
+<br>
+
+*Fotografije: Freepik, Unsplash, Pixabay*
+
+
+
 
 
   </div>

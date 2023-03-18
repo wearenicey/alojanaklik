@@ -1,5 +1,9 @@
 <template>
-	<Layout>
+		<Layout>
+			<br>
+			<div class="text-center">
+<h1>Blog - Aloja Vera</h1>
+			</div>
 		<div class="articles padding-top-xxl margin-bottom-xxl">
 			<div class="container max-width-adaptive-lg">
 				<div>

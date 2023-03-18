@@ -52,12 +52,12 @@ Uopšteno govoreći, Forever Nature-Min je odličan, prirodan i bezbedan način 
 <div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
-			<g-image class="" src="~/assets/img/nature_min_2.png" alt="lek za anemiju"></g-image>
+			<g-image class="" src="~/assets/img/nature_min_2.png" alt="prirodni preparat za anemiju"></g-image>
 		</div>
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Forever Nature-Min</h2>
+					<h2 class="text-lg">Forever Nature-Min su minerali u tabletama</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
@@ -91,7 +91,7 @@ Uopšteno govoreći, Forever Nature-Min je odličan, prirodan i bezbedan način 
 <br>
 
 
-
+*Fotografije: Freepik, Unsplash, Pixabay*
 
 
   </div>

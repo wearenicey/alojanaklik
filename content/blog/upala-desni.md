@@ -116,7 +116,7 @@ Veoma cenjena **pasta za upalu desni** na našem tržištu je pasta [FOREVER BRI
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Forever Bright Toothgel</h2>
+					<h2 class="text-lg">Forever Bright Toothgel za Vaše desni</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
@@ -151,6 +151,9 @@ Veoma cenjena **pasta za upalu desni** na našem tržištu je pasta [FOREVER BRI
 Kao i kod svakog oboljenja tako je i kod upale desni uvek bolje delovati preventivno nego kasnije sprovoditi lečenje. Redovnom i pravilnom oralnom higijenom smanjićete mogućnost pojave upale desni. Za pravilnu oralnu higijenu veoma je bitan izbor kako četkice tako i paste za zube. 
 
 Preporuka je i izbegavanje slatkiša i obojenih sokova, te konzumacija zdravih namirnica bogatih vitaminima i mineralima. Najbolji način za održavanje usne duplje zdravom jeste odlazak kod stomatologa jednom u 6 meseci.
+
+<br>
+*Fotografije: Freepik, Unsplash, Pixabay*
 
   </div>
 </div>
