@@ -16,7 +16,7 @@
 
 				<div class="flex justify-center">
 					<div class="author__content text-component v-space-xxs">
-						<!-- <p class="text-sm color-contrast-medium">
+					<!-- <p class="text-sm color-contrast-medium">
 							<time class="text-sm color-inherit" :datetime="$page.post.datetime">{{ $page.post.humanTime }}</time
 							>&mdash; {{ $page.post.timeToRead }} min čitanja
 						</p> -->

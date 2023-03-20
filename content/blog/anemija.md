@@ -57,7 +57,7 @@ Uopšteno govoreći, Forever Nature-Min je odličan, prirodan i bezbedan način 
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Forever Nature-Min su minerali u tabletama</h2>
+					<h2 class="text-lg">Forever Nature-Min sadrži mikroelemente i minerale</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">

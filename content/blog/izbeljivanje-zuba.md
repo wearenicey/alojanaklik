@@ -3,7 +3,7 @@ title: Prirodni načini za izbeljivanje zuba. Kako do sjajnijeg osmeha?
 tags: Lična higijena
 tagsMeta: Želite da održite svoje zube bele i sprečite mrlje? Saznajte sve o najčešćim uzrocima bojenja zuba i kako to sprečiti. Od hrane i pića do životnih navika, saznajte šta možete da uradite da održite svetao i zdrav osmeh.
 excerpt: Izbeljivanje zuba? Da li je neophodno posetiti stomatologa ili dobar rezultat možete postići i kod kuće?
-created: 2023-30-01
+created: 2023-01-30
 image: izbeljivanje-zuba-slika1.jpg
 alt: "izbeljivanje zuba"
 
