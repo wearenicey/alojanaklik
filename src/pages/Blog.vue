@@ -42,8 +42,9 @@ query Posts ($page: Int) {
         alt
       }
     	featured
-    	humanTime: created(format: "DD MMM YYYY")
+    	humanTime: created(format: "DD. MM. YYYY.")
     	datetime: created
+			
     	tags {
           title
     		}
