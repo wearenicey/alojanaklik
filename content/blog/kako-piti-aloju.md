@@ -178,7 +178,7 @@ Kao **sobno bilje** ima sledeće uloge:
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Aloje First u spreju</h2>
+					<h2 class="text-lg">Aloe First u spreju</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
@@ -219,34 +219,34 @@ Kao **sobno bilje** ima sledeće uloge:
 <div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
-			<g-image class="" src="~/assets/img/forever_hydrating_serum.webp" alt="prirodna hidratacija kože"></g-image>
+			<g-image class="" src="~/assets/img/forever_aloe_moisturizing_lotion.webp" alt="prirodna hidratacija kože"></g-image>
 		</div> 
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Hidrirajući serum za lice</h2>
+					<h2 class="text-lg">Hidrirajući losion za lice</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-						Smanjuje pojavu finih linija i bora
+						Daje koži potrebnu vlažnost
+		</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Pogodna je za lice, ruke i telo
 					</div>
           <div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-						 Štiti od štetnih spoljnih uticaja
-					</div>
-          <div class="flex items-center text-sm">
-						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-						 Sadrži prirodne sastojke
+						 Za glatku, svežu i baršunastu kožu
 					</div>
            <div class="flex items-center text-sm">
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-						 Snažna hidratacija
+						Sadrži 100 % stabilizovani gel aloe vere			
 					</div>
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/nega-koze/12548/hydrating-serum/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+				<a href="https://flpshop.rs/nega-koze/11696/aloe-moisturizing-lotion/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
 					Kupite danas
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
