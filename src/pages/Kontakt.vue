@@ -4,7 +4,7 @@
 
 		<section class="">
 			<div class="container max-width-xs margin-y-xl">
-				<form class="sign-up-form" method="POST" data-netlify="true">
+				<form class="kontakt" method="POST" data-netlify="true">
 					<div class="text-component text-center margin-bottom-lg">
 						<h1>Kontaktirajte nas</h1>
 					</div>
