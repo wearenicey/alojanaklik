@@ -2,7 +2,7 @@
 	<Layout>
 		<section class="bg-secondary">
 			<div class="container max-width-adaptive-lg padding-top-xl">
-				<h1 class="text-xxxl color-white text-center text-left@md letter-spacing-sm">Aloja proizvodi</h1>
+				<h1 class="text-xxxl color-white text-center text-left@md letter-spacing-sm">Aloe vera proizvodi</h1>
 			</div>
 		</section>
 
@@ -11,7 +11,7 @@
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Dodaci ishrani</strong> počnite danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Dodaci ishrani</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
 					<!-- <div class="flex-grow padding-top-md padding-top-0@md">
@@ -63,7 +63,7 @@
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Lična higijena</strong> počnite danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Lična higijena</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
 				</div>
@@ -112,7 +112,7 @@
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Mršavljenje</strong> počnite danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Mršavljenje</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
 				</div>
@@ -158,7 +158,7 @@
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Napici</strong> počnite danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Napici</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
 				</div>
@@ -296,11 +296,11 @@
 <script>
 export default {
 	metaInfo: {
-		title: "Aloja proizvodi",
+		title: "Aloe vera proizvodi",
 		meta: [
 			{
 				name: "title",
-				content: "Aloja proizvodi "
+				content: "Aloe vera proizvodi"
 			},
 			{
 				key: "description",
