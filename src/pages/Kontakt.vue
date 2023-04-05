@@ -3,55 +3,11 @@
 		<div class="padding-y-sm"></div>
 
 		<section class="">
-			<div class="container max-width-xs margin-y-xl">
-				<form class="sign-up-form" method="POST" data-netlify="true">
-					<div class="text-component text-center margin-bottom-lg">
-						<h1>Kontaktirajte nas</h1>
-					</div>
-
-
-					<div class="margin-bottom-sm">
-						<div class="grid gap-md">
-							<div>
-								<label class="form-label margin-bottom-xxs" for="textarea">Oblast interesovanja?</label>
-								<div class="select">
-									<select class="select__input btn radius-0 shadow-none border" name="role[]" id="select-this" required>
-										<option value="" disabled selected hidden>Izaberite</option>
-										<option value="Želimo da saznamo više o Aloja proizvodima">Želimo da saznamo više o Aloja proizvodima</option>
-										<option value="Podrška mom zdravlju">Podrška mom zdravlju</option>
-										<option value="Pogodnosti kupovine Aloe Vera proizvoda">Pogodnosti kupovine Aloe Vera proizvoda</option>
-										<option value="Buduča poslovna saradnja">Buduća poslovna saradnja</option>
-									</select>
-
-									<svg class="icon select__icon" aria-hidden="true" viewBox="0 0 16 16"><polyline points="1 5 8 12 15 5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" /></svg>
-								</div>
-							</div>
-							<div>
-								<label class="form-label margin-bottom-xxs" for="textarea">Šta biste želeli da nas pitate?</label>
-								<textarea cols="64" rows="6" class="form-control width-100%" name="textarea" id="textarea" required></textarea>
-								<!-- <p class="text-xs color-contrast-medium margin-top-xxs">Use helper text to provide additional information.</p> -->
-							</div>
-							<div>
-								<label class="form-label margin-bottom-xxxs" for="input-first-name">Vaše ime? </label>
-								<input class="form-control width-100%" type="text" name="input-first-name" id="input-first-name" required />
-							</div>
-
-							<div>
-								<label class="form-label margin-bottom-xxxs" for="input-last-name">Broj telefona na koji Vas možemo kontaktirati? </label>
-								<input class="form-control width-100%" type="tel" id="phone" name="phone" placeholder="064444000" required />
-							</div>
-						</div>
-					</div>
-
-					<div class="margin-bottom-sm">
-						<label class="form-label margin-bottom-xxxs" for="input-email">Vaša email adresa kako bismo Vam poslali naš odgovor?</label>
-						<input class="form-control width-100%" type="email" name="input-email" id="input-email" placeholder="email@myemail.com" required />
-					</div>
-
-					<div class="margin-bottom-sm">
-						<button class="btn btn--primary btn--md width-100%" type="submit">Pošaljite</button>
-					</div>
-				</form>
+			<div class="container max-width-xs margin-y-xxxl">
+				<div class="text-component text-center margin-bottom-lg">
+					<h1>Kontaktirajte nas</h1>
+					<p>Putem emaila na <a href="mailto:aloja@nicey.rs">aloja@nicey.rs</a></p>
+				</div>
 			</div>
 		</section>
 	</Layout>
@@ -96,6 +52,6 @@ export default {
 
 		// remove the JS code once the component has been destroyed
 		document.getElementById("accordion-js").remove();
-	},
+	}
 };
 </script>
