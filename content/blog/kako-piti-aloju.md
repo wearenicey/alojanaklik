@@ -151,6 +151,10 @@ Kao **sobno bilje** ima sledeće uloge:
 						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
 						 Čisti organizam
 					</div>
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						 Dostupan i sa ukusom brusnice, manga ili breskve.
+					</div>
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
