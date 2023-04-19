@@ -6,6 +6,71 @@
   ${head}
   <link rel="preload" as="image" href="/assets/static/forever-living.webp?width=600&height=400&quality=75&key=4b27087">
 
+	<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "WebSite",
+      "name": "AlojaNaKlik",
+      "url": "{{ shop.secure_url }}",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "{{ shop.secure_url }}/search?type=product&q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  </script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Organization",
+      "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Novi Sad",
+            "addressCountry": "Srbija",
+            "postalCode": "21000",
+            "streetAddress": "Novosadskog Sajma 20/2"
+            },
+      "email": "aloja@nicey.rs",
+      "name": "AlojaNaKlik",
+      "telephone": "+381642839963",
+        "brand":{
+              "@type":"Thing",
+              "name":"Forever Living Products"
+                      }
+       }
+          </script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Brand",
+      "name": "AlojaNaKlik",
+      "url": "{{ shop.secure_url }}/",
+      "logo": "https://alojanaklik.rs/aloja-na-klik-logo.png",
+
+      "sameAs": [
+        "https://link-to-social-profile-like-fb"
+      ]
+
+    }
+  </script>
+ 
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Store",
+      "name": "AlojaNaKlik",
+      "description": "AlojaNaKlik je saradnik Forever Living Products.",
+      "openingHours": "Pon-Pet 09:00-20:00",
+      "telephone": "+381642839963",
+      "address":
+      {
+      "@type": "PostalAddress",
+      "streetAddress": "Novosadskog Sajma 20/2",
+      "addressLocality": "Novi Sad",
+      "addressCountry": "Srbija"
+      }
+    }
+    </script>
 </head>
 
 <body ${bodyAttrs}>
