@@ -369,3 +369,44 @@ export default {
 	}
 };
 </script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org/",
+	"@type": {{ $page.event.category[0].ime }},
+	"name": {{ $page.event.ctaText }},
+	"image": [
+	{{ $page.event.imageUrl }}
+	 ],
+	"description": "Sleeker than ACME's Classic Anvil, the Executive Anvil is perfect for the business traveler looking for something to drop from a height.",
+	"sku": "0446310786",
+	"mpn": "925872",
+	"brand": {
+		"@type": "Forever Living Products Srbija",
+		"name": {{ $page.event.ctaText }}
+	},
+	"review": {
+		"@type": "Review",
+		"reviewRating": {
+			"@type": "Rating",
+			"ratingValue": 4,
+			"bestRating": 5
+		},
+		"author": {
+			"@type": "Person",
+			"name": "Fred Benson"
+		}
+	},
+	"aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": 4.4,
+		"reviewCount": 89
+	},
+	"offers": {
+		"@type": "Offer",
+		"offerCount": 5,
+		"lowPrice": ,
+		"highPrice": {{ $page.event.cena }},
+		"priceCurrency": "RSD"
+	}
+}
+</script>
