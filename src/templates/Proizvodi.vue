@@ -366,47 +366,19 @@ export default {
 			let element = document.getElementById("yourID");
 			element.scrollIntoView({ behavior: "smooth", block: "end" });
 		}
-	}
-};
-</script>
-<script type="application/ld+json">
-{
-	"@context": "https://schema.org/",
-	"@type": {{ $page.event.category[0].ime }},
-	"name": {{ $page.event.ctaText }},
-	"image": [
-	{{ $page.event.imageUrl }}
-	 ],
-	"description": "Sleeker than ACME's Classic Anvil, the Executive Anvil is perfect for the business traveler looking for something to drop from a height.",
-	"sku": "0446310786",
-	"mpn": "925872",
-	"brand": {
-		"@type": "Forever Living Products Srbija",
-		"name": {{ $page.event.ctaText }}
 	},
-	"review": {
-		"@type": "Review",
-		"reviewRating": {
-			"@type": "Rating",
-			"ratingValue": 4,
-			"bestRating": 5
-		},
-		"author": {
-			"@type": "Person",
-			"name": "Fred Benson"
-		}
-	},
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": 4.4,
-		"reviewCount": 89
-	},
-	"offers": {
-		"@type": "Offer",
-		"offerCount": 5,
-		"lowPrice": ,
-		"highPrice": {{ $page.event.cena }},
-		"priceCurrency": "RSD"
-	}
+
+	head: {
+
+		script: [
+      
+        
+        { t: 'application/ld+json', i: '{	"@context":"https://schema.org/","@type":"asdfghg","name":"hjfsdkhfsdjkhfk","image":[/assets/img/logo-futer.png],"description": "Sleeker than ACMEs Classic Anvil, the Executive Anvil is perfect for the business traveler looking for something to drop from a height.","sku": "0446310786","mpn": "925872","brand": {"@type": "Forever Living Products Srbija","name": "hjksjdkh"},"review": {"@type": "Review","reviewRating": {"@type": "Rating","ratingValue": 4,"bestRating": 5},"author": {"@type": "Person","name": "Fred Benson"}	},"aggregateRating":{"@type":"AggregateRating","ratingValue": 4.4,"reviewCount": 89},"offers": {"@type": "Offer","offerCount": 5,"lowPrice": 4,"highPrice": 122,"priceCurrency": "RSD"} }' 
+			},
+],
 }
+}
+
 </script>
+
+
