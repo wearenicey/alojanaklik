@@ -279,6 +279,23 @@
 				</div>
 			</section>
 		</div>
+		<script type="application/ld+json">
+
+{
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "{{ $page.event.ctaText }}",
+      "description": "{{ $page.event.title }}",		
+    	"offers": {
+							"@type": "Offer",       
+							"priceCurrency": "RSD",
+							"price": "{{ $page.event.cena }}"     
+								}, 
+			"image": ["https://alojanaklik.rs/assets/img/{{ $page.event.imageUrl[0] }}"]
+}
+
+</script>
+
 	</Layout>
 </template>
 
@@ -369,14 +386,7 @@ export default {
 	},
 
 	
-	metaInfo: {
-
-		script: [
-      
-        
-        { t: 'application/ld+json', i: '{	"@context":"https://schema.org/","@type":"asdfghg","name":"hjfsdkhfsdjkhfk","image":[/assets/img/logo-futer.png],"description": "Sleeker than ACMEs Classic Anvil, the Executive Anvil is perfect for the business traveler looking for something to drop from a height.","sku": "0446310786","mpn": "925872","brand": {"@type": "Forever Living Products Srbija","name": "hjksjdkh"},"review": {"@type": "Review","reviewRating": {"@type": "Rating","ratingValue": 4,"bestRating": 5},"author": {"@type": "Person","name": "Fred Benson"}	},"aggregateRating":{"@type":"AggregateRating","ratingValue": 4.4,"reviewCount": 89},"offers": {"@type": "Offer","offerCount": 5,"lowPrice": 4,"highPrice": 122,"priceCurrency": "RSD"} }' },
-					],
-						}
+	
 	
 }
 
