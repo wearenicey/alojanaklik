@@ -15,8 +15,7 @@ slug: anksiozni-bol-u-grudima
 featured: false
 ---
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Bol u grudima je čest simptom [anksioznosti](https://ubuntucentar.com/blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/) i uzrokovan je ili pogoršan anksioznošću ili panikom.  Međutim, ovakav bol može da potiče i usled drugih faktora, među kojima je najznačajniji srčani udar.  
 
@@ -175,8 +174,6 @@ Osoba koja je zdrava i sigurna u sebe gledaće na probleme kao na izazove i reš
 
 
 
-
-  </div>
 </div>
 
 

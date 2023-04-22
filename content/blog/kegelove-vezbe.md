@@ -17,8 +17,7 @@ featured: false
 
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Kada se pomenu Kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene. Svakoj  ženi je bar jednom u životu preporučeno od strane ginekologa da radi Kegelove vežbe za jačanja mišića karličnog dna, koji uobičajeno biva oslabljen u toku trudnoće, nakon porođaja, starenjem ili uvećanjem telesne mase.
 
@@ -139,6 +138,5 @@ Kako bi ste brže napredovali, možete kombinovati varijante Kegelovih vežbi, t
 
 *Fotografije: Freepik, Unsplash, Pixabay*
 
-  </div>
 </div>
 

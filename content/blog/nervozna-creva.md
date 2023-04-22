@@ -15,8 +15,7 @@ slug: nervozna-creva
 featured: false
 ---
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Da li imate sve ove simptome ili samo neke od njih? 
 
@@ -208,5 +207,4 @@ Primenite ovo već od sutra. Vremenom će se raspoloženje popraviti, **stres** 
 <br>
 *Fotografije: Freepik, Unsplash, Pixabay*
 
-  </div>
 </div>

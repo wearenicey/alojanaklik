@@ -16,8 +16,7 @@ featured: true
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 
 
@@ -202,5 +201,4 @@ Kao i sa svim prirodnim proizvodima, važno je biti oprezan i koristiti aloe ver
 <br>
 Fotografija: Freepik
 
-  </div>
 </div>

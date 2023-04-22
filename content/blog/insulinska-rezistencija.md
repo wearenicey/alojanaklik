@@ -16,8 +16,7 @@ featured: false
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 [Insulinska rezistencija povećava rizik za nastanak dijabetesa tipa 2](https://www.stetoskop.info/hormonski-poremecaji-i-poremecaji-metabolizma/insulinska-rezistencija). Nastaje usled prekomernog unosa šećera, kao vid odbrane organizma. Insulinska rezistencija je metabolički poremećaj u organizmu, kada dolazi do pojačanog lučenja insulina. Organizam postaje otporan na insulin, te dolazi do skoka šećera.
 
@@ -145,7 +144,4 @@ Umerenost u hrani, piću, fizičkoj aktivnosti i spavanju, uz održavanje BMI (I
 *Fotografije: Freepik, Unsplash, Pixabay*
 
 
-
-
-  </div>
 </div>

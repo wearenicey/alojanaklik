@@ -16,9 +16,7 @@ featured: true
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
-
+<div class="text-component line-height-lg v-space-md">
 
 
 ## Sveobuhvatni vodič za Aloe Veru za zatvor
@@ -142,5 +140,4 @@ Aloe vera je prirodan i efikasan lek za zatvor koji se koristi vekovima. Sadrži
 
 Fotografija: Freepik
 
-  </div>
 </div>

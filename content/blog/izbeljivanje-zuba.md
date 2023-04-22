@@ -16,8 +16,7 @@ featured: false
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Oduševljeni ste prizorom i belinom zuba osobe koju ste upravo upoznali i pitate se: „Kako doći do tako lepog osmeha?“  Da li ste umorni od skrivanja zuba na fotografijama ili od potpunog izbegavanja osmeha? Ako jeste, niste sami. Izbeljivanje zuba je uobičajena briga mnogih ljudi, jer blistav i zdrav osmeh može u velikoj meri poboljšati nečije samopouzdanje i izgled. Milioni ljudi širom sveta bore se sa obezbojenim zubima. Razumevanje uzroka koji dovode do promene boje zuba i načina na koji to možemo usporiti ili sprečiti je ključno za održavanje belog i zdravog osmeha. 
 
@@ -191,5 +190,4 @@ Dakle, lepota i belina Vaših zuba zavisi gotovo isključivo od Vas samih. Održ
 
 *Fotografije: Freepik*
 
-  </div>
 </div>

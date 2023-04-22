@@ -16,8 +16,7 @@ featured: false
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Možda ste i vi imali iskustva kada vam dan krene lepo, naspavani ste i orni za predstojeće poslovne zadatke. A onda jedna po jedna neugodna situacija krene da se dešava. 
 
@@ -222,5 +221,4 @@ Postoji nekoliko koraka koje možete preduzeti da [sprečite](https://www.health
 
 *Fotografije: Pixabay, Unsplash, Freepik*
 
-  </div>
 </div>

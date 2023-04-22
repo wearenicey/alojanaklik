@@ -16,8 +16,7 @@ featured: false
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Verovatno ste mnogo puta čuli da su zdrava deca krupna i rumena. Živelo se u uverenju da je sreća kada se ima hrane u izobilju. Još veća sreća u porodici je vladala kada bi dete samo tražilo da jede u bilo koje doba dana, te se odrasli nisu mnogo trudili i gubili vreme da ga nahrane. Ako bi takvo dete odbilo da pojede neki slatkiš ili jelo odmah bi se posumnjalo na bolest, te bi sledilo merenje temperature, zagledanje da li je bledo ili pospano. Nikada niko nije govorio o organizmu kao hramu tela, uma i duha. Nakon 20 godina takvog života, to dete, sada već odrasla osoba se suočava sa nizom problema poput: prejedanja, zavisnost od slatkiša i višak telesne mase. To se još uvek u ranim 20-im godinama ne smatra problemom. Mnogi se  ljudi čude kada se odjednom suoče sa dijabetesom, verujući da se bolest pojavila odjednom.  
 
@@ -175,5 +174,4 @@ Prema preporuci endokrinologa kada se utvrdi dijabetes bitno je raskrstiti sa st
 
 *Foografije: Unsplash, Freepik, Pixabay*
 
-  </div>
 </div>

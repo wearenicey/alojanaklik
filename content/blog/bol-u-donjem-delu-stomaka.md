@@ -16,8 +16,7 @@ featured: false
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 **Bol se definiše** kao neprijatan senzorni i emocionalni doživljaj koji se odnosi na stvarno ili oštećenje organa u abdomenu. 
 
@@ -144,5 +143,4 @@ Bolovi u donjem delu stomaka zahtevaju detaljniju lekarski analizu, jer mogu se 
 *Fotografije: Freepik, Unsplash, Pixabay*
 
 
-  </div>
 </div>

@@ -15,8 +15,7 @@ slug: upala-desni
 featured: false
 ---
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 **Desni** ili **gingiva** su deo sluzokože koje prekrivaju jedan deo usne duplje. Desni obavijaju zubni vrat sve do udubljenja u gornjoj i donjoj vilici u kojima su smešteni zubi. Obično su svetlo roze boje.
 
@@ -155,5 +154,4 @@ Preporuka je i izbegavanje slatkiša i obojenih sokova, te konzumacija zdravih n
 <br>
 *Fotografije: Freepik, Unsplash, Pixabay*
 
-  </div>
 </div>

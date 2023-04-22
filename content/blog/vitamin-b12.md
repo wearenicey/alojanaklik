@@ -16,8 +16,7 @@ featured: true
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 **Vitamin B12 naziva se još i kobalamin** (cijanokobalamin) i pripada vitaminima koje organizam ne može sam da stvara. Pronađen je 1948 godine, rastvorljiv je u vodi i jedini sadrži kobalt. Nalazi se isključivo u namirnicama životinjskog porekla. U ljudskom organizmu smešten je uglavnom u jetri.Ukoliko se unese u većim količinama organizam će skladištiti u jetri.
 
@@ -185,5 +184,4 @@ Ukoliko imate neke od simptoma nedostatka vitamina B12: **malaksalost, gubitak a
 <br>
 *Fotografije: Freepik, Unsplash, Pixabay*
 
-  </div>
 </div>

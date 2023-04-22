@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-		<section class="position-relative padding-top-xl padding-bottom-xxl bg-quaternary-light" style="z-index: 1">
+		<section class="position-relative padding-top-xl padding-bottom-xxl bg-white" style="z-index: 1">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
@@ -35,7 +35,7 @@
 			</div>
 		</section>
 
-		<section class="position-relative bg-tertiary-light padding-bottom-xl padding-bottom-0@lg">
+		<section class="position-relative bg-quaternary-light padding-bottom-xl padding-bottom-0@lg">
 			<div class="container max-width-adaptive-sm">
 				<div class="text-center padding-top-xl padding-bottom-lg">
 					<div class="text-component">
@@ -97,7 +97,7 @@
 			</div>
 		</section>
 
-		<section class="position-relative padding-y-xl bg-secondary">
+		<section class="position-relative padding-y-xxxl bg-secondary">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg items-center">
 					<div class="col-5@md">

@@ -16,7 +16,7 @@
 
 				<div class="flex justify-center">
 					<div class="author__content text-component v-space-xxs">
-					<!-- <p class="text-sm color-contrast-medium">
+						<!-- <p class="text-sm color-contrast-medium">
 							<time class="text-sm color-inherit" :datetime="$page.post.datetime">{{ $page.post.humanTime }}</time
 							>&mdash; {{ $page.post.timeToRead }} min čitanja
 						</p> -->
@@ -29,8 +29,65 @@
 			</figure>
 
 			<div class="container max-width-adaptive-xl">
-				<div class="">
-					<VueRemarkContent />
+				<div class="grid gap-md">
+					<div class="col-8@lg">
+						<VueRemarkContent />
+					</div>
+					<div class="col-4@md">
+						<div class="stories">
+							<h3 class="stories__legend">Popular stories</h3>
+
+							<ol class="stories__list">
+								<li class="stories__story">
+									<a href="#0" class="stories__img-wrapper">
+										<figure>
+											<img src="" alt="Image description" />
+										</figure>
+									</a>
+
+									<div class="stories__text text-component line-height-md text-space-y-sm">
+										<h4 class="stories__headline"><a href="#0">It was going to be a lonely trip.</a></h4>
+									</div>
+								</li>
+
+								<li class="stories__story">
+									<a href="#0" class="stories__img-wrapper">
+										<figure>
+											<img src="" alt="Image description" />
+										</figure>
+									</a>
+
+									<div class="stories__text text-component line-height-md text-space-y-sm">
+										<h4 class="stories__headline"><a href="#0">I watched the storm, so beautiful yet terrific.</a></h4>
+									</div>
+								</li>
+
+								<li class="stories__story">
+									<a href="#0" class="stories__img-wrapper">
+										<figure>
+											<img src="" alt="Image description" />
+										</figure>
+									</a>
+
+									<div class="stories__text text-component line-height-md text-space-y-sm">
+										<h4 class="stories__headline"><a href="#0">The face of the moon was in shadow.</a></h4>
+									</div>
+								</li>
+
+								<li class="stories__story">
+									<a href="#0" class="stories__img-wrapper">
+										<figure>
+											<img src="" alt="Image description" />
+										</figure>
+									</a>
+
+									<div class="stories__text text-component line-height-md text-space-y-sm">
+										<h4 class="stories__headline"><a href="#0">My two natures had memory in common.</a></h4>
+									</div>
+								</li>
+							</ol>
+						</div>
+					</div>
 				</div>
 			</div>
 		</article>

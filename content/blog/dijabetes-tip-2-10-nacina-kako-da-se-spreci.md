@@ -16,8 +16,7 @@ featured: false
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Termine dijabetes i dijabetes tip 2 vrlo često vezujemo za probleme modernog čoveka i ubrzanog načina života, te smo sve česće upoznati sa posledicama istih. Tamo gde zdrava ishrana postaje luksuz, a brza hrana i velike količine šećera i ugljenih hidrata lako dostupna zamena za hranljive namirnice, gubimo polako kontrolu nad sopstvenim zdravljem.
 
@@ -151,5 +150,4 @@ Pored svih istraživanja, objavljenih naučnih radova i miliona ispitanika koji 
 
 *Fotogradije: Freepik, Unsplash*
 
-  </div>
 </div>

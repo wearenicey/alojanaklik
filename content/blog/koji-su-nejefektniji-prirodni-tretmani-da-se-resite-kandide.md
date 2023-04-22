@@ -15,8 +15,7 @@ slug: koji-su-nejefektniji-prirodni-tretmani-da-se-resite-kandide
 featured: false
 ---
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Kada se ponovo javi osećaj svraba, nadutosti, glavobolje, lošeg raspoloženja, već i sama pomisao na neugodnosti terapije, još više urušava urušava raspoloženje. Raste sumnja i strepnja hoće li ovog puta uspeti? Osoba se pita ima li možda još neki lek iz apoteke koji nije probala, iako zna da nema. Osećaj frustracije i bespomoćnosti u ovim trenucima često izazivaju ljutnju, a onda i odlučnost da se nešto promeni i da se okrene i nekim drugačijim metodama i preparatima koji lečenje mogu upotpuniti i učiniti trajnije efikasnim.
 
@@ -159,5 +158,4 @@ A kada se konačno dođe do željenih rezultata oslobađanja infekcije kandidom,
 *Fotografije: Freepik, Unsplash, Pixabay*
 
 
-  </div>
 </div>

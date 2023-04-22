@@ -15,8 +15,7 @@ slug: mediteranska-dijeta
 featured: false
 ---
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 
 Stiže još jedno vrelo leto i ljudi jednostavno ne znaju koju destinaciju da posete? Agencije nude ekskluzivne aranžmane za Grčku, Kipar, Maroko, Italiju i Španiju. Taj miris mora, maslina i južnog voća podseća na vreme kada su ljudi bili bezbrižni i srećni. Sada je isto to vreme, ali se oseća nesigurnost i umor. Kad se pogledaju u ogledalu ljudi shvate da kilogrami ne moraju i ne smeju  biti uzrok ničije nesigurnosti i nesreće. Upravo ove ponuđene destinacije nude najraznovrsnija i najzdravija  jela koja Vam mogu omogućiti čak i na godišnjem odmoru da smršate.
@@ -171,5 +170,4 @@ Više od 50% ispitanih lekara preporučuje ovu dijetu, kako iz zdravstvenih, tak
 *Fotografije: Freepik, Unsplash, Pixabay*
 
 
-  </div>
 </div>

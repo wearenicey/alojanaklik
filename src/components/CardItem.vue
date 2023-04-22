@@ -33,9 +33,8 @@
 			<div class=" margin-top-sm flex">
 				<div class="line-height-xs">
 					<p class="story__meta">
-						<time :datetime="record.datetime">{{ record.humanTime }}</time>  &mdash; 
-						{{ record.timeToRead }} min
-					</p> 
+						<time :datetime="record.datetime">{{ record.humanTime }}</time> &mdash; {{ record.timeToRead }} min
+					</p>
 				</div>
 			</div>
 		</div>

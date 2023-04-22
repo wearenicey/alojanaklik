@@ -16,12 +16,7 @@ featured: true
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
-
-
-
-
+<div class="text-component line-height-lg v-space-md">
 
 ## Šta je atopijski dermatitis?
 
@@ -189,5 +184,4 @@ Nema leka za atopijski dermatitis, ali postoji niz tretmana koji mogu kontrolisa
 
 Fotografija: Unsplash
 
-  </div>
 </div>

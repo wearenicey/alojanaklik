@@ -16,8 +16,7 @@ featured: false
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 U ovim modernim vremenima interneta, mobilnih telefona i aplikacija, online porudžbina i dostava na kućnu adresu čini se da je mnogo toga olakšano, da se ima više vremena za neke druge obaveze ili razonode. Jeste li se nekada zapitali da li je moguće da ste samo vi večito u tolikoj žurbi? Kao da dan nije dovoljno dugačak. Sve češće se dešava da se nema vremena za kuvanje ručka, a još manje za okupljanje porodice oko stola i laganom uživanju u kvalitetnom obroku.
 
@@ -164,5 +163,4 @@ Ovim tekstom su predstavljeni isključivo opšti podaci koji ni u kom slučaju n
 
 *Fotografije: Freepik, Unsplash, Pixabay*
 
-  </div>
 </div>

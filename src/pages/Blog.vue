@@ -1,22 +1,22 @@
 <template>
-		<Layout>
-			<br>
-			<div class="text-center">
-<h1>Blog - Aloja Vera</h1>
-			</div>
+	<Layout>
 		<div class="articles padding-top-xxl margin-bottom-xxl">
-			<div class="container max-width-adaptive-lg">
-				<div>
-					<transition-group class="projects" name="fade">
-						<CardItem v-for="{ node } in loadedPosts" :key="node.id" :record="node" />
-					</transition-group>
-				</div>
+			<div class="container max-width-adaptive-lg"></div>
+			<div class="text-center">
+				<h1 class="text-xxl">Blog - Aloja Vera</h1>
+			</div>
+		</div>
+		<div class="container max-width-adaptive-lg">
+			<div>
+				<transition-group class="projects" name="fade">
+					<CardItem v-for="{ node } in loadedPosts" :key="node.id" :record="node" />
+				</transition-group>
+			</div>
 
-				<div class="margin-y-lg text-center">
-					<button class="btn btn--subtle" v-if="showMoreEnabled" @click="loadMore">
-						Prikaži više
-					</button>
-				</div>
+			<div class="margin-y-lg text-center">
+				<button class="btn btn--subtle" v-if="showMoreEnabled" @click="loadMore">
+					Prikaži više
+				</button>
 			</div>
 		</div>
 	</Layout>

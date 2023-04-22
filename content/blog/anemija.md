@@ -16,8 +16,7 @@ featured: true
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 **Anemija** je poremećaj u radu organizma koji pogađa milione ljudi širom sveta. To je veoma ozbiljno stanje koje zahteva adekvatan pristup. U ovom članku ćemo detaljno govoriti o anemiji, uključujući njene uzroke, simptome, dijagnozu i opcije lečenja.
 
@@ -94,5 +93,4 @@ Uopšteno govoreći, Forever Nature-Min je odličan, prirodan i bezbedan način 
 *Fotografije: Freepik, Unsplash, Pixabay*
 
 
-  </div>
 </div>

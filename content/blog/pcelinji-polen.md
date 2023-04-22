@@ -16,8 +16,7 @@ featured: true
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 ## Šta je pčelinji polen?
 
@@ -100,5 +99,4 @@ Pčelinji polen je superhrana bogata hranljivim materijama koja nudi brojne zdra
 
 Fotografija: Freepik
 
-  </div>
 </div>

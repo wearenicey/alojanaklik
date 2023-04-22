@@ -16,8 +16,7 @@ featured: false
 ---
 
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 Jedan od glavnih razloga nastanka prekomernog rasta kandide je ishrana bogata šećerima. Upravo zato, vrlo jednostavne promene u načinu ishrane mogu smanjiti, pa i zaustaviti taj proces.
 Prekomerni rast kandide je uobičajen problem koji može izazvati širok spektar simptoma, od problema sa varenjem do osipa na koži ili čak anksioznost i depresiju. Ako sumnjate da imate prekomerni rast kandide, važno je preduzeti korake da rešite problem i vratite svoje telo u ravnotežu. Jedan od najefikasnijih načina da se to uradi jeste i [dijeta]( https://candidaspecialists.com/anti-candida-diet/) za čišćenje kandide.
@@ -125,5 +124,4 @@ Prekomerni rast kandide može biti frustrirajući i iscrpljujući problem, ali
 <br>
 *Fotografije: Freepik, Unsplash, Pixabay*
 
-  </div>
 </div>

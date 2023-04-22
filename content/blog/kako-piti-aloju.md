@@ -15,8 +15,7 @@ slug: kako-piti-aloju
 featured: false
 ---
 
-<div class="container max-width-adaptive-sm">
-	<div class="text-component line-height-lg v-space-md">
+<div class="text-component line-height-lg v-space-md">
 
 
 Svakodnevno sedenje po više sati dovodi Vas u situaciju da se neredovno hranite ili se često prejedate. Neadekvatna ishrana bez vitamina i minerala vremenom oštećuje kožu i kosu. Instant rešenja su svuda oko nas - kupićete neki hemijski preparat...
@@ -352,5 +351,5 @@ Uvek birajte visokokvalitetni gel aloe vere iz renomiranih izvora.
 
 *Fotografije: Freepik*
 
-  </div>
+
 </div>
