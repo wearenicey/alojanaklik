@@ -288,7 +288,7 @@
       "description": "{{ $page.event.title }}",		
     	"offers": {
 							"@type": "Offer",  
-							"availability": "https://schema.org/InStock",     
+							"availability": "In Stock",     
 							"priceCurrency": "€",
 							"price": "{{ $page.event.cena }}"     
 								}, 
