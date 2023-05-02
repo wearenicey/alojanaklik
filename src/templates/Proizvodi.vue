@@ -260,7 +260,7 @@
 								</div>
 
 								<div class="">
-									<p class="text-lg color-accent font-primary text-normal">{{ $page.event.cena }} RSD</p>
+									<p class="text-lg color-accent font-primary text-normal">{{ $page.event.cena }} €</p>
 								</div>
 								<div>
 									<p class="color-black">{{ $page.event.opisDva }}</p>
@@ -287,7 +287,8 @@
       "name": "{{ $page.event.ctaText }}",
       "description": "{{ $page.event.title }}",		
     	"offers": {
-							"@type": "Offer",       
+							"@type": "Offer",  
+							"availability": "https://schema.org/InStock",     
 							"priceCurrency": "RSD",
 							"price": "{{ $page.event.cena }}"     
 								}, 
