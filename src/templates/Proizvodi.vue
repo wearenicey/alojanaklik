@@ -21,7 +21,7 @@
 									<h1>{{ $page.event.title }}</h1>
 								</div>
 								<div class="margin-top-sm margin-bottom-lg">
-									<p class="text-lg color-accent-dark font-primary text-normal">{{ $page.event.cena }} €</p>
+									<p class="text-lg color-accent-dark font-primary text-normal">{{ $page.event.cena }} EUR</p>
 								</div>
 
 								<div class="grid margin-bottom-lg gap-xxs">
@@ -260,7 +260,7 @@
 								</div>
 
 								<div class="">
-									<p class="text-lg color-accent font-primary text-normal">{{ $page.event.cena }} €</p>
+									<p class="text-lg color-accent font-primary text-normal">{{ $page.event.cena }} EUR</p>
 								</div>
 								<div>
 									<p class="color-black">{{ $page.event.opisDva }}</p>
@@ -289,7 +289,7 @@
     	"offers": {
 							"@type": "Offer",  
 							"availability": "In Stock",     
-							"priceCurrency": "€",
+							"priceCurrency": "EUR",
 							"price": "{{ $page.event.cena }}"     
 								}, 
 			"image": ["https://alojanaklik.rs/assets/img/{{ $page.event.imageUrl[0] }}"]

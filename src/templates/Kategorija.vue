@@ -24,7 +24,7 @@
 							<div class="card__content">
 								<div class="text-component">
 									<h4>{{ category.ctaText }}</h4>
-									<p class="color-black">{{ category.cena }} €</p>
+									<p class="color-black">{{ category.cena }} EUR</p>
 								</div>
 
 								<div class="margin-top-sm">
