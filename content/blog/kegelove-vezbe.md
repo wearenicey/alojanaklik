@@ -9,7 +9,7 @@ alt: "kegelove vežbe za muškarce"
 
 imageTwo:
   path: /kegelove-vezbe-slika3.jpg
-  alt: "egelove vežbe za muškarce"
+  alt: "kegelove vežbe za muškarce"
 image_caption: Photo by Josh Spires on Unsplash
 slug: kegelove-vezbe
 featured: false
