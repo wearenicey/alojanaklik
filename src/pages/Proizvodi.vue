@@ -11,7 +11,7 @@
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Dodaci ishrani</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Suplementi</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
 					<!-- <div class="flex-grow padding-top-md padding-top-0@md">
@@ -112,7 +112,7 @@
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Mršavljenje</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Preparati za mršavljenje</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
 				</div>
@@ -158,7 +158,7 @@
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Napici</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Aloe Vera napici</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
 				</div>
