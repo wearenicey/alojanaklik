@@ -33,7 +33,7 @@
 									<li><g-link to="/dodaci-ishrani/" class="f-header__dropdown-link">Suplementi</g-link></li>
 									<li><a href="/preparati-za-higijenu/" class="f-header__dropdown-link">Lična higijena</a></li>
 									<li><a href="/mrsavljenje/" class="f-header__dropdown-link">Preparati za mršavljenje</a></li>
-									<li><a href="/napici/" class="f-header__dropdown-link">Loe Vera napici</a></li>
+									<li><a href="/napici/" class="f-header__dropdown-link">Aloe Vera napici</a></li>
 									<li><a href="/preparati-za-negu-koze/" class="f-header__dropdown-link">Nega kože</a></li>
 									<li><a href="/pcelinji-proizvodi/" class="f-header__dropdown-link">Pčelinji proizvodi</a></li>
 								</ul>
