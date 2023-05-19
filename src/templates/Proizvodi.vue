@@ -1,5 +1,23 @@
 <template>
+
 	<Layout>
+		<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Product",
+"name": "{{ $page.event.ctaText }}",
+"description": "{{ $page.event.title }}",
+"offers": {
+"@type": "Offer",
+"availability": "In Stock",
+"priceCurrency": "EUR",
+"price": "{{ $page.event.cena }}"
+},
+"image": ["https://alojanaklik.rs/assets/img/{{ $page.event.imageUrl[0] }}"]
+}
+</script>
+
+
 		<div class="bg-white">
 			<section class="product-v3 padding-y-lg js-product-v3 bg-white">
 				<div class="container max-width-adaptive-lg">
@@ -279,25 +297,12 @@
 				</div>
 			</section>
 		</div>
-		<script type="application/ld+json">
 
-{
-      "@context": "https://schema.org/",
-      "@type": "Product",
-      "name": "{{ $page.event.ctaText }}",
-      "description": "{{ $page.event.title }}",		
-    	"offers": {
-							"@type": "Offer",  
-							"availability": "In Stock",     
-							"priceCurrency": "EUR",
-							"price": "{{ $page.event.cena }}"     
-								}, 
-			"image": ["https://alojanaklik.rs/assets/img/{{ $page.event.imageUrl[0] }}"]
-}
 
-</script>
+
 
 	</Layout>
+	
 </template>
 
 <page-query>

@@ -4,13 +4,14 @@ tags: Dodaci ishrani
 tagsMeta: Tekst o ulozi vitamina B12, kakve probleme možemo očekivati ako ga ne unosimo dovoljno, koja hrana sadrži vitamin B12 i koje prednosti dobijamo ako povećamo unos vitamina B12.
 excerpt: Da li ste osetili umor ili malaksalost duži vremenski period i za to ste pomislili da je posledica rada? Da li ste ikada proverili unos vitamina u organizam? Znate li značaj vitamina B12 za očuvanje zdravlja?
 created: 2021-10-16
-image: b12.webp
+image: b122.webp
 alt: "vitamin b12"
 
 imageTwo:
-  path: /b12.jpg
+  path: /b122.webp
   alt: "vitamin b12"
-image_caption: Photo by Josh Spires on Unsplash
+image_caption: Image by Freepik
+  
 slug: vitamin-b12
 featured: true
 ---
