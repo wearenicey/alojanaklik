@@ -13,6 +13,7 @@ imageTwo:
 image_caption: Image by Racool_studio on Freepik
 slug: 4-benefita
 featured: true
+recommended: true
 ---
 
 
@@ -34,7 +35,7 @@ Aloe vera je prirodni laksativ koji pomaže u regulaciji probave i eliminaciji t
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_vera_gel.webp" alt="aloja vera u gelu"></g-image>
@@ -85,7 +86,7 @@ Jetra je glavni organ koji se bavi metabolizmom i eliminacijom toksina iz organi
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_dx4.webp" alt="program za oporavak jetre"></g-image>
@@ -144,7 +145,7 @@ Međutim, važno je napomenuti da treba biti oprezan prilikom konzumiranja aloe 
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_c9_vanilla.webp" alt="komplet za detoksitaciju"></g-image>

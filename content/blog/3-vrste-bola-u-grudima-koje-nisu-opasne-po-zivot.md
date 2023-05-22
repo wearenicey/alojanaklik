@@ -13,12 +13,23 @@ imageTwo:
 image_caption: Photo by Josh Spires on Unsplash
 slug: 3-vrste-bola-u-grudima-koje-nisu-opasne-po-zivot
 featured: false
+recommended: true
 ---
-
 
 <div class="text-component line-height-lg v-space-md">
 
-Verovatno ste primetili da živimo u vremenu gde bi neki ljudi taj period okarakterisali kao period gubitka iskonskih, ljudskih vrednosti kao što su: čast, poštenje, ljubav ili iskrenost. Veoma često čujete da je za neke ljude potpuno normalno zarad reputacije, karijere ili novca posramiti drugog čoveka, ugroziti mu dostojanstvo, čast i zadovoljiti sujetu. Da li je duševni bol jači od fizičkog? Skoro pa uvek jeste! Ne postoji fizička merna jedinica za duševni bol, mada je on uzrok nekih fizičkih bolova i oboljenja nekih organa (srca, nerava, želuca).  
+<!-- <div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold">Key takeaways</span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Lorem, ipsum</li>
+      <li>Lorem ipsum dolor sit amet</li>
+      <li>Lorem, ipsum</li>
+    </ul>
+  </div>
+</div> -->
+
+Verovatno ste primetili da živimo u vremenu gde bi neki ljudi taj period okarakterisali kao period gubitka iskonskih, ljudskih vrednosti kao što su: čast, poštenje, ljubav ili iskrenost. Veoma često čujete da je za neke ljude potpuno normalno zarad reputacije, karijere ili novca posramiti drugog čoveka, ugroziti mu dostojanstvo, čast i zadovoljiti sujetu. Da li je duševni bol jači od fizičkog? Skoro pa uvek jeste! Ne postoji fizička merna jedinica za duševni bol, mada je on uzrok nekih fizičkih bolova i oboljenja nekih organa (srca, nerava, želuca).
 
 **Bol je individualno, subjektivno i neprijatno osećanje** koje nastaje usled predstojećih oštećenja tkiva, trenutnih oštećenja tkiva ili psiholoških uzroka. Karakterističan je za sve bolesti i povrede.
 
@@ -28,13 +39,13 @@ Bol u grudima vezujemo uglavnom za srčane bolesti, mada postoje i drugi razlozi
 
 Na osnovu lokaliteta , intenziteta i učestalosti bola, kao i pratećih simptoma veoma lako se može utvrditi **da li se radi o bolu u grudima koji vas životno ugrožava ili ne**? To su obično:
 
-- srčane i koronarne bolesti (disekcija aorte, infarkt srca, angina pektoris, poremećaj srčanog ritma i prisustvo srčanih zalizaka) ili 
+- srčane i koronarne bolesti (disekcija aorte, infarkt srca, angina pektoris, poremećaj srčanog ritma i prisustvo srčanih zalizaka) ili
 - plućne bolesti (upala pluća, plućne maramice, pneumotoraks – prisustvo vazduha u plućima, plućna tromboembolija).
 
 ## Razlikujemo tri vrste bezopasnog bola u grudima
 
 - Bol u grudima koji nastaje usled oštećenja koštano – skeletnog sistema;
-- Bol u grudima koja nastaje usled problema  organa za varenje (želudac i jednjak);
+- Bol u grudima koja nastaje usled problema organa za varenje (želudac i jednjak);
 - Bol u grudima koja nastaje usled stresa i emocionalne nestabilnosti (napad panike).
 
 **Bol u grudima usled oštećenja koštano - nervnog sistema**
@@ -45,14 +56,14 @@ Grudni koš je satkan od brojnih koštanih i zglobnih struktura, povezan hrskavi
 2. **Medjurebarni bolovi** – probadanje između rebara usled naglih i nepravilnih pokreta. Bolovi su jaki , probadajući traju do nekoliko sekundi , retko se ponavljaju, ne šire se po drugim delovima tela. Manifestuje se kao **bol u levoj ili desnoj strani grudnog koša**. [Leči](https://bol.rs/medjurebarna-interkostalna-neuralgija/) se obično analgeticima i antidepresivima, a veoma retko hirurškim intervencijama koje daju vremenski ograničen efekat u otklanjanju bola.
 3. **Hernija diska i promena na kičmi** – javlja se usled izlaska mekog sadržaja jezgra među pločice kičme ili gubitak elastičnosti diskova. Do bola dolazi zbog pritiska na koren međurebarnog živca i zbog upale korena živca. Manifestuje se kao **jak bol** u grudima, koji je dugotrajan, ide uz živac i **proteže se od rebara do celog grudnog koša**. Pojačava se pri pokretu tela, kijanju ili kašljanju. Veoma je neprijatan i izaziva utrnulost. Leči se lekovima, fizikalnom terapijom ili hirurškim zahvatom.
 
-**Bol u grudima koja nastaje usled problema  organa za varenje**
+**Bol u grudima koja nastaje usled problema organa za varenje**
 
 **Problemi sa varenjem** veoma često uzrokuju **bol u grudima**. Uzroci mogu biti pojačana kiselost, želudačna kila, refluks ili presavijeni želudac. Na osnovu ovoga razlikuje se:
 
-1. **Piroza** (žgaravica, gorušica) – koju nazivamo **pojačana kiselina**, a manifestuje se kao  žarenje ili pečenje u grudima. Na engleskom se naziva heartburn što u prevodu znači [„pečenje  srca“](https://www.plivazdravlje.hr/aktualno/clanak/24337/Bol-u-prsima-bezazlen-simptom-ili-ozbiljan-znak-za-uzbunu.html). Javlja se ispod grudne kosti i širi se sve do grla, stvarajući osećaj kiseline u ustima. Leči se antacidima protiv kiselosti i adekvatnom ishranom. Preporučljiva je i soda bikarbona.
+1. **Piroza** (žgaravica, gorušica) – koju nazivamo **pojačana kiselina**, a manifestuje se kao žarenje ili pečenje u grudima. Na engleskom se naziva heartburn što u prevodu znači [„pečenje srca“](https://www.plivazdravlje.hr/aktualno/clanak/24337/Bol-u-prsima-bezazlen-simptom-ili-ozbiljan-znak-za-uzbunu.html). Javlja se ispod grudne kosti i širi se sve do grla, stvarajući osećaj kiseline u ustima. Leči se antacidima protiv kiselosti i adekvatnom ishranom. Preporučljiva je i soda bikarbona.
 2. **Refluks** – je sličan žgaravici samo je pojačanog intenziteta i karakteriše ga **vraćanje želudačnog sadržaja u jednjak**, naročito u ležećem položaju. Zato se i javlja bol u grudima pri ležanju. Potrebni su manji i lakši obroci uveče, uzglavlje uzdignuto i adekvatna lekarska terapija.
-3. **Želudačna kila** – takođe dovodi do refluksa i gorušice koja se proteže duž čitavog grudnog koša, a često izaziva i **bol u leđima i grudima**. Otvor na dijafragmi je širi od želuca, te želudac može da se pri podizanju tereta, ležanju ili savijanju pomeri ka grudnom košu i izazove simptome kao kod [angine pektoris](https://euromedic.rs/pregledi/specijalisticki-pregledi/kardiologija/kardiologija-angina-pektoris/) (bol u grudima, nesvesticu, znojenje i lupanje srca). Veoma je karakterističan bol u desnoj plećki i grudnom košu istovremeno. [Leči](https://euromedic.rs/pregledi/specijalisticki-pregledi/gastroenterologija/gastroenteroloska-hirurgija-kila-hernia/) se isključivo hirurškim putem. 
-4. **Gastritis ili čir na želucu** – takođe može izazvati bol od stomaka ka grudnom košu. Može se manifestovati kao **tup bol u grudima** i kao bol u leđima i grudima. Takođe nadutost i gasovi posebno ispod levog rebarnog luka mogu da izazovu bol u grudima. Upala žučne kese, pankreasa ili jednjaka  izazvaće neki vid bola u grudima. Leči se promenom navika u ishrani. [Preporuka](https://poliklinikahuman.rs/gastritis-bolest-koja-se-ne-sme-ignorisati/) je jesti češće, ali manje obroke, koristiti antacide (lekove za smanjenje želudačne kiselina), izbegavati masna, začinjena jela, kafu, alkohol i  gazirana pića. 
+3. **Želudačna kila** – takođe dovodi do refluksa i gorušice koja se proteže duž čitavog grudnog koša, a često izaziva i **bol u leđima i grudima**. Otvor na dijafragmi je širi od želuca, te želudac može da se pri podizanju tereta, ležanju ili savijanju pomeri ka grudnom košu i izazove simptome kao kod [angine pektoris](https://euromedic.rs/pregledi/specijalisticki-pregledi/kardiologija/kardiologija-angina-pektoris/) (bol u grudima, nesvesticu, znojenje i lupanje srca). Veoma je karakterističan bol u desnoj plećki i grudnom košu istovremeno. [Leči](https://euromedic.rs/pregledi/specijalisticki-pregledi/gastroenterologija/gastroenteroloska-hirurgija-kila-hernia/) se isključivo hirurškim putem.
+4. **Gastritis ili čir na želucu** – takođe može izazvati bol od stomaka ka grudnom košu. Može se manifestovati kao **tup bol u grudima** i kao bol u leđima i grudima. Takođe nadutost i gasovi posebno ispod levog rebarnog luka mogu da izazovu bol u grudima. Upala žučne kese, pankreasa ili jednjaka izazvaće neki vid bola u grudima. Leči se promenom navika u ishrani. [Preporuka](https://poliklinikahuman.rs/gastritis-bolest-koja-se-ne-sme-ignorisati/) je jesti češće, ali manje obroke, koristiti antacide (lekove za smanjenje želudačne kiselina), izbegavati masna, začinjena jela, kafu, alkohol i gazirana pića.
 
 ![bol u jednjaku i grudima](./images/3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika2.jpg)
 
@@ -61,7 +72,7 @@ Grudni koš je satkan od brojnih koštanih i zglobnih struktura, povezan hrskavi
 Usled brzog načina života, nezdravih navika u ishrani i spavanju nastaju brojni **psihički poremećaji**. Oni mogu biti trenutni ili trajni (hronični). Usled toga se neretko dešava da usled problema u porodici ili na poslu osoba oseti sledeće simptome:
 
 1. Lupanje srca uz pojačan ritam;
-2. Drhatnje tela; 
+2. Drhatnje tela;
 3. Gušenje – nedostatak vazduha;
 4. Vrtoglavica i osećaj slabosti celog tela;
 5. Mučnina i povraćanje;
@@ -71,12 +82,12 @@ Svi ovi simptomi, na prvi pogled, ukazuju na srčane tegobe. Oni mogu biti vrlo 
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
-		<div class="col-4@md">
+		<div class="col-12@md">
 			<g-image class="" src="~/assets/img/forever_cardiohealth.webp" alt="zdravo srce"></g-image>
 		</div>
-		<div class="col-8@md">
+		<div class="col-12@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
 					<h2 class="text-lg">Forever CardioHealth - Za vaše zdravo srce</h2>
@@ -116,6 +127,6 @@ Ukoliko imate hroničan bol u grudima, tup bol u grudima, bol u leđima i grudim
 
 <br>
 
-*Fotografije: Freepik, Unsplash, Pixabay*
+_Fotografije: Freepik, Unsplash, Pixabay_
 
 </div>

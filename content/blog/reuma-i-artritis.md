@@ -135,7 +135,7 @@ Jedan od lekova koji se primenjuje u lečenju ove bolesti je [metotreksat](https
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_move.jpg" alt="reuma"></g-image>
@@ -227,7 +227,7 @@ Jako je bitno imati svest o tome da ćete pravilnom ishranom i izbacivanjem loš
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_freedom.webp" alt="prirodni lek za artritis"></g-image>

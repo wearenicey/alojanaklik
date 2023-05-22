@@ -99,7 +99,7 @@ Umerenost u hrani, piću, fizičkoj aktivnosti i spavanju, uz održavanje BMI (I
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_garcinia_plus.webp" alt="tableta insulinska rezistencija"></g-image>

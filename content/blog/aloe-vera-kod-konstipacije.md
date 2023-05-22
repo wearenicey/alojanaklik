@@ -39,7 +39,7 @@ Druga opcija je uzimanje kapsula ili tableta aloe vere, koje su dostupne u već
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_fiber.webp" alt="vlakna u ishrani"></g-image>
@@ -96,7 +96,7 @@ Aloe vera je prirodan i efikasan lek za zatvor koji se koristi vekovima. Sadrži
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_active_pro_b.jpeg" alt="probiotik za nervozna creva"></g-image>

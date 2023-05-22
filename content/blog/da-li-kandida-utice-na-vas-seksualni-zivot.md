@@ -132,7 +132,7 @@ Postoji nekoliko koraka koje možete preduzeti da [sprečite](https://www.health
 <br>
 
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_vitolize_for_women.webp" alt="hormonski disbalans"></g-image>
@@ -173,7 +173,7 @@ Postoji nekoliko koraka koje možete preduzeti da [sprečite](https://www.health
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_vitolize_for_men.webp" alt="disbalans hormona kod muškaraca"></g-image>

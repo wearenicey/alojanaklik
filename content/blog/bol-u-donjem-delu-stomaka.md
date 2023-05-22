@@ -46,7 +46,7 @@ Uzroci bola u donjem delu stomaka su brojni:
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_fiber.webp" alt="vlakna u ishrani"></g-image>

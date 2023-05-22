@@ -51,7 +51,7 @@ Jedan odličan proizvod koji koristi moć L arginina je Forever ARGI+. Ovaj izu
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_argi.webp" alt="potencija prirodni lek"></g-image>

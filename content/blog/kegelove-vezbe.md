@@ -70,7 +70,7 @@ U zavisnosti od uzroka koji dovode do impotencije, postoje različiti načini le
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/Kupi_Forever_Living_Forever_Multi-Maca_Dietary_Supplement_60.jpg" alt="erekcija prirodni lek"></g-image>

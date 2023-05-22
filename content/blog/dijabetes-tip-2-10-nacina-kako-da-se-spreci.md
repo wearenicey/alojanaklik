@@ -103,7 +103,7 @@ I na samom kraju, da li je **dijabetes tip 2 izlečiv**?
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_blossom_herbal_tea.webp" alt="insulinska rezistencija čaj"></g-image>

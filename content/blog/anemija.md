@@ -48,7 +48,7 @@ Uopšteno govoreći, Forever Nature-Min je odličan, prirodan i bezbedan način 
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/nature_min_2.png" alt="prirodni preparat za anemiju"></g-image>

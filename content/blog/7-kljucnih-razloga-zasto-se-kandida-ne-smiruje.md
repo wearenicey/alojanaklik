@@ -13,6 +13,7 @@ imageTwo:
 image_caption: Photo by Josh Spires on Unsplash
 slug: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje
 featured: false
+recommended: true
 ---
 
 <div class="text-component line-height-lg v-space-md">
@@ -92,7 +93,7 @@ Kao i za svaki proces, i za oslobađanje od kandide potrebno je vreme, ali pozna
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_garlic_thyme.png" alt="tableta protiv nabujale kandide"></g-image>

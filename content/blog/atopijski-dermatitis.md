@@ -79,7 +79,7 @@ Pored medicinskih tretmana, postoje i promene u načinu života koje mogu biti o
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_avocado_face_body_soap.webp" alt="Prirodni sapun od avokada"></g-image>
@@ -140,7 +140,7 @@ Nema leka za atopijski dermatitis, ali postoji niz tretmana koji mogu kontrolisa
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_vera_gelly.webp" alt="Prirodni lek za dermatitis"></g-image>

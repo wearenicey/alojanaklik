@@ -23,35 +23,36 @@
 </template>
 <!-- GraphQl call to get all blog post with pagination -->
 <page-query>
-query Posts ($page: Int) {
-  entries: allPost (perPage: 7, page: $page) @paginate {
-    	pageInfo {
-      	totalPages
-      	currentPage
-      	isLast
-    	}
+	query Posts ($page: Int) {
+		entries: allPost (perPage: 7, page: $page, sortBy: "humanTime", order: DESC) @paginate {
+			pageInfo {
+				totalPages
+				currentPage
+				isLast
+			}
 			edges {
-			node {
-      id
-      title
-      excerpt
-      path
-      image
-      imageTwo {
-        path
-        alt
-      }
-    	featured
-    	humanTime: created(format: "DD. MM. YYYY.")
-    	datetime: created
-			
-    	tags {
-          title
-    		}
+				node {
+					id
+					title
+					excerpt
+					path
+					image
+					imageTwo {
+						path
+						alt
+					}
+					featured
+					humanTime: created(format: "DD. MM. YYYY.")
+					datetime: created
+	
+					tags {
+						title
+					}
+				}
 			}
 		}
-  }
-}
+	}
+	
 </page-query>
 
 <script>

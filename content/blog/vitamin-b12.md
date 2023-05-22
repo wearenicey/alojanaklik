@@ -120,7 +120,7 @@ Veoma je efikasan kod održavanja normalnog nivo vitamina B12 i folne kiseline, 
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/b12_plus.webp" alt="najbolji vitamin b12"></g-image>

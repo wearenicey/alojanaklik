@@ -56,7 +56,7 @@ Kao **sobno bilje** ima sledeće uloge:
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_berry_nectar.webp" alt="aloja vera napitak"></g-image>
@@ -123,7 +123,7 @@ Kao **sobno bilje** ima sledeće uloge:
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_vera_gel.webp" alt="aloja vera u gelu"></g-image>
@@ -173,7 +173,7 @@ Kao **sobno bilje** ima sledeće uloge:
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_first.webp" alt="aloja vera first sprej"></g-image>
@@ -219,7 +219,7 @@ Kao **sobno bilje** ima sledeće uloge:
 
 <br>
 
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_moisturizing_lotion.webp" alt="prirodna hidratacija kože"></g-image>
@@ -268,7 +268,7 @@ Kao **sobno bilje** ima sledeće uloge:
 **Aloja vera biljka** u kozmetici ima široku primenu zbog sadržaja lekovitih i hranljivih sastojaka aloje (minerala, vitamina, enzima, aminokiselina, saponina, lignina i polifenola). Zbog gustine gela primanljiva je za spravljanje maski za lice, tinktura za opekotine, losiona za kosu, krema za sunčanje, krema za zarastanje rana i raznih kožnih bolesti. S obzirom da aloja spada u grupu kaktusa koja sadži u velikoj meri vodu (oko 99%) izvrsna je za **održavanje hidratacije** i čini kožu zategnutijom i svežom. Naziva se još i **“eliksirom mladosti”**. Zbog antioksidativnog svojstva, krema na bazi aloje je veoma efikasno sredstvo **protiv starenja kože**. Zbog visokog sadžaja polisaharida **idealna je za masnu kožu** jer je koža brzo upija. Protivupalno dejstvo aloje svrstava ove kreme u najefikasnije u borbi protiv akni. Idealna krema za rešavanje problema hidratacije, iritacije, zarastanje rana, ekcema, psorijaze ili uboda jeste aloja vera gel.
 
 <br>
-<div class="container text-component__block--outset padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
 		<div class="col-4@md">
 			<g-image class="" src="~/assets/img/forever_aloe_vera_gelly.webp" alt="aloja vera gel za kožu"></g-image>

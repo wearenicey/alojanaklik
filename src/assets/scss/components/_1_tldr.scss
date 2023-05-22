@@ -1,0 +1,15 @@
+/* TL;DR Box Styles */
+.tldr-box {
+  margin-bottom: 20px;
+}
+
+.tldr-box__content {
+  padding: 32px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 1px solid hsl(40, 60%, 96%);
+}
+
+.tldr-box__content p {
+  margin-bottom: 0;
+}
