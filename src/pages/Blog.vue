@@ -24,7 +24,7 @@
 <!-- GraphQl call to get all blog post with pagination -->
 <page-query>
 	query Posts ($page: Int) {
-		entries: allPost (perPage: 7, page: $page, sortBy: "humanTime", order: DESC) @paginate {
+		entries: allPost (perPage: 7, page: $page, sortBy: "created", order: DESC) @paginate {
 			pageInfo {
 				totalPages
 				currentPage
@@ -52,8 +52,7 @@
 			}
 		}
 	}
-	
-</page-query>
+	</page-query>
 
 <script>
 // import component
