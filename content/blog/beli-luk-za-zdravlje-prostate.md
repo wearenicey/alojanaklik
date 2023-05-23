@@ -90,29 +90,6 @@ Timijan, biljka poznata po svojim aromatičnim i lekovitim svojstvima, dopunjava
 
 Jednostavno: uzmite jednu kapsulu dnevno uz obrok. Ova praktična i standardizovana doza osigurava da dobijete optimalnu količinu belog luka za zdravlje prostate bez potrebe za opsežnim planiranjem ili pripremanjem obroka.
 
-Forever Garlic-Thyme proizvodi Forever Living Products, kompanija od poverenja poznata po svojoj posvećenosti kvalitetu i prirodnim sastojcima. Međutim, važno je napomenuti da iako suplementi mogu pružiti dodatnu podršku, oni ne bi trebalo da zamene uravnoteženu ishranu ili medicinski savet. Uvek se konsultujte sa zdravstvenim radnikom pre nego što započnete bilo koji novi režim suplemenata.
-
-## Dodatni saveti za zdravlje prostate
-
-
-![Muškarac vežbe](./images/vezba-muskarac.webp)
-
-Da biste optimizovali zdravlje prostate, neophodno je prihvatiti holistički pristup. Pored uključivanja belog luka u svoju ishranu, razmotrite sledeće savete:
-
-**Modifikacije životnog stila**
-
-Održavajte zdrav način života izbegavanjem duvana, ograničavanjem konzumiranja alkohola, upravljanjem stresom i dovoljno sna. Ove promene u načinu života mogu pozitivno uticati na zdravlje prostate.
-
-**Redovno vežbanje i uravnotežena ishrana**
-
-Uključite se u redovnu fizičku aktivnost, kao što je brzo hodanje ili trčanje, da biste podržali opšte dobro. Pored toga, konzumiranje uravnotežene ishrane bogate voćem, povrćem, celim žitaricama i nemasnim proteinima dopunjuje prednosti belog luka za zdravlje prostate.
-
-**Drugi prirodni suplementi**
-
-Dok je beli luk moćan saveznik, drugi prirodni dodaci, kao što su palmeto, pigeum i ekstrakt zelenog čaja, obećavaju u podršci zdravlju prostate. Konsultujte se sa Vašim doktorom da biste utvrdili koji suplementi mogu biti prikladni za vas.
-
-
-
 <br>
 
 <div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
@@ -159,6 +136,31 @@ Dok je beli luk moćan saveznik, drugi prirodni dodaci, kao što su palmeto, pi
 </div>
 
 <br>
+
+Forever Garlic-Thyme proizvodi Forever Living Products, kompanija od poverenja poznata po svojoj posvećenosti kvalitetu i prirodnim sastojcima. Međutim, važno je napomenuti da iako suplementi mogu pružiti dodatnu podršku, oni ne bi trebalo da zamene uravnoteženu ishranu ili medicinski savet. Uvek se konsultujte sa zdravstvenim radnikom pre nego što započnete bilo koji novi režim suplemenata.
+
+## Dodatni saveti za zdravlje prostate
+
+
+![Muškarac vežbe](./images/vezba-muskarac.webp)
+
+Da biste optimizovali zdravlje prostate, neophodno je prihvatiti holistički pristup. Pored uključivanja belog luka u svoju ishranu, razmotrite sledeće savete:
+
+**Modifikacije životnog stila**
+
+Održavajte zdrav način života izbegavanjem duvana, ograničavanjem konzumiranja alkohola, upravljanjem stresom i dovoljno sna. Ove promene u načinu života mogu pozitivno uticati na zdravlje prostate.
+
+**Redovno vežbanje i uravnotežena ishrana**
+
+Uključite se u redovnu fizičku aktivnost, kao što je brzo hodanje ili trčanje, da biste podržali opšte dobro. Pored toga, konzumiranje uravnotežene ishrane bogate voćem, povrćem, celim žitaricama i nemasnim proteinima dopunjuje prednosti belog luka za zdravlje prostate.
+
+**Drugi prirodni suplementi**
+
+Dok je beli luk moćan saveznik, drugi prirodni dodaci, kao što su palmeto, pigeum i ekstrakt zelenog čaja, obećavaju u podršci zdravlju prostate. Konsultujte se sa Vašim doktorom da biste utvrdili koji suplementi mogu biti prikladni za vas.
+
+
+
+
 
 ![Beli luk i prostata](./images/beli-luk-i-prostata-2.webp)
 

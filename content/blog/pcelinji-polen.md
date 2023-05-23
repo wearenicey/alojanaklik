@@ -1,5 +1,5 @@
 ---
-title: Pčelinji polen
+title: Pčelinji polen. Prednosti i kako se koristi.
 tags: Dodaci ishrani
 tagsMeta: Štaje polen, zbog čega je dobar i kako se upotrebljava? Zasnajte kako se konzumnira pčelinji polen, , preporuke i mere opreza.
 excerpt: Pčelinji polen se vekovima koristi u tradicionalnoj medicini za lečenje različitih zdravstvenih stanja.
