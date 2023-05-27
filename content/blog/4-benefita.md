@@ -21,6 +21,20 @@ recommended: true
 
 
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Čišćenje sistema za varenje.</li>
+			<li>Poboljšanje zdravlja jetre.</li>
+      <li>Alojom protiv upale.</li>
+      <li>Detoksikacija alojom.</li>
+    </ul>
+  </div>
+</div>
+
+
+
 Aloe vera je biljka koja je poznata po svom velikom broju blagotvornih efekata na ljudsko telo. Ova biljka je bogata hranljivim materijama koje su neophodne za optimalno funkcionisanje organizma. Mnogi ljudi koriste aloe veru za detoksikaciju svog tela, a u ovom tekstu ćemo detaljno razmotriti sve beneficije koje nam ova neverovatna biljka može pružiti.
 
 ## Kako aloe vera pomaže u detoksikaciji organizma?

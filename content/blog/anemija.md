@@ -18,6 +18,17 @@ featured: true
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Šta je anemija?</li>
+      <li>Lečenje anemije.</li>
+      <li>Mineralni suplementi.</li>
+    </ul>
+  </div>
+</div>
+
 **Anemija** je poremećaj u radu organizma koji pogađa milione ljudi širom sveta. To je veoma ozbiljno stanje koje zahteva adekvatan pristup. U ovom članku ćemo detaljno govoriti o anemiji, uključujući njene uzroke, simptome, dijagnozu i opcije lečenja.
 
 ## Šta je anemija?

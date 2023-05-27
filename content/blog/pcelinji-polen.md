@@ -18,6 +18,17 @@ featured: true
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Šta je pčelinji polen?</li>
+      <li>Kako se koristi?</li>
+      <li>Suplement za ishranu sa polenom.</li>
+		</ul>
+  </div>
+</div>
+
 ## Šta je pčelinji polen?
 
 Pčelinji polen jeste zdrava mešavina cvetnog polena, nektara, meda, voska i raznih izlučevina pčela. Pčele sakupljaju polen sa cvetova i mešaju ga sa nektarom i njihovim izlučevinama, stvarajući male granule koje su bogate hranljivim materijama.

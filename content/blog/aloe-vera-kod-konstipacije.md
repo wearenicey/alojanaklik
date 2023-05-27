@@ -18,6 +18,17 @@ featured: true
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Alojom protiv zatvora.</li>
+      <li>Vlakna.</li>
+      <li>Probiotici.</li>
+    </ul>
+  </div>
+</div>
+
 
 ## Sveobuhvatni vodič za Aloe Veru za zatvor
 

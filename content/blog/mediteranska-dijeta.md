@@ -17,6 +17,17 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Uvod u mediteransku ishranu.</li>
+      <li>Zbog čega je takva ishrana dobra?</li>
+      <li>Namirnice koje se koriste.</li>
+		</ul>
+  </div>
+</div>
+
 
 Stiže još jedno vrelo leto i ljudi jednostavno ne znaju koju destinaciju da posete? Agencije nude ekskluzivne aranžmane za Grčku, Kipar, Maroko, Italiju i Španiju. Taj miris mora, maslina i južnog voća podseća na vreme kada su ljudi bili bezbrižni i srećni. Sada je isto to vreme, ali se oseća nesigurnost i umor. Kad se pogledaju u ogledalu ljudi shvate da kilogrami ne moraju i ne smeju  biti uzrok ničije nesigurnosti i nesreće. Upravo ove ponuđene destinacije nude najraznovrsnija i najzdravija  jela koja Vam mogu omogućiti čak i na godišnjem odmoru da smršate.
 
@@ -97,7 +108,7 @@ Sprovođenje mediteranske dijete može pomoći u poboljšanju osetljivosti na i
 - Svako jelo treba da sadrži **obilje povrća**, što je mogućeg svežeg;
 - Princip ishrane je po malo, ali češće. Obroci treba da su **raspodeljeni u 5 porcija**;
 - Kalorije se ne broje, a preporuka je da se **unese 1600 - 1700 kcal**;
-- Sa **voćem** ne treba preterivati-sasvim je dovoljno uneti **250 - 300g** dnevno. Ono je izvrsna zamena za slatkiše.
+- Sa **voćem** ne treba preterivati: sasvim je dovoljno uneti **250 - 300g** dnevno. Ono je izvrsna zamena za slatkiše.
 - Orašaste plodove, semenke, maslinovo ulje treba unositi svakodnevno u umerenoj količini;
 - **Integralne žitarice** treba unositi **6 puta nedeljno**, ali ne u svakom obroku;
 - Riba, morski plodovi,  i mlečni proizvodi trebaju se upotrebiti 4 puta nedeljno;

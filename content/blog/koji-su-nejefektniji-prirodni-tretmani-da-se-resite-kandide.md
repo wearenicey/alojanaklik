@@ -17,6 +17,18 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Greške koje pravimo koristeći prirodne lekove.</li>
+      <li>Šta uzmati protiv kandide na sluzokoži i crevima?</li>
+      <li>Šta protiv kandide na koži?</li>
+			<li>Šta protiv kandide u unutrašnjim organima?</li>
+    </ul>
+  </div>
+</div>
+
 Kada se ponovo javi osećaj svraba, nadutosti, glavobolje, lošeg raspoloženja, već i sama pomisao na neugodnosti terapije, još više urušava urušava raspoloženje. Raste sumnja i strepnja hoće li ovog puta uspeti? Osoba se pita ima li možda još neki lek iz apoteke koji nije probala, iako zna da nema. Osećaj frustracije i bespomoćnosti u ovim trenucima često izazivaju ljutnju, a onda i odlučnost da se nešto promeni i da se okrene i nekim drugačijim metodama i preparatima koji lečenje mogu upotpuniti i učiniti trajnije efikasnim.
 
 Nažalost, ovakvi scenariji nisu usamljeni i sve je više ljudi koji počinju da koriste prirodne načine tretiranja infekcije kandidom. 

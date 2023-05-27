@@ -18,6 +18,17 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Uzroci bola u donjem delu stomaka.</li>
+      <li>Kako ublažiti bol?</li>
+      <li>Kada je neophodno hitno reagovati?</li>
+    </ul>
+  </div>
+</div>
+
 **Bol se definiše** kao neprijatan senzorni i emocionalni doživljaj koji se odnosi na stvarno ili oštećenje organa u abdomenu. 
 
 Bol može biti: funkcionalan ili patološki. Za funkcionalan bol karakteristično je da se javlja oko pupka i da je praćen grčevima, nadutošću i probadanjem. Bol traje kratko, ali se ponavlja. Ne zahteva intervenciju lekara. Za patološki bol karakterističan je oštar bol koji se ponavlja, praćen je često temperaturom, povraćanjem i dijarejom.

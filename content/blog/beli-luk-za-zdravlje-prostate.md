@@ -18,16 +18,16 @@ recommended: true
 
 <div class="text-component line-height-lg v-space-md">
 
-<!-- <div class="tldr-box">
+<div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold">Key takeaways</span>
+	<span class="text-base font-bold"></span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
-      <li>Lorem, ipsum</li>
-      <li>Lorem ipsum dolor sit amet</li>
-      <li>Lorem, ipsum</li>
+      <li>Beli luk kao lek.</li>
+      <li>Kako komzummirati beli luk?</li>
+      <li>Beli luk i drugi suplementi.</li>
     </ul>
   </div>
-</div> -->
+</div>
 
 
 Zdravlje prostate je ključni aspekt opšteg blagostanja muškaraca. Kako stare, mnogi pojedinci suočavaju se sa različitim problemima u vezi sa prostatom koji mogu značajno uticati na kvalitet života. Iako postoje konvencionalni tretmani, prirodni lekovi mogu igrati značajnu ulogu u unapređenju zdravlja prostate. Jedan takav lek koji je privukao pažnju zbog svojih potencijalnih prednosti je beli luk. U ovom sveobuhvatnom vodiču ćemo istražiti neverovatne prednosti belog luka za zdravlje prostate i pružiti vredne uvide o tome kako da ga uključite u svoju dnevnu rutinu.

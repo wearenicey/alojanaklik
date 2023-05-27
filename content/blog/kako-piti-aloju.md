@@ -17,6 +17,17 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Zašto je aloe vera tako delotvorna?</li>
+      <li>Na koji način može da se upotrebljava?</li>
+      <li>U kojim oblicima Aloe Vera može da se koristi?</li>
+    </ul>
+  </div>
+</div>
+
 
 Svakodnevno sedenje po više sati dovodi Vas u situaciju da se neredovno hranite ili se često prejedate. Neadekvatna ishrana bez vitamina i minerala vremenom oštećuje kožu i kosu. Instant rešenja su svuda oko nas - kupićete neki hemijski preparat...
 

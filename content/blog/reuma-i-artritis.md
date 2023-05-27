@@ -19,6 +19,18 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Razlika između reume i artritisa.</li>
+      <li>Uzroci ovih bolesti.</li>
+      <li>Kako se dijagnostikuju i leče?</li>
+			<li>Pravilna ishrana i prirodni suplementi.</li>
+		</ul>
+  </div>
+</div>
+
 Bolovi u kolenu pri penjanju uz stepenice, bolovi u prstima kojima je nemoguće obavljati svakodnevne aktivnosti, otečeni zglobovi, sve to muči kako mlađu, tako i stariju populaciju.
 
 Osećate bol u donjem delu leđa i u vratu koji je intenzivniji u jutarnjim časovima. Često se pitate šta je uzrok koji izaziva mišićnu slabost i gubitak energije.

@@ -17,6 +17,18 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Zbog čega nastaje upala desni?.</li>
+      <li>Kako se leči upala desni?</li>
+      <li>Pasta za zube kao preventiva.</li>
+		</ul>
+  </div>
+</div>
+
+
 **Desni** ili **gingiva** su deo sluzokože koje prekrivaju jedan deo usne duplje. Desni obavijaju zubni vrat sve do udubljenja u gornjoj i donjoj vilici u kojima su smešteni zubi. Obično su svetlo roze boje.
 
 **Roze boja je boja zdravih desni.**

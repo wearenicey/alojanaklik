@@ -18,6 +18,17 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Šta dovodi do insulinske rezistencije?</li>
+      <li>Simptomi i lečenje.</li>
+      <li>Kako pobediti insulinsku rezistenciju?</li>
+    </ul>
+  </div>
+</div>
+
 [Insulinska rezistencija povećava rizik za nastanak dijabetesa tipa 2](https://www.stetoskop.info/hormonski-poremecaji-i-poremecaji-metabolizma/insulinska-rezistencija). Nastaje usled prekomernog unosa šećera, kao vid odbrane organizma. Insulinska rezistencija je metabolički poremećaj u organizmu, kada dolazi do pojačanog lučenja insulina. Organizam postaje otporan na insulin, te dolazi do skoka šećera.
 
 Kako se računa insulinska rezistencija? Utvrđuje se jednostavno, putem OGTT testa (test opterećenja šećerom), tako što se meri insulin i šećer u krvi na prazan stomak, a potom ponovi isto nakon 2 časa, ali uz prekomerni unos ugljenih hidrata (šećera).

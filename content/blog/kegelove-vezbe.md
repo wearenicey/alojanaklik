@@ -2,7 +2,7 @@
 title: Kegelove vežbe i da li su samo dobre za erekciju?
 tags: Zdravlje muškarca
 tagsMeta: Šta su kegelove vežbe i da li mogu da pomognu u slučaju problemi koji se javljaju u seksualnom životu muškarca? Na koji način se sprovode i šta možemo da očekujemo?
-excerpt: Kada se pomenu Kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene.
+excerpt: Kada se pomenu kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene.
 created: 2022-06-25
 image: kegelove-vezbe-slika3.jpg
 alt: "kegelove vežbe za muškarce"
@@ -19,9 +19,20 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
-Kada se pomenu Kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene. Svakoj  ženi je bar jednom u životu preporučeno od strane ginekologa da radi Kegelove vežbe za jačanja mišića karličnog dna, koji uobičajeno biva oslabljen u toku trudnoće, nakon porođaja, starenjem ili uvećanjem telesne mase.
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Erektilna disfunkcija.</li>
+      <li>Da li možemo i kako povatiti potenciju?</li>
+      <li>Kako se izvode kegelove vežbe?</li>
+    </ul>
+  </div>
+</div>
 
-Međutim, Kegelove vežbe su itekako dobre i za muškarce. U toku života kod muškaraca se mogu pojaviti određeni zdravstveni problemi, koji mogu uticati na kvalitet seksualnog odnosa. Pored erektilne disfunkcije, mogu se javiti i problemi koji su vezani za preuranjenu ejakulaciju.
+Kada se pomenu kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene. Svakoj  ženi je bar jednom u životu preporučeno od strane ginekologa da radi kegelove vežbe za jačanja mišića karličnog dna, koji uobičajeno biva oslabljen u toku trudnoće, nakon porođaja, starenjem ili uvećanjem telesne mase.
+
+Međutim, kegelove vežbe su itekako dobre i za muškarce. U toku života kod muškaraca se mogu pojaviti određeni zdravstveni problemi, koji mogu uticati na kvalitet seksualnog odnosa. Pored erektilne disfunkcije, mogu se javiti i problemi koji su vezani za preuranjenu ejakulaciju.
 
 Jedan od strahova sa kojim se muškarci susreću je strah da neće doći do očekivane erekcije. Kegelovim vežbama možete uticati na uzrok nastanka problema koji dovodi do erektilne disfunkcije, a da li ovim vežbama možete rešiti i problem preuranjene ejakulacije?
 
@@ -113,9 +124,9 @@ U zavisnosti od uzroka koji dovode do impotencije, postoje različiti načini le
 
 ## Kegelove vežbe, iz muškog ugla, kako tačno?
 
-Jedan od načina da otklonite ove zdravstvene probleme je vežbanje mišića karličnog dna, primenom Kegelovih vežbi.
+Jedan od načina da otklonite ove zdravstvene probleme je vežbanje mišića karličnog dna, primenom kegelovih vežbi.
 
-Pre nego što uopšte krenete da radite Kegelove vežbe, preporučujemo Vam da ispraznite bešiku. Pokušajte da pronađete mesto u stanu gde će Vam biti prijatno i opustite se.
+Pre nego što uopšte krenete da radite kegelove vežbe, preporučujemo Vam da ispraznite bešiku. Pokušajte da pronađete mesto u stanu gde će Vam biti prijatno i opustite se.
 
 Vežbanjem ovog mišića, možete poboljšati erekciju i uticati na produžetak seksualnog odnosa. Takođe, možete pojačati intenzitet orgazma. 
 
@@ -129,11 +140,11 @@ U  trenutku kada osetite nadolazeće gasove, odnosno nadimanje, pokušajte da sp
 
 Ako i dalje imate problem da pronađete ovaj mišić, probajte sa zaustavljanjem protoka urina. Kada Vam se urinira, Vi krenite, ali se u toku uriniranja zaustavite. Ovaj metod ne bi trebao da postane redovna praksa. 
 
-Za što efikasnije izvođenje Kegelovih vežbi, trebate da stisnete mišić i zadržite pet ili deset sekundi, a zatim ga opustite. Kada se naviknete na ovaj vid vežbanja možete ih ponavljati u seriji od 10 do 20 kontrakcija, dva ili tri puta dnevno.
+Za što efikasnije izvođenje kegelovih vežbi, trebate da stisnete mišić i zadržite pet ili deset sekundi, a zatim ga opustite. Kada se naviknete na ovaj vid vežbanja možete ih ponavljati u seriji od 10 do 20 kontrakcija, dva ili tri puta dnevno.
 
 Najbitnije je da pravilno dišete i da Vam ostatak tela bude opušten i miran, a ne napet i zategnut. Ove vežbe možete raditi u sedećem i ležećem položaju.
 
-Kako bi ste brže napredovali, možete kombinovati varijante Kegelovih vežbi, tako što ćete brzo stiskati i opuštati mišiće, a sve to nekoliko puta za redom. Probajte i veoma polako da ih stiskate.
+Kako bi ste brže napredovali, možete kombinovati varijante kegelovih vežbi, tako što ćete brzo stiskati i opuštati mišiće, a sve to nekoliko puta za redom. Probajte i veoma polako da ih stiskate.
 
 
 *Fotografije: Freepik, Unsplash, Pixabay*

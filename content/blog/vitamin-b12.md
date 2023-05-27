@@ -19,6 +19,17 @@ featured: true
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Uloga vitamina B12.</li>
+      <li>Simptomi i posledice nedostatka B12.</li>
+      <li>Ishrana i suplementi koji sadrže B12.</li>
+		</ul>
+  </div>
+</div>
+
 **Vitamin B12 naziva se još i kobalamin** (cijanokobalamin) i pripada vitaminima koje organizam ne može sam da stvara. Pronađen je 1948 godine, rastvorljiv je u vodi i jedini sadrži kobalt. Nalazi se isključivo u namirnicama životinjskog porekla. U ljudskom organizmu smešten je uglavnom u jetri.Ukoliko se unese u većim količinama organizam će skladištiti u jetri.
 
 **Vitamin B12 ima višestruku ulogu u organizmu:**,

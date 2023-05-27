@@ -18,16 +18,16 @@ recommended: true
 
 <div class="text-component line-height-lg v-space-md">
 
-<!-- <div class="tldr-box">
+<div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold">Key takeaways</span>
+	<span class="text-base font-bold"></span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
-      <li>Lorem, ipsum</li>
-      <li>Lorem ipsum dolor sit amet</li>
-      <li>Lorem, ipsum</li>
+      <li>Bolovi potekli od kostiju i zglobova.</li>
+      <li>Želudačni bolovi.</li>
+      <li>Anksioznost i stres.</li>
     </ul>
   </div>
-</div> -->
+</div>
 
 Verovatno ste primetili da živimo u vremenu gde bi neki ljudi taj period okarakterisali kao period gubitka iskonskih, ljudskih vrednosti kao što su: čast, poštenje, ljubav ili iskrenost. Veoma često čujete da je za neke ljude potpuno normalno zarad reputacije, karijere ili novca posramiti drugog čoveka, ugroziti mu dostojanstvo, čast i zadovoljiti sujetu. Da li je duševni bol jači od fizičkog? Skoro pa uvek jeste! Ne postoji fizička merna jedinica za duševni bol, mada je on uzrok nekih fizičkih bolova i oboljenja nekih organa (srca, nerava, želuca).
 

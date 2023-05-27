@@ -18,7 +18,18 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
-Prirodno lečenje afti
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Kako nastaju afte?</li>
+      <li>Simptomi.</li>
+      <li>Lečenje.</li>
+    </ul>
+  </div>
+</div>
+
+
 Afte, poznate i kao aftozni čirevi, su male, plitke ranice koje se javljaju u ustima, često na jeziku, unutrašnjim obrazima ili usnama. Afte u ustima su bolne lezije (ulceracije), odnosno ranice bele boje koje nastaju na sluzokoži usne duplje ili jeziku. Češće se javljaju kod dece i žena nego kod muškarca.
 
 ## Uzroci nastanka afti

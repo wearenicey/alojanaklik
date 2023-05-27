@@ -18,6 +18,17 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Zašto zubi menjaju boju?</li>
+      <li>Prevencija.</li>
+      <li>Profesionalni i kućni načini izbeljivanja zuba.</li>
+    </ul>
+  </div>
+</div>
+
 Oduševljeni ste prizorom i belinom zuba osobe koju ste upravo upoznali i pitate se: „Kako doći do tako lepog osmeha?“  Da li ste umorni od skrivanja zuba na fotografijama ili od potpunog izbegavanja osmeha? Ako jeste, niste sami. Izbeljivanje zuba je uobičajena briga mnogih ljudi, jer blistav i zdrav osmeh može u velikoj meri poboljšati nečije samopouzdanje i izgled. Milioni ljudi širom sveta bore se sa obezbojenim zubima. Razumevanje uzroka koji dovode do promene boje zuba i načina na koji to možemo usporiti ili sprečiti je ključno za održavanje belog i zdravog osmeha. 
 
 Da li je neophodno posetiti stomatologa ili dobar rezultat **izbeljivanja zuba** možete postići i kod kuće? Odgovor je potvrdan, postoji više načina da dođete do blistavo belih zuba.

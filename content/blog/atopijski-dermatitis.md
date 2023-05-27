@@ -18,6 +18,17 @@ featured: true
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Atopijski ekcem?</li>
+      <li>Lečenje.</li>
+      <li>Životne promene.</li>
+    </ul>
+  </div>
+</div>
+
 ## Šta je atopijski dermatitis?
 
 Atopijski dermatitis, takođe poznat kao atopijski ekcem, jeste uobičajeno stanje kože koje pogađa milione ljudi širom sveta. To je hronični inflamatorni poremećaj koji uzrokuje suvoću, svrab i upalu kože. Ovo stanje može biti frustrirajuće, bolno i gotovo uvek ima veliki uticaj na samopouzdanje osobe koja pati od ove bolesti, što otežava obavljanje svakodnevnih aktivnosti ili čak spavanje. Ako se borite sa atopijskim dermatitisom, niste sami. Uz odgovarajuća uputstva, možete se nositi sa ovim stanjem i poboljšati kvalitet svog života.

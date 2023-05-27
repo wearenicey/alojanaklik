@@ -17,6 +17,17 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Kako razlikovati anksiozni od bola kod infarkta?</li>
+      <li>Prirodni lekovi.</li>
+      <li>Promena stila života.</li>
+    </ul>
+  </div>
+</div>
+
 Bol u grudima je čest simptom [anksioznosti](https://ubuntucentar.com/blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/) i uzrokovan je ili pogoršan anksioznošću ili panikom.  Međutim, ovakav bol može da potiče i usled drugih faktora, među kojima je najznačajniji srčani udar.  
 
 Iako je teško utvrditi sa sigurnošću kada je u pitanju anksioznost, a kada srčani udar, neki propratni simptomi i detalji samog bola govore nam da li je, i kada, potrebno obratiti se lekaru.

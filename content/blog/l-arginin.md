@@ -1,5 +1,5 @@
 ---
-title: L arginin za muškarce. Prirodno povećanje vitalnosti i zdravlja.
+title: L arginin za muškarce. Za prirodno povećanje vitalnosti i zdravlja.
 tags: Zdravlje muškarca
 tagsMeta: Otkrijte neverovatne prednosti L arginina za muškarce. Sveobuhvatan vodič o tome kako L arginin može prirodno poboljšati vitalnost i performanse. Uupotreba, doze, potencijalni neželjeni efekti i često postavljana pitanja.
 excerpt:  Neverovatna aminokiselina koja je stekla popularnost zbog svojih brojnih zdravstvenih prednosti, posebno u zdravlju muškaraca.
@@ -18,6 +18,17 @@ featured: false
 
 
 <div class="text-component line-height-lg v-space-md">
+
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Šta je arginin?</li>
+      <li>Čemu služi i kako se koristi?</li>
+      <li>Zbog čega je FLP ARGI plus poseban suplement?</li>
+		</ul>
+  </div>
+</div>
 
 Za muškarce koji žele da  na prirodan način poboljšaju svoju vitalnost i zdravlje? L arginin je neverovatna aminokiselina koja je stekla popularnost zbog svojih brojnih zdravstvenih prednosti, posebno u zdravlju muškaraca. U ovom članku ćemo ući u svet L arginina za muškarce, istražujući njegovu upotrebu, preporuke za doziranje, potencijalne neželjene efekte i još mnogo toga. Bez obzira da li želite da povećate nivo energije, poboljšate efekte vežbanja ili poboljšate opšte stanje organizma, L Arginin je ključ.
 

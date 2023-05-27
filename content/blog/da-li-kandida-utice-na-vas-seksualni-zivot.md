@@ -18,6 +18,18 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Uzroci pojave prekomernog rasta kandide.</li>
+      <li>Simptomi kod žena.</li>
+      <li>Simptomi kod muškaraca.</li>
+			<li>Prevencija i dijagnoza.</li>
+    </ul>
+  </div>
+</div>
+
 Možda ste i vi imali iskustva kada vam dan krene lepo, naspavani ste i orni za predstojeće poslovne zadatke. A onda jedna po jedna neugodna situacija krene da se dešava. 
 
 Kada se osećaj mučnine i glavobolje, promene raspoložnja, intenzivne žudnje za slatkišima, ispoljava zajedno sa svrabom ili peckanjem na području intimnih delova tela, moguće je da se pojavila infekcija kandidom. Iako vrlo neprijatna, izuzetno je česta pojava danas, ali se može rešiti jednostavnim metodama i ne bi trebala da stvara veliku brigu, a pogotovo ne osećaj stida ili bespomoćnosti. 

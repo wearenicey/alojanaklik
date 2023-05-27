@@ -18,6 +18,17 @@ featured: false
 
 <div class="text-component line-height-lg v-space-md">
 
+<div class="tldr-box">
+  <div class="tldr-box__content">
+	<span class="text-base font-bold"></span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>Simptomi dijabetesa.</li>
+      <li>Prevencija.</li>
+      <li>Lečenje.</li>
+    </ul>
+  </div>
+</div>
+
 Termine dijabetes i dijabetes tip 2 vrlo često vezujemo za probleme modernog čoveka i ubrzanog načina života, te smo sve česće upoznati sa posledicama istih. Tamo gde zdrava ishrana postaje luksuz, a brza hrana i velike količine šećera i ugljenih hidrata lako dostupna zamena za hranljive namirnice, gubimo polako kontrolu nad sopstvenim zdravljem.
 
 
