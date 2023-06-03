@@ -1,5 +1,5 @@
 ---
-title: Prednosti belog luka za zdravlje prostate - sveobuhvatni vodič
+title: Prednosti belog luka za zdravlje prostate
 tags: Zdravlje muškarca
 tagsMeta: U ovom sveobuhvatnom vodiču ćemo istražiti neverovatne prednosti belog luka za zdravlje prostate i pružiti vredne uvide o tome kako da ga uključite u svoju dnevnu rutinu.
 excerpt: Zdravlje prostate jedan je od ključnih aspekt opšteg zdravstvenog stanja muškaraca.
@@ -23,7 +23,7 @@ recommended: true
 	<span class="text-base font-bold"></span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Beli luk kao lek.</li>
-      <li>Kako komzummirati beli luk?</li>
+      <li>Kako konzumirati beli luk?</li>
       <li>Beli luk i drugi suplementi.</li>
     </ul>
   </div>
