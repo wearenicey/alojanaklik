@@ -20,11 +20,11 @@ featured: false
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Simptomi nervoznih creva.</li>
       <li>Uzroci pojave nervoznih creva.</li>
-      <li>Lečenje prirodnim načinima.</li>
+      <li>Lečenje nervoznih creva prirodnim načinima.</li>
 			<li>Efiksano lečenje suplementima.</li>
 		</ul>
   </div>

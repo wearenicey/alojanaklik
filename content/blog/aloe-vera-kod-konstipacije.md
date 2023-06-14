@@ -20,7 +20,7 @@ featured: true
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Alojom protiv zatvora.</li>
       <li>Vlakna.</li>

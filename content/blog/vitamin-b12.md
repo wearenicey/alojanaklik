@@ -21,7 +21,7 @@ featured: true
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Uloga vitamina B12.</li>
       <li>Simptomi i posledice nedostatka B12.</li>

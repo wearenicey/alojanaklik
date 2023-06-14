@@ -19,7 +19,7 @@ featured: false
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Zašto je aloe vera tako delotvorna?</li>
       <li>Na koji način može da se upotrebljava?</li>

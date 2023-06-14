@@ -19,7 +19,7 @@ featured: false
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Kako razlikovati anksiozni od bola kod infarkta?</li>
       <li>Prirodni lekovi.</li>

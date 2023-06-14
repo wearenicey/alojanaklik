@@ -21,11 +21,11 @@ featured: false
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Razlika između reume i artritisa.</li>
-      <li>Uzroci ovih bolesti.</li>
-      <li>Kako se dijagnostikuju i leče?</li>
+      <li>Uzroci reume i artritisa.</li>
+      <li>Kako se dijagnostikuju i leče euma i artritis?</li>
 			<li>Pravilna ishrana i prirodni suplementi.</li>
 		</ul>
   </div>

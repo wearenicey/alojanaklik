@@ -19,11 +19,11 @@ featured: false
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Uvod u mediteransku ishranu.</li>
-      <li>Zbog čega je takva ishrana dobra?</li>
-      <li>Namirnice koje se koriste.</li>
+      <li>Zbog čega je mediteranska ishrana dobra?</li>
+      <li>Namirnice koje se koriste u mediteranskoj ishrani.</li>
 		</ul>
   </div>
 </div>

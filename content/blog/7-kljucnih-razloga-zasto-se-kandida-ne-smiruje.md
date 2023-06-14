@@ -20,7 +20,7 @@ recommended: true
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Kandida koja je uporna.</li>
       <li>Simptomi.</li>
@@ -48,7 +48,7 @@ Jedinstveni odgovor na ova pitanja nije realan. Nekada je u pitanju jedan razlog
 
 Kandida iskustva žena govore da razlog često leži u **uzroku nastanka** prve, a onda i svih narednih infekcija.
 
-- Ako je infekcija nastala posle ili tokom upotrebe **antibiotika** koji “očiste” organizam i od loših, ali i od dobrih bakterija poremetila se ravnoteža u broju bakterija u našem organizmu. U tom slučaju, potrebno je razmotriti sa lekarom neophodnost njihove dalje upotrebe i početi sa korišćenjem probiotika.
+- Ako je infekcija nastala posle ili tokom upotrebe **antibiotika** (koji “očiste” organizam i od loših, ali i od dobrih bakterija), to znači da se poremetila ravnoteža u broju bakterija u našem organizmu. U tom slučaju, potrebno je razmotriti sa lekarom neophodnost njihove dalje upotrebe i početi sa korišćenjem probiotika.
 - Probiotik za kandidu, odnosno bakterije koje on sadrži, predstavlja prepreku njenom prekomernom rastu. Probiotik obnavlja crevnu floru i dovodi do jačanja imuniteta;
 - Uzrok mogu biti i drugi **lekovi** koji slabe imuni sistem, poput onih iz grupe kortikosteroida ili primena hemioterapije. U ovim slučajevima najbolje je posavetovati se sa lekarom koji lek za kandidu može da se koristi;
 - Ako je uzrok **dijabetes** ili hiperglikemija, potrebno je sa lekarom razmotriti prelazak na dijetu sa smanjenim unosom ugljenih hidrata i eventualno uskladiti terapiju lekovima;
@@ -73,7 +73,7 @@ Neke **životne navike** razlog su nastanka i ponovnog vraćanja infekcije kandi
 
 ## Lečenje kandide
 
-Ukoliko je do sada **vaginalna kandida** tretirana lekovima, osim pomenute mogućnosti pojačavanja terapije, određeni prirodni tretmani mogu biti od velike pomoći.
+Ukoliko je do sada **vaginalna kandida** tretirana lekovima - vaginaletama, gelovima ili kremama, određeni prirodni tretmani mogu biti od velike pomoći.
 Kokosovo ulje, jabukovo sirće i beli luk pravi su prirodni lek za kandidu za koji apoteka nije potrebna. Takođe, ulje divljeg origana za kandidu ima izuzetno uspešno antimikrobno delovanje. Ovo potvrđuju i brojna studijska istraživanja. Može da se koristi oralno, preko kože ili inhalacijom.
 
 Osim vaginalne kandidijaze, kod žena se takođe može pojaviti i ponavljati prekomerna **kandida u crevima**. Pitanje koliko kolonija kandide je normalno imati u crevima često se postavlja lekarima. Ona je redovan stanovnik u ovoj oblasti našeg organizma. Do njenog prekomernog rasta, a to bi značilo preko [20 kolonija](https://www.kandida.rs/kandida-u-crevima/), dolazi ukoliko se naruši količina dobrih bakterija koje sprečavaju prekomeran rast gljivice. Kandida u stolici jedan je od pokazatelja bakterisko-gljivičnog disbalansa u crevima, pored nadimanja, dijareje, konstipacije i ostalih tegoba sa varenjem.

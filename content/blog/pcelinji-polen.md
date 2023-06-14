@@ -20,10 +20,10 @@ featured: true
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold"></span>
+	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Šta je pčelinji polen?</li>
-      <li>Kako se koristi?</li>
+      <li>Kako se pčelinji polen koristi?</li>
       <li>Suplement za ishranu sa polenom.</li>
 		</ul>
   </div>
