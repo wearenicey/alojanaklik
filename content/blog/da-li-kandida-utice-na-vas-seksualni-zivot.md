@@ -76,7 +76,46 @@ Tri od četiri žene iskuse vaginalnu kandidijazu u nekom trenutku života prema
 - Ponavljajuće gljivične infekcije
 - Infekcije mokraćnih puteva
 
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
+	<div class="grid gap-sm">
+		<div class="col-4@md">
+			<g-image class="" src="~/assets/img/forever_vitolize_for_women.webp" alt="hormonski disbalans"></g-image>
+		</div>
+		<div class="col-8@md">
+			<div class="flex flex-wrap gap-sm items-center">
+				<div class="">
+					<h2 class="text-lg">Vitolize Women - Hormonska ravnoteža za žene</h2>
+				</div>
+        <div class="grid margin-bottom-lg gap-xxs">
+					<div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Doprinosi zdravlju žena
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+						  Utiče na simptome PMS-a
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Pospešuje rad hormona
+					</div>
+          <div class="flex items-center text-sm">
+						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
+							Pojačava libido kod žena
+					</div>
+				</div>
+			</div>
+			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
+				<a href="https://flpshop.rs/dodaci-ishrani/11648/vitlize-women/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Kupite danas
+				</a>
+				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
+			</div>
+		</div>
+	</div>
+</div>
 
+<br>
 
 ## Simptomi prekomernog rasta kandide kod muškaraca
 
@@ -144,46 +183,7 @@ Postoji nekoliko koraka koje možete preduzeti da [sprečite](https://www.health
 <br>
 
 
-<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
-	<div class="grid gap-sm">
-		<div class="col-4@md">
-			<g-image class="" src="~/assets/img/forever_vitolize_for_women.webp" alt="hormonski disbalans"></g-image>
-		</div>
-		<div class="col-8@md">
-			<div class="flex flex-wrap gap-sm items-center">
-				<div class="">
-					<h2 class="text-lg">Vitolize Women - Hormonska ravnoteža za žene</h2>
-				</div>
-        <div class="grid margin-bottom-lg gap-xxs">
-					<div class="flex items-center text-sm">
-						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Doprinosi zdravlju žena
-					</div>
-          <div class="flex items-center text-sm">
-						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-						  Utiče na simptome PMS-a
-					</div>
-          <div class="flex items-center text-sm">
-						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Pospešuje rad hormona
-					</div>
-          <div class="flex items-center text-sm">
-						<g-image style="width: auto !important;" class="margin-left-important" src="~/assets/img/check.svg"></g-image>
-							Pojačava libido kod žena
-					</div>
-				</div>
-			</div>
-			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/dodaci-ishrani/11648/vitlize-women/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
-					Kupite danas
-				</a>
-				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
-			</div>
-		</div>
-	</div>
-</div>
 
-<br>
 
 <div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md bg-white">
 	<div class="grid gap-sm">
@@ -193,7 +193,7 @@ Postoji nekoliko koraka koje možete preduzeti da [sprečite](https://www.health
 		<div class="col-8@md">
 			<div class="flex flex-wrap gap-sm items-center">
 				<div class="">
-					<h2 class="text-lg">Vitolize Women - Hormonska ravnoteža za muškarce</h2>
+					<h2 class="text-lg">Vitolize Men - Hormonska ravnoteža za muškarce</h2>
 				</div>
         <div class="grid margin-bottom-lg gap-xxs">
 					<div class="flex items-center text-sm">

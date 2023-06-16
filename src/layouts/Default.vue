@@ -20,8 +20,10 @@
 					</div>
 
 					<ul class="f-header__list flex-grow flex-basis-0 justify-end@md">
+						
+							<li class="f-header__item"><a href="/blog/" class="btn">Blog</a></li>
 						<ul class="f-header__listflex-basis-0 justify-center@md">
-							<li class="f-header__item">
+														<li class="f-header__item">
 								<g-link to="/proizvodi/" class="f-header__link">
 									<span>Proizvodi</span>
 									<svg class="f-header__dropdown-icon icon" aria-hidden="true" viewBox="0 0 12 12">
@@ -42,7 +44,8 @@
 						<li class="f-header__item"><g-link to="/istorija-kompanije/" class="f-header__link">Istorija kompanije</g-link></li>
 						<li class="f-header__item"><g-link to="/blog/" class="f-header__link">Blog </g-link></li> -->
 						</ul>
-						<li class="f-header__item"><a href="/kontakt/" class="f-header__btn btn btn--subtle">Kontakt</a></li>
+						<li class="f-header__item"><a href="/postanite-saradnik/" class="btn">Postanite saradnik</a></li>
+						<li class="f-header__item"><a href="/kontakt/" class="btn">Kontakt</a></li>
 					</ul>
 				</div>
 			</div>
@@ -74,13 +77,13 @@
 						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/pcelinji-proizvodi/">Pčelinji proizvodi</g-link>
-						</li> -->
+						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/postanite-saradnik/">Postanite saradnik</g-link>
 						</li>
 						<li class="footer-v4__nav-item">
 							<g-link to="/blog/">Blog</g-link>
-						</li>
+						</li> -->
 						<li class="footer-v4__nav-item">
 							<g-link to="/istorija-kompanije/">Istorija kompanije</g-link>
 						</li>
