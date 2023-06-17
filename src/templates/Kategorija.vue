@@ -16,7 +16,7 @@
 			<div id="targetId" class="container max-width-adaptive-lg padding-top-xl">
 				<div class="grid gap-md">
 					<div class="card col-4@md col-6" v-for="(category, index) in $page.category.aloja">
-						<a class="text-decoration-none" :href="category.path">
+						<g-link class="text-decoration-none" :to="category.path">
 							<figure class="card__img padding-x-md@md padding-top-md@md padding-x-sm padding-top-sm">
 								<g-image class="radius-lg" :src="require(`@/assets/img/` + category.imageUrl[0])" />
 							</figure>
@@ -28,13 +28,13 @@
 								</div>
 
 								<div class="margin-top-sm">
-									<a class="btn btn--primary btn--sm flex flex-grow" :href="category.path"
+									<g-link class="btn btn--primary btn--sm flex flex-grow" :to="category.path"
 										>Saznajte vise
 										<!--<span> <g-image class="margin-left-sm flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
-									</a>
+								</g-link>
 								</div>
 							</div>
-						</a>
+						</g-link>
 					</div>
 				</div>
 			</div>
