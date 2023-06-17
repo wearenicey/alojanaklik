@@ -20,21 +20,20 @@
 							<figure class="card__img padding-x-md@md padding-top-md@md padding-x-sm padding-top-sm">
 								<g-image class="radius-lg" :src="require(`@/assets/img/` + category.imageUrl[0])" />
 							</figure>
-
-							<div class="card__content">
-								<div class="text-component">
-									<h4>{{ category.ctaText }}</h4>
-									<p class="color-black">{{ category.cena }} EUR</p>
-								</div>
-
-								<div class="margin-top-sm">
-									<g-link class="btn btn--primary btn--sm flex flex-grow" :to="category.path"
-										>Saznajte vise
-										<!--<span> <g-image class="margin-left-sm flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
-								</g-link>
-								</div>
-							</div>
 						</g-link>
+						<div class="card__content">
+							<div class="text-component">
+								<h4>{{ category.ctaText }}</h4>
+								<p class="color-black">{{ category.cena }} EUR</p>
+							</div>
+
+							<div class="margin-top-sm">
+								<g-link class="btn btn--primary btn--sm flex flex-grow" :to="category.path"
+									>Saznajte vise
+									<!--<span> <g-image class="margin-left-sm flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
+								</g-link>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
