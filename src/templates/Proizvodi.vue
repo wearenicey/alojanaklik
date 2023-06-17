@@ -49,10 +49,10 @@
 								</div>
 
 								<div class="flex flex-wrap gap-md js-product-v3__cta items-center">
-									<a :href="$page.event.cta" class="kupiteCTA btn btn--primary flex-grow center-between btn--md">
+									<g-link :to="$page.event.cta" class="kupiteCTA btn btn--primary flex-grow center-between btn--md">
 										Kupite danas
 										<!-- <span><g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
-									</a>
+									</g-link>
 									<div>
 										<g-image class="margin-right-xs display@md" src="~/assets/img/logo-futer.png"></g-image>
 									</div>
