@@ -1,7 +1,7 @@
 ---
 title: Anemija - Zašto nedostatak gvožđa predstavlja opasnost?
 tags: Dodaci ishrani
-tagsMeta: Kratak članak o anemiji i suplementu u kapsulama sa gvožđem koji može da pomogne i da se anemija predupredi.
+tagsMeta: Kratak članak o anemiji i suplementu u kapsulama sa gvožđem koji može da pomogne da se anemija predupredi.
 excerpt: Anemija je stanje koje se javlja u situacijama kada organizam nema dovoljno crvenih krvnih zrnaca koja bi prenosila kiseonik do tkiva.
 created: 2023-02-16
 image: anemija.jpg
@@ -29,7 +29,7 @@ featured: true
   </div>
 </div>
 
-**Anemija** je poremećaj u radu organizma koji pogađa milione ljudi širom sveta. To je veoma ozbiljno stanje koje zahteva adekvatan pristup. U ovom članku ćemo detaljno govoriti o anemiji, uključujući njene uzroke, simptome, dijagnozu i opcije lečenja.
+**Anemija** jeste poremećaj u radu organizma koji pogađa milione ljudi širom sveta. To je veoma ozbiljno stanje koje zahteva adekvatan pristup. U ovom članku ćemo detaljno govoriti o anemiji, uključujući njene uzroke, simptome, dijagnozu i opcije lečenja.
 
 ## Šta je anemija?
 
@@ -41,7 +41,7 @@ Postoji nekoliko tipova anemije, svaki sa svojim specifičnim uzrocima i simptom
 
 ## Uzroci anemije
 
-Anemija može biti uzrokovana različitim faktorima, uključujući lošu ishranu, trudnoću, krvarenje i određena medicinska stanja poput bolesti bubrega i raka. Anemija uzrokovana nedostatkom gvožđa često je posledica manjka gvožđa u ishrani ili nemogućnošću organizma da apsorbuje gvožđe iz hrane.
+Anemija može biti uzrokovana različitim faktorima, uključujući lošu ishranu, trudnoću, krvarenje i određena medicinska stanja poput bolesti bubrega ili tumora. Anemija uzrokovana nedostatkom gvožđa često je posledica manjka gvožđa u ishrani ili nemogućnošću organizma da apsorbuje gvožđe iz hrane.
 
 ## Simptomi anemije
 
@@ -49,7 +49,7 @@ Simptomi anemije mogu varirati u zavisnosti od tipa i ozbiljnosti stanja. Najče
 
 ## Efikasni lekovi za anemiju
 
-Forever Nature-Min je dijetetski dodatak ishrani bogat esencijalnim mineralima i elementima u tragovima dobijenim iz starog i hranljivog zemljišta. Pomaže u održavanju zdrave metaboličke funkcije, promoviše zdrav imuni sistem i podržava pravilan balans tečnosti u telu. Ovaj suplement takođe promoviše zdrav razvoj i održavanje kostiju, kože, kose i noktiju.
+Forever Nature-Min je dijetetski dodatak ishrani bogat esencijalnim mineralima i elementima u tragovima dobijenim iz starog i hranljivog zemljišta. Pomaže u održavanju zdrave metaboličke funkcije, održava zdrav imuni sistem i pomaže pravilnom balansu tečnosti u telu. Ovaj suplement takođe promoviše zdrav razvoj i održavanje kostiju, kože, kose i noktiju.
 
 ![efikasan lek za anemiju](./images/forever_min.jpg)
 
