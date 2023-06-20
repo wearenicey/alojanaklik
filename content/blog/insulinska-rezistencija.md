@@ -74,7 +74,7 @@ Lečenje insulinske rezistencije zahteva promenu životnih navika:
 - Koristiti jabukovo sirće, limun i cimet jer povećavaju osetljivost ćelija na glukozu;
 - Izbaciti rafinisane uljene hidrate: šećer, beli hleb, sokove (gazirane i domaće), namirnice spremljene na ulju i konzervisanu hranu. Namirnice sa visokim glikemijskim indeksom, a za koje često mislimo da su dozvoljeni, a nisu: banana, kruška, bundeva, ananas, dinja, kukuruz, urme, beli pirinač, smokve, grožđe, lubenica, krompir, musli, margarin i pivo;
 2. Od pića isključivo **čistu vodu** unositi oko 2l dnevno ili 30 ml po kg telesne mase; 
-3. Redovna fizička aktivnost - šetnja, plivanje, bicikl, vežbe. Sve treba biti umerenog inteziteta, jer u suprotnom dolazi do povećanja kortizola (hormona stresa), a potom insulina što dovodi do gladi. Preporuka je da **fizičke aktivnosti budu oko 150 minuta nedeljno**;
+3. Redovna fizička aktivnost - šetnja, plivanje, bicikl, vežbe. Sve treba biti umerenog intenziteta, jer u suprotnom dolazi do povećanja kortizola (hormona stresa), a potom insulina što dovodi do gladi. Preporuka je da **fizičke aktivnosti budu oko 150 minuta nedeljno**;
 4. Redovan san - usled nedostatka sna povećava se nivo hormona gladi (Grelin), a potom sledi potreba sa hranom i rast insulina.
 
 

@@ -44,9 +44,9 @@ Aloe vera je prirodni laksativ koji može pomoći da se stimuliše pražnjenje 
 
 ## Kako koristiti Aloe Veru u slučaju zatvora
 
-Postoji nekoliko načina da se aloe vera koristi u slučaju problema sa zatvorom. Najčešći metod jeste upotreba [napitaka od aloe vere](/napici/), koji se može naći u prodavnicama zdrave hrane ili specijalizvanim internet prodavnicama. Važno je odabrati čist, organski sok od aloe vere koji ne sadrži nikakve aditive ili konzervanse. Počnite sa malom količinom, kao što je četvrtina šolje, i postepeno povećavajte dozu po potrebi.
+Postoji nekoliko načina da se aloe vera koristi u slučaju problema sa zatvorom. Najčešći metod jeste upotreba [napitaka od aloe vere](/napici/), koji se može naći u prodavnicama zdrave hrane ili specijalizovanim internet prodavnicama. Važno je odabrati čist, organski sok od aloe vere koji ne sadrži nikakve aditive ili konzervanse. Počnite sa malom količinom, kao što je četvrtina šolje, i postepeno povećavajte dozu po potrebi.
 
-Druga opcija je uzimanje kapsula ili tableta aloe vere, koje su dostupne u većini prodavnica zdrave hrane. Pridržavajte se preporučene doze na etiketi i pijte puno vode kako biste pomogli apsorpciju korisnih sastojaka.
+Druga opcija jeste uzimanje kapsula ili tableta aloe vere, koje su dostupne u većini prodavnica zdrave hrane. Pridržavajte se preporučene doze na etiketi i pijte puno vode kako biste pomogli apsorpciju korisnih sastojaka.
 
 <br>
 

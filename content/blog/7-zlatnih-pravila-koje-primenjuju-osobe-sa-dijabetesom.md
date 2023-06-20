@@ -2,7 +2,7 @@
 title: 7 zlatnih pravila koje primenjuju osobe sa dijabetesom
 tags: Ishrana po bolestima
 tagsMeta: Kako možemo korigovati svoj život u slučaju da smo oboleli od dijabetesa.
-excerpt: Da li osobe obolele od dijabetesa mogu živeti jednako kvaliteno, kao potpuno zdrave osobe?
+excerpt: Da li osobe obolele od dijabetesa mogu živeti jednako kvalitetno, kao potpuno zdrave osobe?
 created: 2022-09-13
 image: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg
 alt: "dijabetes tip 2"
@@ -66,7 +66,7 @@ Preporuka je 3 puta nedeljno vežbati po pola sata, a posebno se preporučuju tr
 1. Poboljšanje glikemijske kontrole;
 2. Unapređenje lipidnog profila;
 3. Povećanje mišićne mase;
-4. Povećanje kardio-respiracijske sposobnosti;
+4. Povećanje kardio-respiratorne sposobnosti;
 5. Smanjenje insulinske rezistencije;
 6. Povećanje snage;
 7. Smanjenje potrebe za lekovima.
@@ -93,13 +93,13 @@ Dijabetes tip 2 je izlečiv uz strogu disciplinu i lekarski nadzor. Lek za dijab
 Dijabetes tip 2 simptomi su: pojačana žeđ, suva usta i obilno mokrenje.
 
 
-Pored ova dva tipa dijabetesa imamo i gestacijski dijabetes koji se javlja od 24 do 28 nedelje trudnoće i nestaje nakon porodjaja. Najčešće 6 nedelja od porođaja se povlači, kada se hormoni vrate u normalu.
+Pored ova dva tipa dijabetesa imamo i gestacijski dijabetes koji se javlja od 24 do 28 nedelje trudnoće i nestaje nakon porođaja. Najčešće 6 nedelja od porođaja se povlači, kada se hormoni vrate u normalu.
 
 Insipidni dijabetes koji nastaje kao posledica nemogućnosti resorpcije vode u bubrežnim kanalima usled nedostatka ADH. Ovaj hormon luči hipofiza, a osnovna uloga je resorpciji vode u bubrezima.
  
 ## Dijabetes ishrana je ključ uspeha
 
-Dijabetičari uvek imaju i poremećaj masti u organizmu, kao rezulatat metaboličkog poremećaja. Preporuka Svetske zdravstvene organizacije da dijabetičari treba da održavaju telesnu masu najviše 10% iznad optimalne.
+Dijabetičari uvek imaju i poremećaj masti u organizmu, kao rezultat metaboličkog poremećaja. Preporuka Svetske zdravstvene organizacije da dijabetičari treba da održavaju telesnu masu najviše 10% iznad optimalne.
 
 Najbolji prirodni lek za dijabetes je mediteranska ishrana sa mnogo svežeg povrća, integralnih žitarica (celulozna biljna vlakna) i ribe. Isključiti unos ugljenih hidrata (brašna i šećera), usoljene, dimljene i konzervisane hrane. Unos soli treba da je do 2g dnevno. Obroci bi trebalo da su češći i manji. 
 
@@ -130,7 +130,7 @@ Visok nivo kortizola (hormon stresa) je znak da smo pod stresom. [Dr. Ričard Vi
 
 ## San je lek za telo
 
-Odmor i san su veoma bitni u kontroli glikemije, naročito noćni san od 22 časa do 3 časa ujutru kada se luči hormon melatonin, hormon regulacije sna i aktivnosti. Oko 86% ljudi koji imaju dijabetes tipa 2 imaju [opstruktivnu apneju](https://bs.approby.com/sleep-apnea-i-dijabetes/) (OSA). To je stanje u kojem ljudi tokom sna doživljavaju više pauza tokom disanja. Ovo se dešava jer se grlo i usta opuste tokom sna, najčešće zbog dodatnih masti u vratu. Terapija koja doprinosi rešenju ovog problema je CPAP, pomoću CPAP mašine. Ona doprinosi smanjenju glukoze u krvi.
+Odmor i san su veoma bitni u kontroli glikemije, naročito noćni san od 22 časa do 3 časa ujutru kada se luči hormon melatonin, hormon regulacije sna i aktivnosti. Oko 86% ljudi koji imaju dijabetes tipa 2 imaju [opstruktivnu apneu](https://bs.approby.com/sleep-apnea-i-dijabetes/) (OSA). To je stanje u kojem ljudi tokom sna doživljavaju više pauza tokom disanja. Ovo se dešava jer se grlo i usta opuste tokom sna, najčešće zbog dodatnih masti u vratu. Terapija koja doprinosi rešenju ovog problema je CPAP, pomoću CPAP mašine. Ona doprinosi smanjenju glukoze u krvi.
 
 Nedovoljno sna utiče na porast stresa i kortizola, a on na rast šećera u krvi. [Profesor Šahrad Taheri](https://zena.blic.rs/zdravlje/hronicni-manjak-sna-utice-i-na-pojavu-i-razvoj-dijabetesa-i-gojaznosti/xpvb3kt) iz Katara ukazuje da nedostatak sna može biti uzrok gojaznosti i pojave dijabetesa tipa 2.
 
@@ -180,10 +180,10 @@ Nedovoljno sna utiče na porast stresa i kortizola, a on na rast šećera u krvi
 
 ## Dijabetes je stil života
 
-Prema preporuci endokrinologa kada se utvrdi dijabetes bitno je raskrstiti sa starim životnim navikama: prejedenje, preskakanje obroka, uzimanje masne hrane, slatkiša i grickalica. Važno je promeniti navike ishrane, organizovati tako dan da obavezno imate vremena za 5 obroka i neku fizičku aktivnost. Ne zaboraviti uzeti lekarsku terapiju i naravno otići na vreme na spavanje, pre ponoći. Omogućite svom organizmu da se odmori, tako što ćete odspavati najmanje 7h u toku noći. Iako mislite da ste oboleli od preteške bolesti, Vama će najviše pomoći korekcija ishrane, lekarska terapija u život bez stresa. Naravno, neophodno je pratiti dodatna uputstva Vašeg lekara i obavljati redovne lekarske kontrole.
+Prema preporuci endokrinologa kada se utvrdi dijabetes bitno je raskrstiti sa starim životnim navikama: prejedanje, preskakanje obroka, uzimanje masne hrane, slatkiša i grickalica. Važno je promeniti navike ishrane, organizovati tako dan da obavezno imate vremena za 5 obroka i neku fizičku aktivnost. Ne zaboraviti uzeti lekarsku terapiju i naravno otići na vreme na spavanje, pre ponoći. Omogućite svom organizmu da se odmori, tako što ćete odspavati najmanje 7h u toku noći. Iako mislite da ste oboleli od preteške bolesti, Vama će najviše pomoći korekcija ishrane, lekarska terapija u život bez stresa. Naravno, neophodno je pratiti dodatna uputstva Vašeg lekara i obavljati redovne lekarske kontrole.
 
 <br>
 
-*Foografije: Unsplash, Freepik, Pixabay*
+*Fotografije: Unsplash, Freepik, Pixabay*
 
 </div>

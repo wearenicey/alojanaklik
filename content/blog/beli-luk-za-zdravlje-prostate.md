@@ -88,9 +88,9 @@ Ako tražite pogodan način da uključite beli luk u svoju svakodnevnu ishranu, 
 
 Svaka kapsula Forever Garlic-Thyme sadrži 300 mg koncentrata ulja belog luka, što je ekvivalentno približno 1 g svežeg belog luka. Ovo osigurava da sa svakom kapsulom dobijete snažnu dozu korisnih jedinjenja koje sadrži beli luk.
 
-Timijan, biljka poznata po svojim aromatičnim i lekovitim svojstvima, dopunjava beli luk u ovom dodatku. Zajedno, oni stvaraju moćnu mešavinu koja pomeže zdravlje prostate i opšte zdravstveno stanje organizma.
+Timijan, biljka poznata po svojim aromatičnim i lekovitim svojstvima, dopunjava beli luk u ovom dodatku. Zajedno, oni stvaraju moćnu mešavinu koja pozitivno utiče na zdravlje prostate i na opšte zdravstveno stanje organizma.
 
-Jednostavno uzmite jednu kapsulu dnevno uz obrok. Ova praktična i standardizovana doza osigurava da dobijete optimalnu količinu belog luka za zdravlje prostate bez potrebe za planiranjem ili pripremanjem obroka.
+Jednostavno, uzmite jednu kapsulu dnevno uz obrok. Ova praktična i standardizovana doza osigurava da dobijete optimalnu količinu belog luka bez potrebe za planiranjem ili pripremanjem obroka.
 
 <br>
 
@@ -139,7 +139,7 @@ Jednostavno uzmite jednu kapsulu dnevno uz obrok. Ova praktična i standardizova
 
 <br>
 
-Forever Garlic-Thyme proizvodi Forever Living Products, kompanija od poverenja poznata je po svojoj posvećenosti kvalitetu i prirodnim sastojcima. Međutim, važno je napomenuti da, iako suplementi mogu pružiti dodatnu podršku, oni ne bi trebalo da zamene uravnoteženu ishranu ili medicinski savet. Uvek se konsultujte sa vašim lekarom pre nego što započnete bilo koji novi režim suplemenata.
+Forever Garlic-Thyme proizvodi kompanija Forever Living Products. Ova kompanija od poverenja poznata je po svojoj posvećenosti kvalitetu i prirodnim sastojcima. Međutim, važno je napomenuti da, iako suplementi mogu pružiti dodatnu podršku, oni ne bi trebalo da zamene uravnoteženu ishranu ili medicinski savet. Uvek se konsultujte sa vašim lekarom pre nego što započnete bilo koji novi režim suplemenata.
 
 ## Dodatni saveti za zdravlje prostate
 
@@ -165,11 +165,11 @@ Dok je beli luk moćan saveznik, drugi prirodni dodaci, kao što su palmeto, pi
 ![Beli luk i prostata](./images/beli-luk-i-prostata-2.webp)
 
 
-Beli luk, sa svojim impresivnim nizom zdravstvenih prednosti, pojavljuje se kao prirodna superhrana za zdravlje prostate. Od smanjenja upale i zaštite ćelija od oksidativnog stresa do potencijalnog inhibicije rasta ćelija raka prostate, beli luk nudi sveobuhvatne prednosti. Uključivanjem belog luka u vašu ishranu i usvajanjem određenih promena u životnom stzilu, možete preduzeti proaktivne korake ka održavanju zdrave prostate.
+Beli luk, sa svojim impresivnim nizom zdravstvenih prednosti, pojavljuje se kao prirodna superhrana za zdravlje prostate. Od smanjenja upale i zaštite ćelija od oksidativnog stresa do potencijalnog inhibicije rasta ćelija raka prostate, beli luk nudi sveobuhvatne prednosti. Uključivanjem belog luka u vašu ishranu i usvajanjem određenih promena u životnom stilu, možete preduzeti proaktivne korake ka održavanju zdrave prostate.
 
 Forever Garlic-Thyme suplement sa belim lukom i timijanom pruža zgodan način da uključite beli luk u vašu rutinu, nudeći prednosti belog luka i timijana u jednostavnom obliku kapsula. Međutim, važno je zapamtiti da suplementi ne bi trebalo da zamene uravnoteženu ishranu ili medicinske savete. Uvek se konsultujte sa vašim lekarom pre nego što napravite bilo kakve značajne promene u vašoj ishrani ili planovima lečenja.
 
-Prihvatite beli luk kao aromatičan i moćan prirodni lek za zdravlje prostate i uživajte u prednostima koje on donosi vašem opštem zdravstvenom stanju. Uz pravo znanje i proaktivne korake, veoma jednostaveno možete dati prioritet zdravlju prostate.
+Prihvatite beli luk kao aromatičan i moćan prirodni lek za zdravlje prostate i uživajte u prednostima koje on donosi vašem opštem zdravstvenom stanju. Uz pravo znanje i proaktivne korake, veoma jednostavno možete dati prioritet zdravlju prostate.
 
 
 <br>

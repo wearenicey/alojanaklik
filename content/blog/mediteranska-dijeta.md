@@ -58,7 +58,7 @@ Mediteranska ishrana je povezana sa poboljšanim kognitivnim funkcijama i smanje
 
 - **Promovisanje gubitka težine**
 
-Mediteranska dijeta nije strog plan sa ograničenim unosom kalorija, ali naglašava cjelovitu hranu koja je zasitna i zadovoljavajuća. Ovo može pomoći da se smanji prejedanje i podstakne gubitak težine na duži rok.
+Mediteranska dijeta nije strog plan sa ograničenim unosom kalorija, ali naglašava hranu koja je će Vas zasititi. Ovo može pomoći da se smanji prejedanje i podstakne gubitak težine na duži rok.
 
 - **Smanjenje rizika od dijabetesa**
 
@@ -121,7 +121,7 @@ Sprovođenje mediteranske dijete može pomoći u poboljšanju osetljivosti na i
 
 - Ova dijeta za mršavljenje **nema strog jelovnik** - nije strogo restriktivna, ni oskudna po pitanju raznovrsnosti namirnica;
 - Poboljšava **moždanu aktivnost** jer je bogata namirnicama punim antioksidansima;
-- Omogućava trajno rešenje problema **suvišnih kilograma** u dužem vremenkom periodu;
+- Omogućava trajno rešenje problema **suvišnih kilograma** u dužem vremenskom periodu;
 - Nema **osećaja gladi** zbog unosa integralnih žitarica i mahunarki u skromnim porcijama;
 - Nema **prejedanja** i poremećaja u ishrani jer su porcije male;
 - Zasnovana je na povrću i vlaknastoj hrani te **reguliše probavu** i varenje;
@@ -129,7 +129,7 @@ Sprovođenje mediteranske dijete može pomoći u poboljšanju osetljivosti na i
 - Nisu potrebni nikakvi dodatni lekarski pregledi, jer **nije agresivna**;
 - Zahteva minimalne fizičke aktivnosti 3-4 puta nedeljno po 30 minuta.
 
-Najčešći kozumenti ove dijete su osobe koje bore sa većim viškom kilograma duže vreme, osobe koje žele da žive zdravim načinom života, osobe koje se leče ili radi preventive od kardiovaskularnih bolest, osobe koje vole jednostavne obroke.
+Najčešći konzumenti ove dijete su osobe koje bore sa većim viškom kilograma duže vreme, osobe koje žele da žive zdravim načinom života, osobe koje se leče ili radi preventive od kardiovaskularnih bolest, osobe koje vole jednostavne obroke.
 
 <br>
 

@@ -29,7 +29,7 @@ featured: false
   </div>
 </div>
 
-Oduševljeni ste prizorom i belinom zuba osobe koju ste upravo upoznali i pitate se: „Kako doći do tako lepog osmeha?“  Da li ste umorni od skrivanja zuba na fotografijama ili od potpunog izbegavanja osmeha? Ako jeste, niste sami. Izbeljivanje zuba je uobičajena briga mnogih ljudi, jer blistav i zdrav osmeh može u velikoj meri poboljšati nečije samopouzdanje i izgled. Milioni ljudi širom sveta bore se sa obezbojenim zubima. Razumevanje uzroka koji dovode do promene boje zuba i načina na koji to možemo usporiti ili sprečiti je ključno za održavanje belog i zdravog osmeha. 
+Oduševljeni ste prizorom i belinom zuba osobe koju ste upravo upoznali i pitate se: „Kako doći do tako lepog osmeha?“  Da li ste umorni od skrivanja zuba na fotografijama ili od potpunog izbegavanja osmeha? Ako jeste, niste sami. Izbeljivanje zuba je uobičajena briga mnogih ljudi, jer blistav i zdrav osmeh može u velikoj meri poboljšati nečije samopouzdanje i izgled. Milioni ljudi širom sveta bore se sa ovim problemom. Razumevanje uzroka koji dovode do promene boje zuba i načina na koji to možemo usporiti ili sprečiti je ključno za održavanje belog i zdravog osmeha. 
 
 Da li je neophodno posetiti stomatologa ili dobar rezultat **izbeljivanja zuba** možete postići i kod kuće? Odgovor je potvrdan, postoji više načina da dođete do blistavo belih zuba.
 
@@ -90,7 +90,7 @@ Postoje takozvane [trakice za izbeljivanje zuba](https://www.healthline.com/heal
 - Pod dejstvom toplote usne duplje, dolazi do razgradnje hidrogena na aktivni kiseonik i vodu. Molekuli kiseonika ulaze u zubnu gleđ, potom, oksidacijom se stvaraju mehurići koji izbeljuju i spiraju flekice i mrlje sa zuba.
 - Za bolju efikasnost preporučuje se da izvršite skidanje kamenca, uklanjanje naslaga i poliranje zuba kod stomatologa, pre samog korišćenja trakica za izbeljivanje zuba.
 
-**Napomena:** Koršćenje ovih trakica je uglavnom bezbedno za upotrebu, ukoliko sledite uputstvo na pakovanju. **Neželjeni efekti** su mogući ukoliko ih koristite češće nego što je propisano ili ako ih ostavite duže od preporučenog vremena na zubima.
+**Napomena:** Koršićenje ovih trakica je uglavnom bezbedno za upotrebu, ukoliko sledite uputstvo na pakovanju. **Neželjeni efekti** su mogući ukoliko ih koristite češće nego što je propisano ili ako ih ostavite duže od preporučenog vremena na zubima.
 Najčešći neželjeni efekti su iritacija desni i nelagodnost izazvana preosetljivošću zuba. Drugi mogući neželjeni efekti su: erozija plombi, oštećenje proteza, promena u gleđi kao i povećana hrapavost zuba.
 
 
@@ -119,7 +119,7 @@ Obzirom da je ovaj tretman potpuno prirodan i da nema neželjene efekte, možete
 
 **Izbeljivanje zuba uz pomoć jagoda**
 
-Jagode sadrže maličnu kiselinu i to je razlog zbog kojeg one mogu biti od koristi u izbeljivanju zuba. Zajedno sa jagodom, za bolji efekat, malična kiselina korisi se u kombinaciji sa **sodom bikarbonom**.
+Jagode sadrže maličnu kiselinu i to je razlog zbog kojeg one mogu biti od koristi u izbeljivanju zuba. Zajedno sa jagodom, za bolji efekat, malična kiselina koristi se u kombinaciji sa **sodom bikarbonom**.
 
 **Primena:** Izgnječenoj jagodi dodajte kašičicu sode bikarbone i mešajte dok ne dobijete ujednačenu masu. Nakon toga, dobijenu smesu stavite na četkicu za zube i trljajte zube 5 minuta.
 
@@ -153,7 +153,7 @@ Takodje, kurkuma je jedan od najjačih prirodnih antiseptika i učiniće dosta i
 
 ## Namirnice koje će nam pomoći u izbeljivanju zuba.
 
-**Hrskovo voće i povrće** kao što su **jabuke**, **krastavac**, **celer** i **šargarepa**, pored toga što će učiniti dobre stvari za opšte stanje organizma, učiniće i Vaše zube beljim jer ćete njihovim konzumiranjem sa lakoćom skinuti mrlje i nečistoće.
+**Hrskavo voće i povrće** kao što su **jabuke**, **krastavac**, **celer** i **šargarepa**, pored toga što će učiniti dobre stvari za opšte stanje organizma, učiniće i Vaše zube beljim jer ćete njihovim konzumiranjem sa lakoćom skinuti mrlje i nečistoće.
 
 U zaključku, razumevanje uzroka bojenja zuba i načina na koji to sprečiti je ključno za održavanje belog i zdravog osmeha. Praćenjem dobre oralne higijene, izbegavanjem ili ograničavanjem bojenja hrane i pića i redovnim posetama stomatologu, možete znatno smanjiti rizik od promene boje zuba i poboljšati ukupan izgled svog osmeha. Ako već imate obojenost zuba, postoji nekoliko opcija lečenja koje će vam pomoći da osvetlite vaš osmeh, tako da ne oklevajte da razgovarate sa svojim stomatologom o vašim mogućnostima. 
 Takođe, oko nas postoje raznorazne namirnice kojima možemo da saniramo ili usporimo pojavu mrlja na zubima.
