@@ -133,6 +133,6 @@ Takođe, danas su na internetu dostupni odlični [recepti za anti kandida dijetu
 Prekomerni rast kandide može biti frustrirajući i iscrpljujući problem, ali ako pratite dijetu za čišćenje kandide, možete uspostaviti ravnotežu u svom telu i ublažiti simptome. Izbegavajući hranu koja hrani kandidu i umesto toga fokusirajući se na hranu koja podržava rast korisnih bakterija, možete preuzeti kontrolu nad svojim zdravljem i osećati se bolje za kratko vreme.
 
 <br>
-*Fotografije: Freepik, Unsplash, Pixabay*
+Fotografije: Freepik, Unsplash, Pixabay.
 
 </div>

@@ -25,7 +25,7 @@ featured: false
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Razlika između reume i artritisa.</li>
       <li>Uzroci reume i artritisa.</li>
-      <li>Kako se dijagnostikuju i leče euma i artritis?</li>
+      <li>Kako se dijagnostikuju i leče reuma i artritis?</li>
 			<li>Pravilna ishrana i prirodni suplementi.</li>
 		</ul>
   </div>
