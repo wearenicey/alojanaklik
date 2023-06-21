@@ -30,7 +30,7 @@ featured: true
 </div>
 
 
-## Sveobuhvatni vodič za Aloe Veru u slučaju zatvora zatvor
+## Sveobuhvatni vodič za Aloe Veru u slučaju zatvora
 
 Na alojanaklik.rs razumemo koliko zatvor može biti frustrirajući i neprijatan. Zato smo sastavili ovaj sveobuhvatan vodič za aloe veru, prirodni lek koji se vekovima koristi za ublažavanje opstipacije. U ovom članku ćemo istražiti prednosti aloe vere u slučaju zatvora, kako je koristiti, kao i potencijalne neželjene efekte.
 
