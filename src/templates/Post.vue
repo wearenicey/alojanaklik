@@ -1,6 +1,18 @@
 <template>
 	<Layout>
 		<article class="padding-y-xxl">
+			<div v-if="showModal" class="modal" @click="closeModal">
+				<div class="modal-content" @click.stop>
+					<span class="close-icon padding-xs icon--md" @click="closeModal">&times;</span>
+					<h3 class="margin-bottom-xs">Otkrijte Zdraviji Životni Stil</h3>
+					<img class="radius-md" :src="modalData.image" alt="Modal Image" />
+					<p class="text-base font-bold margin-top-md margin-bottom-xs">Da li ste spremni za započinjanje puta ka boljem zdravlju i blagostanju?
+					</p>
+					<p class="text-sm margin-bottom-md">Pratite nas na Instagramu za svakodnevnu inspiraciju, vredne savete i stručne smernice od vodećih zdravstvenih stručnjaka.</p>
+					<button class="btn btn--accent" @click="followOnInstagram">Zapratite nas na Instagramu</button>
+				</div>
+			</div>
+
 			<header class="container max-width-xs margin-bottom-lg">
 				<div
 					class="
@@ -161,6 +173,66 @@ export default {
 	},
 	destroyed() {
 		document.getElementById("main-header-js").remove();
+	},
+
+	data() {
+		return {
+			showModal: false,
+			modalData: {
+				headline: "Otkrijte Zdraviji Životni Stil",
+				paragraph: "Da li ste spremni za započinjanje puta ka boljem zdravlju i blagostanju? Pratite nas na Instagramu za svakodnevnu inspiraciju, vredne savete i stručne smernice od vodećih zdravstvenih stručnjaka.",
+				image: "/assets/img/slika-3.jpg"
+			}
+		};
+	},
+	mounted() {
+		setTimeout(() => {
+			this.showModal = true;
+		}, 6000);
+	},
+	methods: {
+		closeModal() {
+			this.showModal = false;
+		},
+		followOnInstagram() {
+			// Code to handle the follow action on Instagram
+		}
 	}
 };
 </script>
+
+<style>
+/* CSS styles for the modal */
+.modal {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 999;
+}
+
+.modal-content {
+	width: 512px;
+	height: auto;
+	background-color: #fff;
+	margin: 24px;
+	padding: 48px;
+	border-radius: 16px;
+	position: relative;
+}
+
+.close-icon {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+	font-size: 24px;
+}
+
+/* Additional styles for the rest of your blog posts */
+</style>
