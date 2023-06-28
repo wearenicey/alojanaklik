@@ -1,7 +1,7 @@
 <template>
 	<Layout>
 		<article class="padding-y-xxl">
-			<div v-if="showModal" class="modal" @click="closeModal">
+			<!-- <div v-if="showModal" class="modal" @click="closeModal">
 				<div class="modal-content" @click.stop>
 					<span class="close-icon padding-xs icon--md" @click="closeModal">&times;</span>
 					<h3 class="margin-bottom-xs">Otkrijte Zdraviji Životni Stil</h3>
@@ -11,7 +11,7 @@
 					<p class="text-sm margin-bottom-md">Pratite nas na Instagramu za svakodnevnu inspiraciju, vredne savete i stručne smernice od vodećih zdravstvenih stručnjaka.</p>
 					<button class="btn btn--accent" @click="followOnInstagram">Zapratite nas na Instagramu</button>
 				</div>
-			</div>
+			</div> -->
 
 			<header class="container max-width-xs margin-bottom-lg">
 				<div
