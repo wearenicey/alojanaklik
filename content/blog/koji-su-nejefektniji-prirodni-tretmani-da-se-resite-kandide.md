@@ -84,7 +84,7 @@ Prirodni lek protiv kandide u ustima su razni rastvori kojima se ispira usna dup
 
 Ispiranje možete raditi i tako što ćete par kapi eteričnog ulja čajevca rastvoriti u čaši vode. Budite samo oprezni da ne gutate ovaj rastvor. 
 
-Ulje karanfilića u tretiranju oralne kandide prema nekim studijama podjednako je efikasno kao i tzv. kandida nistatin tablete. 
+Ulje karanfilića u tretiranju oralne kandide prema nekim [studijama](https://pubmed.ncbi.nlm.nih.gov/19589904/) ima određene pozitivne rezuiltate. 
 
 Jednostavan napitak protiv nabujale kandide možete napraviti tako što ćete jednu kašičicu mlevenog karanfilića potopiti sa 200 ml ključale vode. Posle 5 minuta ga procedite i koristite za ispiranje usta, nakon čega ćete ga ispljunuti.
 
