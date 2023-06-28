@@ -29,7 +29,7 @@ recommended: true
   </div>
 </div>
 
-Verovatno ste primetili da živimo u vremenu gde bi neki ljudi taj period okarakterisali kao period gubitka iskonskih, ljudskih vrednosti kao što su: čast, poštenje, ljubav ili iskrenost. Veoma često čujete da je za neke ljude potpuno normalno zarad reputacije, karijere ili novca posramiti drugog čoveka, ugroziti mu dostojanstvo, čast i zadovoljiti sujetu. Da li je duševni bol jači od fizičkog? Skoro pa uvek jeste! Ne postoji fizička merna jedinica za duševni bol, mada je on uzrok nekih fizičkih bolova i oboljenja nekih organa (srca, nerava, želuca).
+Verovatno ste primetili da živimo u vremenu gde bi neki ljudi taj period okarakterisali kao period gubitka iskonskih, ljudskih vrednosti kao što su: čast, poštenje, ljubav ili iskrenost. Veoma često čujete da je za neke ljude potpuno normalno zarad reputacije, karijere ili novca posramiti drugog čoveka, ugroziti mu dostojanstvo, čast i zadovoljiti sujetu. Da li je duševni bol jači od fizičkog? Skoro pa uvek jeste! Ne postoji fizička merna jedinica za duševni bol, mada je on uzrok nekih fizičkih bolova i oboljenja nekih organa (srca, nerava, sistema organa za varenje...).
 
 **Bol je individualno, subjektivno i neprijatno osećanje** koje nastaje usled predstojećih oštećenja tkiva, trenutnih oštećenja tkiva ili psiholoških uzroka. Karakterističan je za sve bolesti i povrede.
 
@@ -39,8 +39,8 @@ Bol u grudima vezujemo uglavnom za srčane bolesti, mada postoje i drugi razlozi
 
 Na osnovu lokaliteta , intenziteta i učestalosti bola, kao i pratećih simptoma veoma lako se može utvrditi **da li se radi o bolu u grudima koji vas životno ugrožava ili ne**? To su obično:
 
-- srčane i koronarne bolesti (disekcija aorte, infarkt srca, angina pektoris, poremećaj srčanog ritma i prisustvo srčanih zalizaka) ili
-- plućne bolesti (upala pluća, plućne maramice, pneumotoraks – prisustvo vazduha u plućima, plućna tromboembolija).
+- srčane i koronarne bolesti (disekcija aorte, infarkt srca, angina pektoris...) ili
+- plućne bolesti (upala pluća, plućne maramice, pneumotoraks – prisustvo vazduha u plućima, plućna tromboembolija...).
 
 ## Razlikujemo tri vrste bezopasnog bola u grudima
 
