@@ -6,64 +6,14 @@
 			</div>
 		</section>
 
-		<section class="products-gallery-v2 padding-bottom-lg padding-top-md bg-secondary">
-			<div class="container max-width-adaptive-lg">
-				<div class="flex flex-column gap-lg flex-row@md">
-					<div class="flex-grow">
-						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Suplementi</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
-						</div>
-					</div>
-					<!-- <div class="flex-grow padding-top-md padding-top-0@md">
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
-					</div> -->
-				</div>
-			</div>
-		</section>
-		<section class="bg-secondary">
-			<div class="container max-width-adaptive-lg padding-bottom-xxl">
-				<div class="grid gap-sm gap-md@md">
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/dodaci-ishrani/forever-daily/" style="background-image: url(../forever-daily.jpg)" aria-label="Link description">
-						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
-							<div class="padding-sm text-center">
-								<p class="color-white">Forever Daily</p>
-							</div>
-						</div>
-					</g-link>
 
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/dodaci-ishrani/forever-fokus-aloja/" style="background-image: url(../forever-fokus.jpg)" aria-label="Link description">
-						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
-							<div class="padding-sm text-center">
-								<p class="color-white">Forever Fokus</p>
-							</div>
-						</div>
-					</g-link>
-
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/dodaci-ishrani/supergreens/" style="background-image: url(../supergreens.jpg)" aria-label="Link description">
-						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
-							<div class="padding-sm text-center">
-								<p class="color-white">Superbilje</p>
-							</div>
-						</div>
-					</g-link>
-
-					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/dodaci-ishrani/" aria-label="Link description">
-						<div class="margin-y-auto margin-x-auto">
-							<div class="padding-sm text-center">
-								<p class="color-primary text-md">Kliknite za više proizvoda</p>
-							</div>
-						</div>
-					</g-link>
-				</div>
-			</div>
-		</section>
 
 		<section class="products-gallery-v2 padding-bottom-lg padding-top-xl bg-secondary-dark">
 			<div class="container max-width-adaptive-lg">
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Lična higijena</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Aloe Vera napici</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
 				</div>
@@ -72,31 +22,28 @@
 		<section class="bg-secondary-dark">
 			<div class="container max-width-adaptive-lg padding-bottom-xxl">
 				<div class="grid gap-sm padding-bottom-md">
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-higijenu/pasta-za-zube/" style="background-image: url(../pasta-za-zube.jpg)" aria-label="Link description">
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/napici/aloja-vera-gel/" style="background-image: url(../aloe-vera-gel.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
-								<p class="color-white">Pasta za zube</p>
+								<p class="color-white">Aloe vera gel</p>
 							</div>
 						</div>
 					</g-link>
-
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-higijenu/sampon/" style="background-image: url(../sampon.jpg)" aria-label="Link description">
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/napici/aloe-mango/" style="background-image: url(../aloe-mango.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
-								<p class="color-white">Šampon za kosu</p>
+								<p class="color-white">Aloe vera gel Mango</p>
 							</div>
 						</div>
 					</g-link>
-
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-higijenu/nega-za-usne/" style="background-image: url(../nega-za-usne.jpg)" aria-label="Link description">
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/napici/aloe-berry/" style="background-image: url(../aloe-berry.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
-								<p class="color-white">Nega za usne</p>
+								<p class="color-white">Aloe vera gel Berry</p>
 							</div>
 						</div>
 					</g-link>
-
-					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/preparati-za-higijenu/" aria-label="Link description">
+					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/napici/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-primary text-md">Kliknite za više proizvoda</p>
@@ -153,42 +100,49 @@
 			</div>
 		</section>
 
-		<section class="products-gallery-v2 padding-bottom-lg padding-top-xl bg-secondary-dark">
+
+		<section class="products-gallery-v2 padding-bottom-lg padding-top-md bg-secondary">
 			<div class="container max-width-adaptive-lg">
 				<div class="flex flex-column gap-lg flex-row@md">
 					<div class="flex-grow">
 						<div class="text-component text-left@lg color-primary">
-							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Aloe Vera napici</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Suplementi</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
 						</div>
 					</div>
+					<!-- <div class="flex-grow padding-top-md padding-top-0@md">
+						<g-link to="/dodaci-ishrani/" class="btn btn--primary flex flex-grow btn--md margin-right-md@md margin-bottom-xs">Pogledaj više</g-link>
+					</div> -->
 				</div>
 			</div>
 		</section>
-		<section class="bg-secondary-dark">
+		<section class="bg-secondary">
 			<div class="container max-width-adaptive-lg padding-bottom-xxl">
-				<div class="grid gap-sm padding-bottom-md">
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/napici/aloja-vera-gel/" style="background-image: url(../aloe-vera-gel.jpg)" aria-label="Link description">
+				<div class="grid gap-sm gap-md@md">
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/dodaci-ishrani/forever-daily/" style="background-image: url(../forever-daily.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
-								<p class="color-white">Aloe vera gel</p>
+								<p class="color-white">Forever Daily</p>
 							</div>
 						</div>
 					</g-link>
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/napici/aloe-mango/" style="background-image: url(../aloe-mango.jpg)" aria-label="Link description">
+
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/dodaci-ishrani/forever-fokus-aloja/" style="background-image: url(../forever-fokus.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
-								<p class="color-white">Aloe vera gel Mango</p>
+								<p class="color-white">Forever Fokus</p>
 							</div>
 						</div>
 					</g-link>
-					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/napici/aloe-berry/" style="background-image: url(../aloe-berry.jpg)" aria-label="Link description">
+
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/dodaci-ishrani/supergreens/" style="background-image: url(../supergreens.jpg)" aria-label="Link description">
 						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
 							<div class="padding-sm text-center">
-								<p class="color-white">Aloe vera gel Berry</p>
+								<p class="color-white">Superbilje</p>
 							</div>
 						</div>
 					</g-link>
-					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/napici/" aria-label="Link description">
+
+					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/dodaci-ishrani/" aria-label="Link description">
 						<div class="margin-y-auto margin-x-auto">
 							<div class="padding-sm text-center">
 								<p class="color-primary text-md">Kliknite za više proizvoda</p>
@@ -198,6 +152,60 @@
 				</div>
 			</div>
 		</section>
+
+
+
+		<section class="products-gallery-v2 padding-bottom-lg padding-top-xl bg-secondary-dark">
+			<div class="container max-width-adaptive-lg">
+				<div class="flex flex-column gap-lg flex-row@md">
+					<div class="flex-grow">
+						<div class="text-component text-left@lg color-primary">
+							<h2 class="white-text-one color-quaternary-darker font-secondary text-xl"><strong>Lična higijena</strong> - počnite od danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</h2>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="bg-secondary-dark">
+			<div class="container max-width-adaptive-lg padding-bottom-xxl">
+				<div class="grid gap-sm padding-bottom-md">
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-higijenu/pasta-za-zube/" style="background-image: url(../pasta-za-zube.jpg)" aria-label="Link description">
+						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center">
+								<p class="color-white">Pasta za zube</p>
+							</div>
+						</div>
+					</g-link>
+
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-higijenu/sampon/" style="background-image: url(../sampon.jpg)" aria-label="Link description">
+						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center">
+								<p class="color-white">Šampon za kosu</p>
+							</div>
+						</div>
+					</g-link>
+
+					<g-link class="card-v11 col-3@md col-6 radius-lg" to="/preparati-za-higijenu/nega-za-usne/" style="background-image: url(../nega-za-usne.jpg)" aria-label="Link description">
+						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center">
+								<p class="color-white">Nega za usne</p>
+							</div>
+						</div>
+					</g-link>
+
+					<g-link class="flex justify-center items-center col-3@md col-6 radius-lg" to="/preparati-za-higijenu/" aria-label="Link description">
+						<div class="margin-y-auto margin-x-auto">
+							<div class="padding-sm text-center">
+								<p class="color-primary text-md">Kliknite za više proizvoda</p>
+							</div>
+						</div>
+					</g-link>
+				</div>
+			</div>
+		</section>
+
+	
+
 
 		<section class="products-gallery-v2 padding-bottom-lg padding-top-xl bg-secondary">
 			<div class="container max-width-adaptive-lg">

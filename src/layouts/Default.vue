@@ -33,10 +33,10 @@
 								</g-link>
 
 								<ul class="f-header__dropdown">
-									<li><g-link to="/dodaci-ishrani/" class="f-header__dropdown-link">Suplementi</g-link></li>
-									<li><g-link to="/preparati-za-higijenu/" class="f-header__dropdown-link">Lična higijena</g-link></li>
-									<li><g-link to="/mrsavljenje/" class="f-header__dropdown-link">Preparati za mršavljenje</g-link></li>
 									<li><g-link to="/napici/" class="f-header__dropdown-link">Aloe Vera napici</g-link></li>
+									<li><g-link to="/mrsavljenje/" class="f-header__dropdown-link">Preparati za mršavljenje</g-link></li>
+									<li><g-link to="/dodaci-ishrani/" class="f-header__dropdown-link">Suplementi</g-link></li>
+									<li><g-link to="/preparati-za-higijenu/" class="f-header__dropdown-link">Lična higijena</g-link></li>	
 									<li><g-link to="/preparati-za-negu-koze/" class="f-header__dropdown-link">Nega kože</g-link></li>
 									<li><g-link to="/pcelinji-proizvodi/" class="f-header__dropdown-link">Pčelinji proizvodi</g-link></li>
 								</ul>
