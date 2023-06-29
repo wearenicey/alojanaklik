@@ -164,6 +164,7 @@ export default {
 	destroyed() {
 		document.getElementById("main-header-js").remove();
 	}
+}
 
 // 	data() {
 // 		return {
@@ -188,6 +189,7 @@ export default {
 // 		}
 // 	}
 // };
+
 </script>
 
 <style>
