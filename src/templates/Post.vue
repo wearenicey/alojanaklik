@@ -1,17 +1,7 @@
 <template>
 	<Layout>
 		<article class="padding-y-xxl">
-			<!-- <div v-if="showModal" class="modal" @click="closeModal">
-				<div class="modal-content" @click.stop>
-					<span class="close-icon padding-xs icon--md" @click="closeModal">&times;</span>
-					<h3 class="margin-bottom-xs">Otkrijte Zdraviji Životni Stil</h3>
-					<img class="radius-md" :src="modalData.image" alt="Modal Image" />
-					<p class="text-base font-bold margin-top-md margin-bottom-xs">Da li ste spremni za započinjanje puta ka boljem zdravlju i blagostanju?
-					</p>
-					<p class="text-sm margin-bottom-md">Pratite nas na Instagramu za svakodnevnu inspiraciju, vredne savete i stručne smernice od vodećih zdravstvenih stručnjaka.</p>
-					<button class="btn btn--accent" @click="followOnInstagram">Zapratite nas na Instagramu</button>
-				</div>
-			</div> -->
+
 
 			<header class="container max-width-xs margin-bottom-lg">
 				<div
@@ -173,32 +163,31 @@ export default {
 	},
 	destroyed() {
 		document.getElementById("main-header-js").remove();
-	},
-
-	data() {
-		return {
-			showModal: false,
-			modalData: {
-				headline: "Otkrijte Zdraviji Životni Stil",
-				paragraph: "Da li ste spremni za započinjanje puta ka boljem zdravlju i blagostanju? Pratite nas na Instagramu za svakodnevnu inspiraciju, vredne savete i stručne smernice od vodećih zdravstvenih stručnjaka.",
-				image: "/assets/img/slika-3.jpg"
-			}
-		};
-	},
-	mounted() {
-		setTimeout(() => {
-			this.showModal = true;
-		}, 6000);
-	},
-	methods: {
-		closeModal() {
-			this.showModal = false;
-		},
-		followOnInstagram() {
-			// Code to handle the follow action on Instagram
-		}
 	}
-};
+
+// 	data() {
+// 		return {
+// 			showModal: false,
+// 			modalData: {
+// 				headline: "Otkrijte Zdraviji Životni Stil",
+// 				paragraph: "Da li ste spremni za započinjanje puta ka boljem zdravlju i blagostanju? Pratite nas na Instagramu za svakodnevnu inspiraciju, vredne savete i stručne smernice od vodećih zdravstvenih stručnjaka.",
+// 				image: "/assets/img/slika-3.jpg"
+// 			}
+// 		};
+// 	},
+// 	mounted() {
+// 		setTimeout(() => {
+// 			this.showModal = true;
+// 		}, 6000);
+// 	},
+// 	methods: {
+// 		closeModal() {
+// 			this.showModal = false;
+// 		},
+// 		followOnInstagram() {
+// 		}
+// 	}
+// };
 </script>
 
 <style>
