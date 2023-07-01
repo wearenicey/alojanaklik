@@ -80,9 +80,9 @@ Druga opcija jeste uzimanje kapsula ili tableta aloe vere, koje su dostupne u ve
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="/dodaci-ishrani/forever-fiber/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link href="/dodaci-ishrani/forever-fiber/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
-				</a>
+				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
 		</div>
@@ -137,9 +137,9 @@ Aloe vera je prirodan i efikasan lek za zatvor koji se koristi vekovima. Sadrži
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="/dodaci-ishrani/probiotik-forever-living/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link href="/dodaci-ishrani/probiotik-forever-living/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
-				</a>
+				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
 		</div>

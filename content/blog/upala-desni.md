@@ -145,9 +145,9 @@ Veoma cenjena **pasta za upalu desni** na našem tržištu je pasta [FOREVER BRI
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="/preparati-za-higijenu/pasta-za-zube/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link href="/preparati-za-higijenu/pasta-za-zube/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
-				</a>
+				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
 		</div>

@@ -106,9 +106,9 @@ Tri od četiri žene iskuse vaginalnu kandidijazu u nekom trenutku života prema
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="/dodaci-ishrani/vitlize-zene/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link href="/dodaci-ishrani/vitlize-zene/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
-				</a>
+				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
 		</div>
@@ -215,9 +215,9 @@ Postoji nekoliko koraka koje možete preduzeti da [sprečite](https://www.health
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="/dodaci-ishrani/vitolize-muskarci/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link href="/dodaci-ishrani/vitolize-muskarci/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
-				</a>
+				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
 		</div>

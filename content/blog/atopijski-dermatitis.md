@@ -116,9 +116,9 @@ Pored medicinskih tretmana, postoje i promene u načinu života koje mogu biti o
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="/preparati-za-higijenu/avokado-sapun/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link href="/preparati-za-higijenu/avokado-sapun/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
-				</a>
+				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
 		</div>
@@ -181,9 +181,9 @@ Nema leka za atopijski dermatitis, ali postoji niz tretmana koji mogu ublažiti 
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="/preparati-za-negu-koze/aloe-gelly/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link href="/preparati-za-negu-koze/aloe-gelly/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
-				</a>
+				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
 		</div>
