@@ -117,8 +117,8 @@ Takođe, danas su na internetu dostupni odlični [recepti za anti kandida dijetu
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/dodaci-ishrani/11842/forever-active-pro-b/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
-					Kupite danas
+				<a href="/dodaci-ishrani/probiotik-forever-living/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Saznajte više
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>

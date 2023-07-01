@@ -144,8 +144,8 @@ I na samom kraju, da li je **dijabetes tip 2 izlečiv**?
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/dodaci-ishrani/11620/aloe-blossom-herbal-tea/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
-					Kupite danas
+				<a href="/napici/aloe-tea/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Saznajte više
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>

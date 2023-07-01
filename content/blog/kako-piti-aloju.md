@@ -97,8 +97,8 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/napici/12507/forever-aloe-berry-nectar/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
-					Kupite danas
+				<a href="/napici/aloe-berry/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+					Saznajte više
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
@@ -168,8 +168,8 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/dodaci-ishrani/11837/forever-aloe-vera-gel/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
-					Kupite danas
+				<a href="/napici/aloja-vera-gel/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+					Saznajte više
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
@@ -214,8 +214,8 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/nega-koze/11689/aloe-first/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
-					Kupite danas
+				<a href="/preparati-za-negu-koze/aloe-first/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+					Saznajte više
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
@@ -260,8 +260,8 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/nega-koze/11696/aloe-moisturizing-lotion/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
-					Kupite danas
+				<a href="/preparati-za-negu-koze/hidratantni-losion/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+					Saznajte više
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
@@ -309,8 +309,8 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/nega-koze/11694/aloe-vera-gelly/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
-					Kupite danas
+				<a href="/preparati-za-negu-koze/aloe-gelly/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+					Saznajte više
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
