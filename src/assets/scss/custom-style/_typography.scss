@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;600&family=Livvic:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=Ysabeau+Office:wght@400&display=swap');
 
 :root {
 	// font family
-	--font-primary: "Livvic", sans-serif;
-	--font-secondary: "Inter", sans-serif;
+	--font-primary: "Ysabeau Office", sans-serif;
+	--font-secondary: "IBM Plex Sans", sans-serif;
 
 	// font size
 	--text-base-size: 1em; // body font-size
@@ -43,7 +43,8 @@
 
 body {
 	font-family: var(--font-secondary);
-	--body-font-weight: 300;
+	color: var(--color-contrast-medium);
+	--body-font-weight: 400;
 }
 
 h1,
@@ -51,7 +52,7 @@ h2,
 h3,
 h4 {
 	font-family: var(--font-primary);
-	--heading-font-weight: 700;
+	--heading-font-weight: 600;
 }
 
 // font family

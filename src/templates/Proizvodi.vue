@@ -48,14 +48,14 @@
 									</div>
 								</div>
 
-								<div class="flex flex-wrap gap-md js-product-v3__cta items-center">
-									<g-link :to="$page.event.cta" class="kupiteCTA btn btn--primary flex-grow center-between btn--md">
-										Kupite danas
-										<!-- <span><g-image class="margin-right-xs flex items-center" src="~/assets/img/strelica.svg"></g-image></span> -->
-									</g-link>
-									<div>
+								<div class="gap-md js-product-v3__cta items-center">
+									<a href="tel:+381642839963" class="kupiteCTA btn btn--primary flex-grow center-between btn--md">
+										Poruči odmah - 0642839963
+									</a>
+									<g-link to="/kontakt" class="btn btn--md btn--subtle">Pišite nam</g-link>
+									<!-- <div>
 										<g-image class="margin-right-xs display@md" src="~/assets/img/logo-futer.png"></g-image>
-									</div>
+									</div> -->
 								</div>
 								<div class="flex flex-wrap gap-md padding-top-xl">
 									<g-image class="margin-right-xs" src="~/assets/img/aloeScienceCouncil.png"></g-image>

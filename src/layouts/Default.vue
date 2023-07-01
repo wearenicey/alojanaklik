@@ -46,7 +46,7 @@
 						<li class="f-header__item"><g-link to="/blog/" class="f-header__link">Blog </g-link></li> -->
 						</ul>
 						<li class="f-header__item"><g-link to="/postanite-saradnik/" class="btn">Postanite saradnik</g-link></li>
-						<li class="f-header__item"><g-link to="/kontakt/" class="btn">Kontakt</g-link></li>
+						<li class="f-header__item"><g-link to="/kontakt/" class="btn btn--subtle">Kontakt</g-link></li>
 					</ul>
 				</div>
 			</div>

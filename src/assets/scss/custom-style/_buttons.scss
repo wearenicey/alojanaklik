@@ -1,7 +1,7 @@
 :root {
   --btn-font-size: 18px;
   --btn-padding-x: 24px;
-  --btn-padding-y: 14px;
+  --btn-padding-y: 12px;
   --btn-radius: 10rem;
 }
 
@@ -46,9 +46,9 @@
 }
 
 .btn--subtle {
-  background: var(--color-bg-lighter);
-  color: var(--color-secondary-darker);
-  border: 2px solid var(--color-primary);
+  background: var(--color-quaternary-light);
+  color: var(--color-contrast-higher);
+  border: 1px solid var(--color-quaternary-darker);
   font-family: var(--font-secondary);
 
   &:hover {

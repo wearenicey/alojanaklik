@@ -1,0 +1,28 @@
+/* -------------------------------- 
+
+File#: _1_details-list-v2
+Title: Details List v2
+Descr: Pairs of related information displayed in a list
+Usage: codyhouse.co/license
+
+-------------------------------- */
+.dl-v2__item {
+  background-color: var(--color-bg-light);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+  border-width: 3px;
+  border-color: var(--color-primary);
+  box-shadow: var(--inner-glow), var(--shadow-ring, 0 0 0 1px hsla(0deg, 0%, 0%, 0.05)), var(--shadow-xs);
+}
+
+.dl-v2__title {
+  font-weight: 600;
+  color: var(--color-contrast-higher);
+  margin-bottom: var(--space-xxs);
+}
+
+.dl-v2__description {
+  font-size: var(--text-sm);
+  line-height: 1.4;
+  color: var(--color-contrast-medium);
+}
