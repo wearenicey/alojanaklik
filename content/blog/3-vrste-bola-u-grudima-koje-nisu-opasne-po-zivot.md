@@ -112,8 +112,8 @@ Svi ovi simptomi, na prvi pogled, ukazuju na srčane tegobe. Oni mogu biti vrlo 
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="https://flpshop.rs/dodaci-ishrani/11643/forever-cardiohealth/360000954255/personal.html" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
-					Kupite danas
+				<a href="/dodaci-ishrani/cardiohealth/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+					Saznajte više
 				</a>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
