@@ -54,26 +54,7 @@
 
 					<div class="col-6@md">
 						<p class="text-md margin-bottom-sm">Ili nam posaljite poruku ovde</p>
-						<form method="POST" :action="formActionUrl">
-							<div class="margin-bottom-sm">
-								<label class="form-label margin-bottom-xxs" for="name">Name</label>
-								<input class="form-control width-100%" type="text" name="name" id="name" required />
-							</div>
 
-							<div class="margin-bottom-sm">
-								<label class="form-label margin-bottom-xxs" for="email">Email</label>
-								<input class="form-control width-100%" type="email" name="email" id="email" />
-							</div>
-
-							<div class="margin-bottom-sm">
-								<label class="form-label margin-bottom-xxs" for="message">Message</label>
-								<textarea class="form-control width-100%" rows="9" name="message" id="message" required></textarea>
-							</div>
-
-							<div class="text-right">
-								<button type="submit" class="btn btn--primary">Posalji</button>
-							</div>
-						</form>
 					</div>
 				</div>
 			</div>
