@@ -16,22 +16,22 @@
 						<dl class="dl-v2">
 							<div class="grid gap-xs">
 								<div class="dl-v2__item border-left">
-										<div class="user-cell__body margin-bottom-sm">
-											<figure aria-hidden="true">
-												<img class="user-cell__img" src="https://codyhouse.co/app/assets/img/user-cell-img-1.jpg" alt="Jelena Babarogic" />
-											</figure>
+									<div class="user-cell__body margin-bottom-sm">
+										<figure aria-hidden="true">
+											<img class="user-cell__img" src="https://codyhouse.co/app/assets/img/user-cell-img-1.jpg" alt="Jelena Babarogic" />
+										</figure>
 
-											<div class="user-cell__content text-component line-height-sm text-space-y-xxs">
-												<p>
-													<a href="#0" class="color-contrast-high"><strong>Jelena Babarogic</strong></a>
-												</p>
-												<p class="color-contrast-medium">Doktor opste prakse</p>
-											</div>
+										<div class="user-cell__content text-component line-height-sm text-space-y-xxs">
+											<p>
+												<a href="#0" class="color-contrast-high"><strong>Jelena Babarogic</strong></a>
+											</p>
+											<p class="color-contrast-medium">Doktor opste prakse</p>
 										</div>
+									</div>
 
-										<div class="user-cell__cta">
-											<button class="btn btn--subtle">Pozovi</button>
-										</div>
+									<div class="user-cell__cta">
+										<button class="btn btn--subtle">Pozovi</button>
+									</div>
 								</div>
 
 								<div class="dl-v2__item border-left">
@@ -55,6 +55,26 @@
 					<div class="col-6@md">
 						<p class="text-md margin-bottom-sm">Ili nam posaljite poruku ovde</p>
 
+						<form name="contact" method="post" v-on:submit.prevent="handleSubmit" data-netlify="true" data-netlify-honeypot="bot-field" :action="formActionUrl">
+							<div class="margin-bottom-sm">
+								<label class="form-label margin-bottom-xxs" for="name">Name</label>
+								<input class="form-control width-100%" type="text" name="name" id="name" required v-model="formData.name" />
+							</div>
+
+							<div class="margin-bottom-sm">
+								<label class="form-label margin-bottom-xxs" for="email">Email</label>
+								<input class="form-control width-100%" type="email" name="email" id="email" v-model="formData.email" />
+							</div>
+
+							<div class="margin-bottom-sm">
+								<label class="form-label margin-bottom-xxs" for="message">Message</label>
+								<textarea class="form-control width-100%" rows="9" name="message" id="message" required v-model="formData.message"></textarea>
+							</div>
+
+							<div class="text-right">
+								<button type="submit" class="btn btn--primary">Posalji</button>
+							</div>
+						</form>
 					</div>
 				</div>
 			</div>
@@ -82,9 +102,15 @@ export default {
 		};
 	},
 
+	// data() {
+	// 	return {
+	// 		formActionUrl: "https://submit-form.com/gYGTzTM6"
+	// 	};
+	// },
+
 	data() {
 		return {
-			formActionUrl: "https://submit-form.com/gYGTzTM6"
+			formData: {}
 		};
 	},
 
