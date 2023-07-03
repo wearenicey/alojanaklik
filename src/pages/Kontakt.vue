@@ -110,7 +110,11 @@ export default {
 
 	data() {
 		return {
-			formData: {}
+			formData: {
+				name: "",
+				email: "",
+				message: ""
+			}
 		};
 	},
 
