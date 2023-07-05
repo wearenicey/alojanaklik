@@ -111,9 +111,9 @@ Iako afte mogu biti bolne, one obično zarastaju same od sebe u roku od jedne do
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<a href="/pcelinji-proizvodi/propolis/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link href="/pcelinji-proizvodi/propolis/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
-				</a>
+				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
 			</div>
 		</div>

@@ -67,14 +67,14 @@
 	color: var(--color-contrast-higher);
 	text-decoration: none;
 	font-size: var(--text-sm);
-	background-color: alpha(var(--color-primary), 0.2);
+	// background-color: alpha(var(--color-primary), 0.2);
 	padding: var(--space-xxs);
 	border-radius: var(--radius-md);
 	transition: background-color 0.2s;
 
 	&:hover {
 		text-decoration: underline;
-		background-color: alpha(var(--color-primary), 0.3);
+		// background-color: alpha(var(--color-primary), 0.3);
 	}
 }
 
