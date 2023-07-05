@@ -113,7 +113,7 @@ Uzroci bola u donjem delu stomaka su brojni:
 
 Ukoliko se jave problemi sa peskom u bubrezima ili sitnim kamenjem, urogenitalnim infekcijama, neophodno je piti dosta mineralne vode i čajeva. Preporuka lekara je da se unese najmanje 2 litre tečnosti da bi se bubrezi i mokraćni putevi ispirali. 
 
-Veoma dobar dodatak ishrani koji pomaže u poboljšanju stanja celokupnog organizma je Aloja, biljka koja sadrži mnogo vitamina, minerala i snažne antioksidante, te blagotvorno deluje na opšte zdravlje ljudi. Posebno kod bolova i urinarnih infekcija se izdvaja [Aloja gel sa brusnicom](https://flpshop.rs/napici/12507/forever-aloe-berry-nectar/360000954255/personal.html).
+Veoma dobar dodatak ishrani koji pomaže u poboljšanju stanja celokupnog organizma je Aloja, biljka koja sadrži mnogo vitamina, minerala i snažne antioksidante, te blagotvorno deluje na opšte zdravlje ljudi. Posebno kod bolova i urinarnih infekcija se izdvaja [Aloja gel sa brusnicom](/napici/aloe-berry/).
 
 
 ![bol u donjem delu stomaka sa desne strane](./images/bol-u-donjem-delu-stomaka-slika2.jpg)

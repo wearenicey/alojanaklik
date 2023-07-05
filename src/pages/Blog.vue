@@ -13,46 +13,41 @@
 				</transition-group>
 			</div>
 
-			<div class="margin-y-lg text-center">
+			<!-- <div class="margin-y-lg text-center">
 				<button class="btn btn--subtle" v-if="showMoreEnabled" @click="loadMore">
 					Prikaži više
 				</button>
-			</div>
+			</div> -->
 		</div>
 	</Layout>
 </template>
 <!-- GraphQl call to get all blog post with pagination -->
 <page-query>
-	query Posts ($page: Int) {
-		entries: allPost (perPage: 7, page: $page, sortBy: "created", order: DESC) @paginate {
-			pageInfo {
-				totalPages
-				currentPage
-				isLast
-			}
-			edges {
-				node {
-					id
-					title
-					excerpt
-					path
-					image
-					imageTwo {
-						path
-						alt
-					}
-					featured
-					humanTime: created(format: "DD. MM. YYYY.")
-					datetime: created
-	
-					tags {
-						title
-					}
-				}
-			}
-		}
-	}
-	</page-query>
+  query Posts {
+    entries: allPost(sortBy: "created", order: DESC) {
+      edges {
+        node {
+          id
+          title
+          excerpt
+          path
+          image
+          imageTwo {
+            path
+            alt
+          }
+          featured
+          humanTime: created(format: "DD. MM. YYYY.")
+          datetime: created
+          tags {
+            title
+          }
+        }
+      }
+    }
+  }
+</page-query>
+
 
 <script>
 // import component
