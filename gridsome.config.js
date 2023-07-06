@@ -233,6 +233,26 @@ module.exports = {
 		}
 	},
 
+	// Add beforeBuild event
+  hooks: {
+    beforeBuild: (context) => {
+      const { collection } = context.store;
+
+      const blogPosts = collection.get('Post'); // Adjust 'Post' based on your collection type name
+
+      // Generate routes for each blog post
+      blogPosts.data().forEach((post) => {
+        context.createPage({
+          path: post.path,
+          component: './src/templates/Post.vue', // Adjust the path based on your template file
+          context: {
+            id: post.id,
+          },
+        });
+      });
+    },
+  },
+
 	chainWebpack: config => {
 		config.resolve.alias.set("@img", "@/assets/img");
 	}
