@@ -49,10 +49,11 @@
 								</div>
 
 								<div class="gap-md js-product-v3__cta items-center">
-									<a href="tel:+381642839963" class="kupiteCTA btn btn--primary flex-grow center-between btn--md">
-										Poruči odmah - 0642839963
+									<a href="tel:+381642839963" class="kupiteCTA btn btn--primary flex-grow center-between btn--md letter-spacing-xs" style="font-weight: bold !important; letter-spacing: -0.32px;">
+										Poruči odmah - 064 2839 963
 									</a>
 									<g-link to="/kontakt" class="btn btn--md btn--subtle">Pišite nam</g-link>
+									<span class="badge badge--accent text-sm">Ostvari popust od 5-30%</span>
 									<!-- <div>
 										<g-image class="margin-right-xs display@md" src="~/assets/img/logo-futer.png"></g-image>
 									</div> -->

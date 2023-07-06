@@ -6,7 +6,6 @@
 			<div class="container max-width-xs margin-bottom-lg">
 				<div class="text-component text-center">
 					<h1>Kontaktirajte nas</h1>
-					<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus eos impedit nesciunt voluptates magni vero itaque.</p>
 				</div>
 			</div>
 
@@ -25,28 +24,14 @@
 											<p>
 												<a href="#0" class="color-contrast-high"><strong>Jelena Babarogic</strong></a>
 											</p>
-											<p class="color-contrast-medium">Doktor opste prakse</p>
+											<p class="color-contrast-medium">Master farmacije</p>
 										</div>
 									</div>
 
 									<div class="user-cell__cta">
-										<button class="btn btn--subtle">Pozovi</button>
+										<a href="tel:tel:+381642839963" class="btn btn--subtle">Pozovi - 064 2839 963</a>
+										<p class="margin-top-sm">Pon - Pet 9AM - 9PM</p>
 									</div>
-								</div>
-
-								<div class="dl-v2__item border-left">
-									<dt class="dl-v2__title">Email</dt>
-									<dd class="dl-v2__description">
-										<a href="mailto:webmaster@example.com" class="link">hello@myemail.com</a>
-									</dd>
-								</div>
-
-								<div class="dl-v2__item border-left">
-									<dt class="dl-v2__title">Telefon</dt>
-									<dd class="dl-v2__description">
-										<p><a href="tel:+44 7656 6455" class="link">+44 7656 6455</a></p>
-										<p>Pon - Pet, 9AM - 9PM</p>
-									</dd>
 								</div>
 							</div>
 						</dl>
