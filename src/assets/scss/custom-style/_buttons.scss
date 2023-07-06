@@ -7,8 +7,8 @@
 
 .btn {
   cursor: pointer;
-  font-family: var(--font-secondary);
-  font-weight: 400;
+  font-family: var(--font-primary);
+  font-weight: 600;
   text-decoration: none;
   line-height: 1.2;
   letter-spacing: 0.32px;
@@ -89,5 +89,5 @@
 
 .btn--lg {
   padding: var(--space-xs) var(--space-md);
-  font-size: 30px;
+  font-size: 28px;
 }
