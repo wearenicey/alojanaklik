@@ -40,7 +40,7 @@
 					<div class="col-6@md">
 						<p class="text-md margin-bottom-sm">Ili nam posaljite poruku ovde</p>
 
-						<form name="contact" method="post" v-on:submit.prevent="handleSubmit" data-netlify="true" data-netlify-honeypot="bot-field" action="/poruka">
+						<form @submit.prevent="submit" name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/poruka">
 							<div class="margin-bottom-sm">
 								<label class="form-label margin-bottom-xxs" for="name">Name</label>
 								<input class="form-control width-100%" type="text" name="name" id="name" required v-model="formData.name" />
@@ -57,7 +57,16 @@
 							</div>
 
 							<div class="text-right">
-								<button type="submit" class="btn btn--primary">Posalji</button>
+								<button :disabled="formData.submitStatus === 'PENDING'" type="submit" class="btn btn--primary">Posalji</button>
+								<div class="mt-3 rounded-full px-5 py-3 text-center text-base text-green-900 bg-green-100" v-if="formData.submitStatus === 'OK'">
+									<p class="typo__p">Poruka je poslata!</p>
+								</div>
+								<div class="mt-3 rounded-full px-5 py-3 text-center text-base text-red-900 bg-red-100" v-if="formData.submitStatus === 'ERROR'">
+									<p class="typo__p">Popunite ispravno formu.</p>
+								</div>
+								<div class="mt-3 rounded-full px-5 py-3 text-center text-base text-blue-900 bg-blue-100" v-if="formData.submitStatus === 'PENDING'">
+									<p class="typo__p">Poruka se šalje...</p>
+								</div>
 							</div>
 						</form>
 					</div>
@@ -98,7 +107,8 @@ export default {
 			formData: {
 				name: "",
 				email: "",
-				message: ""
+				message: "",
+				submitStatus: null
 			}
 		};
 	},
@@ -122,6 +132,37 @@ export default {
 
 		// remove the JS code once the component has been destroyed
 		document.getElementById("accordion-js").remove();
+	},
+
+	encode(data) {
+		return Object.keys(data)
+			.map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+			.join("&");
+	},
+	submit(e) {
+		console.log("submit!");
+		this.$v.$touch();
+		if (this.$v.formData.$invalid) {
+			this.formData.submitStatus = "ERROR";
+		} else {
+			fetch("/", {
+				method: "POST",
+				headers: { "Content-Type": "application/x-www-form-urlencoded" },
+				body: this.encode({
+					"form-name": e.target.getAttribute("name"),
+					...this.formData
+				})
+			})
+				.then(
+					() => (this.formData.submitStatus = "PENDING"),
+
+					setTimeout(() => {
+						this.formData.submitStatus = "OK";
+					}, 500)
+				)
+				.then(() => window.location.reload(3))
+				.catch(error => alert(error));
+		}
 	}
 };
 </script>
