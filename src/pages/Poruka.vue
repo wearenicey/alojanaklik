@@ -21,9 +21,9 @@
 				</svg>
 
 				<div class="text-component">
-					<h1>Poruka je uspesno poslata</h1>
+					<h1>Poruka uspešno poslata</h1>
 
-					<p class="color-contrast-medium">Uskoro ce vam se javiti neko od nasih operatera</p>
+					<p class="color-contrast-medium">Uskoro se javljamo</p>
 
 					<p><g-link class="link" to="/proizvodi/">Nazad na proizvode →</g-link></p>
 				</div>
