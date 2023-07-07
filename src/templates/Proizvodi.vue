@@ -17,11 +17,20 @@
 		</script>
 
 		<div class="bg-white">
-			<section class="product-v3 padding-y-lg js-product-v3 bg-white">
+			<div class="sticky-banner sticky-banner--bottom bg-light bg-opacity-80% backdrop-blur-10 js-sticky-banner hide@md">
+				<div class="gap-xxs padding-y-xs flex flex-column flex-wrap js-product-v3__cta items-center">
+					<a href="tel:+381642839963" class="kupiteCTA btn btn--primary flex-grow center-between btn--md letter-spacing-sm">
+						Poruči odmah - 064 2839 963
+					</a>
+					<span class="badge badge--accent text-sm">Ostvari popust od 5-30%</span>
+				</div>
+			</div>
+
+			<section class="product-v3 padding-y-sm padding-y-lg@md js-product-v3 bg-white">
 				<div class="container max-width-adaptive-lg">
 					<div class="grid gap-lg">
 						<div class="col-6@md col-6@lg">
-							<div class="flex flex-column gap-sm">
+							<div class="flex flex-column gap-sm display@md">
 								<figure v-for="(category, index) in $page.event.imageUrl" class="hide-on-mobile-image">
 									<g-image class="block width-100% radius-lg" :src="require(`@/assets/img/` + category)" :alt="$page.event.alt[index]" />
 								</figure>
@@ -30,13 +39,21 @@
 
 						<div class="col-6@md col-6@lg">
 							<div class="product-v3__panel">
-								<div class="margin-bottom-sm color-contrast-low text-md">
+								<div class="margin-bottom-sm color-contrast-low text-md text-center text-left@md">
 									<p>{{ $page.event.category[0].ime }}</p>
 								</div>
-								<div class="margin-y-sm">
+
+								<div class="margin-y-sm text-center text-left@md">
 									<h1>{{ $page.event.title }}</h1>
 								</div>
-								<div class="margin-top-sm margin-bottom-lg">
+
+								<div class="flex flex-column gap-sm hide@md">
+									<figure v-for="(category, index) in $page.event.imageUrl" class="hide-on-mobile-image">
+										<g-image class="block width-100% radius-lg" :src="require(`@/assets/img/` + category)" :alt="$page.event.alt[index]" />
+									</figure>
+								</div>
+
+								<div class="margin-top-sm margin-bottom-lg text-center text-left@md">
 									<p class="text-lg color-accent-dark font-primary text-normal">{{ $page.event.cena }} EUR</p>
 								</div>
 
@@ -47,23 +64,13 @@
 									</div>
 								</div>
 
-								<div class="gap-md js-product-v3__cta items-center">
+								<div class="gap-sm flex flex-column flex-wrap js-product-v3__cta items-center display@md">
 									<a href="tel:+381642839963" class="kupiteCTA btn btn--primary flex-grow center-between btn--md letter-spacing-xs" style="font-weight: bold !important; letter-spacing: -0.32px;">
 										Poruči odmah - 064 2839 963
 									</a>
-									<g-link to="/kontakt" class="btn btn--md btn--subtle">Pišite nam</g-link>
 									<span class="badge badge--accent text-sm">Ostvari popust od 5-30%</span>
-									<!-- <div>
-										<g-image class="margin-right-xs display@md" src="~/assets/img/logo-futer.png"></g-image>
-									</div> -->
 								</div>
-								<div class="flex flex-wrap gap-md padding-top-xl">
-									<g-image class="margin-right-xs" src="~/assets/img/aloeScienceCouncil.png"></g-image>
 
-									<g-image class="margin-right-xs" src="~/assets/img/kosherRating.png"></g-image>
-
-									<g-image class="margin-right-xs" src="~/assets/img/islamicApproval.png"></g-image>
-								</div>
 								<div>
 									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion" data-animation="on" data-multi-items="off" data-version="v2">
 										<li class="accordion-v2__item js-accordion__item b accordion-v2__item--is-open">
@@ -340,7 +347,7 @@
         }
 		}
 	}
-		</page-query>
+</page-query>
 
 <script>
 export default {
@@ -357,17 +364,25 @@ export default {
 		let frontEnd = document.createElement("script");
 		frontEnd.setAttribute("src", "../../../main-header.js");
 		frontEnd.setAttribute("id", "main-header-js");
-		// 👈 load the JS code once the component is mounted
+
 		let accordion = document.createElement("script");
 		accordion.setAttribute("src", "../../../accordion.js");
 		accordion.setAttribute("id", "accordion-js");
 
+		let sticky = document.createElement("script");
+		sticky.setAttribute("src", "../../../sticky-banner.js");
+		sticky.setAttribute("id", "sticky-banner-js");
+
 		let rating = document.createElement("script");
 		rating.setAttribute("src", "../../../rating.js");
 		rating.setAttribute("id", "rating-js");
+
 		document.body.appendChild(rating);
 		document.body.appendChild(frontEnd);
 		document.body.appendChild(accordion);
+		document.body.appendChild(sticky);
+		document.body.appendChild(product);
+
 		let product = document.createElement("script");
 		product.setAttribute("src", "../../product.js");
 		product.setAttribute("id", "product-js");
@@ -377,6 +392,8 @@ export default {
 		// remove the JS code once the component has been destroyed
 		document.getElementById("accordion-js").remove();
 		document.getElementById("product-js").remove();
+		document.getElementById("rating-js").remove();
+		document.getElementById("sticky-banner-js").remove();
 	},
 	methods: {
 		scroll() {
