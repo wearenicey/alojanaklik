@@ -25,7 +25,7 @@
 						</li>
 						<ul class="f-header__listflex-basis-0 justify-center@md">
 							<li class="f-header__item">
-								<g-link to="/proizvodi/" class="f-header__link">
+								<g-link to="/proizvodi/" class="btn">
 									<span>Proizvodi</span>
 									<svg class="f-header__dropdown-icon icon" aria-hidden="true" viewBox="0 0 12 12">
 										<path d="M9.943,4.269A.5.5,0,0,0,9.5,4h-7a.5.5,0,0,0-.41.787l3.5,5a.5.5,0,0,0,.82,0l3.5-5A.5.5,0,0,0,9.943,4.269Z" />

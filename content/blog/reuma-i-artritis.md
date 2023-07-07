@@ -177,7 +177,7 @@ Jedan od lekova koji se primenjuje u lečenju ove bolesti je [metotreksat](https
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<g-link href="/dodaci-ishrani/forever-move/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link to="/dodaci-ishrani/forever-move/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
 				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
@@ -269,7 +269,7 @@ Jako je bitno imati svest o tome da ćete pravilnom ishranom i izbacivanjem loš
 				</div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<g-link href="/napici/aloe-freedom/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link to="/napici/aloe-freedom/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
 				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>

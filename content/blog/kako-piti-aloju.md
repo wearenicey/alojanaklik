@@ -97,7 +97,7 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<g-link href="/napici/aloe-berry/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+				<g-link to="/napici/aloe-berry/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
 					Saznajte više
 				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
@@ -168,7 +168,7 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<g-link href="/napici/aloja-vera-gel/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+				<g-link to="/napici/aloja-vera-gel/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
 					Saznajte više
 				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
@@ -214,7 +214,7 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<g-link href="/preparati-za-negu-koze/aloe-first/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+				<g-link to="/preparati-za-negu-koze/aloe-first/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
 					Saznajte više
 				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
@@ -260,7 +260,7 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<g-link href="/preparati-za-negu-koze/hidratantni-losion/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+				<g-link to="/preparati-za-negu-koze/hidratantni-losion/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
 					Saznajte više
 				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
@@ -309,7 +309,7 @@ Kao **sobno bilje** ima sledeće uloge:
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<g-link href="/preparati-za-negu-koze/aloe-gelly/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
+				<g-link to="/preparati-za-negu-koze/aloe-gelly/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md" target="blank">
 					Saznajte više
 				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>

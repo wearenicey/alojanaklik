@@ -1,28 +1,37 @@
 <template>
-
 	<Layout>
 		<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "Product",
-"name": "{{ $page.event.ctaText }}",
-"description": "{{ $page.event.title }}",
-"offers": {
-	"@type": "Offer",
-	"availability": "In Stock",
-	"priceCurrency": "EUR",
-	"price": "{{ $page.event.cena }}"
-					},
-"image": ["https://alojanaklik.rs/assets/img/{{ $page.event.imageUrl[0] }}"]
-}
-</script>
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "{{ $page.event.ctaText }}",
+				"description": "{{ $page.event.title }}",
+				"offers": {
+					"@type": "Offer",
+					"availability": "In Stock",
+					"priceCurrency": "EUR",
+					"price": "{{ $page.event.cena }}"
+				},
+				"image": ["https://alojanaklik.rs/assets/img/{{ $page.event.imageUrl[0] }}"]
+			}
+		</script>
 
 		<div class="bg-white">
-			<section class="product-v3 padding-y-lg js-product-v3 bg-white">
+			<div class="sticky-banner sticky-banner--bottom bg-light bg-opacity-80% backdrop-blur-10 js-sticky-banner hide@md">
+				<!--👇 sticky banner content -->
+				<div class="gap-xxs padding-y-xs flex flex-column flex-wrap js-product-v3__cta items-center">
+					<a href="tel:+381642839963" class="kupiteCTA btn btn--primary flex-grow center-between btn--md letter-spacing-sm">
+						Poruči odmah - 064 2839 963
+					</a>
+					<span class="badge badge--accent text-sm">Ostvari popust od 5-30%</span>
+				</div>
+			</div>
+
+			<section class="product-v3 padding-y-sm padding-y-lg@md js-product-v3 bg-white">
 				<div class="container max-width-adaptive-lg">
 					<div class="grid gap-lg">
 						<div class="col-6@md col-6@lg">
-							<div class="flex flex-column gap-sm">
+							<div class="flex flex-column gap-sm display@md">
 								<figure v-for="(category, index) in $page.event.imageUrl" class="hide-on-mobile-image">
 									<g-image class="block width-100% radius-lg" :src="require(`@/assets/img/` + category)" :alt="$page.event.alt[index]" />
 								</figure>
@@ -31,13 +40,18 @@
 
 						<div class="col-6@md col-6@lg">
 							<div class="product-v3__panel">
-								<div class="margin-bottom-sm color-contrast-low text-md">
+								<div class="margin-bottom-sm color-contrast-low text-md text-center text-left@md">
 									<p>{{ $page.event.category[0].ime }}</p>
 								</div>
-								<div class="margin-y-sm">
+								<div class="margin-y-sm text-center text-left@md">
 									<h1>{{ $page.event.title }}</h1>
 								</div>
-								<div class="margin-top-sm margin-bottom-lg">
+								<div class="flex flex-column gap-sm hide@md">
+									<figure v-for="(category, index) in $page.event.imageUrl" class="hide-on-mobile-image">
+										<g-image class="block width-100% radius-lg" :src="require(`@/assets/img/` + category)" :alt="$page.event.alt[index]" />
+									</figure>
+								</div>
+								<div class="margin-top-sm margin-bottom-lg text-center text-left@md">
 									<p class="text-lg color-accent-dark font-primary text-normal">{{ $page.event.cena }} EUR</p>
 								</div>
 
@@ -48,21 +62,11 @@
 									</div>
 								</div>
 
-								<div class="gap-sm flex flex-column flex-wrap js-product-v3__cta items-center justify-center justify-start@md">
+								<div class="gap-sm flex flex-column flex-wrap js-product-v3__cta items-center display@md">
 									<a href="tel:+381642839963" class="kupiteCTA btn btn--primary flex-grow center-between btn--md letter-spacing-xs" style="font-weight: bold !important; letter-spacing: -0.32px;">
 										Poruči odmah - 064 2839 963
 									</a>
 									<span class="badge badge--accent text-sm">Ostvari popust od 5-30%</span>
-									<!-- <div>
-										<g-image class="margin-right-xs display@md" src="~/assets/img/logo-futer.png"></g-image>
-									</div> -->
-								</div>
-								<div class="flex flex-wrap gap-md padding-top-xl">
-									<g-image class="margin-right-xs" src="~/assets/img/aloeScienceCouncil.png"></g-image>
-
-									<g-image class="margin-right-xs" src="~/assets/img/kosherRating.png"></g-image>
-
-									<g-image class="margin-right-xs" src="~/assets/img/islamicApproval.png"></g-image>
 								</div>
 								<div>
 									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion" data-animation="on" data-multi-items="off" data-version="v2">
@@ -264,7 +268,7 @@
 				<div class="container max-width-adaptive-lg padding-y-lg padding-x-md radius-lg margin-y-xxl bg-white">
 					<div class="grid gap-lg">
 						<div class="col-5@md">
-							<g-image class="block width-100% radius-lg" :src="require(`@/assets/img/` + $page.event.imageUrl[0] )" />
+							<g-image class="block width-100% radius-lg" :src="require(`@/assets/img/` + $page.event.imageUrl[0])" />
 						</div>
 
 						<div class="col-7@md">
@@ -296,12 +300,7 @@
 				</div>
 			</section>
 		</div>
-
-
-
-
 	</Layout>
-	
 </template>
 
 <page-query>
@@ -347,9 +346,6 @@
 	}
 		</page-query>
 
-
-
-
 <script>
 export default {
 	// meta deskripcija
@@ -370,9 +366,15 @@ export default {
 		accordion.setAttribute("src", "../../../accordion.js");
 		accordion.setAttribute("id", "accordion-js");
 
+		let stickyBanner = document.createElement("script");
+		stickyBanner.setAttribute("src", "../../../stickyBanner.js");
+		stickyBanner.setAttribute("id", "stickyBanner-js");
+
 		let rating = document.createElement("script");
 		rating.setAttribute("src", "../../../rating.js");
 		rating.setAttribute("id", "rating-js");
+
+		document.body.appendChild(stickyBanner);
 		document.body.appendChild(rating);
 		document.body.appendChild(frontEnd);
 		document.body.appendChild(accordion);
@@ -385,19 +387,13 @@ export default {
 		// remove the JS code once the component has been destroyed
 		document.getElementById("accordion-js").remove();
 		document.getElementById("product-js").remove();
+		document.getElementById("stickyBanner-js").remove();
 	},
 	methods: {
 		scroll() {
 			let element = document.getElementById("yourID");
 			element.scrollIntoView({ behavior: "smooth", block: "end" });
 		}
-	},
-
-	
-	
-	
-}
-
+	}
+};
 </script>
-
-

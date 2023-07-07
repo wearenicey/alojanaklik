@@ -7,11 +7,10 @@
 
 .btn {
   cursor: pointer;
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   font-weight: 600;
   text-decoration: none;
   line-height: 1.2;
-  letter-spacing: 0.32px;
   @include fontSmooth;
   transition: all 0.2s ease;
   will-change: transform;

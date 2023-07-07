@@ -162,7 +162,7 @@ Veoma je efikasan kod održavanja normalnog nivo vitamina B12 i folne kiseline, 
         </div>
 			</div>
 			<div class="flex gap-md@sm gap-md flex-column flex-row@sm padding-top-lg justify-between@sm items-center">
-				<g-link href="/dodaci-ishrani/forever-b12/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
+				<g-link to="/dodaci-ishrani/forever-b12/" class="kupiteCTA btn btn--primary flex-grow center-between@lg justify-center btn--md">
 					Saznajte više
 				</g-link>
 				<g-image style="width: auto !important;" class="" src="~/assets/img/logo-futer.png"></g-image>
