@@ -9,8 +9,8 @@
 		<section class="products-gallery-v2 padding-y-xl">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg">
-					<div class="col-4@lg">
-						<div class="text-component text-center text-left@lg">
+					<div class="col-4@lg text-center text-left@lg">
+						<div class="text-component">
 							<h2 class="font-secondary text-lg">Aloe Vera napici</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Napravljeni su od najfinijih sastojaka i prepuni esencijalnih hranljivih materija.</p>
@@ -48,8 +48,8 @@
 		<section class="products-gallery-v2 padding-y-xl">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg">
-					<div class="col-4@lg">
-						<div class="text-component text-center text-left@lg">
+					<div class="col-4@lg text-center text-left@lg">
+						<div class="text-component">
 							<h2 class="font-secondary text-lg">Preparati za mršavljenje</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Kolekcija proizvoda za regulaciju Vaše telesne mase na bezbedan i zdrav način.</p>
@@ -87,8 +87,8 @@
 		<section class="products-gallery-v2 padding-y-xl">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg">
-					<div class="col-4@lg">
-						<div class="text-component text-center text-left@lg">
+					<div class="col-4@lg text-center text-left@lg">
+						<div class="text-component">
 							<h2 class="font-secondary text-lg">Suplementi</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm"> Od podrške imunitetu, preko zdravije probave do zdravlja kože, nudimo širok spektar suplemenata.</p>
@@ -128,8 +128,8 @@
 		<section class="products-gallery-v2 padding-y-xl">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg">
-					<div class="col-4@lg">
-						<div class="text-component text-center text-left@lg">
+					<div class="col-4@lg text-center text-left@lg">
+						<div class="text-component">
 							<h2 class="font-secondary text-lg">Lična higijena</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Bogata linija proizvoda za ličnu negu koji su napravljeni od visokokvalitetnih sastojaka.</p>
@@ -169,8 +169,8 @@
 		<section class="products-gallery-v2 padding-y-xl">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg">
-					<div class="col-4@lg">
-						<div class="text-component text-center text-left@lg">
+					<div class="col-4@lg text-center text-left@lg">
+						<div class="text-component">
 							<h2 class="font-secondary text-lg">Nega kože</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Zaštitite i negujte Vašu kože efikasnim i nežnim proizvodima.</p>
@@ -210,8 +210,8 @@
 		<section class="products-gallery-v2 padding-y-xl">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-lg">
-					<div class="col-4@lg">
-						<div class="text-component text-center text-left@lg">
+					<div class="col-4@lg text-center text-left@lg">
+						<div class="text-component">
 							<h2 class="font-secondary text-lg">Pčeliniji proizvodi</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Prirodno lekovite moći pčelinjih priozvoda za vaš imunitet i opšte zdravlje.</p>

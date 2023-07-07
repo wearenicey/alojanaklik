@@ -40,7 +40,7 @@
 					<div class="col-6@md">
 						<p class="text-md margin-bottom-sm">Ili nam posaljite poruku ovde</p>
 
-						<form name="contact" method="post" v-on:submit.prevent="handleSubmit" data-netlify="true" data-netlify-honeypot="bot-field" :action="formActionUrl">
+						<form name="contact" method="post" v-on:submit.prevent="handleSubmit" data-netlify="true" data-netlify-honeypot="bot-field" action="/poruka">
 							<div class="margin-bottom-sm">
 								<label class="form-label margin-bottom-xxs" for="name">Name</label>
 								<input class="form-control width-100%" type="text" name="name" id="name" required v-model="formData.name" />

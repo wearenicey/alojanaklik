@@ -18,7 +18,6 @@
 
 		<div class="bg-white">
 			<div class="sticky-banner sticky-banner--bottom bg-light bg-opacity-80% backdrop-blur-10 js-sticky-banner hide@md">
-				<!--👇 sticky banner content -->
 				<div class="gap-xxs padding-y-xs flex flex-column flex-wrap js-product-v3__cta items-center">
 					<a href="tel:+381642839963" class="kupiteCTA btn btn--primary flex-grow center-between btn--md letter-spacing-sm">
 						Poruči odmah - 064 2839 963
