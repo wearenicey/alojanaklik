@@ -142,8 +142,6 @@ export default {
 					content: "https://alojanaklik.rs" + this.$page.post.imageTwo.path
 				}
 			]
-
-			// etc...
 		};
 	},
 	data: function() {
@@ -193,7 +191,6 @@ export default {
 </script>
 
 <style>
-/* CSS styles for the modal */
 .modal {
 	position: fixed;
 	top: 0;
@@ -225,5 +222,4 @@ export default {
 	font-size: 24px;
 }
 
-/* Additional styles for the rest of your blog posts */
 </style>

@@ -42,14 +42,17 @@
 								<div class="margin-bottom-sm color-contrast-low text-md text-center text-left@md">
 									<p>{{ $page.event.category[0].ime }}</p>
 								</div>
+
 								<div class="margin-y-sm text-center text-left@md">
 									<h1>{{ $page.event.title }}</h1>
 								</div>
+
 								<div class="flex flex-column gap-sm hide@md">
 									<figure v-for="(category, index) in $page.event.imageUrl" class="hide-on-mobile-image">
 										<g-image class="block width-100% radius-lg" :src="require(`@/assets/img/` + category)" :alt="$page.event.alt[index]" />
 									</figure>
 								</div>
+
 								<div class="margin-top-sm margin-bottom-lg text-center text-left@md">
 									<p class="text-lg color-accent-dark font-primary text-normal">{{ $page.event.cena }} EUR</p>
 								</div>
@@ -67,6 +70,7 @@
 									</a>
 									<span class="badge badge--accent text-sm">Ostvari popust od 5-30%</span>
 								</div>
+
 								<div>
 									<ul class="accordion-v2 flex flex-column padding-top-xl gap-xxs js-accordion" data-animation="on" data-multi-items="off" data-version="v2">
 										<li class="accordion-v2__item js-accordion__item b accordion-v2__item--is-open">
@@ -343,7 +347,7 @@
         }
 		}
 	}
-		</page-query>
+</page-query>
 
 <script>
 export default {
@@ -360,7 +364,7 @@ export default {
 		let frontEnd = document.createElement("script");
 		frontEnd.setAttribute("src", "../../../main-header.js");
 		frontEnd.setAttribute("id", "main-header-js");
-		// 👈 load the JS code once the component is mounted
+
 		let accordion = document.createElement("script");
 		accordion.setAttribute("src", "../../../accordion.js");
 		accordion.setAttribute("id", "accordion-js");
@@ -377,6 +381,7 @@ export default {
 		document.body.appendChild(rating);
 		document.body.appendChild(frontEnd);
 		document.body.appendChild(accordion);
+
 		let product = document.createElement("script");
 		product.setAttribute("src", "../../product.js");
 		product.setAttribute("id", "product-js");

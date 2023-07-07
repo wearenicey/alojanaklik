@@ -54,7 +54,6 @@
 	}
 	</page-query>
 
-
 <script>
 // import component
 import CardItem from "~/components/CardItem.vue";
