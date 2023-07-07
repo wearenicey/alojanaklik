@@ -133,36 +133,5 @@ export default {
 		// remove the JS code once the component has been destroyed
 		document.getElementById("accordion-js").remove();
 	},
-
-	encode(data) {
-		return Object.keys(data)
-			.map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
-			.join("&");
-	},
-	submit(e) {
-		console.log("submit!");
-		this.$v.$touch();
-		if (this.$v.formData.$invalid) {
-			this.formData.submitStatus = "ERROR";
-		} else {
-			fetch("/", {
-				method: "POST",
-				headers: { "Content-Type": "application/x-www-form-urlencoded" },
-				body: this.encode({
-					"form-name": e.target.getAttribute("name"),
-					...this.formData
-				})
-			})
-				.then(
-					() => (this.formData.submitStatus = "PENDING"),
-
-					setTimeout(() => {
-						this.formData.submitStatus = "OK";
-					}, 500)
-				)
-				.then(() => window.location.reload(3))
-				.catch(error => alert(error));
-		}
-	}
 };
 </script>
