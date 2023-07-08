@@ -13,18 +13,18 @@
 
 						<div class="">
 							<div class="flex flex-wrap gap-xs inline-flex@sm justify-center justify-start@md items-center padding-top-md padding-bottom-lg">
-								<a href="/proizvodi/" class="btn btn--primary btn--md display@md justify-between btn--md@lg">
+								<g-link to="/proizvodi/" class="btn btn--primary btn--md display@md justify-between btn--md@lg">
 									Upoznajte se sa proizvodima
-								</a>
-								<a href="/kontakt/" class="btn btn--subtle btn--md display@md justify-between btn--md@lg">
+								</g-link>
+								<g-link to="/kontakt/" class="btn btn--subtle btn--md display@md justify-between btn--md@lg">
 									Piši nam
-								</a>
-								<a href="/proizvodi/" class="btn btn--primary hide@md ">
+								</g-link>
+								<g-link to="/proizvodi/" class="btn btn--primary hide@md ">
 									Upoznajte se sa proizvodima
-								</a>
-								<a href="/kontakt/" class="btn btn--subtle hide@md  justify-center">
+								</g-link>
+								<g-link to="/kontakt/" class="btn btn--subtle hide@md  justify-center">
 									Piši nam
-								</a>
+								</g-link>
 							</div>
 						</div>
 					</div>
@@ -261,7 +261,7 @@
 							</p>
 						</div>
 						<div class="flex flex-wrap flex-center gap-sm">
-							<a class="btn btn--subtle" href="/istorija-kompanije/">Saznajte više o Aloji</a>
+							<g-link class="btn btn--subtle" to="/istorija-kompanije/">Saznajte više o Aloji</g-link>
 						</div>
 					</div>
 				</div>
@@ -288,7 +288,7 @@
 
 						<div class="">
 							<div class="flex flex-wrap inline-flex@sm items-center padding-top-md padding-bottom-lg">
-								<a href="/proizvodi/" class="flex flex-grow btn btn--primary"> Upoznajte se sa proizvodima </a>
+								<g-link to="/proizvodi/" class="flex flex-grow btn btn--primary"> Upoznajte se sa proizvodima </g-link>
 							</div>
 						</div>
 					</div>
@@ -354,7 +354,7 @@
 							<p class="color-bg-darker">Povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa. To je Forever Living</p>
 						</div>
 						<div class="flex padding-top-md justify-center">
-							<a href="/kontakt/" class="btn btn--primary"> Kontaktirajte nas</a>
+							<g-link to="/kontakt/" class="btn btn--primary"> Kontaktirajte nas</g-link>
 						</div>
 					</div>
 				</div>
@@ -405,6 +405,7 @@ export default {
 	destroyed() {
 		document.getElementById("sticky-js").remove();
 		document.getElementById("main-header-js").remove();
+		document.getElementById("tabs-js").remove();
 
 		// remove the JS code once the component has been destroyed
 	}
