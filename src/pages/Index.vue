@@ -5,7 +5,7 @@
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
 						<div class="text-component text-center text-left@md">
-							<h1 class="text-xxl">Otkrijte moć proizvoda Forever Living za zdraviji i srećniji život</h1>
+							<h1 class="text-xxl">Otkrijte moć proizvoda Forever Living za zdraviji i srećniji život</h1> 
 							<p class="text-md color-contrast-medium">
 								Izgledaj bolje i osećaj se odlično uz proizvode na bazi aloje vere.
 							</p>
