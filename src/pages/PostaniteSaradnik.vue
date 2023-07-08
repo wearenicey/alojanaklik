@@ -116,6 +116,69 @@
 			</div>
 		</section>
 
+		
+		<section class="position-relative bg-quaternary-light padding-bottom-xl padding-bottom-0@lg">
+			<div class="container max-width-adaptive-sm">
+				<div class="text-center padding-top-xl padding-bottom-lg">
+					<div class="text-component">
+						<h2>Forever Living benefiti</h2>
+						<!-- <p class="color-secondary">Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.</p> -->
+					</div>
+				</div>
+			</div>
+			<div class="container max-width-adaptive-lg">
+				<div class="grid items-center">
+					<div class="col-6@md col-3@lg">
+						<div class="grid flex-column flex-center">
+							<div class="col margin-bottom-lg">
+								<div class="text-center text-left@md">
+									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-01.svg"></g-image>
+									<div class="text-component">
+										<h4>Budi sebi šef</h4>
+										<p class="color-secondary">Imajte slobodu da sami napravite svoj raspored, radite gde želite i koliko želite.</p>
+									</div>
+								</div>
+							</div>
+							<div class="col">
+								<div class="text-center text-left@md">
+									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-02.svg"></g-image>
+									<div class="text-component">
+										<h4>Alati i obuke</h4>
+										<p class="color-secondary">Od raznih radionica i webinara, do stotine besplatnih materijala online, imate sve što Vam je potrebno za uspeh.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-6@md order-lasT display@lg">
+						<g-image class="block width-100% height-100%" quality="100" :immediate="true" src="~/assets/img/forever-living-benefiti.png" alt="Forever Living" />
+					</div>
+					<div class="col-6@md col-3@lg">
+						<div class="grid flex-column flex-center">
+							<div class="col margin-bottom-lg">
+								<div class="text-center text-left@md">
+									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-03.svg"></g-image>
+									<div class="text-component">
+										<h4>Putujte svetom</h4>
+										<p class="color-secondary">Postanite svetski putnik uz Forever Living. Iskoristite priliku i posetite najlepše gradove na planeti.</p>
+									</div>
+								</div>
+							</div>
+							<div class="col">
+								<div class="text-center text-left@md">
+									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-04.svg"></g-image>
+									<div class="text-component">
+										<h4>Popusti na proizvode</h4>
+										<p class="color-secondary">Ostvarite ekskluzivne popuste na proizvode u kojima ćete uživati sami ili prilikom prodaje drugima</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
 		<section class="feature-v2 padding-y-xxxl bg-primary">
 			<div class="container max-width-adaptive-lg">
 				<div class="grid gap-md">

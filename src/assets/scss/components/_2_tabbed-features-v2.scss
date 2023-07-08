@@ -1,0 +1,171 @@
+/* --------------------------------
+
+File#: _2_tabbed-features-v2
+Title: Tabbed Features v2
+Descr: A list of features accessible one at a time using a tabbed navigation
+Usage: codyhouse.co/license
+
+-------------------------------- */
+.tab-features-v2__controls-list {
+  position: relative;
+  display: flex;
+  gap: var(--space-xs);
+  overflow: auto;
+}
+.tab-features-v2__controls-list > * {
+  flex: 1 0 180px;
+}
+
+.tab-features-v2__text-crop-gradient {
+  /* gradient used to crop text */
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  right: 0;
+  flex: 0 0 40px;
+  background: linear-gradient(to right, hsla(var(--color-quaternary-light-h), var(--color-quaternary-light-s), var(--color-quaternary-light-l), 0), hsla(var(--color-quaternary-light-h), var(--color-quaternary-light-s), var(--color-quaternary-light-l), 1));
+  pointer-events: none;
+}
+
+.tab-features-v2__control {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+  padding: 0 0 var(--space-md);
+  border: 0px solid hsla(var(--color-contrast-higher-h), var(--color-contrast-higher-s), var(--color-contrast-higher-l), 0.1);
+  border-bottom-width: 1px;
+  transition: 0.2s;
+}
+
+.tab-features-v2__control-title {
+  display: block;
+  color: var(--color-contrast-medium);
+  font-weight: 600;
+  font-size: var(--text-base);
+  margin-bottom: var(--space-xxs);
+  transition: color 0.2s;
+}
+
+.tab-features-v2__control-description {
+  color: var(--color-contrast-medium);
+  line-height: 1.4;
+  font-size: var(--text-sm);
+}
+
+.tab-features-v2__control:hover {
+  border-color: hsla(var(--color-contrast-higher-h), var(--color-contrast-higher-s), var(--color-contrast-higher-l), 0.5);
+}
+.tab-features-v2__control:hover .tab-features-v2__control-title {
+  color: var(--color-contrast-higher);
+}
+
+.tab-features-v2__control[aria-selected=true] {
+  border-color: var(--color-accent);
+}
+.tab-features-v2__control[aria-selected=true] .tab-features-v2__control-title {
+  color: var(--color-accent);
+}
+
+.tab-features-v2__panels {
+  position: relative;
+}
+
+.tab-features-v2__panel {
+  opacity: 0;
+}
+
+.tabs--no-interaction .tab-features-v2__panel {
+  -webkit-animation-duration: 0s;
+          animation-duration: 0s;
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+}
+
+.tab-features-v2__panel--display {
+  -webkit-animation: tab-features-v2-panel-entry-anim 0.5s 0.2s var(--ease-out) forwards;
+          animation: tab-features-v2-panel-entry-anim 0.5s 0.2s var(--ease-out) forwards;
+}
+
+.tab-features-v2__panel--hide {
+  position: absolute;
+  visibility: hidden;
+  top: 0;
+  width: 100%;
+  transition: position 0s 0.5s, visibility 0s 0.5s;
+  -webkit-animation: tab-features-v2-panel-exit-anim 0.5s var(--ease-out);
+          animation: tab-features-v2-panel-exit-anim 0.5s var(--ease-out);
+}
+
+@-webkit-keyframes tab-features-v2-panel-entry-anim {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-20px);
+            transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+
+@keyframes tab-features-v2-panel-entry-anim {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-20px);
+            transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@-webkit-keyframes tab-features-v2-panel-exit-anim {
+  0% {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+  }
+}
+@keyframes tab-features-v2-panel-exit-anim {
+  0% {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+  }
+}
+@media (min-width: 64rem) {
+  .tab-features-v2__controls-list {
+    flex-direction: column;
+    overflow: visible;
+  }
+  .tab-features-v2__controls-list > * {
+    flex: 1 0 auto;
+  }
+
+  .tab-features-v2__text-crop-gradient {
+    display: none;
+  }
+
+  .tab-features-v2__control {
+    border-width: 0px;
+    border-radius: var(--radius-md);
+    padding: var(--space-sm) var(--space-md);
+  }
+  .tab-features-v2__control:hover, .tab-features-v2__control[aria-selected=true] {
+    background-color: var(--color-bg-light);
+    box-shadow: var(--shadow-sm);
+  }
+}

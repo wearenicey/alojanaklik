@@ -31,11 +31,11 @@
 
 // themes
 .btn--primary {
-  background: var(--color-primary);
-  color: var(--color-secondary-darker);
+  background: var(--color-accent-light);
+  color: var(--color-white);
 
   &:hover {
-    background: var(--color-primary-light);
+    background: var(--color-accent-lighter);
     box-shadow: 0px 2px 8px  alpha(var(--color-secondary), 0.2);
   }
 
@@ -45,21 +45,20 @@
 }
 
 .btn--subtle {
-  background: var(--color-quaternary-light);
-  color: var(--color-contrast-higher);
-  border: 1px solid var(--color-quaternary-darker);
+  background: alpha(var(--color-accent), 0.1);
+  color: var(--color-accent);
   font-family: var(--font-secondary);
 
   &:hover {
-    background: var(--color-primary);
-    color: var(--color-black);
+    background: alpha(var(--color-accent), 0.05);
+    color: var(--color-accent-dark);
     box-shadow: var(--shadow-xs);
   }
 }
 
 .btn--accent {
-  background: var(--color-accent-light);
-  color: var(--color-white);
+  background: var(--color-primary-light);
+  color: var(--color-accent-dark);
 
   &:hover {
     background: var(--color-accent-dark);

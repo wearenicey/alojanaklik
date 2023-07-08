@@ -32,6 +32,12 @@ Usage: codyhouse.co/license
   height: var(--hiw-v2-arrow-size);
 }
 
+.hiw-v2__figure {
+  img {
+    padding: 0 24vw 0 24vw;
+  }
+}
+
 @media (min-width: 64rem) {
   /* layout swift */
   :root {
@@ -51,6 +57,9 @@ Usage: codyhouse.co/license
 
   .hiw-v2__figure {
     position: relative;
+    img {
+      padding: 0 10rem 0 0;
+    }
   }
 
   .hiw-v2__arrow {
