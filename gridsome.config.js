@@ -8,6 +8,8 @@ module.exports = {
 	siteName: "Forever Living Proizvodi - Aloja Vera",
 	siteUrl: "https://alojanaklik.rs/",
 
+	outputLogs: true,
+
 	plugins: [
 		{
 			use: "gridsome-plugin-gtm",
