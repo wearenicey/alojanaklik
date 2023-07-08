@@ -20,7 +20,7 @@
     "assets-loader": "^0.5.2",
     "axios": "^1.3.3",
     "codyhouse-framework": "^2.9.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "gridsome": "^0.7.0",
     "gridsome-plugin-gtm": "^0.1.1",
     "gridsome-plugin-remark-shiki": "^0.6.0",
