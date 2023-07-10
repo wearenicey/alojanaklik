@@ -1,8 +1,6 @@
 <template>
 	<Layout>
 		<article class="padding-y-xxl">
-
-
 			<header class="container max-width-xs margin-bottom-lg">
 				<div
 					class="
@@ -17,12 +15,7 @@
 				</div>
 
 				<div class="flex justify-center">
-					<div class="author__content text-component v-space-xxs">
-						<!-- <p class="text-sm color-contrast-medium">
-              <time class="text-sm color-inherit" :datetime="$page.post.datetime">{{ $page.post.humanTime }}</time
-              >&mdash; {{ $page.post.timeToRead }} min čitanja
-            </p> -->
-					</div>
+					<div class="author__content text-component v-space-xxs"></div>
 				</div>
 			</header>
 
@@ -162,31 +155,7 @@ export default {
 	destroyed() {
 		document.getElementById("main-header-js").remove();
 	}
-}
-
-// 	data() {
-// 		return {
-// 			showModal: false,
-// 			modalData: {
-// 				headline: "Otkrijte Zdraviji Životni Stil",
-// 				paragraph: "Da li ste spremni za započinjanje puta ka boljem zdravlju i blagostanju? Pratite nas na Instagramu za svakodnevnu inspiraciju, vredne savete i stručne smernice od vodećih zdravstvenih stručnjaka.",
-// 				image: "/assets/img/slika-3.jpg"
-// 			}
-// 		};
-// 	},
-// 	mounted() {
-// 		setTimeout(() => {
-// 			this.showModal = true;
-// 		}, 6000);
-// 	},
-// 	methods: {
-// 		closeModal() {
-// 			this.showModal = false;
-// 		},
-// 		followOnInstagram() {
-// 		}
-// 	}
-// };
+};
 
 </script>
 
@@ -221,5 +190,4 @@ export default {
 	cursor: pointer;
 	font-size: 24px;
 }
-
 </style>
