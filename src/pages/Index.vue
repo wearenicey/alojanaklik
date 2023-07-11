@@ -5,7 +5,7 @@
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
 						<div class="text-component text-center text-left@md">
-							<h1 class="text-xxl">Otkrijte moć proizvoda Forever Living za zdraviji i srećniji život</h1> 
+							<h1 class="text-xxl">Otkrijte moć proizvoda Forever Living za zdraviji i srećniji život</h1>
 							<p class="text-md color-contrast-medium">
 								Izgledaj bolje i osećaj se odlično uz proizvode na bazi aloje vere.
 							</p>
@@ -50,7 +50,7 @@
 							<g-image class="block width-100%" :immediate="true" src="~/assets/img/blagostanje-aloe-vera.png" alt="Forever Living" quality="75" />
 						</figure>
 
-						<div class="text-component text-space-y-md line-height-md">
+						<div class="text-component text-left text-space-y-md line-height-md">
 							<h2 class="text-lg">Blagostanje</h2>
 							<p class="color-contrast-medium">Unapredite zdravlje i vitalnost uz pažljivo formulisane proizvode, dizajnirane da podignu nivoe energije, podrže imuni sistem i poboljšaju vaše blagostanje.</p>
 						</div>
@@ -61,7 +61,7 @@
 							<g-image class="block width-100%" :immediate="true" src="~/assets/img/sjajna-koza-aloe-vera.png" alt="Forever Living" quality="75" />
 						</figure>
 
-						<div class="text-component text-space-y-md line-height-md">
+						<div class="text-component text-left text-space-y-md line-height-md">
 							<h2 class="text-lg">Sjajna koža</h2>
 							<p class="color-contrast-medium">Otključajte svoju prirodnu lepotu uz moć aloje vere i biljnih ekstrakata, za blistav ten, mladalačku kožu i zdravu kosu i nokte.</p>
 						</div>
@@ -72,12 +72,55 @@
 							<g-image class="block width-100%" :immediate="true" src="~/assets/img/harmonija-aloe-vera.png" alt="Forever Living" quality="75" />
 						</figure>
 
-						<div class="text-component text-space-y-md line-height-md">
+						<div class="text-component text-left text-space-y-md line-height-md">
 							<h2 class="text-lg">Harmonija za varenje</h2>
 							<p class="color-contrast-medium">Za zdrav sistem za varenje i poboljšanu apsorpciju hranljivih materija uz magičnu aloja veru i umirujuće biljne mešavine.</p>
 						</div>
 					</li>
 				</ul>
+			</div>
+		</section>
+
+		<section class="products-gallery-v2 padding-bottom-md padding-top-xxl">
+			<div class="container max-width-adaptive-sm">
+				<div class="gap-lg flex-row@md">
+					<div class="margin-bottom-md">
+						<div class="text-component text-center">
+							<h2 class="font-secondary text-xl">Najtraženiji proizvodi</h2>
+							<p class="text-base">Počnite danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="">
+			<div class="container max-width-adaptive-lg padding-bottom-lg">
+				<div class="grid gap-md padding-bottom-md">
+					<g-link class="card-v11 col-4@md radius-lg" to="/napici/aloja-vera-gel/" style="background-image: url(../aloe-vera-gel.webp)" aria-label="Link description">
+						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center text-md">
+								<p class="color-white">Forever Aloe Vera Gel</p>
+							</div>
+						</div>
+					</g-link>
+					<g-link class="card-v11 col-4@md radius-lg" to="/preparati-za-higijenu/pasta-za-zube/" style="background-image: url(../pasta-za-zube.webp)" aria-label="Link description">
+						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center text-md">
+								<p class="color-white">Pasta za zube</p>
+							</div>
+						</div>
+					</g-link>
+					<g-link class="card-v11 col-4@md radius-lg" to="/preparati-za-negu-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
+						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
+							<div class="padding-sm text-center text-md">
+								<p class="color-white">Aloe First</p>
+							</div>
+						</div>
+					</g-link>
+					<div class="padding-top-md padding-top-0@md text-center col-12">
+						<g-link to="/proizvodi/" class="btn btn--primary margin-right-xs@md margin-bottom-sm">Pogledajte sve proizvode </g-link>
+					</div>
+				</div>
 			</div>
 		</section>
 
@@ -88,6 +131,7 @@
 						<div class="col-12 margin-bottom-lg">
 							<h2 class="text-lg margin-bottom-xs">Aloe vera gel</h2>
 							<p class="color-contrast-medium text-md">99,7% čist gel iz unutrašnjosti lista aloje - Bez dodatnog konzervansa</p>
+							<g-link class="btn btn--primary btn--sm margin-top-md" to="/napici/aloja-vera-gel/">Saznaj više</g-link>
 						</div>
 						<ul class="tab-features-v2__controls-list js-tabs__controls" aria-label="Tabs navigation">
 							<li>
@@ -168,6 +212,7 @@
 						<div class="col-12 margin-bottom-lg">
 							<h2 class="text-lg margin-bottom-xs">C9 - Program za mršavljenje</h2>
 							<p class="color-contrast-medium text-md">Devetodnevni program koji će vam pomoći da promenite navike u ishrani i da izgradite zdraviji životni stil.</p>
+							<g-link class="btn btn--primary btn--sm margin-top-md" to="/mrsavljenje/c9-aloja-vanila/">Saznaj više</g-link>
 						</div>
 						<ul class="tab-features-v2__controls-list js-tabs__controls" aria-label="Tabs navigation">
 							<li>
@@ -205,48 +250,6 @@
 			</div>
 		</section>
 
-		<section class="products-gallery-v2 padding-bottom-md padding-top-xxl">
-			<div class="container max-width-adaptive-sm">
-				<div class="gap-lg flex-row@md">
-					<div class="margin-bottom-md">
-						<div class="text-component text-center">
-							<h2 class="font-secondary text-xl">Najtraženiji proizvodi</h2>
-							<p class="text-base">Počnite danas da živite zdravije, srećnije i ispunjenije. Upoznajte se sa proizvodima.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section class="">
-			<div class="container max-width-adaptive-lg padding-bottom-lg">
-				<div class="grid gap-md padding-bottom-md">
-					<g-link class="card-v11 col-4@md radius-lg" to="/napici/aloja-vera-gel/" style="background-image: url(../aloe-vera-gel.webp)" aria-label="Link description">
-						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
-							<div class="padding-sm text-center text-md">
-								<p class="color-white">Forever Aloe Vera Gel</p>
-							</div>
-						</div>
-					</g-link>
-					<g-link class="card-v11 col-4@md radius-lg" to="/preparati-za-higijenu/pasta-za-zube/" style="background-image: url(../pasta-za-zube.webp)" aria-label="Link description">
-						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
-							<div class="padding-sm text-center text-md">
-								<p class="color-white">Pasta za zube</p>
-							</div>
-						</div>
-					</g-link>
-					<g-link class="card-v11 col-4@md radius-lg" to="/preparati-za-negu-koze/aloe-first/" style="background-image: url(../aloe-first.jpg)" aria-label="Link description">
-						<div class="card-v11__box width-90% border border-2 border-contrast-low border-opacity-50% radius-lg">
-							<div class="padding-sm text-center text-md">
-								<p class="color-white">Aloe First</p>
-							</div>
-						</div>
-					</g-link>
-					<div class="padding-top-md padding-top-0@md text-center col-12">
-						<g-link to="/proizvodi/" class="btn btn--primary margin-right-xs@md margin-bottom-sm">Pogledajte sve proizvode </g-link>
-					</div>
-				</div>
-			</div>
-		</section>
 		<section class="feature-v2 padding-top-xl padding-bottom-md">
 			<div class="container max-width-adaptive-sm">
 				<div class="grid gap-md">
@@ -358,10 +361,54 @@
 				</div>
 			</div>
 		</div>
+
+		<section class="container max-width-adaptive-md">
+			<div class="articles padding-top-xxl margin-bottom-xl">
+				<div class="container max-width-adaptive-lg"></div>
+				<div class="text-center">
+					<h1 class="text-xxl">Blog - Aloja Vera</h1>
+				</div>
+			</div>
+			<div class="container max-width-adaptive-lg">
+				<div>
+					<transition-group class="projects" name="fade">
+						<CardItemHome v-for="{ node } in latestPosts" :key="node.id" :record="node" />
+					</transition-group>
+				</div>
+			</div>
+		</section>
 	</Layout>
 </template>
 
+<page-query>
+  query LatestPosts {
+    latestPosts: allPost (perPage: 4, sortBy: "created", order: DESC) {
+      edges {
+        node {
+          id
+          title
+          excerpt
+          path
+          image
+          imageTwo {
+            path
+            alt
+          }
+          featured
+          humanTime: created(format: "DD. MM. YYYY.")
+          datetime: created
+          tags {
+            title
+          }
+        }
+      }
+    }
+  }
+</page-query>
+
 <script>
+import CardItemHome from "~/components/CardItemHome.vue";
+
 export default {
 	metaInfo() {
 		// meta deskripcija
@@ -380,6 +427,21 @@ export default {
 			]
 		};
 	},
+
+	// call component
+	components: {
+		CardItemHome
+	},
+
+	data() {
+    return {
+      latestPosts: [], // Replace loadedPosts with latestPosts
+    };
+  },
+
+	created() {
+    this.latestPosts.push(...this.$page.latestPosts.edges); // Replace this.$page.entries.edges with this.$page.latestPosts.edges
+  },
 
 	// pozivanje codyhouse javascript ui
 	mounted() {

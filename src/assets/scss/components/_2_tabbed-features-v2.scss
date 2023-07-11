@@ -42,7 +42,7 @@ Usage: codyhouse.co/license
   display: block;
   color: var(--color-contrast-medium);
   font-weight: 600;
-  font-size: var(--text-base);
+  font-size: var(--text-md);
   margin-bottom: var(--space-xxs);
   transition: color 0.2s;
 }
@@ -50,7 +50,7 @@ Usage: codyhouse.co/license
 .tab-features-v2__control-description {
   color: var(--color-contrast-medium);
   line-height: 1.4;
-  font-size: var(--text-sm);
+  font-size: var(--text-base);
 }
 
 .tab-features-v2__control:hover {
