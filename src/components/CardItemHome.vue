@@ -17,9 +17,6 @@
 				<h2 class="story__title">
 					<g-link :to="record.path">{{ record.title }}</g-link>
 				</h2>
-				<p>
-					{{ record.excerpt }}
-				</p>
 			</div>
 
 			<div class=" margin-top-sm flex">

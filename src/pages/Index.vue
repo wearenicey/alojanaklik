@@ -5,7 +5,7 @@
 				<div class="grid gap-lg items-center">
 					<div class="col-6@md">
 						<div class="text-component text-center text-left@md">
-							<h1 class="text-xxl">Otkrijte moć proizvoda Forever Living za zdraviji i srećniji život</h1>
+							<h1 class="text-xxl">Otkrijte moć Forever Living proizvoda za zdraviji i srećniji život</h1>
 							<p class="text-md color-contrast-medium">
 								Izgledaj bolje i osećaj se odlično uz proizvode na bazi aloje vere.
 							</p>
@@ -50,7 +50,7 @@
 							<g-image class="block width-100%" :immediate="true" src="~/assets/img/blagostanje-aloe-vera.png" alt="Forever Living" quality="75" />
 						</figure>
 
-						<div class="text-component text-left text-space-y-md line-height-md">
+						<div class="text-component text-center text-left@sm text-space-y-md line-height-md">
 							<h2 class="text-lg">Blagostanje</h2>
 							<p class="color-contrast-medium">Unapredite zdravlje i vitalnost uz pažljivo formulisane proizvode, dizajnirane da podignu nivoe energije, podrže imuni sistem i poboljšaju vaše blagostanje.</p>
 						</div>
@@ -61,7 +61,7 @@
 							<g-image class="block width-100%" :immediate="true" src="~/assets/img/sjajna-koza-aloe-vera.png" alt="Forever Living" quality="75" />
 						</figure>
 
-						<div class="text-component text-left text-space-y-md line-height-md">
+						<div class="text-component text-center text-left@sm text-space-y-md line-height-md">
 							<h2 class="text-lg">Sjajna koža</h2>
 							<p class="color-contrast-medium">Otključajte svoju prirodnu lepotu uz moć aloje vere i biljnih ekstrakata, za blistav ten, mladalačku kožu i zdravu kosu i nokte.</p>
 						</div>
@@ -72,7 +72,7 @@
 							<g-image class="block width-100%" :immediate="true" src="~/assets/img/harmonija-aloe-vera.png" alt="Forever Living" quality="75" />
 						</figure>
 
-						<div class="text-component text-left text-space-y-md line-height-md">
+						<div class="text-component text-center text-left@sm text-space-y-md line-height-md">
 							<h2 class="text-lg">Harmonija za varenje</h2>
 							<p class="color-contrast-medium">Za zdrav sistem za varenje i poboljšanu apsorpciju hranljivih materija uz magičnu aloja veru i umirujuće biljne mešavine.</p>
 						</div>
@@ -346,22 +346,6 @@
 			</div>
 		</section>
 
-		<div class="container max-width-adaptive-md padding-y-xl">
-			<div class="radius-lg inner-glow shadow-xs padding-lg bg-secondary">
-				<div class="grid gap-md items-center">
-					<div class="col text-center">
-						<div class="text-component">
-							<h2 class="text-xl color-white">Inovativna rešenja</h2>
-							<p class="color-bg-darker">Povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa. To je Forever Living</p>
-						</div>
-						<div class="flex padding-top-md justify-center">
-							<g-link to="/kontakt/" class="btn btn--primary"> Kontaktirajte nas</g-link>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
 		<section class="container max-width-adaptive-md">
 			<div class="articles padding-top-xxl margin-bottom-xl">
 				<div class="container max-width-adaptive-lg"></div>
@@ -375,8 +359,27 @@
 						<CardItemHome v-for="{ node } in latestPosts" :key="node.id" :record="node" />
 					</transition-group>
 				</div>
+				<div class="flex justify-center margin-top-md">
+					<g-link to="/blog" class="btn btn--subtle">Procitaj više</g-link>
+				</div>
 			</div>
 		</section>
+
+		<div class="container max-width-adaptive-md padding-y-xl">
+			<div class="radius-lg inner-glow shadow-xs padding-lg bg-secondary">
+				<div class="grid gap-md items-center">
+					<div class="col text-center">
+						<div class="text-component">
+							<h2 class="text-xl color-white">Inovativna rešenja</h2>
+							<p class="color-bg-darker">Povećanje nivoa energije, jačanje imuno sistema i održavanje zdravlja, sa prirodnim sastojcima bez dodavanja hemikalija i konzervansa. To je Forever Living</p>
+						</div>
+						<div class="flex padding-top-md justify-center">
+							<g-link to="/kontakt/" class="btn btn--accent"> Kontaktirajte nas</g-link>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</Layout>
 </template>
 
@@ -387,7 +390,6 @@
         node {
           id
           title
-          excerpt
           path
           image
           imageTwo {
@@ -413,8 +415,8 @@ export default {
 	metaInfo() {
 		// meta deskripcija
 		return {
-			title: "Forever Living Proizvodi - Aloja Vera",
-			titleTemplate: "Forever Living Proizvodi - Aloja Vera",
+			title: "Forever Living Proizvodi - Zdravlje na klik od vas",
+			titleTemplate: "Forever Living Proizvodi - Zdravlje na klik od vas",
 			meta: [
 				{
 					name: "description",
@@ -434,14 +436,14 @@ export default {
 	},
 
 	data() {
-    return {
-      latestPosts: [], // Replace loadedPosts with latestPosts
-    };
-  },
+		return {
+			latestPosts: [] // Replace loadedPosts with latestPosts
+		};
+	},
 
 	created() {
-    this.latestPosts.push(...this.$page.latestPosts.edges); // Replace this.$page.entries.edges with this.$page.latestPosts.edges
-  },
+		this.latestPosts.push(...this.$page.latestPosts.edges); // Replace this.$page.entries.edges with this.$page.latestPosts.edges
+	},
 
 	// pozivanje codyhouse javascript ui
 	mounted() {

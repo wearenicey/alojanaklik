@@ -34,11 +34,12 @@ Usage: codyhouse.co/license
 
 .hiw-v2__figure {
   img {
-    padding: 0 24vw 0 24vw;
+    width: 80px;
+    margin: auto;
   }
 }
 
-@media (min-width: 64rem) {
+@media (min-width: 48rem) {
   /* layout swift */
   :root {
     --hiw-v2-gap: var(--space-md);
@@ -58,7 +59,8 @@ Usage: codyhouse.co/license
   .hiw-v2__figure {
     position: relative;
     img {
-      padding: 0 16rem 0 0;
+      width: 128px;
+      margin: 0;
     }
   }
 
