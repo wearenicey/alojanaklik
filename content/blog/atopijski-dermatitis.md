@@ -31,7 +31,7 @@ featured: true
 
 ## Šta je atopijski dermatitis?
 
-Atopijski dermatitis, takođe poznat kao atopijski ekcem, jeste neuobičajeno stanje kože koje pogađa milione ljudi širom sveta. To je hronični inflamatorni poremećaj koji uzrokuje suvoću, svrab i upalu kože. Ovo stanje može biti frustrirajuće, bolno i gotovo uvek ima veliki uticaj na samopouzdanje osobe koja pati od ove bolesti, što otežava obavljanje svakodnevnih aktivnosti ili čak spavanje. Ako se borite sa atopijskim dermatitisom, niste sami. Uz odgovarajuća uputstva, možete se nositi sa ovim stanjem i poboljšati kvalitet svog života.
+Atopijski dermatitis, takođe poznat kao atopijski ekcem, jeste oboljenje kože koje pogađa milione ljudi širom sveta. To je hronični inflamatorni poremećaj koji uzrokuje suvoću, svrab i upalu kože. Ovo stanje može biti frustrirajuće, bolno i gotovo uvek ima veliki uticaj na samopouzdanje osobe koja pati od ove bolesti, što otežava obavljanje svakodnevnih aktivnosti ili čak spavanje. Ako se borite sa atopijskim dermatitisom, niste sami. Uz odgovarajuća uputstva, možete se nositi sa ovim stanjem i poboljšati kvalitet svog života.
 
 U ovom tekstu ćemo istražiti uzroke, simptome i opcije lečenja atopijskog dermatitisa. Takođe, pružićemo praktične savete koji vam mogu pomoći da lakše podnesete simptome i poboljšate zdravlje vaše kože.
 
@@ -42,7 +42,7 @@ Atopijski dermatitis jeste hronično inflamatorno stanje kože koje utiče na sp
 
 Tačan uzrok atopijskog dermatitisa je nepoznat, ali istraživanja sugerišu da može biti kombinacija genetskih i faktora sredine. Neki od faktora koji mogu izazvati ili pogoršati ovo stanje uključuju:
 
-- Suva i zapuštena koža
+- Suvu i zapuštenu kožu
 - Izlaganje iritantima i alergenima
 - Stres
 - Hormonalne promene
@@ -144,7 +144,7 @@ U nekim slučajevima, atopijski dermatitis može dovesti do komplikacija, kao š
 Nema leka za atopijski dermatitis, ali postoji niz tretmana koji mogu ublažiti simptome i sprečiti pogoršanje stanja.
 
 
-Živeti atopijskim dermatitisom može biti naporno i izazovno, ali je moguće kontrolisati posledice. Održavanje zdravog načina života i redovno praćenje simptoma su ključni faktori u borbi protiv ove bolesti.
+Živeti sa atopijskim dermatitisom može biti naporno i izazovno, ali je moguće kontrolisati posledice. Održavanje zdravog načina života i redovno praćenje simptoma su ključni faktori u borbi protiv ove bolesti.
 
 
 

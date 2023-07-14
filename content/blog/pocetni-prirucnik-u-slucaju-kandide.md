@@ -61,7 +61,6 @@ Osim navedenih, postoji čitav [spektar simptoma]( https://www.kandida.rs/candid
 Kandidijaza se najčešće ne ispoljava na isti način ili na istom području kod dve različite individue. Osim toga, neki simptomi prekomernog rasta kandide podudaraju se sa simptomima drugih tegoba ili bolesti organizma, te je postavljanje tačne dijagnoze time otežano. Zato je pre uzimanja bilo kakve terapije potrebno utvrditi tačan uzrok simptoma i tek tada ih tretirati.
 
 
-## Medicinski tretman kandide
 Iako postoji veliki broj lekova koji se mogu koristiti za lečenje prekomernog rasta kandide, pristup ishrani je često najefikasniji. To je zato što ishrana sa malo šećera i visokim sadržajem zdravih masti, proteina i povrća bez skroba može pomoći u izgladnjivanju kandide i uspostavljanju ravnoteže bakterija u crevima.
 
 ![simptomi kandide u crevima](./images/probiotik.jpg)

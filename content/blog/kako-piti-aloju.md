@@ -31,7 +31,7 @@ featured: false
 
 Svakodnevno sedenje po više sati dovodi Vas u situaciju da se neredovno hranite ili se često prejedate. Neadekvatna ishrana bez vitamina i minerala vremenom oštećuje kožu i kosu. Instant rešenja su svuda oko nas - kupićete neki hemijski preparat...
 
-Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to ste rešili privremeno lekovima, antacidima. Šta posle, ako lekovi više ne pomažu? U našoj okolini postoje veoma moćne biljke, poput aloje koje mogu pomoći kod svakodnevnih problema sa varenjem, UV zračenjem, hidratacijom kože, pa čak i uslučaju najtežih bolesti.
+Vremenom počinjete osećati malaksalost, umor, žgaravicu ili nadutost. I to ste rešili privremeno lekovima, antacidima. Šta posle, ako lekovi više ne pomažu? U našoj okolini postoje veoma moćne biljke, poput aloje koje mogu pomoći kod svakodnevnih problema sa varenjem, UV zračenjem, hidratacijom kože, pa čak i u slučaju najtežih bolesti.
 
 
 
@@ -48,7 +48,7 @@ Aloe vera gel ima brojne zdravstvene prednosti, međutim, važno je znati kako p
 
 ## Aloja u raznim oblicima
 
-1. **Aloja vera biljka** se koristi u sledećim oblicima:
+**Aloja vera biljka** se koristi u sledećim oblicima:
 
 Kao **lekovito bilje** i to:
 
@@ -63,7 +63,7 @@ Kao **sobno bilje** ima sledeće uloge:
 - Da održava stalnu svežinu vazduha - otporna je na duvanski dim
 - I kao ukrasno bilje ima dekorativnu funkciju.
 
-2. **Aloja vera sok** - sadrži preko 240 hranljivih sastojaka i bogat je izvor vitamina (A, B1, B2, B3, B5, B6, B12, C), minerala (kalcijum, natrijum, bakar, cink, hrom, mangan, kalijum, magnezijum, gvožđe), antioksidanasa, aminokiselina (od toga 8 esencijalnih), antikinona, enzima, saponina i lignina.
+1. **Aloja vera sok** - sadrži preko 240 hranljivih sastojaka i bogat je izvor vitamina (A, B1, B2, B3, B5, B6, B12, C), minerala (kalcijum, natrijum, bakar, cink, hrom, mangan, kalijum, magnezijum, gvožđe), antioksidanasa, aminokiselina (od toga 8 esencijalnih), antikinona, enzima, saponina i lignina.
 
 <br>
 
@@ -112,9 +112,9 @@ Kao **sobno bilje** ima sledeće uloge:
 **Sok od aloje vere sadrži:**
 
 - Obilje vitamina - A, B1, B2, B3, B5, B6, B9, B12, C, E. Vitamini imaju veoma bitnu ulogu kod jačanja imuno sistema čoveka. Posebno se ističu vitamini A, C i E jer su značajni u borbi protiv starenja kože;
-- Enzime - aloja sadrži čak 16 enzima koji su veoma važni za varenje, protiv upale kože i upalnih procesa oboljenja;
+- Enzime - aloja sadrži čak 16 enzima koji su veoma važni za varenje, protiv upale kože i drugih upalnih procesa i oboljenja;
 - Minerale - kalcijum, bakar, selen, magnezijum, gvožđe i hrom koji su veoma važni protiv perutanja kože, za jačanje kostiju, protiv mišićnih grčeva, anemije i poboljšanja imuno sistema;
-- Aminokiseline - aloja vera sok sadrži 8 amino kiselina koje organizam mora unositi jer ih ne stvara sam;
+- Aminokiseline - aloja vera sok sadrži 8 amino kiselina koje moramo unositi u organizam pošto ih ne stvara samostalno;
 - Šećere (monosaharde i polisaharide) i biljne hormone - koji su važni i efikasni u borbi protiv akni, ožiljaka i bora.
 
 **Sok od aloje vera** pomaže kod:
@@ -331,7 +331,7 @@ Krema za sunčanje je idealna u borbi protiv visokog UV zračenja i štetnog uti
 
 ## Uloga aloje kod rešavanja želudačnih smetnji - žgaravica i probavne smetnje
 
-Poznato je da aloja ima izvrsno dejstvo kad rešavanja želudačnih smetnji. Aloja sadži glikoproteine zvane aktin i sterol koji smanjuju upale i rane na sluznici želuca. S obzirom da sadrži enzime koji su neophodni za varenje veoma je efikasna za sprečavanje zatvora i detoksikaciju organizma. Aloja je poznata kao biljka koja ima protivbakterijsko dejstvo te je pogodna za suzbijanje helikobakterije, uzročnika gastritisa. Poznato je da je aloja alkalna po svom sastavu te je izvrsna u održavanju PH vrednosti želudačne kiseline. Reguliše kako višak, tako i manjak želudačne kiseline. Proizvod koji može zadovoljiti sve vaše potrebe po pitanju želudačnih smetnji je i ovaj [napitak](https://flpshop.rs/napici/12615/forever-aloe-mango/360000954255/personal.html) od gela aloje.
+Poznato je da aloja ima izvrsno dejstvo kod rešavanja želudačnih smetnji. Aloja sadrži glikoproteine aktin i sterol koji smanjuju upale i rane na sluznici želuca. S obzirom da sadrži enzime koji su neophodni za varenje veoma je efikasna za sprečavanje zatvora i detoksikaciju organizma. Aloja je poznata kao biljka koja ima protivbakterijsko dejstvo te je pogodna za suzbijanje helikobakterije, uzročnika gastritisa. Poznato je da je aloja alkalna po svom sastavu te je izvrsna u održavanju PH vrednosti želudačne kiseline. Reguliše kako višak, tako i manjak želudačne kiseline. Proizvod koji može zadovoljiti sve vaše potrebe po pitanju želudačnih smetnji je i ovaj [napitak](https://flpshop.rs/napici/12615/forever-aloe-mango/360000954255/personal.html) od gela aloje.
 
 Aloja vera gel sadrži 99,7% čistog gela iz lista aloje te omogućava sistemu za varenje da apsorbuje sve hranljive sastojke iz hrane. Ujedno podstiče i stvaranje dobrih bakterija. Polisaharid acemanan podiže imunitet organizma. Ne sadrži konzervanse i pakovan je u ambalaži od materijala koji je 100% recikliran. Pije se 120 ml dnevno ukupno, podeljeno u 2 ili 3 doze. Nakon otvaranja čuva se u frižideru do 30 dana na temperaturi ne nižoj od 7°C.
 
@@ -340,7 +340,7 @@ Aloja vera gel sadrži 99,7% čistog gela iz lista aloje te omogućava sistemu z
 
 ## Antioksidativna svojstva aloje koja mogu pomoći kod tumora
 
-Brojni hemijski i biološki agensi koji imaju dokazana kancerogena svojstva (kafa, nikotin, slobodni radikali, pesticidi, konzervansi) doprinose transformaciji zdrave ćelije u malignu. Da li će doći do te transformacije najviše zavisi od imuno sistema organizma. Postoje jasni naučni dokazi istočne medicine koja potvrđuje pozitivno dejstvo aloje na sprečavanje razvoja tumora, kao i jačanju imuno sistema i zdravih ćelija u organizmu. Analizom je ustanovljeno da aloja sadrži veliki broj ugljenihhidrata (polisaharida i oligosaharida) sa imunomodulatornim svojstvom. To znači da aloja direktno doprinosi stvaranju T ćelija koje su osnova imuno sistema čoveka.
+Brojni hemijski i biološki agensi koji imaju dokazana kancerogena svojstva (kafa, nikotin, slobodni radikali, pesticidi, konzervansi) doprinose transformaciji zdrave ćelije u malignu. Da li će doći do takve transformacije najviše zavisi od stanja imunološkog sistema organizma. Postoje jasni naučni dokazi istočne medicine koja potvrđuje pozitivno dejstvo aloje na sprečavanje razvoja tumora, kao i jačanju imunološkog sistema i zdravih ćelija u organizmu. Analizom je ustanovljeno da aloja sadrži veliki broj ugljenihhidrata (polisaharida i oligosaharida) sa imunomodulatornim svojstvom. To znači da aloja direktno doprinosi stvaranju T ćelija koje su osnova imuno sistema čoveka.
 U slučaju hemoterapije, **aloja vera biljka** pomaže tako što sprečava oštećenja zdravih ćelija, naročito ćelija imunskog sistema. Dokazano je da aloja sadrži najmanje tri antitumorska sastojka emodin, lecitin i manozu. U slučaju lečenje kancera aloja vera biljka ima sledeća dejstva:
 
 1. Antioksidaciono
@@ -352,11 +352,6 @@ U slučaju hemoterapije, **aloja vera biljka** pomaže tako što sprečava ošte
 
 
 
-## Mere opreza kada pijete gel od aloe vere
-
-Iako je gel aloe vere generalno bezbedan za konzumiranje, važno je preduzeti neke mere predostrožnosti. Evo nekoliko stvari koje treba imati na umu:
-
-Uvek birajte visokokvalitetni gel aloe vere iz renomiranih izvora.
 
 
 

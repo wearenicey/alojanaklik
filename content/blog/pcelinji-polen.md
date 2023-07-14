@@ -103,7 +103,7 @@ Dok se pčelinji polen generalno smatra bezbednim za većinu ljudi, neki pojedi
 <br>
 <br>
 
-Pčelinji polen je superhrana bogata hranljivim materijama koja nudi brojne zdravstvene prednosti. Bogat je vitaminima, mineralima i antioksidansima i utvrđeno je da jača imuni sistem, smanjuje upale, poboljšava varenje, podržava zdravlje kardiovaskularnog sistema i poboljšava atletske performanse. Ako ste zainteresovani da dodate pčelinji polen u svoju ishranu, počnite sa malom količinom i postepeno povećavajte dozu kako biste izbegli bilo kakve alergijske reakcije.
+Pčelinji polen je superhrana bogata hranljivim materijama koja nudi brojne zdravstvene prednosti. Bogat je vitaminima, mineralima i antioksidansima i utvrđeno je da jača imuni sistem, smanjuje upale, poboljšava varenje, podržava zdravlje kardiovaskularnog sistema i poboljšava atletske performanse. Ukoliko želite da dodate svojoj ishrani pčelinji polen, počnite sa malom količinom i postepeno povećavajte dozu kako biste izbegli bilo kakve alergijske reakcije.
 
 
 <br>

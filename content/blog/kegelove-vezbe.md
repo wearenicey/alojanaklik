@@ -24,13 +24,13 @@ featured: false
 	<span class="text-base font-bold">Najbitnije iz teksta:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>Erektilna disfunkcija.</li>
-      <li>Da li možemo i kako povatiti potenciju?</li>
+      <li>Da li možemo i kako povratiti potenciju?</li>
       <li>Kako se izvode kegelove vežbe?</li>
     </ul>
   </div>
 </div>
 
-Kada se pomenu kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene. Svakoj  ženi je bar jednom u životu preporučeno od strane ginekologa da radi kegelove vežbe za jačanja mišića karličnog dna, koji uobičajeno biva oslabljen u toku trudnoće, nakon porođaja, starenjem ili uvećanjem telesne mase.
+Kada se pomenu kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene. Svakoj  ženi je bar jednom u životu preporučeno od strane ginekologa da radi kegelove vežbe za jačanja mišića karličnog dna, koji uobičajeno bude oslabljen u toku trudnoće, nakon porođaja, starenjem ili uvećanjem telesne mase.
 
 Međutim, kegelove vežbe su itekako dobre i za muškarce. U toku života kod muškaraca se mogu pojaviti određeni zdravstveni problemi, koji mogu uticati na kvalitet seksualnog odnosa. Pored erektilne disfunkcije, mogu se javiti i problemi koji su vezani za preuranjenu ejakulaciju.
 
@@ -71,7 +71,7 @@ Neki od njih mogu biti:
 - Parkinsonova bolest
 - Nezdrav način života
 
-S obzirom na prirodu stanja, konsultovanje sa urologom se preporučuje i svakako će Vam pomoći Specijalista će Vam uz pomoć pregleda i laboratorijskih analiza (krvi i urina) dijagnostikovati zdravstveni problem. Ukoliko je bilo fizičkih povreda na genitalijama, neophodno je uraditi i magnetnu rezonancu.
+S obzirom na prirodu stanja, konsultovanje urologa se preporučuje i svakako će Vam pomoći. Specijalista će Vam pomoću pregleda i laboratorijskih analiza (krvi i urina) dijagnostikovati zdravstveni problem. Ukoliko je bilo fizičkih povreda na genitalijama, neophodno je uraditi i magnetnu rezonancu.
 
 Lečenjem bolesti koje mogu uzrokovati ovaj problem, možemo postići efekat poboljšanja ovog zdravstvenog stanja. Takođe, **terapija razgovorom** sa lekarom specijalistom (psihologom) može otkloniti psihičke i emocionalne probleme koji su jedni od uzroka ovog zdravstvenog stanja.
 

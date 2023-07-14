@@ -69,7 +69,7 @@ Grudni koš je satkan od brojnih koštanih i zglobnih struktura, povezan hrskavi
 
 **Bol u grudima koji nastaje usled stresa, pritiska i emocionalne nestabilnosti**
 
-Usled brzog načina života, nezdravih navika u ishrani i spavanju nastaju brojni **psihički poremećaji**. Oni mogu biti trenutni ili trajni (hronični). Usled toga se neretko dešava da usled problema u porodici ili na poslu osoba oseti sledeće simptome:
+Usled brzog načina života, nezdravih navika u ishrani i spavanju nastaju brojni **psihički poremećaji**. Oni mogu biti trenutni ili trajni (hronični). Usled toga se neretko dešava da zbog problema u porodici ili na poslu osoba oseti sledeće simptome:
 
 1. Lupanje srca uz pojačan ritam;
 2. Drhatnje tela;
