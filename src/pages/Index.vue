@@ -346,7 +346,7 @@
 			</div>
 		</section>
 
-		<section class="container max-width-adaptive-xl">
+		<section class="container max-width-adaptive-lg">
 			<div class="articles padding-top-xxl margin-bottom-xl">
 				<div class="text-center">
 					<h1 class="text-xxl">Blog - Aloja Vera</h1>
@@ -364,7 +364,7 @@
 			</div>
 		</section>
 
-		<div class="container max-width-adaptive-xl padding-y-xl">
+		<div class="container max-width-adaptive-lg padding-y-xl">
 			<div class="radius-lg inner-glow shadow-xs padding-xxl bg-secondary">
 				<div class="grid gap-md items-center">
 					<div class="col text-center">
