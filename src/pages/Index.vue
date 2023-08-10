@@ -346,14 +346,13 @@
 			</div>
 		</section>
 
-		<section class="container max-width-adaptive-md">
+		<section class="container max-width-adaptive-lg">
 			<div class="articles padding-top-xxl margin-bottom-xl">
-				<div class="container max-width-adaptive-lg"></div>
 				<div class="text-center">
 					<h1 class="text-xxl">Blog - Aloja Vera</h1>
 				</div>
 			</div>
-			<div class="container max-width-adaptive-lg">
+			<div>
 				<div>
 					<transition-group class="projects" name="fade">
 						<CardItemHome v-for="{ node } in latestPosts" :key="node.id" :record="node" />
@@ -365,8 +364,8 @@
 			</div>
 		</section>
 
-		<div class="container max-width-adaptive-md padding-y-xl">
-			<div class="radius-lg inner-glow shadow-xs padding-lg bg-secondary">
+		<div class="container max-width-adaptive-lg padding-y-xl">
+			<div class="radius-lg inner-glow shadow-xs padding-xxl bg-secondary">
 				<div class="grid gap-md items-center">
 					<div class="col text-center">
 						<div class="text-component">
