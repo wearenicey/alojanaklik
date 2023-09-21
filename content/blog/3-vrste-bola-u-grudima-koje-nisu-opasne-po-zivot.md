@@ -1,7 +1,7 @@
 ---
 title: Tri vrste bola u grudima koje nisu opasne po život
 tags: Zdravlje
-tagsMeta: Kako da prepoznamo bolove u grudima koji vam ne mogu ugroziti život. Koji su to simptomi i uzroci.
+tagsMeta: Bolovi u grudima koji vam ne mogu ugroziti život. Kako da ih prepoznamo i kako da se ponašamo kada se pojave?
 excerpt: Koje su to bezopasne vrste bola u grudima koje vam neće ugroziti život.
 created: 2022-08-23
 image: 3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
@@ -9,7 +9,7 @@ alt: "istovremeni bol u leđima i grudima"
 
 imageTwo:
   path: /3-vrste-bola-u-grudima-koje-vam-nece-ugroziti-zivot-slika1.jpg
-  alt: "bol u grudima sa vele strane"
+  alt: "bol u grudima sa leve strane"
 image_caption: Photo by Josh Spires on Unsplash
 slug: 3-vrste-bola-u-grudima-koje-nisu-opasne-po-zivot
 featured: false

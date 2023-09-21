@@ -1,8 +1,8 @@
 ---
-title: Bol u donjem delu stomaka
+title: Bol u donjem delu stomaka. Uzroci i kako postupati.
 tags: Zdravlje
-tagsMeta: Svi smo ponekad osetili bol u donjem delu stomaka. Kako se može ublažiti i kada treba pozvati lekara? 
-excerpt: Zašto se javlja bol u stomaku? Koliko je bol u stomaku opasan po život čoveka? Da li ljudi sa čestim bolovima u stomaku mogu kvalitetno živeti?
+tagsMeta: Šta uzrokuje bol u donjem delu stomaka, kako se može ublažiti i kada treba pozvati lekara? Jednostavni saveti i preparati koji mogu da spreče pojavu bola u stomaku.
+excerpt: Zašto se javlja i koliko je bol u stomaku opasan po život? Da li ljudi sa čestim bolovima u stomaku mogu kvalitetno živeti?
 created: 2022-08-22
 image: bol-u-donjem-delu-stomaka-slika1.jpg
 alt: "bol u donjem delu stomaka"

@@ -1,7 +1,7 @@
 ---
 title: 7 ključnih razloga zašto se kandida kod žene ne smiruje
 tags: Zdravlje
-tagsMeta: U kojim situacijama se kandida kod žena ponavlja? Uklonite uzrok ili naviku i smanjite verovatnoću ponovnog pojavljivanja infekcije.
+tagsMeta: Postoje razlozi zbog kojih se kandida kod žena ponavlja. Kratak tekst o tome kako da pokušate da uklonite uzrok ili naviku i smanjite verovatnoću ponovnog pojavljivanja kandide.
 excerpt: Frustracija koju žena može da oseća zbog ovih nelagoda često je vodi ka odluci da ponovo upotrebi određene tablete ili neki prirodni lek za kandidu, sve u nadi da će ovog puta delovati efikasnije.
 created: 2022-06-30
 image: 7-kljucnih-razloga-zasto-se-kandida-ne-smiruje-slika1.jpg

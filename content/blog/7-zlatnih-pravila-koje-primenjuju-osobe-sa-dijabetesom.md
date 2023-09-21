@@ -1,7 +1,7 @@
 ---
 title: 7 zlatnih pravila koje primenjuju osobe sa dijabetesom
 tags: Ishrana po bolestima
-tagsMeta: Kako možemo korigovati svoj život u slučaju da smo oboleli od dijabetesa.
+tagsMeta: Postoje pravila koja bi trebalo da primenjuju osobe koje boluju od dojabetesa. Na koji način možemo korigovati svoje životne navike u slučaju da smo oboleli od dijabetesa.
 excerpt: Da li osobe obolele od dijabetesa mogu živeti jednako kvalitetno, kao potpuno zdrave osobe?
 created: 2022-09-13
 image: 7-zlatnih-pravila-koje-primenjuju-osobe-sa-dijabetesom-slika1.jpg

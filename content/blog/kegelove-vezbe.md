@@ -1,7 +1,7 @@
 ---
 title: Kegelove vežbe i da li su samo dobre za erekciju?
 tags: Zdravlje muškarca
-tagsMeta: Šta su kegelove vežbe i da li mogu da pomognu u slučaju problemi koji se javljaju u seksualnom životu muškarca? Na koji način se sprovode i šta možemo da očekujemo?
+tagsMeta: Šta su kegelove vežbe za muškarce i da li mogu da pomognu u slučaju problema koji se javljaju u seksualnom životu muškarca? Na koji način se sprovode i šta možemo da očekujemo?
 excerpt: Kada se pomenu kegelove vežbe većina ljudi pomisli da su to isključivo vežbe za žene.
 created: 2022-06-25
 image: kegelove-vezbe-slika3.jpg

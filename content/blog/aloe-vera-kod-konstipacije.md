@@ -1,7 +1,7 @@
 ---
 title: Aloe vera kod konstipacije - Da li zaista pomaže?
 tags: O aloji
-tagsMeta: U ovom članku ćemo istražiti prednosti aloe vere u slučaju problema sa zatvorom, kako je koristiti i potencijalne neželjene efekte. Sveobuhvatan vodič za aloe veru, prirodni lek koji se vekovima koristi za ublažavanje opstipacije.
+tagsMeta: Konstipacija ili zatvor tema je ovog članka. Prednosti aloe vere u slučaju problema sa zatvorom, kako je koristiti i potencijalne neželjene efekte. Sveobuhvatan vodič za aloe veru, prirodni lek koji se vekovima koristi za ublažavanje konstipacije.
 excerpt: Aloe vera je prirodni laksativ koji može pomoći da se stimuliše pražnjenje creva i ublaži zatvor.
 created: 2023-04-08
 image: aloe-vera-kod-konstipacije.webp

@@ -1,7 +1,7 @@
 ---
 title: Afte u ustima
 tags: Ishrana po bolestima
-tagsMeta: Kratak tekst koji se odnosi na afte. Šta je uzrok, kako se razlikuju i kako ih prepoznati. Neke od metoda prirodnog tretmana afti.
+tagsMeta: Zašto se pojavljuju afte u ustima i kako ih lečiti na prirodan način? U ovom članku ćemo predstaviti neke od metoda prirodnog tretmana afti.
 excerpt: Afte, poznate i kao aftozni čirevi, su male, plitke ranice koje se javljaju u ustima.
 created: 2022-08-16
 image: afte-u-ustima-slika1.jpg
