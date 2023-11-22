@@ -22,15 +22,15 @@
 
 										<div class="user-cell__content text-component line-height-sm text-space-y-xxs">
 											<p>
-												<a href="#0" class="color-contrast-high"><strong>Jelena Babarogic</strong></a>
+												<a href="#0" class="color-contrast-high"><strong>Jelena Babarogić</strong></a>
 											</p>
 											<p class="color-contrast-medium">Master farmacije</p>
 										</div>
 									</div>
 
 									<div class="user-cell__cta">
-										<a href="tel:tel:+381642839963" class="btn btn--subtle">Pozovi - 064 2839 963</a>
-										<p class="margin-top-sm">Pon - Pet 9AM - 9PM</p>
+										<a href="tel:+381642839963" class="btn btn--subtle">Pozovite - 064 2839 963</a>
+										<p class="margin-top-sm">Pon - Pet 9:00 - 21:00</p>
 									</div>
 								</div>
 							</div>
@@ -38,26 +38,26 @@
 					</div>
 
 					<div class="col-6@md">
-						<p class="text-md margin-bottom-sm">Ili nam posaljite poruku ovde</p>
+						<p class="text-md margin-bottom-sm">Ili nam ostavite poruku ovde</p>
 
 						<form name="contact" method="post" v-on:submit.prevent="handleSubmit" data-netlify="true" data-netlify-honeypot="bot-field" action="/poruka">
 							<div class="margin-bottom-sm">
-								<label class="form-label margin-bottom-xxs" for="name">Name</label>
+								<label class="form-label margin-bottom-xxs" for="name">Vaše ime</label>
 								<input class="form-control width-100%" type="text" name="name" id="name" required v-model="formData.name" />
 							</div>
 
 							<div class="margin-bottom-sm">
-								<label class="form-label margin-bottom-xxs" for="email">Email</label>
+								<label class="form-label margin-bottom-xxs" for="email">Vaša imejl adresa</label>
 								<input class="form-control width-100%" type="email" name="email" id="email" v-model="formData.email" />
 							</div>
 
 							<div class="margin-bottom-sm">
-								<label class="form-label margin-bottom-xxs" for="message">Message</label>
+								<label class="form-label margin-bottom-xxs" for="message">Tekst poruke</label>
 								<textarea class="form-control width-100%" rows="9" name="message" id="message" required v-model="formData.message"></textarea>
 							</div>
 
 							<div class="text-right">
-								<button type="submit" class="btn btn--primary">Posalji</button>
+								<button type="submit" class="btn btn--primary">Pošaljite</button>
 							</div>
 						</form>
 					</div>

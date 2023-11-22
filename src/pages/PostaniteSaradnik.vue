@@ -77,7 +77,7 @@
 
 						<div class="text-component text-space-y-md line-height-md">
 							<h2 class="text-md">2. Korak</h2>
-							<p class="color-contrast-medium">Kupovinom Start Your Journey paketa dobijate ulaznicu u naš tim</p>
+							<p class="color-contrast-medium">Kupovinom "Start Your Journey" paketa dobijate ulaznicu u naš tim</p>
 						</div>
 					</li>
 
@@ -192,11 +192,9 @@
 								<p class="">
 									Forever Living je prilika za sve koji žele više od standardnog 8 do 4 posla, bez budućih izgleda ili
 									koristi, dok ujedno ne žele da budu zaglavljeni u tuđem snu. Kada se pridružite Forever Livingu,
-									dobijate pristup
-									ekskluzivnim proizvodima po veleprodajnim cenama, tako da ih možete prodati po maloprodajnoj vrednosti
+									dobijate pristup ekskluzivnim proizvodima po veleprodajnim cenama, tako da ih možete prodati po maloprodajnoj vrednosti
 									bez ikakvih dodatnih troškova - to će vam omogućiti da ostvarite dodatni prihod dok drugima pomažete
-									da pomognu sebi i
-									ostvare svoje snove!
+									da pomognu sebi i ostvare svoje snove!
 								</p>
 							</div>
 
