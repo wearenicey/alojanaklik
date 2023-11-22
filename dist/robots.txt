@@ -1,5 +1,0 @@
-Sitemap: https://mannes.tech/sitemap.xml
-
-User-agent:*
-Disallow: /legal
-Disallow: /privacy
