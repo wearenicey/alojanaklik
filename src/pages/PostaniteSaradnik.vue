@@ -134,7 +134,7 @@
 								<div class="text-center text-left@md">
 									<g-image class="margin-bottom-sm" src="~/assets/img/forever-living-benefiti-icon-01.svg"></g-image>
 									<div class="text-component">
-										<h4>Budi sebi šef</h4>
+										<h4>Budite sebi šef</h4>
 										<p class="color-secondary">Imajte slobodu da sami napravite svoj raspored, radite gde želite i koliko želite.</p>
 									</div>
 								</div>
@@ -209,7 +209,7 @@
 		<section class="position-relative z-index-1 padding-y-xl">
 			<div class="container max-width-adaptive-md">
 				<div class="margin-bottom-xl">
-					<h1 class="text-center">Stvorimo tvoj izuzetan poslovni kutak uz Forever Living</h1>
+					<h1 class="text-center">Stvorimo Vaš izuzetan poslovni kutak uz Forever Living</h1>
 					<div class="margin-top-md text-center">
 						<a class="btn btn--sm btn--primary" href="/kontakt/">Pridružite nam se</a>
 					</div>

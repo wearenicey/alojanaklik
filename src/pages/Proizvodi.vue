@@ -14,7 +14,7 @@
 							<h2 class="font-secondary text-lg">Aloe Vera napici</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Napravljeni su od najfinijih sastojaka i prepuni esencijalnih hranljivih materija.</p>
-						<g-link to="/napici/" class="btn btn--primary">Pogledaj ostale proizvode</g-link>
+						<g-link to="/napici/" class="btn btn--primary">Pogledajtete ostale proizvode</g-link>
 					</div>
 					<div class="col-8@lg">
 						<div class="grid gap-md">
@@ -53,7 +53,7 @@
 							<h2 class="font-secondary text-lg">Preparati za mršavljenje</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Kolekcija proizvoda za regulaciju Vaše telesne mase na bezbedan i zdrav način.</p>
-						<g-link to="/mrsavljenje/" class="btn btn--primary">Pogledaj ostale proizvode</g-link>
+						<g-link to="/mrsavljenje/" class="btn btn--primary">Pogledajte ostale proizvode</g-link>
 					</div>
 					<div class="col-8@lg">
 						<div class="grid gap-md">
@@ -92,7 +92,7 @@
 							<h2 class="font-secondary text-lg">Suplementi</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm"> Od podrške imunitetu, preko zdravije probave do zdravlja kože, nudimo širok spektar suplemenata.</p>
-						<g-link to="/dodaci-ishrani/" class="btn btn--primary">Pogledaj ostale proizvode</g-link>
+						<g-link to="/dodaci-ishrani/" class="btn btn--primary">Pogledajte ostale proizvode</g-link>
 					</div>
 					<div class="col-8@lg">
 						<div class="grid gap-md">
@@ -133,7 +133,7 @@
 							<h2 class="font-secondary text-lg">Lična higijena</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Bogata linija proizvoda za ličnu negu koji su napravljeni od visokokvalitetnih sastojaka.</p>
-						<g-link to="/preparati-za-higijenu/" class="btn btn--primary">Pogledaj ostale proizvode</g-link>
+						<g-link to="/preparati-za-higijenu/" class="btn btn--primary">Pogledajte ostale proizvode</g-link>
 					</div>
 					<div class="col-8@lg">
 						<div class="grid gap-md">
@@ -174,7 +174,7 @@
 							<h2 class="font-secondary text-lg">Nega kože</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Zaštitite i negujte Vašu kože efikasnim i nežnim proizvodima.</p>
-						<g-link to="/preparati-za-negu-koze/" class="btn btn--primary">Pogledaj ostale proizvode</g-link>
+						<g-link to="/preparati-za-negu-koze/" class="btn btn--primary">Pogledajte ostale proizvode</g-link>
 					</div>
 					<div class="col-8@lg">
 						<div class="grid gap-md">
@@ -215,7 +215,7 @@
 							<h2 class="font-secondary text-lg">Pčeliniji proizvodi</h2>
 						</div>
 						<p class="color-contrast-medium margin-top-xs margin-bottom-sm">Prirodno lekovite moći pčelinjih priozvoda za vaš imunitet i opšte zdravlje.</p>
-						<g-link to="/pcelinji-proizvodi/" class="btn btn--primary">Pogledaj ostale proizvode</g-link>
+						<g-link to="/pcelinji-proizvodi/" class="btn btn--primary">Pogledajte ostale proizvode</g-link>
 					</div>
 					<div class="col-8@lg">
 						<div class="grid gap-md">

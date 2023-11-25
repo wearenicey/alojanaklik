@@ -17,13 +17,13 @@
 									Upoznajte se sa proizvodima
 								</g-link>
 								<g-link to="/kontakt/" class="btn btn--subtle btn--md display@md justify-between btn--md@lg">
-									Piši nam
+									Pišite nam
 								</g-link>
 								<g-link to="/proizvodi/" class="btn btn--primary hide@md ">
 									Upoznajte se sa proizvodima
 								</g-link>
 								<g-link to="/kontakt/" class="btn btn--subtle hide@md  justify-center">
-									Piši nam
+									Pišite nam
 								</g-link>
 							</div>
 						</div>
@@ -131,7 +131,7 @@
 						<div class="col-12 margin-bottom-lg">
 							<h2 class="text-lg margin-bottom-xs">Aloe vera gel</h2>
 							<p class="color-contrast-medium text-md">99,7% čist gel iz unutrašnjosti lista aloje - Bez dodatnog konzervansa</p>
-							<g-link class="btn btn--primary btn--sm margin-top-md" to="/napici/aloja-vera-gel/">Saznaj više</g-link>
+							<g-link class="btn btn--primary btn--sm margin-top-md" to="/napici/aloja-vera-gel/">Saznajte više</g-link>
 						</div>
 						<ul class="tab-features-v2__controls-list js-tabs__controls" aria-label="Tabs navigation">
 							<li>
@@ -212,7 +212,7 @@
 						<div class="col-12 margin-bottom-lg">
 							<h2 class="text-lg margin-bottom-xs">C9 - Program za mršavljenje</h2>
 							<p class="color-contrast-medium text-md">Devetodnevni program koji će vam pomoći da promenite navike u ishrani i da izgradite zdraviji životni stil.</p>
-							<g-link class="btn btn--primary btn--sm margin-top-md" to="/mrsavljenje/c9-aloja-vanila/">Saznaj više</g-link>
+							<g-link class="btn btn--primary btn--sm margin-top-md" to="/mrsavljenje/c9-aloja-vanila/">Saznajte više</g-link>
 						</div>
 						<ul class="tab-features-v2__controls-list js-tabs__controls" aria-label="Tabs navigation">
 							<li>
