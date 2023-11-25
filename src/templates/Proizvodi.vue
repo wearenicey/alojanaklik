@@ -22,7 +22,7 @@
 					<a :href="$page.event.cta" class="kupiteCTA btn btn--primary flex-grow center-between btn--md letter-spacing-sm">
 						Poručite odmah
 					</a>
-					<p class="text-base font-semibold leading-7 text-indigo-600">Ili nas pozovite za popust. 064 2839963</p>
+					<a href="tel:+381642839963" class="btn badge badge--accent text-base text-semibold letter-spacing-sm flex-grow">Za popust od 5-30%, pozovite 0642839963</a>
 				</div>
 			</div>
 
@@ -68,7 +68,7 @@
 									<a :href="$page.event.cta" class="kupiteCTA btn btn--primary flex-grow center-between btn--md letter-spacing-xs" style="font-weight: bold !important; letter-spacing: -0.32px;">
 										Poručite odmah
 									</a>
-									<p class="text-base font-semibold leading-7 text-indigo-600">Ili nas pozovite za popust. 064 2839963</p>
+									<span class="badge badge--accent text-sm">Ostvarite popust od 5-30%, pozovite 0642839963</span>
 								</div>
 
 								<div>
