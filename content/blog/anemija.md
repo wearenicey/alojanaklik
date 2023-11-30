@@ -1,7 +1,7 @@
 ---
 title: Anemija - Zašto nedostatak gvožđa predstavlja opasnost?
 tags: Dodaci ishrani
-tagsMeta: Anemija može da se predupredi upotrebom suplemenata u kapsulama sa gvožđem. Koji suplementi pomažu i kako se koriste. Jedan od njih je Forever Living Nature Min.
+tagsMeta: Anemija je stanje kada u organizmu ne postoji dovoljno crvenih krvnih zrnaca. Predupredite anemiju na prirodan način - upotrebom kapsula sa gvožđem, kao što su Forever Living Nature Min.
 excerpt: Anemija je stanje koje se javlja u situacijama kada organizam nema dovoljno crvenih krvnih zrnaca koja bi prenosila kiseonik do tkiva.
 created: 2023-02-16
 image: anemija.jpg

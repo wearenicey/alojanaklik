@@ -1,7 +1,7 @@
 ---
 title: Upala desni i kako ublažiti simptome?
 tags: Zdravlje
-tagsMeta: Upaljene desni mogu da budu veoma bolne. Zašto dolazi do upale, kako se leči i kako možemo da je sprečimo.
+tagsMeta: Upaljene desni su česta pojava. saznajte kako da sprečite upalu i kako da lečite upalu desni. Prirodni načini da ublažite probleme upale desni.
 excerpt: Nedovoljna oralna higijena je jedan od uzroka koji može uticati na pojavu promena na desnima.
 created: 2022-06-25
 image: upala-desni-slika1.jpg

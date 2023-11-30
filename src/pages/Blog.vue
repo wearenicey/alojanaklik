@@ -67,7 +67,7 @@ export default {
 			meta: [
 				{
 					name: "description",
-					content: "Korisni tekstovi o proizvodima od aloje vere. Članci u kojima ćete naći informacije o ishrani, zdravlju i našim proizvodima. Kontaktirajte nas i ostvarite popuste."
+					content: "Blogovi o aloe veri, o ishrani, zdravlju i proizvodima od aloje vere, u kojima ćete naći informacije o prirodnim preparatima za sprečavanje i ublaženje zdravstvenih tegoba."
 				},
 				{
 					name: "og:image",
