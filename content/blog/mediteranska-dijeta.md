@@ -1,7 +1,7 @@
 ---
 title: Mediteranska dijeta
 tags: Dijeta
-tagsMeta: Zbog čega je mediteranska dijeta tako korisna? Pravila primene mediteranske dijete i razne dodatne informacije. Upoznajte jednu od najpoznatijih i najefikasnijih dijeta.
+tagsMeta: Mediteranska dijeta sadrži integralne žitarice, voće, povrće, morske plodove, pasulj i orašaste plodove. Ovaj članak detaljno opisuje sve što treba da znate o mediteranskoj ishrani.
 excerpt: Izvorno poreklo je sa ostrva Krita. Spada u najprihvatljiviji dijete za mršavljenje u svetu, zbog dugoročno zdravih efekata po zdravlje.
 created: 2022-10-06
 image: mediteranska-dijeta-slika1.jpg

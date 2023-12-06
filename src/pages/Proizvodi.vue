@@ -262,7 +262,7 @@ export default {
 			{
 				key: "description",
 				name: "description",
-				content: "Ojačajte svoj imuni sistem korišćenjem proizvoda na bazi aloje vere. Poboljšajte opšte zdravstveno stanje svoga tela. Naručite i platite pouzećem!"
+				content: "Proizvodi na bazi aloje vere odavno poznati kao pomoć Vašem imuno sistemu, za prevenciju i tretiranje problema, kao i za poboljšanje Vašeg opšteg zdravstvenog stanja."
 			}
 		]
 	},
