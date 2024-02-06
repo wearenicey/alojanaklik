@@ -26,7 +26,7 @@ featured: false
       <li>Kako ublažiti bol?</li>
       <li>Kada je neophodno hitno reagovati?</li>
     </ul>
-		<span class="text-base font-bold">Upoznajte suplemente blagotvorne za vaš stomak:</span>
+		<span class="text-base font-bold">Upoznajte suplemente blagotvorne za Vaš stomak:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
       <li>
 			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/probiotik-forever-living/">Forever Active Pro-B Probiotik</a>
