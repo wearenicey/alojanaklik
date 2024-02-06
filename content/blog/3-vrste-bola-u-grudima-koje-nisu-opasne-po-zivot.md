@@ -20,11 +20,25 @@ recommended: true
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold">Najbitnije iz teksta:</span>
+	<span class="text-base font-bold">U tekstu ćete saznati:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
-      <li>Bolovi potekli od kostiju i zglobova.</li>
-      <li>Želudačni bolovi.</li>
-      <li>Anksioznost i stres.</li>
+      <li>Kako se manifestuju bolovi potekli od kostiju i zglobova?</li>
+      <li>Kako da prepoznate želudačne bolove?</li>
+      <li>Kako anksioznost i stres mogu da uzrokuju bol?</li>
+    </ul>
+  </div>
+	 <div class="tldr-box__content">
+	<span class="text-base font-bold">Upoznajte i moćne suplemente namenjene zdravlju Vašeg srca:</span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+       <li>
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/cardiohealth/">Cardiohealth</a>
+			</li>
+     	<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/vitolize-muskarci/">Vitolize Man</a>
+			</li>
+			<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/l-arginin/">Argi+</a>
+			</li>
     </ul>
   </div>
 </div>
@@ -47,6 +61,10 @@ Na osnovu lokaliteta , intenziteta i učestalosti bola, kao i pratećih simptoma
 - Bol u grudima koji nastaje usled oštećenja koštano – skeletnog sistema;
 - Bol u grudima koja nastaje usled problema organa za varenje (želudac i jednjak);
 - Bol u grudima koja nastaje usled stresa i emocionalne nestabilnosti (napad panike).
+
+
+![bol u grudima](./images/3-bola-u-grudima-infografik.webp)
+
 
 **Bol u grudima usled oštećenja koštano - nervnog sistema**
 

@@ -20,14 +20,28 @@ recommended: true
 
 <div class="tldr-box">
   <div class="tldr-box__content">
-	<span class="text-base font-bold">Najbitnije iz teksta:</span>
+	<span class="text-base font-bold">U tekstu ćete saznati:</span>
     <ul class="list list--ul margin-top-sm margin-bottom-0">
-      <li>Beli luk kao lek.</li>
+      <li>Kako beli luk utiče na prostatu?</li>
       <li>Kako konzumirati beli luk?</li>
-      <li>Beli luk i drugi suplementi.</li>
+      <li>Kako se uklapaju beli luk i drugi suplementi?</li>
+    </ul>
+		<span class="text-base font-bold">Upoznajte i moćne suplemente namenjene zdravlju muškarca:</span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/multi-maka/">Multi Maca</a>
+			</li>
+     	<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/vitolize-muskarci/">Vitolize Man</a>
+			</li>
+			<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/l-arginin/">Argi+</a>
+			</li>
     </ul>
   </div>
 </div>
+
+
 
 
 Zdravlje prostate jedan je od ključnih aspekata opšteg zdravlja muškaraca. Sa godinama, mnogi muškarci suočavaju se sa različitim problemima u vezi sa prostatom koji mogu značajno uticati na kvalitet života. Iako postoje konvencionalni tretmani, prirodni lekovi mogu igrati značajnu ulogu u unapređenju zdravlja prostate. Jedan takav prirodni lek koji je privukao pažnju zbog svojih potencijalnih prednosti jeste i beli luk.

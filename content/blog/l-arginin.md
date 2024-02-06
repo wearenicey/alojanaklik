@@ -27,6 +27,18 @@ featured: false
       <li>Čemu služi i kako se koristi?</li>
       <li>Zbog čega je FLP ARGI plus poseban suplement?</li>
 		</ul>
+		<span class="text-base font-bold">Upoznajte i druge moćne suplemente namenjene zdravlju muškarca:</span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/multi-maka/">Multi Maca</a>
+			</li>
+     	<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/vitolize-muskarci/">Vitolize Man</a>
+			</li>
+			<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/forever-beli-luk/">Garlic-Thyme</a>
+			</li>
+    </ul>
   </div>
 </div>
 
@@ -118,6 +130,16 @@ Ali to nije sve — Forever ARGI+ ne poseduje samo l-arginin. Obogaćen je doda
 **Vitamin B12:** Neophodan za proizvodnju crvenih krvnih zrnaca i zdravlje nervnog sistema, vitamin B12 pomaže u borbi protiv umora i podržava kognitivne funkcije.
 
 Sa ovim dodatnim vitaminima, Forever ARGI+ nudi ozbiljan pristup zdravlju muškaraca, obezbeđujući sveobuhvatnu mešavinu hranljivih materija za podršku vitalnosti, izdržljivosti i opšteg zdravstvenog stanja.
+
+
+<div class="text-component__block padding-y-md padding-x-md radius-lg margin-top-md">
+	<div class="grid gap-sm">
+		<div class="col-120@md">
+			<g-image class="" src="~/assets/img/forever_argi_info.jpg" alt="Arginin kao lek"></g-image>
+		</div>		
+	</div>
+</div>
+
 
 ## Pitanja o l-argininu.
 

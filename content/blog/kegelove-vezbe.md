@@ -27,6 +27,18 @@ featured: false
       <li>Da li možemo i kako povratiti potenciju?</li>
       <li>Kako se izvode kegelove vežbe?</li>
     </ul>
+		<span class="text-base font-bold">Suplementi namenjene zdravlju muškarca:</span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/forever-beli-luk/">Beli luk i timijan</a>
+			</li>
+     	<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/vitolize-muskarci/">Vitolize Man</a>
+			</li>
+			<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/l-arginin/">Argi+</a>
+			</li>
+    </ul>
   </div>
 </div>
 

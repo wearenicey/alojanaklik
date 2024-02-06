@@ -26,6 +26,18 @@ featured: false
       <li>Kako ublažiti bol?</li>
       <li>Kada je neophodno hitno reagovati?</li>
     </ul>
+		<span class="text-base font-bold">Upoznajte suplemente blagotvorne za vaš stomak:</span>
+    <ul class="list list--ul margin-top-sm margin-bottom-0">
+      <li>
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/probiotik-forever-living/">Forever Active Pro-B Probiotik</a>
+			</li>
+     	<li>								
+			<a class="margin-left-sm text-decoration-none" href="/napici/aloja-vera-gel/">Aloe Vera Gel</a>
+			</li>
+			<li>								
+			<a class="margin-left-sm text-decoration-none" href="/dodaci-ishrani/forever-fiber/">Forever fiber</a>
+			</li>
+    </ul>
   </div>
 </div>
 
@@ -41,6 +53,10 @@ Bol u donjem delu stomaka ili u karlici odnosi se na nelagodnost koja se javlja 
 
 
 Simptomi bolova u donjem delu stomaka zavise od uzroka bolesti. Najčešće su praćeni bolom u leđima, bolom u karlici, temperaturom, povraćanjem, nesvesticom, grčevima, dijarejom i glavoboljom.
+
+
+![zašto boli donji deo stomaka](./images/8-razloga-za-bol-u-donjem-stomaku.jpg)
+
 
 ## Uzroci bola u donjem delu stomaka usled gastro tegoba
 
