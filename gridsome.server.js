@@ -15,3 +15,34 @@ module.exports = function (api) {
   })
 }
 
+// gridsome.server.js
+
+const axios = require('axios')
+
+module.exports = function (api) {
+  api.loadSource(async ({ addCollection }) => {
+    const airtableApi = 'https://api.airtable.com/v0/'
+    const baseId = process.env.AIRTABLE_BASE_ID
+    const tableName = 'YourTableName'
+    const token = process.env.AIRTABLE_PERSONAL_ACCESS_TOKEN
+
+    // Fetch data from Airtable using the Personal Access Token
+    const response = await axios.get(`${airtableApi}${baseId}/${tableName}`, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    })
+
+    const items = response.data.records
+    const collection = addCollection({
+      typeName: 'YourDataType',
+    })
+
+    items.forEach((item) => {
+      collection.addNode({
+        id: item.id,
+        ...item.fields,
+      })
+    })
+  })
+}
