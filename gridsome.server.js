@@ -23,7 +23,7 @@ module.exports = function (api) {
   api.loadSource(async ({ addCollection }) => {
     const airtableApi = 'https://api.airtable.com/v0/'
     const baseId = process.env.AIRTABLE_BASE_ID
-    const tableName = 'YourTableName'
+    const tableName = 'ALOJA'
     const token = process.env.AIRTABLE_PERSONAL_ACCESS_TOKEN
 
     // Fetch data from Airtable using the Personal Access Token
