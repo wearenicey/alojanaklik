@@ -139,8 +139,8 @@ module.exports = {
 				// Add these to a .env file
 				// Details on finding these values can be found at:
 				// https://gridsome.org/plugins/@gridsome/source-airtable
-				apiKey: process.env.AIRTABLE_KEY, //required
-				baseId: process.env.AIRTABLE_BASE, //required
+				apiKey: process.env.AIRTABLE_PERSONAL_ACCESS_TOKEN, //required
+				baseId: process.env.AIRTABLE_BASE_ID, //required
 				tables: [
 					{
 						name: "ALOJA",
