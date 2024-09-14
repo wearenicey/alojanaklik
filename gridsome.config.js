@@ -133,41 +133,41 @@ module.exports = {
 			}
 		},
 
-		// {
-		// 	use: "@gridsome/source-airtable",
-		// 	options: {
-		// 		// Add these to a .env file
-		// 		// Details on finding these values can be found at:
-		// 		// https://gridsome.org/plugins/@gridsome/source-airtable
-		// 		apiKey: process.env.AIRTABLE_PERSONAL_ACCESS_TOKEN, //required
-		// 		baseId: process.env.AIRTABLE_BASE_ID, //required
-		// 		tables: [
-		// 			{
-		// 				name: "ALOJA",
-		// 				typeName: "Proizvodi", //required - needs to match template name
-		// 				select: {}, //optional
-		// 				links: [
-		// 					{
-		// 						fieldName: "category",
-		// 						typeName: "Kategorija",
-		// 						linkToFirst: false // optional
-		// 					}
-		// 				] //optional
-		// 			},
-		// 			{
-		// 				name: "category",
-		// 				typeName: "Kategorija",
-		// 				links: [
-		// 					{
-		// 						fieldName: "ALOJA",
-		// 						typeName: "Proizvodi",
-		// 						linkToFirst: false // optional
-		// 					}
-		// 				] //optional //required - needs to match template name
-		// 			}
-		// 		]
-		// 	}
-		// },
+		{
+			use: "@gridsome/source-airtable",
+			options: {
+				// Add these to a .env file
+				// Details on finding these values can be found at:
+				// https://gridsome.org/plugins/@gridsome/source-airtable
+				apiKey: process.env.AIRTABLE_PERSONAL_ACCESS_TOKEN, //required
+				baseId: process.env.AIRTABLE_BASE_ID, //required
+				tables: [
+					{
+						name: "ALOJA",
+						typeName: "Proizvodi", //required - needs to match template name
+						select: {}, //optional
+						links: [
+							{
+								fieldName: "category",
+								typeName: "Kategorija",
+								linkToFirst: false // optional
+							}
+						] //optional
+					},
+					{
+						name: "category",
+						typeName: "Kategorija",
+						links: [
+							{
+								fieldName: "ALOJA",
+								typeName: "Proizvodi",
+								linkToFirst: false // optional
+							}
+						] //optional //required - needs to match template name
+					}
+				]
+			}
+		},
 
 		// {
 		// 	use: "@gridsome/source-filesystem",
