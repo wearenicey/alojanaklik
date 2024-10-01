@@ -34,7 +34,4 @@
   status = 301
 
 
-  [[redirects]]
-  from = "https://flpshop.rs/*"
-  to = "https://flpshop.rs/:splat"
-  status = 301
+ 
