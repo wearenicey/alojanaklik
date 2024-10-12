@@ -359,7 +359,7 @@
 					</transition-group>
 				</div>
 				<div class="flex justify-center margin-top-md">
-					<g-link to="/blog" class="btn btn--subtle">Procitaj više</g-link>
+					<g-link to="/blog/" class="btn btn--subtle">Procitaj više</g-link>
 				</div>
 			</div>
 		</section>
